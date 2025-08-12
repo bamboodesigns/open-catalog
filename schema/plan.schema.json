@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bamboodesigns.com/schema/plan.schema.json",
+  "title": "Bamboo Designs Plan Schema",
+  "description": "Schema for Bamboo Designs open catalog plan metadata",
+  "type": "object",
+  "properties": {
+    "plan_id": {
+      "type": "string",
+      "description": "Unique ID for the plan (e.g., BD-LDG-6x8)"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable plan name"
+    },
+    "category": {
+      "type": "string",
+      "description": "Main category of the plan (e.g., decks, pergolas, pavilions)"
+    },
+    "dimensions_ft": {
+      "type": "string",
+      "pattern": "^[0-9]+x[0-9]+$",
+      "description": "Plan dimensions in feet (width x depth)"
+    },
+    "type": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Type or subcategory tags for the plan"
+    },
+    "material_type": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of main materials used"
+    },
+    "skill_level": {
+      "type": "string",
+      "enum": ["Beginner", "Intermediate", "Advanced"],
+      "description": "Recommended skill level for building this plan"
+    },
+    "snow_load_psf": {
+      "type": "number",
+      "description": "Snow load rating in pounds per square foot"
+    },
+    "wind_rating_mph": {
+      "type": "number",
+      "description": "Wind speed rating in mph"
+    },
+    "climate_zone": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of climate zones suitable for this plan"
+    },
+    "open_features": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Public, non-dimensional features list"
+    },
+    "estimated_build_cost_usd": {
+      "type": "number",
+      "description": "Estimated total build cost in USD"
+    },
+    "product_url": {
+      "type": "string",
+      "format": "url",
+      "description": "Link to the full plan purchase page (e.g., https://bamboodesigns.shop/products)"
+    },
+    "image_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL of a thumbnail or low-res watermarked image"
+    },
+    "license": {
+      "type": "string",
+      "description": "License identifier for this plan entry (e.g., CC0-1.0, CC-BY-4.0)"
+    },
+    "version_introduced": {
+      "type": "string",
+      "description": "Catalog version in which this plan was first introduced (e.g., v1.0)"
+    }
+  },
+  "required": [
+    "plan_id",
+    "name",
+    "category",
+    "dimensions_ft",
+    "material_type",
+    "skill_level",
+    "product_url",
+    "image_url",
+    "license"
+  ]
+}
