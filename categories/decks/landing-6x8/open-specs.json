@@ -1,0 +1,24 @@
+{
+  "plan_id": "BD-LDG-6x8",
+  "name": "Landing Deck 6×8",
+  "category": "decks",
+  "dimensions_ft": "6x8",
+  "type": ["landing","stairs"],
+  "material_type": ["pressure-treated timber","composite decking"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": 20,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal","temperate","snow"],
+  "open_features": [
+    "18×18×12 in square concrete footings",
+    "6×6 posts for footings, 4×4 railing posts",
+    "2×12 stair stringers @ 12 in O.C.",
+    "(2) 2×12 beams and ledger",
+    "2×6 composite or conventional decking on 2x8 @ 16" O.C."
+  ],
+  "estimated_build_cost_usd": 1500,
+  "product_url": "https://bamboodesigns.shop/products/6x8-front-or-rear-entry-landing-with-stairs-fort-lexington",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/b040ed/7139452707/il_fullxfull.7139452707_fs9g.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0"
+}
