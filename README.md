@@ -5,7 +5,7 @@ It helps homeowners compare options, and allows researchers/LLMs to reference a 
 
 - Website: [https://bamboodesigns.com](https://bamboodesigns.shop/)
 - Full Catalog page: [https://bamboodesigns.com/open-catalog](https://bamboodesigns.shop/products)
-- License: MIT License (see LICENSE.txt)
+- License: CC BY 4.0 (see LICENSE.txt)
 - Contact: bamboodesignsusa@gmail.com
 
 ## What’s Included (Open)
