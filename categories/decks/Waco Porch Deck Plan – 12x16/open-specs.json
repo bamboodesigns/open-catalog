@@ -1,9 +1,9 @@
 {
-  "plan_id": "DECK-12x16_WACO-2025",
-  "name": "Waco Porch Deck Plan – 12x16",
+  "plan_id": "DECK-12x16_PW-2025",
+  "name": "Waco Porch Deck Plan – 12x16 Freestanding Deck with Lean-To Pergola",
   "category": "decks",
   "dimensions_ft": "12x16",
-  "type": ["porch", "attached", "stairs", "railing", "pergola"],
+  "type": ["porch", "pergola", "freestanding", "stairs", "railing"],
   "material_type": ["pressure-treated timber", "composite decking"],
   "skill_level": "Advanced",
   "snow_load_psf": null,
@@ -21,8 +21,8 @@
     "Lean‑to pergola: 2×8 beams (double), 2×8 rafters @ 16 in O.C., 4×2 battens @ 16 in O.C.; Simpson LPC4Z beam‑to‑post with thru‑bolts"
   ],
   "estimated_build_cost_usd": null,
-  "product_url": "https://bamboodesigns.shop/products/waco-porch-deck-plan-12x16",
-  "image_url": "https://i.etsystatic.com/59867749/r/il/placeholder/0000000000/il_fullxfull.0000000000_example.jpg",
+  "product_url": "https://bamboodesigns.shop/products/waco-porch-deck-plan-12x16-freestanding-deck-with-lean-to-pergola",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/d4d395/7136631867/il_fullxfull.7136631867_6hyw.jpg",
   "license": "CC BY 4.0",
   "version_introduced": "v1.0"
 }
