@@ -1,0 +1,25 @@
+{
+  "plan_id": "PERG-1616-BD-2025",
+  "name": "Nashville Timber Pergola – 16x16 Rustic Wood Pergola Plans",
+  "category": "pergolas",
+  "dimensions_ft": "16x16",
+  "type": ["pergola", "shade structure", "freestanding"],
+  "material_type": ["pressure-treated timber"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "6×6 SP No.2 posts on 12 in dia × 24 in deep concrete footings",
+    "Beams: (2) 2×8 SP No.2",
+    "Rafters: 2×8 SP No.2 @ 16 in O.C.",
+    "Battens: 4×2 SP No.2 @ 16 in O.C.",
+    "Beam-to-column connections with Simpson thru-bolts, nails, and hurricane clips",
+    "Pergola height: 9 ft bottom to 11 ft top"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/nashville-timber-pergola-16x16",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/52c566/7011273140/il_fullxfull.7011273140_fonh.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0"
+}
