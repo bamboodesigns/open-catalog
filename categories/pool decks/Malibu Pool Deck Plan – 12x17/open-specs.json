@@ -1,0 +1,28 @@
+{
+  "plan_id": "DECK-12x17_PPW-2025",
+  "name": "Malibu Pool Deck Plan – 12x17 Deck with 8ft Pool Cutout + Outdoor Living Privacy Wall",
+  "category": "decks",
+  "dimensions_ft": "12x17",
+  "type": ["pool deck", "privacy wall", "freestanding", "stairs", "railing"],
+  "material_type": ["pressure-treated timber", "composite decking"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "8 ft circular pool cutout (pool designed separately by others)",
+    "4×4 posts (SP No.2) on 12×12×12 in concrete footings",
+    "Deck beams: (2) 2×8 SP No.2",
+    "Joists: 2×4 SP No.2 @ 12 in O.C. with Simpson H1A hurricane ties",
+    "2×12 stair stringers @ 12 in O.C.; stair footing 24×48×4 in depth",
+    "Privacy wall: 2×4 battens vertically, Simpson LPC4Z connections",
+    "Decking: 2×6 composite with 1/8 in gap after drying",
+    "Blocking: 2×4 between joists for stability"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/malibu-pool-deck-plan-12x17-deck-with-8ft-pool-cutout",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/df966a/7142067873/il_fullxfull.7142067873_qp3q.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "This plan illustrates only the deck framing and privacy wall around a pool cutout. The pool, electrical bonding, fencing, and alarms must be provided by licensed contractors per local code."
+}
