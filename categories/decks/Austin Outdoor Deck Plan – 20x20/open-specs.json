@@ -1,0 +1,27 @@
+{
+  "plan_id": "DECK-20x20_FS-2025",
+  "name": "Austin Outdoor Deck Plan – 20x20 Freestanding Platform",
+  "category": "decks",
+  "dimensions_ft": "20x20",
+  "type": ["patio", "freestanding", "stairs", "railing"],
+  "material_type": ["pressure-treated timber", "composite decking"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "18×18×12 in square concrete footings (typ.)",
+    "6×6 posts (SP No.2) with Simpson ABU66Z post base",
+    "Beams: (2) 2×12 SP No.2 (Beam 1); (2) 2×12 SP No.2 (Beam 2); (1) 2×12 SP No.2 (Beam 3)",
+    "Ledger: (1) 2×12 SP No.2",
+    "Joists: 2×6 SP No.2 @ 12 in O.C. with Simpson H1A ties",
+    "2×12 stair stringers @ 12 in O.C.; stair footing 36×24×4 in",
+    "Railing: 4×4 posts @ 4 ft O.C.; 2×4 top/bottom rails; 2×2 pickets @ ~5 in O.C. (≤4 in gap)",
+    "Decking: 2×6 composite decking; 1/8 in typical gap after drying"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/austin-outdoor-deck-plan-20x20",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/9278f0/7136643299/il_fullxfull.7136643299_tpe2.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0"
+}
