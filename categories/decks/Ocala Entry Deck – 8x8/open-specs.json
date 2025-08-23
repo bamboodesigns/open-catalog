@@ -1,0 +1,28 @@
+{
+  "plan_id": "DECK-8x8_FS-2025",
+  "name": "Ocala Entry Deck – 8x8 Freestanding Porch Plan",
+  "category": "decks",
+  "dimensions_ft": "8x8",
+  "type": ["landing", "stairs", "freestanding", "porch", "railing"],
+  "material_type": ["pressure-treated timber", "composite decking"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "18×18×12 in square concrete footings (typ.)",
+    "6×6 posts (SP No.2) with Simpson ABU66Z post base",
+    "Beams: (2) 2×12 SP No.2 (Beam 1); (2) 2×12 SP No.2 (Beam 2); (1) 2×12 SP No.2 (Beam 3)",
+    "Ledger: (1) 2×12 SP No.2",
+    "Joists: 2×6 SP No.2 @ 12 in O.C. with Simpson H1A ties",
+    "2×12 stair stringers @ 12 in O.C.; Simpson A34/LSC connections",
+    "Railing: 4×4 posts @ 4 ft O.C.; 2×4 top/bottom rails; 2×2 pickets @ ~5 in O.C. (≤4 in gap)",
+    "Decking: 2×6 composite decking; typical 1/8 in gap after drying",
+    "Stair footing 36×24×4 in (typ.)"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/ocala-entry-deck-8x8-freestanding-porch-plan",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/1ece14/7132006415/il_fullxfull.7132006415_gkoi.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0"
+}
