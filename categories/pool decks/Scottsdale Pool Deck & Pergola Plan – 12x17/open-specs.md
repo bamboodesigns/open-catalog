@@ -1,0 +1,28 @@
+# Scottsdale Pool Deck & Pergola Plan – 12x17 (with 8ft Pool Cutout)
+**SKU:** DECK-12x17_PP-2025  
+**Category:** decks · **Type:** pool deck, pergola, freestanding, stairs, railing  
+**Materials:** pressure-treated timber, composite decking  
+**Skill:** Advanced · **Wind:** 130 mph · **Snow:** —  
+**Climate:** —  
+**Est. Build Cost:** —
+
+![Deck + Pergola Image](https://i.etsystatic.com/59867749/r/il/04665c/7086029182/il_fullxfull.7086029182_huap.jpg)
+
+## Open Features
+- 8 ft circular pool cutout (pool designed separately by others)
+- Pergola: 6×6 posts with 2×8 beams, 2×8 rafters @ 16 in O.C., 4×2 battens @ 16 in O.C.
+- Deck beams: multiple (2)2×8 SP No.2, supporting 2×4 joists @ 12 in O.C.
+- Decking: 2×6 composite decking with 1/8 in gap after drying
+- Footings: 12×12×12 in (4×4 posts), 18×18×12 in (6×6 posts), 18×28×12 in (heavier load points)
+- Stair stringers: 2×12 @ 12 in O.C.; stair footing 24×48×4 in depth
+- Railing: 4×4 posts with 2×4 top/bottom rails and 2×2 pickets ≤4 in gap
+- Blocking: 2×4 between joists for stability
+- Pergola beam-to-column connections with Simpson LPC4Z and thru-bolts
+- Design includes pool safety disclaimer requiring separate contractor compliance
+
+**Product:** [Scottsdale Pool Deck & Pergola Plan – 12x17](https://bamboodesigns.shop/products/scottsdale-pool-deck-pergola-plan-12x17)  
+**License:** CC BY 4.0 · **Introduced:** v1.0
+
+---
+
+⚠️ **Important Note:** This plan shows only the deck and pergola structural framing. Pool itself (liner, shell, pumps, bonding, fencing, alarms) must be designed and installed by licensed pool contractors in compliance with local codes:contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}.
