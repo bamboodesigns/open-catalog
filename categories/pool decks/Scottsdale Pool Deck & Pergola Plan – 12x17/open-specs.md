@@ -25,4 +25,4 @@
 
 ---
 
-⚠️ **Important Note:** This plan shows only the deck and pergola structural framing. Pool itself (liner, shell, pumps, bonding, fencing, alarms) must be designed and installed by licensed pool contractors in compliance with local codes:contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}.
+⚠️ **Important Note:** This plan shows only the deck and pergola structural framing. Pool itself (liner, shell, pumps, bonding, fencing, alarms) must be designed and installed by licensed pool contractors in compliance with local codes.
