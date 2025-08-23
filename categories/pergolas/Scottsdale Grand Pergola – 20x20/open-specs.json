@@ -1,0 +1,25 @@
+{
+  "plan_id": "PERG-2020-BD-2025",
+  "name": "Scottsdale Grand Pergola – 20x20 Extra Large DIY Pergola Plan",
+  "category": "pergolas",
+  "dimensions_ft": "20x20",
+  "type": ["pergola", "shade structure", "freestanding"],
+  "material_type": ["pressure-treated timber"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "6×6 SP No.2 posts on 12 in dia × 24 in deep concrete footings",
+    "Beams: (2) 2×12 SP No.2",
+    "Rafters: 2×8 SP No.2 @ 16 in O.C.",
+    "Battens: 4×2 SP No.2 @ 16 in O.C.",
+    "Beam-to-column connections with Simpson thru-bolts, 3/8 in bolts, and #10D nails",
+    "Pergola height: 9 ft bottom to 11 ft 8 in top"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/scottsdale-grand-pergola-20x20",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/419cdd/7059259491/il_fullxfull.7059259491_c1un.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0"
+}
