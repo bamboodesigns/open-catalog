@@ -1,0 +1,26 @@
+# Sunrise Pergola Pool Deck Plan – 16x16 Deck with 8ft Pool Cutout + Full-Size Pergola (16x16)
+**SKU:** DECK-16x16_P-2025  
+**Category:** decks · **Type:** pool deck, pergola, freestanding, stairs, railing  
+**Materials:** pressure-treated timber, composite decking  
+**Skill:** Advanced · **Wind:** 130 mph · **Snow:** —  
+**Climate:** —  
+**Est. Build Cost:** —
+
+![Sunrise Pergola Pool Deck](https://i.etsystatic.com/59867749/r/il/c8459f/7142103691/il_fullxfull.7142103691_i5ju.jpg)
+
+## Open Features
+- 8 ft circular pool cutout (pool designed separately by others).
+- 4×4 posts (SP No.2) on 12×12×12 in concrete footings.
+- 6×6 posts (SP No.2) on 18×18×12 in concrete footings for pergola.
+- Deck beams: (2) 2×8 SP No.2.
+- Joists: 2×4 SP No.2 @ 12 in O.C. with Simpson H1A ties.
+- 2×12 stair stringers @ 12 in O.C.; stair footing 24×48×4 in depth.
+- Railing: 4×4 posts @ 4 ft O.C.; 2×4 rails with 2×2 pickets ≤4 in gap.
+- Decking: 2×6 composite decking; 1/8 in gap after drying.
+- Pergola: 2×8 beams, 2×8 rafters @16 in O.C., 4×2 battens @16 in O.C.
+- Pergola beam-to-column connections with Simpson LPC4Z + thru-bolts.
+
+**Product:** [Sunrise Pergola Pool Deck Plan – 16x16 Deck with 8ft Pool Cutout](https://bamboodesigns.shop/products/sunrise-pergola-pool-deck-plan-16x16-deck-with-8ft-pool-cutout)  
+**License:** CC BY 4.0 · **Introduced:** v1.0  
+
+⚠️ **Important Note:** This plan shows only the deck framing and pergola. The pool, electrical bonding, fencing, alarms, and anti-entrapment protections must be installed by licensed contractors in compliance with code.
