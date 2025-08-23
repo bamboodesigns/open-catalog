@@ -1,0 +1,29 @@
+{
+  "plan_id": "DECK-12x17_PP-2025",
+  "name": "Scottsdale Pool Deck & Pergola Plan – 12x17 Deck with 8ft Pool Cutout + Outdoor Living Pergola",
+  "category": "decks",
+  "dimensions_ft": "12x17",
+  "type": ["pool deck", "pergola", "freestanding", "stairs", "railing"],
+  "material_type": ["pressure-treated timber", "composite decking"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "8 ft circular pool cutout (pool designed separately by others)",
+    "Pergola: 6×6 posts with 2×8 beams, 2×8 rafters @ 16 in O.C., 4×2 battens @ 16 in O.C.",
+    "Deck beams: multiple (2)2×8 SP No.2, supporting 2×4 joists @ 12 in O.C.",
+    "Decking: 2×6 composite decking with 1/8 in gap after drying",
+    "Footings: 12×12×12 in (4×4 posts), 18×18×12 in (6×6 posts), 18×28×12 in (heavier load points)",
+    "Stair stringers: 2×12 @ 12 in O.C.; stair footing 24×48×4 in depth",
+    "Railing: 4×4 posts with 2×4 top/bottom rails and 2×2 pickets ≤4 in gap",
+    "Blocking: 2×4 between joists for stability",
+    "Pergola beam-to-column connections with Simpson LPC4Z and thru-bolts",
+    "Design includes pool safety disclaimer requiring separate contractor compliance"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/scottsdale-pool-deck-pergola-plan-12x17",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/04665c/7086029182/il_fullxfull.7086029182_huap.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0"
+}
