@@ -1,0 +1,32 @@
+{
+  "plan_id": "SHDW-3230-BD-2025",
+  "name": "Shadow Peak Lodge – A-Frame Cabin Plans (2BR + Loft + 2 Bath)",
+  "category": "cabins",
+  "type": ["a-frame", "house", "cabin"],
+  "area_sf": 928,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "stories": "2 (with loft)",
+  "dimensions_ft": null,
+  "material_type": ["wood framing", "engineered I-joists", "vinyl siding", "asphalt shingles"],
+  "skill_level": "Advanced",
+  "code_basis": ["2024 IBC", "NEC", "IMC", "IPC"],
+  "open_features": [
+    "Complete drawing set A.0–S.1: floor plans, elevations, electrical, mechanical, plumbing, and sections:contentReference[oaicite:7]{index=7}",
+    "Floor system: 11-7/8 in engineered I-joists @16 in O.C. with 3/4 in T&G subfloor:contentReference[oaicite:8]{index=8}",
+    "Roof: I-joist rafters @16 in O.C. with lifetime shingles, R-49 blown insulation, vapor retarder:contentReference[oaicite:9]{index=9}",
+    "Walls: 2x6 studs @16 in O.C. w/ OSB sheathing, housewrap, LP SmartSide/vinyl siding:contentReference[oaicite:10]{index=10}",
+    "Loft with open rail overlooking living area:contentReference[oaicite:11]{index=11}",
+    "Electrical: 200A panel, device layouts, GFCIs, waterproof outlets, smoke/CO detectors:contentReference[oaicite:12]{index=12}",
+    "Mechanical: 150 CFM ducts, A/C head units, returns, exhaust fans:contentReference[oaicite:13]{index=13}",
+    "Plumbing: PEX CW/HW distribution, PVC sanitary, tankless water heater:contentReference[oaicite:14]{index=14}",
+    "Foundation: 4000psi concrete walls, sill plates anchored @6 ft O.C., drain tile system:contentReference[oaicite:15]{index=15}"
+  ],
+  "safety_note": "Plans are preliminary; final engineering, permitting, and local code review are required.",
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/shadow-peak-lodge-a-frame-cabin-plans-2br-loft-2-bath",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/8db12a/7052743587/il_fullxfull.7052743587_qkgj.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "drawing_set": ["A.0","A.1","A.2","E.1","E.2","M.1","P.1","P.2","S.1"]
+}
