@@ -1,0 +1,29 @@
+{
+  "plan_id": "DECK-8x16_PP",
+  "name": "Laguna Pool Deck Plan – 8x16 Deck with 8ft Pool Cutout",
+  "category": "decks",
+  "dimensions_ft": "8x16",
+  "type": ["pool deck", "freestanding", "stairs", "railing"],
+  "material_type": ["pressure-treated timber", "composite decking"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "8 ft circular pool cutout (pool structure designed separately by others)",
+    "6×6 posts (SP No.2) on 18×18×12 in concrete footings",
+    "Deck beams: (2) 2×8 SP No.2 (Beam 1); (2) 2×8 SP No.2 (Beam 2); (1) 2×8 SP No.2 (Beam 3)",
+    "Ledger: (1) 2×8 SP No.2",
+    "Joists: 2×4 SP No.2 @ 12 in O.C. with Simpson H1A ties",
+    "2×12 stair stringers @ 12 in O.C.; stair footing 24×48×4 in",
+    "Railing: 4×4 posts @ 4 ft O.C.; 2×4 top/bottom rails; 2×2 pickets ≤4 in gap",
+    "Decking: 2×6 composite decking; 1/8 in gap after drying",
+    "Blocking: 2×4 between joists for stability"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/laguna-pool-deck-plan-8x16-deck-with-8ft-pool-cutout",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/cc7cb3/7142065243/il_fullxfull.7142065243_c6uy.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "This plan illustrates only the deck framing around a pool cutout. The pool itself, electrical bonding, fencing, alarms, and code safety measures must be provided by licensed contractors per local jurisdiction."
+}
