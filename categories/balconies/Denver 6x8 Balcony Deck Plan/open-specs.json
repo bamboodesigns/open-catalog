@@ -1,0 +1,18 @@
+{
+  "plan_id": "BALC-6x8_O",
+  "name": "Denver 6x8 Balcony Deck Plan – Elevated Walk-Out Balcony with Railing",
+  "category": "balcony",
+  "dimensions_ft": "6x8",
+  "type": ["balcony", "railing", "elevated"],
+  "material_type": ["wood"],
+  "skill_level": null,
+  "snow_load_psf": null,
+  "wind_rating_mph": null,
+  "climate_zone": [],
+  "open_features": [],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/denver-6x8-balcony-deck-plan",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/fa7edb/7105358926/il_fullxfull.7105358926_mn1o.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0"
+}
