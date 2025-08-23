@@ -1,0 +1,32 @@
+{
+  "plan_id": "BD-AF928-2B2B-V1",
+  "name": "Cedar View: Contemporary A-Frame Cabin House Plan (928 SF) – 2 Bed 2 Bath",
+  "category": "cabins",
+  "type": ["a-frame", "house", "cabin"],
+  "area_sf": 928,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "stories": "1.5 (loft)",
+  "dimensions_ft": null,
+  "material_type": ["wood framing", "engineered I-joists", "vinyl siding", "asphalt shingles"],
+  "skill_level": "Advanced",
+  "code_basis": ["2024 IBC", "NEC", "IMC", "IPC"],
+  "open_features": [
+    "Full drawing set: A.0–S.1 including floor, elevations, MEP, and section:contentReference[oaicite:6]{index=6}",
+    "Floor: 11-7/8 in engineered I-joists @ 16 in O.C. with 3/4 in T&G subfloor:contentReference[oaicite:7]{index=7}",
+    "Roof: 11-7/8 in I-joist rafters @ 16 in O.C., asphalt shingles, felt, R-49 insulation:contentReference[oaicite:8]{index=8}",
+    "Walls: 2x6 studs @16 in O.C., OSB sheathing, housewrap, vinyl siding, BIBS insulation:contentReference[oaicite:9]{index=9}",
+    "Windows & doors schedule with trim details:contentReference[oaicite:10]{index=10}",
+    "Electrical: 200A service, device and lighting layouts, smoke/CO detectors:contentReference[oaicite:11]{index=11}",
+    "Mechanical: duct runs with 150 CFM outlets, AC unit, exhaust fans:contentReference[oaicite:12]{index=12}",
+    "Plumbing: PEX CW/HW supply, PVC sanitary, tankless water heater:contentReference[oaicite:13]{index=13}",
+    "Foundation: 4000psi concrete, 2x6 PT sill, anchors @6 ft O.C., drain tile system:contentReference[oaicite:14]{index=14}"
+  ],
+  "safety_note": "Plans are for planning/preliminary use only; final engineering, permitting, and site verification required.",
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/cedar-view-contemporary-a-frame-cabin",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/14c6b7/7050269369/il_fullxfull.7050269369_ezzo.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "drawing_set": ["A.0","A.1","A.2","E.1","E.2","M.1","P.1","P.2","S.1"]
+}
