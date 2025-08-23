@@ -1,0 +1,29 @@
+{
+  "plan_id": "DECK-12x17_PD",
+  "name": "Sunrise Bay Pool Deck Plan – 12x17 Deck with 8ft Pool Cutout + Outdoor Living Dream Oasis",
+  "category": "decks",
+  "dimensions_ft": "12x17",
+  "type": ["pool deck", "freestanding", "stairs", "railing"],
+  "material_type": ["pressure-treated timber", "composite decking"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "8 ft circular pool cutout (pool designed separately by others)",
+    "4×4 posts (SP No.2) on 12×12×12 in concrete footings",
+    "Beams: (2) 2×8 SP No.2",
+    "Joists: 2×4 SP No.2 @ 12 in O.C. with Simpson H1A ties",
+    "2×12 stair stringers @ 12 in O.C.; stair footing 24×48×4 in depth",
+    "Railing: 4×4 posts @ 4 ft O.C.; 2×4 rails with 2×2 pickets ≤4 in gap",
+    "Decking: 2×6 composite decking; 1/8 in gap typical after drying",
+    "Blocking: 2×4 between joists for stability",
+    "Simpson LPC4Z beam-to-post, LSC stair connections, A34 stringer angles"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/sunrise-bay-pool-deck-plan-12x17-deck",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/3c3e87/7147627947/il_fullxfull.7147627947_tv8s.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "This plan illustrates only the deck framing around a pool cutout. The pool, electrical bonding, fencing, alarms, and anti-entrapment systems must be provided by licensed contractors per local code."
+}
