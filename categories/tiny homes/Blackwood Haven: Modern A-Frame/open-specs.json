@@ -1,0 +1,32 @@
+{
+  "plan_id": "BD-AF972-2B2B-V1",
+  "name": "Blackwood Haven: Modern A-Frame Cabin House Plans (972 SF) – 2 Bed 2 Bath",
+  "category": "cabins",
+  "type": ["a-frame", "house", "cabin"],
+  "area_sf": 972,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "stories": "1.5 (loft)",
+  "dimensions_ft": null,
+  "material_type": ["wood framing", "engineered I-joists", "LP SmartSide/vinyl siding", "asphalt shingles"],
+  "skill_level": "Advanced",
+  "code_basis": ["2024 IBC", "NEC (electrical)", "IMC (mechanical)", "IPC (plumbing)"],
+  "open_features": [
+    "Full drawing set: A.0 Cover, A.1 Floor Plans, A.2 Elevations, E.1 Power, E.2 Lighting, M.1 Mechanical, P.1 Water, P.2 Sanitary, S.1 Section & Detail",
+    "Floor system: 11-7/8\" engineered I-joists @ 16\" O.C. (per manufacturer) with 3/4\" T&G subfloor",
+    "Roof: 11-7/8\" I-joist rafters @ 16\" O.C.; lifetime architectural shingles over felt; R-49 blown insulation",
+    "Exterior walls: 2×6 studs @ 16\" O.C., 1/2\" OSB, housewrap, LP SmartSide/vinyl siding; BIBS insulation system",
+    "Windows/doors schedule included; typical trim details interior/exterior",
+    "Electrical: 200A service, GFCI/WR where required, device/lighting layouts and legends",
+    "Mechanical: duct layout with CFM callouts; equipment/return/supply shown",
+    "Plumbing: PEX hot/cold runs; sanitary layout with 2\"–4\" waste/vent sizes",
+    "Section shows foundation/sill, anchor bolts, drainage tile, insulation, and typical wall/roof build-ups"
+  ],
+  "safety_note": "Plans are for planning/preliminary use only; local code compliance, permitting, engineering, and site verification required.",
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.shop/products/blackwood-haven-modern-a-frame-cabin-house-plans",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/c81cd0/7050262313/il_fullxfull.7050262313_1li4.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "drawing_set": ["A.0","A.1","A.2","E.1","E.2","M.1","P.1","P.2","S.1"]
+}
