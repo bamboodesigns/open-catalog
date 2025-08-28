@@ -28,3 +28,7 @@ We release quarterly versions (v1.0, v1.1...). See `CHANGELOG.md`.
 
 ## Contributing
 Have a build photo or improvement idea? See `contributing/README.md`.
+
+### Disclaimer 
+
+*This Open Catalog entry shares preliminary details to help with learning and planning. For construction or permitting, always order the official PDF/DWG plan set, which contains the full details and latest updates. Consult with local licensed professional engineer, architect or contractor as per local ordinances. Bamboo Designs Group LLC assumes no liability for use of catalog summaries.*
