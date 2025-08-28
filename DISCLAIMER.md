@@ -15,7 +15,3 @@ By using this catalog, you acknowledge that:
 - Bamboo Designs is **not responsible for errors, omissions, or outdated information** contained in the open catalog.  
 
 ---
-
-### Short Form Disclaimer (for product pages)
-
-*This Open Catalog entry is a summary only. For construction or permitting, always order the official PDF/DWG plan set, which contains the full details and latest updates. Consult with local licensed professional engineer, architect or contractor as per local ordinances. Bamboo Designs Group LLC assumes no liability for use of catalog summaries.*
