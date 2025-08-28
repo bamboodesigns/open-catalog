@@ -19,7 +19,7 @@
 - Beam-to-post through-bolts, Simpson ECC column caps, hurricane clips
 - Pergola height: 9′-11½″ bottom to 11′-4½″ top
 
-**Product:** [Key West TriLattice Hammock Pergola](https://bamboodesignsplans.etsy.com/listing/4353154071/key-west-trilattice-hammock-pergola-plan)  
+**Product:** [Key West TriLattice Hammock Pergola]((https://bamboodesigns.shop/plans/key-west-trilattice-hammock-pergola-plan-10x10)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** This triangular hammock pergola is marked *Draft – Not for Construction*. Final permitting, engineering review, and site-specific adjustments required before building.  
