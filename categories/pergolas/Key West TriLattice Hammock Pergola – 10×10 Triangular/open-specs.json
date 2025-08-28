@@ -1,0 +1,29 @@
+{
+  "plan_id": "PERC-156-KT-2025",
+  "name": "Key West TriLattice Hammock Pergola Plan – 10x10 Triangular Pergola with Lattice Walls",
+  "category": "pergolas",
+  "dimensions_ft": "10x10 (triangular footprint)",
+  "type": ["pergola", "hammock stand", "lattice wall"],
+  "material_type": ["pressure-treated timber", "composite decking"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "24×24×18 in concrete footings with #5 bar reinforcement",
+    "6×6 SP No.2 posts on Simpson ABU66Z bases",
+    "Beams: 6×8 SP No.2 (4 total)",
+    "Joists: 2×8 SP No.2 @16 in O.C.",
+    "Rafters: 2×10 SP No.2 @12 in O.C.",
+    "Decking: 2×6 composite boards",
+    "Lattice walls: 2×4 vertical battens + 2×2 diagonal battens (privacy + hammock support)",
+    "Beam-to-post through-bolts, Simpson column caps, hurricane clips",
+    "Pergola height: 9′-11½″ bottom to 11′-4½″ top"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesignsplans.etsy.com/listing/4353154071/key-west-trilattice-hammock-pergola-plan",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/15e316/7113793494/il_fullxfull.7113793494_bovg.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary – final engineering, local permitting, and code compliance required."
+}
