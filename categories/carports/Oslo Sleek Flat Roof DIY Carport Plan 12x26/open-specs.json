@@ -1,0 +1,29 @@
+{
+  "plan_id": "CARP2-12x263a-001",
+  "name": "Oslo Sleek Flat Roof DIY Carport Plan 12x26 – Open-Concept Shelter with Storage Shed",
+  "category": "carports",
+  "dimensions_ft": "12x26",
+  "type": ["carport", "shed", "flat roof"],
+  "material_type": ["pressure-treated timber", "concrete slab", "engineered wood sheathing"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "24×24×18 in concrete footings with (4) #5 rebar each way",
+    "6×6 SP No.2 posts with Simpson ABU66Z post bases",
+    "Beams: (2) 2×8 SP No.2 members",
+    "Rafters: 2×8 SP No.2 @16 in O.C. with Simpson H2.5A hurricane clips",
+    "Roof: 1/2 in APA rated sheathing, nailed 10d @6 in edge / 12 in field",
+    "4 in reinforced concrete slab with vapor barrier over termite-treated soil",
+    "Shed framed with 2×4 studs @16 in O.C., double top plate, 2×4 sill, (2)2×8 headers",
+    "Fascia boards: 2×8 SP No.2",
+    "Through-bolt beam-to-post connections"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesignsplans.etsy.com/listing/4344887952",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/55fad0/7072157840/il_fullxfull.7072157840_bgf1.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; local permitting, engineering, and compliance review required before construction."
+}
