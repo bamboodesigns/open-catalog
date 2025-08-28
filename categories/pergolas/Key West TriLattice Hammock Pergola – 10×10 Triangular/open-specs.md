@@ -11,7 +11,7 @@
 ## Open Features
 - 24×24×18 in reinforced concrete footings 
 - 6×6 SP No.2 posts on Simpson ABU66Z post bases
-- Beams: 6×8 SP No.2 (4 pieces)
+- Beams: 6×8 SP No.2 (1 piece)
 - Joists: 2×8 SP No.2 @16″ O.C.
 - Rafters: 2×10 SP No.2 @12″ O.C.
 - Decking: 2×6 composite decking:
