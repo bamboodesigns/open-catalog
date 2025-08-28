@@ -19,7 +19,7 @@
 - Enclosed shed space (approx 6×10 ft) integrated into carport
 - Fascia: 2×8 SP No.2, 2×4 wall studs @16 in O.C.
 
-**Product:** [Melbourne Contemporary Flat Roof Carport 12x26]((https://bamboodesigns.shop/plans/melbourne-contemporary-flat-roof-carport-12x26))  
+**Product:** [Melbourne Contemporary Flat Roof Carport 12x26](https://bamboodesigns.shop/plans/melbourne-contemporary-flat-roof-carport-12x26)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** This design is marked *Draft – Not for Construction*. Final permitting, engineering, and site-specific adaptation are required before building.  
