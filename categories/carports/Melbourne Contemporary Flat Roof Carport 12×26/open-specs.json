@@ -1,0 +1,29 @@
+{
+  "plan_id": "CARP2-12x263b-001",
+  "name": "Melbourne Contemporary Flat Roof Carport 12x26 – Enclosed DIY Plan with Shed & Privacy Wall",
+  "category": "carports",
+  "dimensions_ft": "12x26",
+  "type": ["carport", "shed", "privacy wall", "flat roof"],
+  "material_type": ["pressure-treated timber", "concrete slab", "engineered wood sheathing"],
+  "skill_level": "Advanced",
+  "snow_load_psf": null,
+  "wind_rating_mph": 130,
+  "climate_zone": [],
+  "open_features": [
+    "24×24×18 in reinforced concrete footings with (4) #5 bars each way",
+    "6×6 SP No.2 posts on Simpson ABU bases",
+    "Beams: (2) 2×8 SP No.2",
+    "Rafters: 2×8 SP No.2 @16 in O.C.",
+    "Roof: 1/2 in APA rated sheathing, nailed 10d @6 in edge / 12 in field",
+    "4 in reinforced concrete slab with vapor barrier over termite-treated soil",
+    "Side privacy wall with horizontal 2×4 SP No.2 members",
+    "Enclosed shed space (approx 6×10 ft) integrated into carport",
+    "Fascia: 2×8 SP No.2, 2×4 wall studs @16 in O.C."
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesignsplans.etsy.com/listing/4344886366",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/f9d6fd/7072150964/il_fullxfull.7072150964_7d5q.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; local code compliance, permits, and engineering review are required before construction."
+}
