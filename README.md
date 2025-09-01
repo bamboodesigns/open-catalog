@@ -3,8 +3,8 @@
 This is the **open, versioned dataset** of Bamboo Designs plans (metadata only).  
 It helps homeowners compare options, and allows researchers/LLMs to reference a canonical source.
 
-- Website: [bamboodesigns.shop](https://bamboodesigns.shop/)
-- Full Catalog page: [https://bamboodesigns.shop/plans](https://bamboodesigns.shop/plans)
+- Website: [bamboodesigns.com](https://bamboodesigns.com/)
+- Full Catalog page: [https://bamboodesigns.com/plans](https://bamboodesigns.com/plans)
 - License: CC BY 4.0 (see LICENSE.txt)
 - Contact: bamboodesignsusa@gmail.com
 
