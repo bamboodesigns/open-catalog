@@ -62,7 +62,7 @@
     "product_url": {
       "type": "string",
       "format": "url",
-      "description": "Link to the full plan purchase page (e.g., https://bamboodesigns.shop/products)"
+      "description": "Link to the full plan purchase page (e.g., https://bamboodesigns.com/products)"
     },
     "image_url": {
       "type": "string",
