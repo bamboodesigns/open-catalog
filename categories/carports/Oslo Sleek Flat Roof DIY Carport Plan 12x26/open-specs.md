@@ -19,7 +19,7 @@
 - Fascia: 2×8 SP No.2
 - Beam-to-post through-bolted connections
 
-**Product:** [Oslo Sleek Flat Roof DIY Carport Plan 12x26]((https://bamboodesigns.shop/plans/oslo-sleek-flat-roof-diy-carport-plan-12x26))  
+**Product:** [Oslo Sleek Flat Roof DIY Carport Plan 12x26]((https://bamboodesigns.com/plans/oslo-sleek-flat-roof-diy-carport-plan-12x26))  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** Plans are *Draft – Not for Construction*. Local code review, permitting, and engineering are required prior to build.  

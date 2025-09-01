@@ -16,5 +16,5 @@
 - Beam-to-column connections with Simpson thru-bolts, #10D nails, hurricane clips
 - Pergola height: 9 ft bottom to 11 ft top
 
-**Product:** [San Diego Breeze Pergola – 12x16 Modern Backyard Pergola Plans](https://bamboodesigns.shop/products/san-diego-breeze-pergola-12x16)  
+**Product:** [San Diego Breeze Pergola – 12x16 Modern Backyard Pergola Plans](https://bamboodesigns.com/products/san-diego-breeze-pergola-12x16)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

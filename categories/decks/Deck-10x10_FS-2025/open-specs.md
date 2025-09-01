@@ -20,5 +20,5 @@
 - Decking: 2×6 composite decking; typical 1/8 in gap after drying
 - Stair footing 36×24×4 in (typ.)
 
-**Product:** [https://bamboodesignsplans.etsy.com/listing/4347079208/clayton-10x10-entry-deck-plan](https://bamboodesigns.shop/products/clayton-10x10-entry-deck-plan)  
+**Product:** [https://bamboodesignsplans.etsy.com/listing/4347079208/clayton-10x10-entry-deck-plan](https://bamboodesigns.com/products/clayton-10x10-entry-deck-plan)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

@@ -16,5 +16,5 @@
 - Beam-to-column connections with Simpson thru-bolts, 3/8 in bolts, and #10D nails
 - Pergola height: 9 ft bottom to 11 ft top.
 
-**Product:** [Orlando Oasis Pergola – 14x20 Large Backyard Pergola Design](https://bamboodesigns.shop/products/orlando-oasis-pergola-14x20)  
+**Product:** [Orlando Oasis Pergola – 14x20 Large Backyard Pergola Design](https://bamboodesigns.com/products/orlando-oasis-pergola-14x20)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

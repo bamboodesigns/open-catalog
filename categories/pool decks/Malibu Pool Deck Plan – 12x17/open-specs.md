@@ -18,7 +18,7 @@
 - Decking: 2×6 composite decking; 1/8 in gap typical after drying
 - Blocking: 2×4 between joists for stability
 
-**Product:** [Malibu Pool Deck Plan – 12x17 Deck with 8ft Pool Cutout](https://bamboodesigns.shop/products/malibu-pool-deck-plan-12x17-deck-with-8ft-pool-cutout)  
+**Product:** [Malibu Pool Deck Plan – 12x17 Deck with 8ft Pool Cutout](https://bamboodesigns.com/products/malibu-pool-deck-plan-12x17-deck-with-8ft-pool-cutout)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** This plan shows only the deck framing and privacy wall. The pool shell, water systems, bonding/grounding, fencing, and alarms must be installed by licensed contractors in compliance with local code.

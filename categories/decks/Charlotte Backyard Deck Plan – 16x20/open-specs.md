@@ -18,5 +18,5 @@
 - Railing: 4×4 posts @ 4 ft O.C.; 2×4 top/bottom rails; 2×2 pickets @ ~5 in O.C. (≤4 in gap)  
 - Decking: 2×6 composite decking; 1/8 in gap typical after drying  
 
-**Product:** [Charlotte Backyard Deck Plan – 16x20 Freestanding Platform](https://bamboodesigns.shop/products/charlotte-backyard-deck-plan-16x20)  
+**Product:** [Charlotte Backyard Deck Plan – 16x20 Freestanding Platform](https://bamboodesigns.com/products/charlotte-backyard-deck-plan-16x20)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

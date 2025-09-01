@@ -18,5 +18,5 @@
 - Railing: 4×4 posts @ 4 ft O.C.; 2×4 top/bottom rails; 2×2 pickets @ ~5 in O.C. (≤4 in gap)  
 - Decking: 2×6 composite decking; 1/8 in typical gap after drying
 
-**Product:** https://bamboodesigns.shop/products/austin-outdoor-deck-plan-20x20  
+**Product:** https://bamboodesigns.com/products/austin-outdoor-deck-plan-20x20  
 **License:** CC BY 4.0 · **Introduced:** v1.0

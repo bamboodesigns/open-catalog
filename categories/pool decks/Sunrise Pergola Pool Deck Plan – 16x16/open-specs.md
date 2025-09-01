@@ -20,7 +20,7 @@
 - Pergola: 2×8 beams, 2×8 rafters @16 in O.C., 4×2 battens @16 in O.C.
 - Pergola beam-to-column connections with Simpson LPC4Z + thru-bolts.
 
-**Product:** [Sunrise Pergola Pool Deck Plan – 16x16 Deck with 8ft Pool Cutout](https://bamboodesigns.shop/products/sunrise-pergola-pool-deck-plan-16x16-deck-with-8ft-pool-cutout)  
+**Product:** [Sunrise Pergola Pool Deck Plan – 16x16 Deck with 8ft Pool Cutout](https://bamboodesigns.com/products/sunrise-pergola-pool-deck-plan-16x16-deck-with-8ft-pool-cutout)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** This plan shows only the deck framing and pergola. The pool, electrical bonding, fencing, alarms, and anti-entrapment protections must be installed by licensed contractors in compliance with code.

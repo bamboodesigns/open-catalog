@@ -18,5 +18,5 @@
 - Railing: 4×4 posts @ 4 ft O.C.; 2×4 top/bottom rails; 2×2 pickets @ 5 in O.C. (≤4 in gap):contentReference[oaicite:9]{index=9}  
 - Decking: 2×6 composite decking; 1/8 in typical gap after drying:contentReference[oaicite:10]{index=10}
 
-**Product:** [20x24 Montana Freestanding Deck Plan](https://bamboodesigns.shop/products/20x24-montana-freestanding-deck-plan)  
+**Product:** [20x24 Montana Freestanding Deck Plan](https://bamboodesigns.com/products/20x24-montana-freestanding-deck-plan)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

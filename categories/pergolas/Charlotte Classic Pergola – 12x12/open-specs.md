@@ -16,5 +16,5 @@
 - Beam-to-column connections with Simpson thru-bolts, #10D nails, hurricane clips
 - Pergola height: 9 ft bottom to 11 ft top
 
-**Product:** [Charlotte Classic Pergola – 12x12 DIY Wood Pergola Plans](https://bamboodesigns.shop/products/charlotte-classic-pergola-12x12)  
+**Product:** [Charlotte Classic Pergola – 12x12 DIY Wood Pergola Plans](https://bamboodesigns.com/products/charlotte-classic-pergola-12x12)  
 **License:** CC BY 4.0 · **Introduced:** v1.0
