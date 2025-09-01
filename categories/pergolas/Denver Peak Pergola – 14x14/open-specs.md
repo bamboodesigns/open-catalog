@@ -16,5 +16,5 @@
 - Beam-to-column connections with Simpson thru-bolts, 3/8 in bolts, and #10D nails
 - Pergola height: 9 ft bottom to 11 ft top
 
-**Product:** [Denver Peak Pergola – 14x14 Heavy-Duty Wood Pergola Plan](https://bamboodesigns.shop/products/denver-peak-pergola-14x14)  
+**Product:** [Denver Peak Pergola – 14x14 Heavy-Duty Wood Pergola Plan](https://bamboodesigns.com/products/denver-peak-pergola-14x14)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

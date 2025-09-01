@@ -23,7 +23,7 @@
 - Front/rear/left/right elevations with railing, chimney, and siding callouts (A.2).
 - Building section shows foundation, sill plate/anchors, drainage tile, insulation layers, and typical roof/wall build‑ups (S.1).
 
-**Product:** [Blackwood Haven – Modern A‑Frame Cabin House Plans](https://bamboodesigns.shop/products/blackwood-haven-modern-a-frame-cabin-house-plans)  
+**Product:** [Blackwood Haven – Modern A‑Frame Cabin House Plans](https://bamboodesigns.com/products/blackwood-haven-modern-a-frame-cabin-house-plans)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 > **Note:** This set is marked *Draft – Not for Construction*. Final engineering, permitting, site adaptation, and code compliance by licensed professionals are required.

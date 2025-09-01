@@ -19,5 +19,5 @@
 - Decking: 2×6 composite decking; typical 1/8 in gap after drying
 - Stair footing 36×24×4 in (typ.)
 
-**Product:** [Asheville Entry Deck – 10x16 Freestanding Porch Plan](https://bamboodesigns.shop/products/10x16-entry-deck-plan-asheville)  
+**Product:** [Asheville Entry Deck – 10x16 Freestanding Porch Plan](https://bamboodesigns.com/products/10x16-entry-deck-plan-asheville)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

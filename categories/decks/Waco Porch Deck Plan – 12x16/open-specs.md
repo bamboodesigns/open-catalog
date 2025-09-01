@@ -19,5 +19,5 @@
 - Decking: 2×6 composite; 1/8 in typical gap after drying
 - **Lean‑to pergola:** 2×8 beams (double), 2×8 rafters @ 16 in O.C., 4×2 battens @ 16 in O.C.; Simpson LPC4Z with thru‑bolts
 
-**Product:** [Waco Porch Deck Plan – 12x16 Freestanding Deck with Lean‑To Pergola](https://bamboodesigns.shop/products/waco-porch-deck-plan-12x16-freestanding-deck-with-lean-to-pergola)  
+**Product:** [Waco Porch Deck Plan – 12x16 Freestanding Deck with Lean‑To Pergola](https://bamboodesigns.com/products/waco-porch-deck-plan-12x16-freestanding-deck-with-lean-to-pergola)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

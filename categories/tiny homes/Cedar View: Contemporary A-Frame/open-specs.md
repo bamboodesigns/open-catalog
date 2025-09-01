@@ -23,7 +23,7 @@
 - Four elevations showing siding, roofing, chimney, balcony, and railings
 - Cross-section with roof/wall build-ups, slab, insulation, anchors, and drainage
 
-**Product:** [Cedar View – Contemporary A-Frame Cabin House Plans](https://bamboodesigns.shop/products/cedar-view-contemporary-a-frame-cabin)  
+**Product:** [Cedar View – Contemporary A-Frame Cabin House Plans](https://bamboodesigns.com/products/cedar-view-contemporary-a-frame-cabin)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 > **Note:** This set is marked *Draft – Not for Construction*. Final permitting, engineering review, and local code adjustments are required.

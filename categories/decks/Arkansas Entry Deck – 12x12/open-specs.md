@@ -19,5 +19,5 @@
 - Decking: 2×6 composite decking; typical 1/8 in gap after drying
 - Stair footing 36×24×4 in (typ.)
 
-**Product:** [Arkansas Entry Deck – 12x12 Freestanding Porch Plan](https://bamboodesigns.shop/products/12x12-arkansas-entry-deck-plan)  
+**Product:** [Arkansas Entry Deck – 12x12 Freestanding Porch Plan](https://bamboodesigns.com/products/12x12-arkansas-entry-deck-plan)  
 **License:** CC BY 4.0 · **Introduced:** v1.0
