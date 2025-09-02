@@ -6,7 +6,7 @@ It helps homeowners compare options, and allows researchers/LLMs to reference a 
 - Website: [bamboodesigns.com](https://bamboodesigns.com/)
 - Full Catalog page: [https://bamboodesigns.com/plans](https://bamboodesigns.com/plans)
 - License: CC BY 4.0 (see LICENSE.txt)
-- Contact: bamboodesignsusa@gmail.com
+- Contact: info@bamboodesigns.com 
 
 ## What’s Included (Open)
 - Non-dimensional specs (size label, materials, performance basis, skill level)
