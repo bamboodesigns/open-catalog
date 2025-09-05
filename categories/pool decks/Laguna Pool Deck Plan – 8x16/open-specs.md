@@ -19,7 +19,7 @@
 - Decking: 2×6 composite decking; 1/8 in gap after drying   
 - Blocking: 2×4 between joists for stability 
 
-**Product:** [Laguna Pool Deck Plan – 8x16 Deck with 8ft Pool Cutout](https://bamboodesigns.com/products/laguna-pool-deck-plan-8x16-deck-with-8ft-pool-cutout)  
+**Product:** [Laguna Pool Deck Plan – 8x16 Deck with 8ft Pool Cutout](https://bamboodesigns.com/plans/laguna-pool-deck-plan-8x16-deck-with-8ft-pool-cutout)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** This plan shows only the deck framing. The pool shell, water systems, electrical bonding, fencing, and safety alarms must be provided by licensed contractors per code.  

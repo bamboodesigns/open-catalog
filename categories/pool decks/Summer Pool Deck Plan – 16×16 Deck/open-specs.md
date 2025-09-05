@@ -19,7 +19,7 @@
 - Blocking: 2×4 between joists for stability
 - Simpson LPC4Z beam-to-post, LSC stair connections, A34 angles at stringers
 
-**Product:** [Summer Pool Deck Plan – 16x16 Deck with 8ft Pool Cutout](https://bamboodesigns.com/products/summer-pool-deck-plan-16x16-deck-with-8ft-pool-cutout)  
+**Product:** [Summer Pool Deck Plan – 16x16 Deck with 8ft Pool Cutout](https://bamboodesigns.com/plans/summer-pool-deck-plan-16x16-deck-with-8ft-pool-cutout)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** This plan shows only the deck framing. The pool structure, water systems, bonding/grounding, fencing, alarms, and anti-entrapment protections must be installed by licensed contractors in compliance with code.

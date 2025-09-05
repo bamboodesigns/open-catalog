@@ -11,5 +11,5 @@
 ## Open Features
 *(To be added once structural plans are finalized)*
 
-**Product:** [Denver 6x8 Balcony Deck Plan](https://bamboodesigns.com/products/denver-6x8-balcony-deck-plan)  
+**Product:** [Denver 6x8 Balcony Deck Plan](https://bamboodesigns.com/plans/denver-6x8-balcony-deck-plan)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

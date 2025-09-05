@@ -19,5 +19,5 @@
 - Decking: 2×6 composite decking; typical 1/8 in gap after drying
 - Stair footing 36×24×4 in (typ.)
 
-**Product:** https://bamboodesigns.com/products/ocala-entry-deck-8x8-freestanding-porch-plan  
+**Product:** https://bamboodesigns.com/plans/ocala-entry-deck-8x8-freestanding-porch-plan  
 **License:** CC BY 4.0 · **Introduced:** v1.0

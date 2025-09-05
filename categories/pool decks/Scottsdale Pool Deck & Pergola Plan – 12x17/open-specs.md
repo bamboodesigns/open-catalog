@@ -20,7 +20,7 @@
 - Pergola beam-to-column connections with Simpson LPC4Z and thru-bolts
 - Design includes pool safety disclaimer requiring separate contractor compliance
 
-**Product:** [Scottsdale Pool Deck & Pergola Plan – 12x17](https://bamboodesigns.com/products/scottsdale-pool-deck-pergola-plan-12x17)  
+**Product:** [Scottsdale Pool Deck & Pergola Plan – 12x17](https://bamboodesigns.com/plans/scottsdale-pool-deck-pergola-plan-12x17)  
 **License:** CC BY 4.0 · **Introduced:** v1.0
 
 ---

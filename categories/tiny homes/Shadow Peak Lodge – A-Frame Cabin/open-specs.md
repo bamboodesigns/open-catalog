@@ -24,7 +24,7 @@
 - Front/rear/side elevations show siding, roof slope, balcony, chimney
 - Section illustrates sill plates, anchors, insulation, drainage tile, and roof build-ups
 
-**Product:** [Shadow Peak Lodge – A-Frame Cabin Plans](https://bamboodesigns.com/products/shadow-peak-lodge-a-frame-cabin-plans-2br-loft-2-bath)  
+**Product:** [Shadow Peak Lodge – A-Frame Cabin Plans](https://bamboodesigns.com/plans/shadow-peak-lodge-a-frame-cabin-plans-2br-loft-2-bath)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 > ⚠️ *Note:* This set is marked *Draft – Not for Construction*. Local engineering, permitting, and code checks required before use.
