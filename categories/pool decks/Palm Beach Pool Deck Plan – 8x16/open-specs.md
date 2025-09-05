@@ -19,7 +19,7 @@
 - Dual privacy walls: 2×4 battens vertically spaced, Simpson LPC4Z beam connections
 - Blocking: 2×4 between joists for stability
 
-**Product:** [Palm Beach Pool Deck Plan – 8x16 Deck with 8ft Pool Cutout](https://bamboodesigns.com/products/palm-beach-pool-deck-plan-8x16-deck-with-8ft-pool-cutout)  
+**Product:** [Palm Beach Pool Deck Plan – 8x16 Deck with 8ft Pool Cutout](https://bamboodesigns.com/plans/palm-beach-pool-deck-plan-8x16-deck-with-8ft-pool-cutout)  
 **License:** CC BY 4.0 · **Introduced:** v1.0  
 
 ⚠️ **Important Note:** This plan shows only the deck framing and privacy walls. The pool, water systems, bonding/grounding, fencing, alarms, and anti-entrapment protections must be installed by licensed contractors in compliance with code.

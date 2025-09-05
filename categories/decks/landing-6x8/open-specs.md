@@ -19,4 +19,4 @@
 - Railing: wood rail w/ 4×4 posts (typical)  
 
 > Want the **full engineered drawings** (PDF), editable **DWG**, cut list, and connection schedule?  
-**Get the complete build package →** [https://bamboodesigns.com/plans/landing-6x8](https://bamboodesigns.com/products/6x8-front-or-rear-entry-landing-with-stairs-fort-lexington)
+**Get the complete build package →** [https://bamboodesigns.com/plans/landing-6x8](https://bamboodesigns.com/plans/landing-6x8)

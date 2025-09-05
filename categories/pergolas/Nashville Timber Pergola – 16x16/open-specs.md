@@ -16,5 +16,5 @@
 - Beam-to-column connections with Simpson thru-bolts, nails, and hurricane clips
 - Pergola height: 9 ft bottom to 11 ft top
 
-**Product:** [Nashville Timber Pergola – 16x16 Rustic Wood Pergola Plans](https://bamboodesigns.com/products/nashville-timber-pergola-16x16)  
+**Product:** [Nashville Timber Pergola – 16x16 Rustic Wood Pergola Plans](https://bamboodesigns.com/plans/nashville-timber-pergola-16x16)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

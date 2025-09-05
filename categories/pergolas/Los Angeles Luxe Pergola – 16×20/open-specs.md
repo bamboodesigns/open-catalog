@@ -16,5 +16,5 @@
 - Beam-to-column connections with Simpson thru-bolts and #10D nails
 - Pergola height: 9 ft bottom to 11 ft 8 in top
 
-**Product:** [Los Angeles Luxe Pergola – 16x20 Modern Outdoor Pergola Plan](https://bamboodesigns.com/products/los-angeles-luxe-pergola-16x20)  
+**Product:** [Los Angeles Luxe Pergola – 16x20 Modern Outdoor Pergola Plan](https://bamboodesigns.com/plans/los-angeles-luxe-pergola-16x20)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

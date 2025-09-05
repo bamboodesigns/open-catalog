@@ -16,5 +16,5 @@
 - Beam-to-column connections with Simpson thru-bolts
 - Height: 9 ft (bottom of pergola) to 11 ft (top)
 
-**Product:** [Austin Square Pergola – 10x10 Modern Wood Pergola Plans](https://bamboodesigns.com/products/austin-square-pergola-10x10)  
+**Product:** [Austin Square Pergola – 10x10 Modern Wood Pergola Plans](https://bamboodesigns.com/plans/austin-square-pergola-10x10)  
 **License:** CC BY 4.0 · **Introduced:** v1.0

@@ -18,5 +18,5 @@
 - Railing: 4×4 posts @ 4 ft O.C.; 2×4 top/bottom rails; 2×2 pickets @ ~5 in O.C. (≤4 in gap)  
 - Decking: 2×6 composite decking; 1/8 in gap typical after drying  
 
-**Product:** [Nashville Backyard Deck Plan – 12x16 Freestanding Patio Deck](https://bamboodesigns.com/products/nashville-backyard-deck-plan-12x16)  
+**Product:** [Nashville Backyard Deck Plan – 12x16 Freestanding Patio Deck](https://bamboodesigns.com/plans/nashville-backyard-deck-plan-12x16)  
 **License:** CC BY 4.0 · **Introduced:** v1.0
