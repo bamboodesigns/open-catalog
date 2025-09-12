@@ -1,0 +1,30 @@
+{
+  "plan_id": "POOL-YUMA-10x12-2025",
+  "name": "Yuma Container Pool Deck Plan with Pergola – 10x12 Elevated Deck + Shade Pergola",
+  "category": "pool_decks",
+  "dimensions_ft": "10x12",
+  "type": ["pool deck", "pergola", "elevated deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Advanced",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "snow", "temperate"],
+  "open_features": [
+    "18×18×12 in reinforced concrete footings with 6×6 SP No.2 posts",
+    "Stair footing 48×24×4 in",
+    "(2) 2×12 SP No.2 beams; (2) 2×8 pergola beams",
+    "2×8 SP No.2 joists @16 in O.C.",
+    "2×8 SP No.2 rafters @16 in O.C.",
+    "4×2 SP No.2 battens @16 in O.C.",
+    "2×6 composite decking",
+    "Railing system: 4×4 posts with 2×4 top/bottom rails, 2×2 balusters @6 in O.C., max 4 in opening",
+    "Hardware: Simpson ABU66Z, LUS28, EPC66, LPC4Z, HUC412, A34, LSC connectors",
+    "Pool design is schematic only; safety and code compliance must be addressed by licensed pool professionals"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/yuma-container-pool-deck-plan-with-pergola-10x12",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/aef8f5/7133436628/il_fullxfull.7133436628_dta6.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; pool-specific safety features, alarms, and MEP must be provided by others."
+}
