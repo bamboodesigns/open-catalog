@@ -1,0 +1,30 @@
+{
+  "plan_id": "POOL-SEBRING-18FT-4x4-2025",
+  "name": "Sebring 18ft Pool Deck Plan – 4x4 Family-Friendly Above-Ground Pool Deck with Lounge Space",
+  "category": "pool_decks",
+  "dimensions_ft": "4x4",
+  "type": ["pool deck", "family deck", "above-ground deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "snow", "temperate"],
+  "open_features": [
+    "18×18×12 in reinforced concrete footings with 6×6 posts",
+    "Stair footing 48×24×4 in",
+    "Beams: (2) 2×12 SP No.2 members",
+    "Joists: 2×6 SP No.2 @12 in O.C.",
+    "Stair system: 2×12 stringers @12 in O.C.",
+    "Decking: 2×6 composite boards",
+    "Railings: 4×4 posts with 2×4 top/bottom rails, 2×2 balusters @6 in O.C. (≤4 in spacing)",
+    "Hardware: Simpson ABU44Z post bases, H1A hurricane ties, LPC4Z caps, LSC stringer connectors, A34 clips",
+    "Deck height ~4′-6″, railing height 8′",
+    "Pool shown is schematic; barriers, alarms, bonding/grounding, and entrapment protection by licensed pool contractors"
+  ],
+  "estimated_build_cost_usd": 800,
+  "product_url": "https://bamboodesigns.com/plans/sebring-18ft-pool-deck-plan-4x4",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/facf8e/7140062060/il_fullxfull.7140062060_9d3n.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; pool-specific safety, code compliance, and permitting must be handled by licensed professionals."
+}
