@@ -1,0 +1,30 @@
+{
+  "plan_id": "POOL-BACKCOUNTRY-10x12-2025",
+  "name": "Backcountry Container Pool Deck Plan – 10x12 Elevated Deck",
+  "category": "pool_decks",
+  "dimensions_ft": "10x12",
+  "type": ["pool deck", "elevated deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Advanced",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "snow", "temperate"],
+  "open_features": [
+    "(6) 18×18×12 in concrete footings with 6×6 SP No.2 posts",
+    "Stair footing 48×24×4 in slab",
+    "Beams: (2) 2×12 SP No.2",
+    "Joists: 2×8 SP No.2 @16 in O.C.",
+    "Battens: 2×4 SP No.2 members",
+    "2×12 stair stringers @12 in O.C.",
+    "2×6 composite decking",
+    "Railings: 4×4 posts with 2×4 rails, 2×2 balusters @6 in O.C., max 4 in spacing",
+    "Hardware: Simpson ABU66Z bases, LUS28 hangers, LPC4Z caps, HUC412 hangers, A34 clips, LSC connectors",
+    "Pool integration schematic only; barriers, alarms, and anti-entrapment features by licensed pool professionals"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/backcountry-container-pool-deck-plan-10x12",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/f39fdd/7177752205/il_fullxfull.7177752205_gwpe.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; final engineering, pool safety systems, and local permitting must be addressed by licensed professionals."
+}
