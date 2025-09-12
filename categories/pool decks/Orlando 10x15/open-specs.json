@@ -1,0 +1,31 @@
+{
+  "plan_id": "POOL-ORLANDO-18FT-2025",
+  "name": "Orlando 18ft Pool Deck Plan – Elevated Above-Ground Pool Deck with Railing",
+  "category": "pool_decks",
+  "dimensions_ft": "10x15 (for 18ft round pool)",
+  "type": ["pool deck", "elevated deck", "family deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "snow", "temperate"],
+  "open_features": [
+    "(9) 18×18×12 in concrete footings with 6×6 SP No.2 posts",
+    "Stair footing slab 48×24×4 in",
+    "Beams: (2) 2×12 SP No.2",
+    "Joists: 2×6 SP No.2 @12 in O.C.",
+    "Stair system: 2×12 stringers @12 in O.C.",
+    "Battens: 2×4 SP No.2 (14 lengths)",
+    "Decking: 2×6 composite boards",
+    "Railings: 4×4 posts, 2×4 rails, 2×2 balusters @6 in O.C. (≤4 in gap)",
+    "Hardware: Simpson ABU44Z bases, H1A hurricane ties, LPC4Z caps, LSC stringer connectors, A34 clips, HUC412 hangers",
+    "Deck top height ~4′-6″; railing height ~8′",
+    "Pool integration schematic only; electrical bonding, safety & compliance by licensed pool contractors"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/orlando-18ft-pool-deck-plan-elevated",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/d1668f/7140038140/il_fullxfull.7140038140_9j2a.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; pool-specific safety, electrical, and code compliance must be handled by licensed professionals."
+}
