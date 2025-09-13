@@ -1,0 +1,31 @@
+{
+  "plan_id": "POOL-DENVER-10x20-2025",
+  "name": "Denver Container Pool Deck Plan – 10x20 Elevated Deck with Railing",
+  "category": "pool_decks",
+  "dimensions_ft": "10x20",
+  "type": ["pool deck", "elevated deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Advanced",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "snow", "temperate"],
+  "open_features": [
+    "(9) 18×18×12 in reinforced concrete footings with 6×6 posts",
+    "Stair footing slab 48×24×4 in",
+    "Beams: (2) 2×12 SP No.2 members",
+    "Joists: 2×12 SP No.2 @12 in O.C.",
+    "Stair system: 2×12 stringers @12 in O.C.",
+    "Battens: 2×4 SP No.2 members",
+    "Decking: 2×6 composite boards",
+    "Railings: 4×4 posts with 2×4 rails, 2×2 balusters @6 in O.C. (≤4 in spacing)",
+    "Hardware: Simpson ABU44Z bases, LUS210 hangers, LPC4Z caps, HUC412 hangers, A34 clips, LSC connectors",
+    "Deck height ~6′-0″, railing height ~9′-6″",
+    "Pool integration schematic only; pool safety, bonding/grounding, and anti-entrapment by licensed pool contractors"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/denver-container-pool-deck-plan-10x20",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/6b5c5a/7177784009/il_fullxfull.7177784009_j3ui.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; final engineering, pool safety systems, and local permitting must be addressed by licensed professionals."
+}
