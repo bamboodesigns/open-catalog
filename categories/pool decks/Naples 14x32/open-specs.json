@@ -1,0 +1,30 @@
+{
+  "plan_id": "DECK-NAPLES-14x32-2025",
+  "name": "Naples 14x32 Wrap Around Deck Plan",
+  "category": "decks",
+  "dimensions_ft": "14x32",
+  "type": ["wrap-around deck", "patio deck", "porch deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Advanced",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "snow", "temperate"],
+  "open_features": [
+    "(12) 18×18×12 in reinforced concrete footings with 6×6 posts",
+    "Stair footing slab 48×24×4 in",
+    "Beams: (2) 2×12 SP No.2 members",
+    "Joists: 2×10 SP No.2 @16 in O.C.",
+    "Stair system: 2×12 stringers @12 in O.C.",
+    "Decking: 2×6 composite boards",
+    "Railing: 4×4 posts with 2×4 rails, 2×2 balusters @6 in O.C. (≤4 in spacing)",
+    "Hardware: Simpson ABU66Z bases, LUS28 hangers, LPC4Z caps, HUC412 hangers, A34 clips, LSC connectors",
+    "Deck height ~5′-0″, railing height ~8′-0″",
+    "Wrap-around layout provides access on multiple sides and lounge-ready perimeter"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/naples-14x32-wrap-around-deck-plan",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/4fe96a/7129835252/il_fullxfull.7129835252_ddxc.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are preliminary; final engineering, code compliance, and permitting must be addressed by licensed professionals."
+}
