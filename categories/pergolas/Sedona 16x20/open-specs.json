@@ -1,0 +1,29 @@
+{
+  "plan_id": "DECK-SEDONA-12x16-2025",
+  "name": "Sedona Entry Deck – 12x16 Freestanding Porch Plan",
+  "category": "decks",
+  "dimensions_ft": "12x16",
+  "type": ["entry deck", "freestanding porch", "cabin deck", "mobile home deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "temperate", "mountain"],
+  "open_features": [
+    "(9) 18×18×12 in reinforced concrete footings with 6×6 posts",
+    "Beams: (2) 2×12 SP No.2 members",
+    "Joists: 2×6 SP No.2 @12 in O.C.",
+    "Decking: 2×6 composite decking boards",
+    "Railing: 4×4 posts with 2×4 rails, 2×2 balusters @6 in O.C. (≤4 in spacing)",
+    "Stairs: 2×12 stringers @12 in O.C. with 2×4 treads",
+    "Hardware: Simpson ABU66Z bases, H1A hurricane ties, LPC4Z caps, A34 clips, and LSC connectors",
+    "Deck height ~2′-6″, railing top ~6′-0″",
+    "Designed for freestanding installation near cabin, mobile home, or modular unit entry"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/sedona-entry-deck-12x16-freestanding-porch-plan",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/ac7d9f/7149611502/il_fullxfull.7149611502_ki7u.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are for preliminary educational use only. Verify site conditions, safety railings, and code compliance with a licensed professional before construction."
+}
