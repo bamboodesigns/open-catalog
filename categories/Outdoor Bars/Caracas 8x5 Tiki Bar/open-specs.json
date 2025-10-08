@@ -1,0 +1,30 @@
+{
+  "plan_id": "BAR-CARACAS-8x5-2025",
+  "name": "Caracas Outdoor Bar Plan – 8x5 Backyard Tiki Bar with Roof & Counter",
+  "category": "outdoor_bars",
+  "dimensions_ft": "8x5",
+  "type": ["outdoor bar", "tiki bar", "patio bar structure"],
+  "material_type": ["pressure-treated timber", "T1-11 siding", "concrete slab"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "temperate", "tropical"],
+  "open_features": [
+    "(4) 18×18×12 in reinforced concrete footings supporting 6×6 SP No.2 posts",
+    "Beams: (2) 2×8 SP No.2, full 12 ft length",
+    "Rafters: 2×8 SP No.2 @16 in O.C.",
+    "Fascia boards: 2×8 SP No.2 around roof perimeter",
+    "Framed counter with 2×6 plates and 2×4 blocking",
+    "Wall framing: 2×6 SP No.2 studs @16 in O.C.",
+    "Roof sheathing: 3/4 in OSB T&G panels",
+    "Wall and ceiling finish: T1-11 siding 4×8×3/4 in panels",
+    "Concrete slab-on-grade: 4 in thick with W4/W4 welded wire reinforcement",
+    "Hardware: Simpson ABU66Z post bases, H2.5A hurricane ties, 1/2 in SDS screws, and galvanized washers"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/caracas-outdoor-bar-plan-8x5-backyard-tiki-bar-with-roof-counter-diy-patio-bar-structure-pdf-dwg",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/d7251a/7203628563/il_fullxfull.7203628563_dvr2.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Details noted are preliminary; verify slab reinforcement, wind tie connections, and local code compliance with a licensed professional before construction."
+}
