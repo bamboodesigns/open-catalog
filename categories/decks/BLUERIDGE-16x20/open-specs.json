@@ -1,0 +1,29 @@
+{
+  "plan_id": "DECK-BLUERIDGE-16x20-2025",
+  "name": "Blue Ridge Entry Deck – 16x20 Freestanding Porch Plan",
+  "category": "decks",
+  "dimensions_ft": "16x20",
+  "type": ["entry deck", "freestanding porch", "mobile home deck", "cabin deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "temperate", "mountain"],
+  "open_features": [
+    "(12) 18×18×12 in reinforced concrete footings with 6×6 posts",
+    "Beams: (2) 2×12 SP No.2 members",
+    "Joists: 2×6 SP No.2 @12 in O.C.",
+    "Decking: 2×6 composite decking boards",
+    "Railing: 4×4 posts with 2×4 rails, 2×2 balusters @5 in O.C. (≤4 in spacing)",
+    "Stairs: 2×12 stringers @12 in O.C. with 2×4 treads",
+    "Hardware: Simpson ABU66Z bases, H1A hurricane ties, LPC4Z caps, A34 clips, and LSC connectors",
+    "Deck height ~2′-6″, railing top ~6′-0″",
+    "Designed for freestanding installation near cabin, mobile home, or modular entry"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/blue-ridge-entry-deck-16x20-freestanding-porch-plan",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/e80112/7197602931/il_fullxfull.7197602931_1udb.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are for preliminary educational use only. Verify site conditions, safety railings, and code compliance with a licensed professional before construction."
+}
