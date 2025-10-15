@@ -1,0 +1,31 @@
+{
+  "plan_id": "POOL-GREENVALLEY-31x31-2025",
+  "name": "Green Valley Circle Pool Deck Plan – 31x31 Wrap Around Deck with Dual 6-Step Staircases",
+  "category": "pool_decks",
+  "dimensions_ft": "31x31",
+  "type": ["wrap-around deck", "elevated pool deck", "dual-stair deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Advanced",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "temperate", "mountain"],
+  "open_features": [
+    "(24) 18×18×12 in reinforced concrete footings with 6×6 SP No. 2 posts",
+    "(2) stair footings 48×24×4 in with dual 6-step access",
+    "Beams: (2) 2×12 SP No. 2 members throughout perimeter grid",
+    "Joists: 2×6 SP No. 2 @ 12 in O.C.",
+    "Batten framing: 2×4 SP No. 2 lateral bracing",
+    "Decking: 2×6 composite boards with 6 in layout spacing",
+    "Railings: 4×4 posts with 2×4 rails and 2×2 balusters @ ≤4 in spacing",
+    "Hardware: Simpson ABU66Z bases, H1A ties, LPC4Z caps, A34 clips, LSC connectors",
+    "Deck height ≈ 4′-6″ · Railing ≈ 8′-0″",
+    "Designed for 21 ft circular pool (center opening) with dual-stair wrap-around layout",
+    "Pool integration schematic only; pool safety and MEP by licensed professionals"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/green-valley-circle-pool-deck-plan-31x31-wrap-around-deck-with-dual-6-step-staircases-diy-pdf-plans",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/668512/7209620252/il_fullxfull.7209620252_berd.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are for preliminary educational use only. Verify pool safety systems, railing loads, and local code compliance with a licensed professional before construction."
+}
