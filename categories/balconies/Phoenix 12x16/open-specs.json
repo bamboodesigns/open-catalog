@@ -1,0 +1,32 @@
+{
+  "plan_id": "BALC-PHOENIX-12x16-2025",
+  "name": "Phoenix 12x16 Balcony Deck Plan – Resort-Style Elevated Balcony with Pergola",
+  "category": "balconies",
+  "dimensions_ft": "12x16",
+  "type": ["balcony deck", "elevated deck", "pergola"],
+  "material_type": ["pressure-treated timber", "LVL beam", "composite decking", "concrete footings"],
+  "skill_level": "Advanced",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "temperate", "mountain", "snow"],
+  "open_features": [
+    "(2) 18×18×12 in square concrete footings supporting 6×6 posts",
+    "Primary exterior beam: (3) 1-3/4″ × 11-7/8″ 2.0E Microllam® LVL",
+    "Secondary beam: (2) 2×12 SP No.2",
+    "Pergola beam: (4) 2×8 SP No.2 (below rafters)",
+    "Joists: 2×12 SP No.2 @ 16 in O.C.",
+    "Ledger (deck): (2) 2×12 SP No.2 to existing wall",
+    "Pergola rafters: 2×8 SP No.2 @ 16 in O.C.; battens 4×2 @ 16 in O.C.",
+    "Decking: 2×6 composite boards",
+    "Railing: 4×4 posts with 2×4 top/bottom rails; 2×2 balusters @ 6 in O.C. (≤4 in gap), 42 in height",
+    "Heights: Bottom of balcony ~10′-0″ above grade; top of balcony ~13′-6″",
+    "Hardware: Simpson ABU66Z post bases, HUC410 & LUS210 hangers, LUS28 (rafters), LPC4Z caps, EPC66 angles, A34 clips",
+    "Notes: Attachments to existing wall per details; temporary bracing and jobsite safety required; preliminary use only"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/phoenix-12x16-balcony-deck-plan-with-pergola",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/118580/7110845930/il_fullxfull.7110845930_yq5q.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Balcony and pergola connections to the existing structure must be engineered for the specific site and substrate. Obtain permits and verify code compliance with licensed professionals."
+}
