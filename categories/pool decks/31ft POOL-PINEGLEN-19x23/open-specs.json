@@ -1,0 +1,29 @@
+{
+  "plan_id": "POOL-PINEGLEN-19x23-2025",
+  "name": "Pine Glen 19x23 Rectangle Pool Deck Plan – Spacious Above-Ground Pool Deck with Lounge & Dining",
+  "category": "pool_decks",
+  "dimensions_ft": "19x23",
+  "type": ["rectangular pool deck", "elevated deck", "lounge deck"],
+  "material_type": ["pressure-treated timber", "composite decking", "concrete footings"],
+  "skill_level": "Advanced",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "temperate", "mountain"],
+  "open_features": [
+    "(16) 18×18×12 in reinforced concrete footings with 6×6 SP No. 2 posts",
+    "Stair footing 48×24×4 in with 2×12 stringers @ 12 in O.C.",
+    "Beams (1-5): (2) 2×12 SP No. 2 each span, continuous perimeter grid",
+    "Joists: 2×8 SP No. 2 @ 16 in O.C. with 2×4 battens @ 24 in O.C.",
+    "Decking: 2×6 composite boards with 1/8 in gap after drying",
+    "Railings: 4×4 posts @ 4 ft O.C. with 2×4 rails and 2×2 balusters (≤ 4 in spacing)",
+    "Hardware: Simpson ABU66Z bases, HUC412 hangers, LUS28 hangers, A34 clips, LPC4Z caps, LSC connectors",
+    "Deck height ≈ 4′-6″ · Railing ≈ 8′-0″",
+    "Integrated lounge and dining platform with wrap deck around 31′×16′ pool (designed by others)"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/pine-glen-19x23-rectangle-pool-deck-plan-spacious-above-ground-pool-deck-with-lounge-dining-diy-pdf-plans",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/e63827/7289168399/il_fullxfull.7289168399_c502.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are for preliminary educational use only. Verify pool safety, bonding, and local code compliance with a licensed professional before construction."
+}
