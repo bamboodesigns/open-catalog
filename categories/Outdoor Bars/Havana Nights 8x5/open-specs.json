@@ -1,0 +1,31 @@
+{
+  "plan_id": "BAR-HAVANA-8x5-2025",
+  "name": "Havana Nights Outdoor Bar Plan – 8x5 Covered Patio Bar with Counter & Storage",
+  "category": "outdoor_bars",
+  "dimensions_ft": "8x5",
+  "type": ["covered patio bar", "outdoor bar", "backyard pub"],
+  "material_type": ["pressure-treated timber", "T1-11 siding", "polywood", "concrete slab"],
+  "skill_level": "Intermediate",
+  "snow_load_psf": 100,
+  "wind_rating_mph": 130,
+  "climate_zone": ["coastal", "temperate", "tropical"],
+  "open_features": [
+    "(4) 18×18×12 in reinforced concrete footings supporting 6×6 SP No.2 posts",
+    "4 in slab-on-grade reinforced with 6×6 W4/W4 wire mesh",
+    "Beams: (2) 2×8 SP No.2 continuous members",
+    "Rafters: 2×8 SP No.2 @ 16 in O.C.",
+    "Fascia: 2×8 SP No.2 perimeter trim",
+    "Stud walls: 2×6 SP No.2 @ 16 in O.C.",
+    "Bottom and top plates: (2) 2×6 SP No.2",
+    "Roof sheathing: 3/4 in OSB T&G panels",
+    "Wall finish: 4×8×3/4 in T1-11 siding",
+    "Counter constructed with polywood panels (1½ in thick) and 2×6 blocking",
+    "Hardware: Simpson ABU66Z bases, H2.5A hurricane ties, SDS screws, galvanized bolts and washers"
+  ],
+  "estimated_build_cost_usd": null,
+  "product_url": "https://bamboodesigns.com/plans/havana-nights-outdoor-bar-plan-covered-patio-bar-with-counter-storage-diy-backyard-pub-pdf-dwg",
+  "image_url": "https://i.etsystatic.com/59867749/r/il/bf980c/7220375519/il_fullxfull.7220375519_3153.jpg",
+  "license": "CC BY 4.0",
+  "version_introduced": "v1.0",
+  "safety_note": "Plans are for preliminary educational use only. Verify slab reinforcement, tie connections, and local code compliance with a licensed professional before construction."
+}
