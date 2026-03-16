@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-16X24-583A2F",
+    "slug":  "skylight-16x24-gable-shed-plan-option-2-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf",
+    "name":  "Skylight 16x24 Gable Shed Plan Option 2 - Modern Workshop, Garden Studio, or Backyard Office | DIY Shed Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "16x24",
+    "area_sf":  384,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x24 Gable Roof Design",
+                          "Classic pitched roof provides enhanced interior headroom, natural attic or loft potential, and efficient water drainage.",
+                          "Spacious 384 Sq Ft Interior",
+                          "A generous footprint ideal for equipment storage, woodworking setups, tool organization, or multi-use layouts.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing techniques and practical dimensions make Skylight suitable for both first-time builders and experienced DIYers.",
+                          "Thoughtful Entry \u0026 Window Options",
+                          "Flexible door placements and optional windows allow you to customize access, maximize daylight, and improve airflow."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x24 shed",
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Skylight%2016x24%20Gable%20Shed%20Plan%20Option%202%20-%20Modern%20Workshop%2C%20Garden%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f14dd0/7769492018/il_fullxfull.7769492018_f6cs.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Skylight Shed - a spacious 16x24 gable roof building designed for durability, flexibility, and timeless backyard appeal. Showcasing a classic pitched roofline, clean architectural symmetry, and generous interior volume, Skylight blends traditional craftsmanship with modern functionality. With 384 square feet of adaptable space, this 16x24 shed delivers the room you need for serious storage, creative projects, workshop builds, or future conversion...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/skylight-16x24-gable-shed-plan-option-2-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf/open-specs.json"
+}

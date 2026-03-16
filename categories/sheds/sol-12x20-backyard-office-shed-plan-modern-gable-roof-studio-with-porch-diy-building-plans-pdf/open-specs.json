@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-12X20-7EF153",
+    "slug":  "sol-12x20-backyard-office-shed-plan-modern-gable-roof-studio-with-porch-diy-building-plans-pdf",
+    "name":  "Sol 12x20 Backyard Office Shed Plan - Modern Gable Roof Studio with Porch | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 20\u0027 (240 sq. ft.)",
+                          "Height: ~12 ft at gable peak",
+                          "Roof Type: Gable roof (metal shown; customizable for other materials)",
+                          "Doors: Glass double entry doors with transom",
+                          "Windows: Full glass front wall + side ventilation windows",
+                          "Siding: Horizontal lap shown (optional for wood, metal, or composite)",
+                          "Foundation: Freestanding pier or concrete slab compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x20 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sol%2012x20%20Backyard%20Office%20Shed%20Plan%20-%20Modern%20Gable%20Roof%20Studio%20with%20Porch",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/db9884/7723406049/il_fullxfull.7723406049_1nps.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Sol 12x20 Backyard Office Shed Plan - a bright, modern retreat that captures timeless design and effortless form. With its large glass front, classic gable roof, and inviting covered porch, Sol is designed to bring inspiration, comfort, and sophistication to any property. Whether you\u0027re building a creative studio, home office, yoga retreat, or guest space, Sol\u0027s thoughtful design combines light-filled interiors with outdoor living - making it both fu...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/sol-12x20-backyard-office-shed-plan-modern-gable-roof-studio-with-porch-diy-building-plans-pdf/open-specs.json"
+}

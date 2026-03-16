@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-SHED-8X10-1C08E4",
+    "slug":  "solo-8x10-modern-shed-plan-sloped-roof-storage-building-diy-backyard-workshop-or-studio-design-pdf",
+    "name":  "Solo 8x10 Modern Shed Plan - Sloped Roof Storage Building | DIY Backyard Workshop or Studio Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "8x10",
+    "area_sf":  80,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 8\u0027 x 10\u0027 (80 sq. ft.)",
+                          "Height: ~12 ft (highest point)",
+                          "Roof Type: Single-slope (modern shed roof)",
+                          "Doors: Single entry door with window detail",
+                          "Siding: Horizontal lap shown (customizable finish)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  31,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "8x10 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Solo%208x10%20Modern%20Shed%20Plan%20-%20Sloped%20Roof%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/019e1a/7725645782/il_fullxfull.7725645782_huhs.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Solo 8x10 Shed Plan - a bold, modern structure designed for simplicity, versatility, and timeless appeal. With its single-slope roof, clean horizontal siding, and architectural balance, Solo brings modern craftsmanship and practical design together in one efficient plan. Whether you\u0027re creating a garden shed, compact studio, or small backyard workshop, the Solo 8x10 offers ease of construction, weather-smart design, and stylish form that fits beautif...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/solo-8x10-modern-shed-plan-sloped-roof-storage-building-diy-backyard-workshop-or-studio-design-pdf/open-specs.json"
+}

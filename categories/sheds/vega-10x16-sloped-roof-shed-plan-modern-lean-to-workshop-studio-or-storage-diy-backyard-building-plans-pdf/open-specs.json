@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-10X16-56B453",
+    "slug":  "vega-10x16-sloped-roof-shed-plan-modern-lean-to-workshop-studio-or-storage-diy-backyard-building-plans-pdf",
+    "name":  "Vega 10x16 Sloped Roof Shed Plan - Modern Lean-To Workshop, Studio, or Storage | DIY Backyard Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 10\u0027 x 16\u0027 (160 sq. ft.)",
+                          "Height: ~12 ft at peak",
+                          "Roof Type: Single-slope (lean-to / slanted roof)",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Front transom + side windows for light and ventilation",
+                          "Siding: Horizontal wood shown (customizable for metal, board and batten, or composite)",
+                          "Foundation: Pier or slab foundation options included"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "10x16 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Vega%2010x16%20Sloped%20Roof%20Shed%20Plan%20-%20Modern%20Lean-To%20Workshop%2C%20Studio%2C%20or%20Storage",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/774b2d/7773643853/il_fullxfull.7773643853_fp7f.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Vega Sloped Roof Shed Plan - a 10x16 modern design that combines clean lines, natural textures, and efficient functionality. With its striking lean-to roof and transom windows, Vega transforms traditional storage into architectural simplicity. Whether you\u0027re building a creative workspace, garden studio, or organized storage solution, this shed brings both beauty and practicality to your property. 10x16 Sloped Roof Shed Design - A perfect balance of s...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/vega-10x16-sloped-roof-shed-plan-modern-lean-to-workshop-studio-or-storage-diy-backyard-building-plans-pdf/open-specs.json"
+}

@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X20-053FCB",
+    "slug":  "tindra-12x20-gambrel-roof-shed-plan-classic-barn-style-storage-and-workshop",
+    "name":  "Tindra 12x20 Gambrel Roof Shed Plan - Classic Barn Style Storage \u0026 Workshop",
+    "category":  "sheds",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x20 Gambrel Roof Shed (240 sq ft)",
+                          "Classic barn-style architecture with a high-volume gambrel roof for superior interior space and optional loft storage.",
+                          "Spacious \u0026 Functional Design",
+                          "Perfect for large equipment, workshop setups, seasonal storage, or creative studio use with room to move and grow.",
+                          "Wide Double Door Access",
+                          "Barn-style double doors provide easy access for riding mowers, ATVs, tools, workbenches, and bulky materials.",
+                          "Timeless Rustic Aesthetic",
+                          "Vertical wood siding, clean white trim, and a traditional gambrel roof create a warm, heritage-inspired look that never goes out of style."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x20 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Tindra%2012x20%20Gambrel%20Roof%20Shed%20Plan%20-%20Classic%20Barn%20Style%20Storage%20%26%20Workshop",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c67200/7699143190/il_fullxfull.7699143190_3ixg.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Tindra Gambrel Roof Shed Plan - a 12x20 barn-style storage and workspace solution designed to maximize interior volume while delivering timeless curb appeal. Featuring a classic gambrel roof, warm wood siding, and wide barn-style double doors, the Tindra blends traditional craftsmanship with modern backyard functionality. Whether you\u0027re building a spacious workshop, equipment shed, hobby barn, or organized storage solution, the Tindra 12x20 offers...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/tindra-12x20-gambrel-roof-shed-plan-classic-barn-style-storage-and-workshop/open-specs.json"
+}

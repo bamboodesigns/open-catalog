@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-12X18-53B3B4",
+    "slug":  "shiloh-12x18-gambrel-shed-plan-a-barn-style-storage-and-workshop-design",
+    "name":  "Shiloh 12x18 Gambrel Shed Plan - A Barn-Style Storage \u0026 Workshop Design",
+    "category":  "sheds",
+    "dimensions_ft":  "12x18",
+    "area_sf":  216,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x18 Gambrel Roof Shed",
+                          "Traditional barn-style gambrel roof delivers increased headroom and usable wall height-ideal for tall shelving, equipment storage, or optional loft space.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, efficient roof geometry, and easy-to-follow plans make this shed suitable for beginners and experienced builders alike.",
+                          "Wide Double Door Access",
+                          "Classic barn-style double doors allow effortless movement of lawn equipment, workbenches, tools, bikes, and large storage items.",
+                          "Timeless Barn Aesthetic",
+                          "Warm horizontal lap siding, clean trim details, and the iconic gambrel silhouette create a refined rustic look that never goes out of style."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  32,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x18 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Shiloh%2012x18%20Gambrel%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20%26%20Workshop%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9d10a1/7699140058/il_fullxfull.7699140058_5cqq.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Shiloh Gambrel Shed Plan - a 12x18 barn-style shed designed to maximize interior space while delivering timeless curb appeal. Featuring a classic gambrel roof profile, clean horizontal siding, and wide barn-style double doors, Shiloh offers the perfect balance of rustic charm and modern practicality. Whether you\u0027re building a spacious storage shed, backyard workshop, garden supply hub, or creative hobby space, the Shiloh 12x18 provides smart space...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/shiloh-12x18-gambrel-shed-plan-a-barn-style-storage-and-workshop-design/open-specs.json"
+}

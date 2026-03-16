@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X12-98B824",
+    "slug":  "swilla-12x12-shed-with-porch-plan-modern-gable-roof-garden-studio-backyard-office-or-workshop-design-pdf",
+    "name":  "Swilla 12x12 Shed with Porch Plan - Modern Gable Roof Garden Studio | Backyard Office or Workshop Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 12\u0027 (144 sq. ft.)",
+                          "Height: ~12 ft at roof peak",
+                          "Roof Type: Gable roof",
+                          "Porch: Integrated 4\u0027 covered entry porch",
+                          "Doors: 6\u0027 double barn-style doors + single side entry door (optional)",
+                          "Windows: Configurable layout for natural light",
+                          "Siding: Horizontal lap shown (customizable for wood, metal, or composite finishes)",
+                          "Foundation: Pier or slab options available"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  31,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x12 shed",
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Swilla%2012x12%20Shed%20with%20Porch%20Plan%20-%20Modern%20Gable%20Roof%20Garden%20Studio%20%7C%20Backyard%20Office%20or%20Workshop%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/938813/7731137379/il_fullxfull.7731137379_2287.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Swilla 12x12 Shed with Porch Plan - a charming and functional design that combines traditional form with a cozy, welcoming outdoor space. Featuring a gable roof, covered front porch, and classic double doors, Swilla is the perfect blueprint for creating a backyard retreat that feels as inviting as it is practical. Whether you\u0027re building a studio, garden room, or home office, the Swilla 12x12 delivers comfort, craftsmanship, and character - all wrapp...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/swilla-12x12-shed-with-porch-plan-modern-gable-roof-garden-studio-backyard-office-or-workshop-design-pdf/open-specs.json"
+}

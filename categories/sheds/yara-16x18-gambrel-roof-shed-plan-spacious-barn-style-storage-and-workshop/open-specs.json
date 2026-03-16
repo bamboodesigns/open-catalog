@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-16X18-158CC7",
+    "slug":  "yara-16x18-gambrel-roof-shed-plan-spacious-barn-style-storage-and-workshop",
+    "name":  "Yara 16x18 Gambrel Roof Shed Plan - Spacious Barn-Style Storage \u0026 Workshop",
+    "category":  "sheds",
+    "dimensions_ft":  "16x18",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x18 Gambrel Roof Shed (288 sq ft)",
+                          "Barn-style gambrel roof maximizes interior height and supports optional loft or overhead storage.",
+                          "Generous \u0026 Flexible Interior Layout",
+                          "Provides ample room for workbenches, lawn equipment, tool organization, or creative projects without wasted space.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors make it easy to move in equipment, carts, bikes, and bulky storage items.",
+                          "Timeless Natural Aesthetic",
+                          "Vertical wood siding, clean trim, classic barn proportions, and a strong roofline create lasting curb appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x18 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Yara%2016x18%20Gambrel%20Roof%20Shed%20Plan%20-%20Spacious%20Barn-Style%20Storage%20%26%20Workshop",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/32a676/7751015967/il_fullxfull.7751015967_oggk.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Yara Gambrel Roof Shed Plan - a 16x18 barn-style storage and workspace solution designed to deliver generous interior volume while maintaining a balanced, backyard-friendly footprint. Featuring a classic gambrel roof, warm wood siding, and wide barn-style double doors, the Yara blends timeless barn architecture with practical, everyday functionality. Whether you\u0027re building a spacious workshop, garden supply hub, hobby studio, or organized storage...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/yara-16x18-gambrel-roof-shed-plan-spacious-barn-style-storage-and-workshop/open-specs.json"
+}

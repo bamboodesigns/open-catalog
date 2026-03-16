@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X18-99E630",
+    "slug":  "scout-12x18-gambrel-shed-plan-a-barn-style-storage-and-workshop-design",
+    "name":  "Scout 12x18 Gambrel Shed Plan - A Barn-Style Storage \u0026 Workshop Design",
+    "category":  "sheds",
+    "dimensions_ft":  "12x18",
+    "area_sf":  216,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x18 Gambrel Roof Shed",
+                          "Iconic barn-style gambrel roof design provides increased headroom and expanded interior storage potential-perfect for shelving, tall tools, or an optional loft.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing methods, clean architectural lines, and easy-to-follow plans make this shed approachable for both first-time builders and seasoned DIYers.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors allow easy access for lawn equipment, workbenches, bikes, garden tools, and bulky storage items.",
+                          "Timeless Barn Aesthetic",
+                          "Warm horizontal lap siding, clean trim details, and classic roof proportions deliver a charming, enduring look that never goes out of style."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  32,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x18 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Scout%2012x18%20Gambrel%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20%26%20Workshop%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/de765b/7699135176/il_fullxfull.7699135176_f060.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Scout Gambrel Shed Plan - a 12x18 barn-style storage and workspace solution designed for maximum interior volume, timeless curb appeal, and everyday practicality. Featuring a classic gambrel roof, warm horizontal wood siding, and wide barn-style double doors, Scout blends traditional charm with modern usability. Whether you\u0027re building a backyard workshop, garden supply shed, hobby studio, or organized storage space, the Scout 12x18 offers smart s...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/scout-12x18-gambrel-shed-plan-a-barn-style-storage-and-workshop-design/open-specs.json"
+}

@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-14X16-89D958",
+    "slug":  "zanden-modern-shed-plan-14x16-monoslope-roof-backyard-studio-diy-office-and-workshop-pdf-plans",
+    "name":  "Zanden Modern Shed Plan - 14x16 Monoslope Roof Backyard Studio | DIY Office \u0026 Workshop PDF Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "14x16",
+    "area_sf":  224,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x16 Modern Shed with Monoslope Roof",
+                          "A contemporary single-slope roof design creates clean architectural lines while providing efficient drainage and increased interior wall height.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing techniques, standard lumber sizes, and easy-to-follow building plans make Zanden ideal for both beginner builders and experienced DIY enthusiasts.",
+                          "Thoughtful Door \u0026 Window Layout",
+                          "A well-positioned entry door and balanced window placements provide easy access, natural daylight, and refreshing cross ventilation.",
+                          "Modern Exterior Finish",
+                          "Horizontal wood siding, simple trim details, and the lean-to roofline create a modern-rustic look that complements contemporary homes and outdoor living spaces."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x16 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Zanden%20Modern%20Shed%20Plan%20-%2014x16%20Monoslope%20Roof%20Backyard%20Studio",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/36b5ca/7821135901/il_fullxfull.7821135901_epfg.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Zanden Modern Shed - a versatile 14x16 monoslope roof backyard studio designed for efficiency, style, and clean architectural simplicity. Highlighting a sleek single-slope roofline, warm horizontal siding potential, and crisp contemporary proportions, Zanden delivers a refined exterior with flexible interior potential. Whether you\u0027re planning a quiet backyard office, creative studio, hobby workshop, or a stylish modern storage space, the 14x16 Zan...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/zanden-modern-shed-plan-14x16-monoslope-roof-backyard-studio-diy-office-and-workshop-pdf-plans/open-specs.json"
+}

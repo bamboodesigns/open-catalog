@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X20-807C6D",
+    "slug":  "tove-12x20-gambrel-shed-plan-a-barn-style-storage-and-workshop-design",
+    "name":  "Tove 12x20 Gambrel Shed Plan - A Barn-Style Storage \u0026 Workshop Design",
+    "category":  "sheds",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x20 Gambrel Roof Shed",
+                          "Classic barn-style gambrel roof maximizes interior headroom and usable wall space-ideal for tall shelving, overhead storage, or an optional loft.",
+                          "DIY-Friendly Construction",
+                          "Clean framing layout and easy-to-follow plans make this shed achievable for confident DIY builders and professionals alike.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors provide easy entry for lawn equipment, ATVs, workbenches, bikes, and large tools.",
+                          "Timeless Barn-Inspired Aesthetic",
+                          "Warm vertical and horizontal wood siding, contrasting trim, and a traditional roof profile create a refined yet rustic look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x20 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Tove%2012x20%20Gambrel%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20%26%20Workshop%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/10d3da/7747309833/il_fullxfull.7747309833_6nux.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Tove Gambrel Shed Plan - a 12x20 barn-style storage and workspace solution designed for generous interior space, timeless appeal, and everyday functionality. Featuring a classic gambrel roof, wide barn-style double doors, and warm wood siding with a durable lower wall accent, Tove blends traditional barn character with modern practicality. Whether you\u0027re building a spacious workshop, garden and equipment shed, creative studio, or organized storage...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/tove-12x20-gambrel-shed-plan-a-barn-style-storage-and-workshop-design/open-specs.json"
+}

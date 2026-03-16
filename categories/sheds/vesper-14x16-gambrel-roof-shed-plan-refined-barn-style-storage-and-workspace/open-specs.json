@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-14X16-CEFDC4",
+    "slug":  "vesper-14x16-gambrel-roof-shed-plan-refined-barn-style-storage-and-workspace",
+    "name":  "Vesper 14x16 Gambrel Roof Shed Plan - Refined Barn-Style Storage \u0026 Workspace",
+    "category":  "sheds",
+    "dimensions_ft":  "14x16",
+    "area_sf":  224,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x16 Gambrel Roof Shed (224 sq ft)",
+                          "Barn-style gambrel roof maximizes interior height and supports optional loft or overhead storage.",
+                          "Efficient \u0026 Flexible Interior Layout",
+                          "Ideal for workbenches, tool storage, equipment organization, or creative projects without overwhelming your yard.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors make it easy to move in tools, lawn equipment, bikes, or workshop materials.",
+                          "Timeless Natural Aesthetic",
+                          "Vertical wood siding, clean trim, classic proportions, and a strong roofline create enduring curb appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x16 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Vesper%2014x16%20Gambrel%20Roof%20Shed%20Plan%20-%20Refined%20Barn-Style%20Storage%20%26%20Workspace",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/46694f/7750971979/il_fullxfull.7750971979_hd3s.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Vesper Gambrel Roof Shed Plan - a 14x16 barn-style storage and workspace solution designed to offer generous interior volume in a balanced, backyard-friendly footprint. Featuring a classic gambrel roof, warm wood siding, and wide barn-style double doors, the Vesper blends timeless barn architecture with practical, everyday versatility. Whether you\u0027re building a compact workshop, garden supply hub, hobby studio, or organized storage shed, the Vespe...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/vesper-14x16-gambrel-roof-shed-plan-refined-barn-style-storage-and-workspace/open-specs.json"
+}

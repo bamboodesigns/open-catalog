@@ -1,0 +1,75 @@
+{
+    "plan_id":  "BD-SHED-12X36-82F39B",
+    "slug":  "venus-12x36-gable-roof-shed-plan-large-workshop-studio-or-backyard-office-with-porch-diy-building-plans-pdf",
+    "name":  "Venus 12x36 Gable Roof Shed Plan - Large Workshop, Studio, or Backyard Office with Porch | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x36",
+    "area_sf":  432,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 36\u0027 (432 sq. ft.)",
+                          "Height: ~12 ft at peak",
+                          "Roof Type: Classic gable roof",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Multiple side and front windows for ample daylight",
+                          "Porch: Integrated covered entry",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal finishes)",
+                          "Foundation: Freestanding pier or slab compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x36 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Venus%2012x36%20Gable%20Roof%20Shed%20Plan%20-%20Large%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office%20with%20Porch",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/fced28/7727550523/il_fullxfull.7727550523_j8rd.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Venus 12x36 Gable Roof Shed Plan - a spacious, elegant design that blends classic craftsmanship with versatile functionality. Featuring a bold gable roof, wide double-door access, and a charming covered porch, the Venus plan creates a backyard retreat that\u0027s both beautiful and practical. Perfect for a workshop, creative studio, home office, or garden guest space, this plan offers generous interior dimensions, abundant natural light, and clear, DIY-fr...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/venus-12x36-gable-roof-shed-plan-large-workshop-studio-or-backyard-office-with-porch-diy-building-plans-pdf/open-specs.json"
+}

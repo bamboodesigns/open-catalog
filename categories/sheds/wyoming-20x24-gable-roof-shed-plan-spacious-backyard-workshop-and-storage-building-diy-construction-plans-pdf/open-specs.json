@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-20X24-C521DC",
+    "slug":  "wyoming-20x24-gable-roof-shed-plan-spacious-backyard-workshop-and-storage-building-diy-construction-plans-pdf",
+    "name":  "Wyoming 20x24 Gable Roof Shed Plan - Spacious Backyard Workshop \u0026 Storage Building | DIY Construction Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "20x24",
+    "area_sf":  480,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "20x24 Gable Roof Shed Design",
+                          "A spacious 480 sq ft building designed for backyard storage, equipment protection, or a dedicated workshop environment.",
+                          "Classic Gable Roof Architecture",
+                          "The traditional roof structure provides reliable drainage, structural strength, and increased interior headroom.",
+                          "DIY-Friendly Construction",
+                          "Built with straightforward framing methods and clean structural lines, making the project accessible for DIY builders and professionals alike.",
+                          "Thoughtful Door \u0026 Window Layout",
+                          "A practical entry configuration and balanced window placement allow for natural lighting, ventilation, and easy access."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x24 shed",
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Wyoming%2020x24%20Gable%20Roof%20Shed%20Plan%20-%20Spacious%20Backyard%20Workshop%20%26%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a01aa1/7821901261/il_fullxfull.7821901261_l0rz.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Wyoming Gable Roof Shed - a generous 20x24 storage and workshop building designed for durability, efficiency, and timeless architectural style. Featuring a classic gable roofline, balanced window placement, and clean horizontal siding, Wyoming delivers a refined exterior while providing a highly practical interior ready for countless backyard uses. The 20x24 footprint creates a comfortable 480 square feet of usable space, perfect for organized sto...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/wyoming-20x24-gable-roof-shed-plan-spacious-backyard-workshop-and-storage-building-diy-construction-plans-pdf/open-specs.json"
+}

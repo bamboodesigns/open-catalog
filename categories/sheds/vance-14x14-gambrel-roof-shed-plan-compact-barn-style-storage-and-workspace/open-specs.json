@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-14X14-848DCF",
+    "slug":  "vance-14x14-gambrel-roof-shed-plan-compact-barn-style-storage-and-workspace",
+    "name":  "Vance 14x14 Gambrel Roof Shed Plan - Compact Barn-Style Storage \u0026 Workspace",
+    "category":  "sheds",
+    "dimensions_ft":  "14x14",
+    "area_sf":  196,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x14 Gambrel Roof Shed (196 sq ft)",
+                          "Classic barn-style gambrel roof maximizes interior height and usable space, with the option for overhead or loft storage.",
+                          "Compact Yet Spacious Interior",
+                          "Efficient layout delivers plenty of room for tools, equipment, workbenches, or creative projects without overwhelming your yard.",
+                          "Wide Double Door Access",
+                          "Barn-style double doors allow easy entry for lawn equipment, bikes, tools, and bulky storage items.",
+                          "Timeless Rustic Aesthetic",
+                          "Traditional barn proportions, vertical wood siding, clean trim, and a bold roofline create enduring curb appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  41,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x14 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Vance%2014x14%20Gambrel%20Roof%20Shed%20Plan%20-%20Compact%20Barn-Style%20Storage%20%26%20Workspace",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/62a052/7747511115/il_fullxfull.7747511115_r2vn.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Vance Gambrel Roof Shed Plan - a 14x14 barn-style storage and workspace solution designed to deliver maximum interior volume in a compact, efficient footprint. With its classic gambrel roof, warm wood siding, and wide barn-style double doors, the Vance offers timeless barn character paired with practical, everyday usability. Whether you\u0027re building a small workshop, garden shed, hobby space, or organized storage hub, the Vance 14x14 provides smart...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/vance-14x14-gambrel-roof-shed-plan-compact-barn-style-storage-and-workspace/open-specs.json"
+}
