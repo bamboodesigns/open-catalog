@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-21X9-12F21E",
+    "slug":  "liberty-21x9-pool-deck-plan-10x20-above-ground-pool-lounge-deck-with-railings-diy-pdf-plans",
+    "name":  "Liberty 21x9 Pool Deck Plan - 10x20 Above-Ground Pool Lounge Deck with Railings | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "21x9",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 20\u0027",
+                          "Pool Fit: 21x9 above-ground pool opening (not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Florida-inspired, modern outdoor living with space for family \u0026 friends"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "10x20 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "21x9",
+                 "21x9 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Liberty%2021x9%20Pool%20Deck%20Plan%20-%2010x20%20Above-Ground%20Pool%20Lounge%20Deck%20with%20Railings",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0af7c7/7703377586/il_fullxfull.7703377586_fq7p.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Liberty 21x9 Pool Deck Plan turns your above-ground pool into a stylish backyard retreat. With a massive 10x20 platform, built-in safety railings, and space for both lounging and dining, this design delivers the perfect mix of safety, comfort, and resort-style living. Big enough for loungers, chairs, and even a small dining set, it\u0027s built for families who love to entertain poolside. Designed for 21x9 rectangular or oval above-ground pools\nExpansive 10x20 elevated deck with railing detail...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/liberty-21x9-pool-deck-plan-10x20-above-ground-pool-lounge-deck-with-railings-diy-pdf-plans/open-specs.json"
+}

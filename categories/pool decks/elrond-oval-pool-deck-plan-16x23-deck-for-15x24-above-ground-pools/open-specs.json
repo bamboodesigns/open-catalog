@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-16X23-691C9C",
+    "slug":  "elrond-oval-pool-deck-plan-16x23-deck-for-15x24-above-ground-pools",
+    "name":  "Elrond Oval Pool Deck Plan - 16x23 Deck for 15x24 Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x23",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 x 24\u0027 Oval Above-Ground Pools",
+                          "Precision-planned to fit oval pool shapes seamlessly (pool not included).",
+                          "Spacious 16\u0027 x 23\u0027 Deck Layout",
+                          "Ample room for loungers, dining sets, umbrellas, and poolside seating.",
+                          "Dual Staircase Access",
+                          "Two staircases improve traffic flow, safety, and convenience for swimmers and guests.",
+                          "Full Safety Railings Included",
+                          "Built-in railing design provides peace of mind without blocking views."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "16x23 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x23",
+                 "16x23 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Elrond%20Oval%20Pool%20Deck%20Plan%20-%2016x23%20Deck%20for%2015x24%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/55d8f5/7690941589/il_fullxfull.7690941589_57e0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into an elegant outdoor retreat with the Elrond Oval Pool Deck Plan, a refined and spacious deck design created specifically for 15\u0027 x 24\u0027 oval above-ground pools. Featuring a generous 16\u0027 x 23\u0027 deck layout, Elrond balances open lounge space with safe, practical pool access-perfect for entertaining, relaxing, and everyday family use. With its clean lines, full perimeter railings, and dual stair access, the Elrond design delivers a timeless look that feels both resort-i...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/elrond-oval-pool-deck-plan-16x23-deck-for-15x24-above-ground-pools/open-specs.json"
+}

@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-28X28-5D481E",
+    "slug":  "little-rock-18ft-pool-deck-plan-28x28-wraparound-above-ground-pool-deck-with-railings-diy-pdf-plans",
+    "name":  "Little Rock 18ft Pool Deck Plan - 28x28 Wraparound Above-Ground Pool Deck with Railings | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "28x28",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 28\u0027 x 28\u0027",
+                          "Pool Fit: 18ft round above-ground pool opening (not included)",
+                          "Access Points: Two staircases with railing",
+                          "Style: Arkansas-inspired, built for entertaining, outdoor comfort, and year-round enjoyment"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "28x28 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "28x28",
+                 "28x28 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Little%20Rock%2018ft%20Pool%20Deck%20Plan%20-%2028x28%20Wraparound%20Above-Ground%20Pool%20Deck%20with%20Railings",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f094f9/7716674437/il_fullxfull.7716674437_osys.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Little Rock 18ft Pool Deck Plan delivers Southern backyard living at its best. With a massive 28x28 wraparound layout, dual staircases, and full safety railings, this design turns your above-ground pool into a true outdoor centerpiece. Spacious enough for lounge chairs, dining tables, and umbrellas, it\u0027s built for families who love to relax and entertain poolside. Designed for 18ft round above-ground pools\nExpansive 28x28 wraparound deck for full coverage\nIncludes dual staircases + safety...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/little-rock-18ft-pool-deck-plan-28x28-wraparound-above-ground-pool-deck-with-railings-diy-pdf-plans/open-specs.json"
+}

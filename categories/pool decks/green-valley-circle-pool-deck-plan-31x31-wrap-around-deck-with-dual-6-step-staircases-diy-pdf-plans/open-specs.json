@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-31X31-D09AE0",
+    "slug":  "green-valley-circle-pool-deck-plan-31x31-wrap-around-deck-with-dual-6-step-staircases-diy-pdf-plans",
+    "name":  "Green Valley Circle Pool Deck Plan - 31x31 Wrap Around Deck with Dual 6-Step Staircases | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "31x31",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 31\u0027 x 31\u0027",
+                          "Pool Fit: Round above-ground pool (pool not included)",
+                          "Access Points: Two 6-step staircases",
+                          "Style: Southern-inspired, combining poolside safety with a true outdoor room feel"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "31x31 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "31x31",
+                 "31x31 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Green%20Valley%20Circle%20Pool%20Deck%20Plan%20-%2031x31%20Wrap%20Around%20Deck%20with%20Dual%206-Step%20Staircases",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c456ea/7692106960/il_fullxfull.7692106960_9pla.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Green Valley Circle Pool Deck Plan makes your above-ground pool the true centerpiece of backyard living. With a massive 31x31 wrap-around design, dual 6-step staircases, and built-in railings, this plan delivers both safe pool access and a spacious outdoor entertainment area. Perfect for families who want their deck to shine as much as their pool, this design blends resort-style living with everyday convenience. Designed for large round above-ground pools (up to 21\u0027 diameter)\nExpansive 31...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/green-valley-circle-pool-deck-plan-31x31-wrap-around-deck-with-dual-6-step-staircases-diy-pdf-plans/open-specs.json"
+}

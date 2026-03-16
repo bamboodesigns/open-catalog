@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-10X20-DD4378",
+    "slug":  "denver-container-pool-deck-plan-10x20-elevated-deck-with-railing-pdf-dwg-diy-plans",
+    "name":  "Denver Container Pool Deck Plan - 10x20 Elevated Deck with Railing | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x20",
+    "area_sf":  200,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 20\u0027",
+                          "Height: ~4 ft elevation for flush pool access",
+                          "Railing Height: 36-42\" (per IRC/IBC guidelines)",
+                          "Style: Spacious + modern open deck",
+                          "Capacity: Room for 4-6 loungers + seating"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "container pool",
+                 "deck design",
+                 "backyard deck",
+                 "pool deck",
+                 "deck plans",
+                 "diy pools",
+                 "modern backyard",
+                 "shipping container",
+                 "deck ideas",
+                 "poolside vibes",
+                 "diy deck",
+                 "10x20 deck",
+                 "10x20 pool deck",
+                 "pool decks",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x20",
+                 "10x20 plan",
+                 "diy plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Denver%20Container%20Pool%20Deck%20Plan%20-%2010x20%20Elevated%20Deck%20with%20Railing%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/df0d7c/7696092308/il_fullxfull.7696092308_qp9e.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Turn your shipping container pool into a resort-style backyard with this spacious 10x20 elevated deck plan - designed for lounging, entertaining, and safe poolside access. Built for the long side of a 20ft container pool, this plan maximizes usable space for chairs, loungers, and gatherings. 10x20 Elevated Deck - Designed for 8x20 container pools (not included)\nStair + Railing Access - Meets residential safety standards\nLong-Side Layout - Expands lounging + entertaining area\nDIY-Friendly - Cl...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/denver-container-pool-deck-plan-10x20-elevated-deck-with-railing-pdf-dwg-diy-plans/open-specs.json"
+}

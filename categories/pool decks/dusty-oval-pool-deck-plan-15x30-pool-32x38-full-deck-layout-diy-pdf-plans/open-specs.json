@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-POOL-15X30-FF26EE",
+    "slug":  "dusty-oval-pool-deck-plan-15x30-pool-32x38-full-deck-layout-diy-pdf-plans",
+    "name":  "Dusty Oval Pool Deck Plan - 15x30 Pool | 32x38 Full Deck Layout | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "15x30",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Pool Fit: 15x30 Oval Above-Ground Pools (pool not included)",
+                          "Overall Deck Size: 32\u0027 x 38\u0027",
+                          "Deck Style: Wrap-style layout with large lounging zones",
+                          "Access Points: Two staircases for smooth entry \u0026 exit",
+                          "Design Style: Modern coastal / Florida-inspired outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "32x38 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "15x30",
+                 "15x30 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Dusty%20Oval%20Pool%20Deck%20Plan%20-%2015x30%20Pool%20%7C%2032x38%20Full%20Deck%20Layout",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c39ca1/7647803240/il_fullxfull.7647803240_npzw.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Dusty Oval Pool Deck Plan transforms your 15x30 above-ground pool into a stunning backyard retreat built for relaxation, entertaining, and everyday family fun. Featuring a spacious 32x38 layout, wide lounging areas, dual staircases, and integrated railing details, this design delivers the perfect balance of safety, style, and resort-inspired living. With generous room for seating, sun loungers, outdoor dining, and poolside gatherings, Dusty creates a true outdoor living experience-perfect...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/dusty-oval-pool-deck-plan-15x30-pool-32x38-full-deck-layout-diy-pdf-plans/open-specs.json"
+}

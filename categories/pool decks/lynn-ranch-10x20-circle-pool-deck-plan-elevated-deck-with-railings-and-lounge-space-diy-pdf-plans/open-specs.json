@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-10X20-4694BC",
+    "slug":  "lynn-ranch-10x20-circle-pool-deck-plan-elevated-deck-with-railings-and-lounge-space-diy-pdf-plans",
+    "name":  "Lynn Ranch 10x20 Circle Pool Deck Plan - Elevated Deck with Railings \u0026 Lounge Space | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x20",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 20\u0027",
+                          "Pool Fit: Round above-ground 24\u0027 diameter pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Southern-inspired, blending poolside living with a versatile outdoor lounge or dining space"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x20 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x20",
+                 "10x20 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lynn%20Ranch%2010x20%20Circle%20Pool%20Deck%20Plan%20-%20Elevated%20Deck%20with%20Railings%20%26%20Lounge%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/cf9b3d/7682524272/il_fullxfull.7682524272_9dvn.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a stunning backyard retreat with the Lynn Ranch 10x20 Circle Pool Deck Plan. This elevated deck is thoughtfully designed for round above-ground pools, offering both safe entry and a spacious area for dining, lounging, or entertaining. With built-in railings and a secure 6-step staircase, it provides the perfect mix of safety and style for family fun or quiet relaxation. Designed for round above-ground pools (24\u0027 diameter)\nSpacious 10x20 elevated deck for dining sets, lounge chairs, or...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/lynn-ranch-10x20-circle-pool-deck-plan-elevated-deck-with-railings-and-lounge-space-diy-pdf-plans/open-specs.json"
+}

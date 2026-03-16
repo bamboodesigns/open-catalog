@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-4X4-F72509",
+    "slug":  "frodo-oval-pool-deck-plan-4x4-minimal-entry-deck-for-15x24-above-ground-pools",
+    "name":  "Frodo Oval Pool Deck Plan - 4x4 Minimal Entry Deck for 15x24 Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "4x4",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 x 24\u0027 Oval Above-Ground Pools",
+                          "Custom-fit proportions ensure proper alignment and safe pool entry (pool not included).",
+                          "Ultra-Compact 4\u0027 x 4\u0027 Platform Deck",
+                          "Ideal for ladder replacement, quick dips, and supervised pool entry.",
+                          "Single Staircase with Built-In Railings",
+                          "Straightforward, secure access with railing details included in the plans.",
+                          "DIY-Friendly PDF Construction Plans",
+                          "Clean layouts, framing details, and material guidance for an efficient build."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "4x4 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "4x4",
+                 "4x4 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Frodo%20Oval%20Pool%20Deck%20Plan%20-%204x4%20Minimal%20Entry%20Deck%20for%2015x24%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/3d44e3/7695425905/il_fullxfull.7695425905_oikg.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Frodo Pool Deck Plan is a compact, no-frills solution designed to provide safe, elevated access to your oval above-ground pool while using the smallest possible footprint. Engineered specifically for 15\u0027 x 24\u0027 oval pools, this 4\u0027 x 4\u0027 entry deck is ideal for homeowners who want simplicity, affordability, and functionality without sacrificing safety. Perfect for tight yards, minimalist builds, or secondary pool access points, Frodo delivers exactly what you need-nothing more, nothing less.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/frodo-oval-pool-deck-plan-4x4-minimal-entry-deck-for-15x24-above-ground-pools/open-specs.json"
+}

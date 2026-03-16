@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-POOL-10X12-49455D",
+    "slug":  "iria-circle-pool-deck-plan-10x12-pool-deck-for-15-round-pools-diy-pdf-plans",
+    "name":  "Iria Circle Pool Deck Plan - 10x12 Pool Deck for 15\u0027 Round Pools | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x12",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed specifically for 15\u0027 diameter round above-ground pools",
+                          "Efficient 10x12 deck footprint - ideal for compact yards and tight spaces",
+                          "Optimized walking clearance for safe and comfortable pool entry",
+                          "Built-in railing layout for enhanced safety and clean aesthetics",
+                          "Simple, modern design - perfect for quick builds \u0026 lower material costs",
+                          "Easy-to-follow DIY PDF plans with complete material cut list \u0026 step-by-step building guide",
+                          "Overall Deck Size: 10\u0027 x 12\u0027",
+                          "Pool Fit: 15\u0027 diameter round above-ground pools (pool not included)"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x12 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x12",
+                 "10x12 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Iria%20Circle%20Pool%20Deck%20Plan%20-%2010x12%20Pool%20Deck%20for%2015\u0027%20Round%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/74329e/7723859527/il_fullxfull.7723859527_3s2v.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Iria Circle Pool Deck Plan transforms your 15-foot above-ground pool into a clean, functional, and space-efficient backyard upgrade. Featuring a compact 10x12 platform layout, this design delivers safe access, smooth movement, and comfortable poolside usability - perfect for small yards, minimalist outdoor spaces, and budget-friendly DIY builds. Iria blends simplicity, safety, and modern outdoor style into one smart pool deck solution. Key Features\nDesigned specifically for 15\u0027 diameter r...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/iria-circle-pool-deck-plan-10x12-pool-deck-for-15-round-pools-diy-pdf-plans/open-specs.json"
+}

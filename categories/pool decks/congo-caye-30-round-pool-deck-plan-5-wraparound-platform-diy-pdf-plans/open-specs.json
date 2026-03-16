@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-40X40-2E7332",
+    "slug":  "congo-caye-30-round-pool-deck-plan-5-wraparound-platform-diy-pdf-plans",
+    "name":  "Congo Caye - 30\u0027 Round Pool Deck Plan | 5\u0027 Wraparound Platform | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "40x40",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Purpose-Built for 30\u0027 Round Pools",
+                          "Clean radius match for a professional, built-in look.",
+                          "5-Foot Wraparound Deck Space",
+                          "Wide enough for chairs, loungers, storage boxes, \u0026 towel stations.",
+                          "Dual Stair Entry (Depending on Layout)",
+                          "Smooth entry and exit options - great for households with kids or guests.",
+                          "Beginner-Friendly DIY Build",
+                          "Straightforward framing, modular sections \u0026 practical material count."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "5\u0027 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "40x40",
+                 "40x40 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Congo%20Caye%20-%2030\u0027%20Round%20Pool%20Deck%20Plan%20%7C%205\u0027%20Wraparound%20Platform",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/13eeee/7647862916/il_fullxfull.7647862916_aphl.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Turn your backyard into a jungle-calm retreat with Congo Caye, a perfectly sized wraparound deck crafted for 30-foot round above-ground pools.\nFeaturing a smooth, continuous 5\u0027 perimeter deck and dual stair access, this design blends comfort, safety, and tropical outdoor living - without overwhelming your yard. Whether you\u0027re hosting splash-day parties, drying off after a swim, or sipping a sunset mocktail, Congo Caye delivers the perfect edge-to-pool relaxation zone.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/congo-caye-30-round-pool-deck-plan-5-wraparound-platform-diy-pdf-plans/open-specs.json"
+}

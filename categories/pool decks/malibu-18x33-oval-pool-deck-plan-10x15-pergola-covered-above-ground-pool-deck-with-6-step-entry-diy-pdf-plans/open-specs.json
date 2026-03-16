@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-18X33-C4A0DB",
+    "slug":  "malibu-18x33-oval-pool-deck-plan-10x15-pergola-covered-above-ground-pool-deck-with-6-step-entry-diy-pdf-plans",
+    "name":  "Malibu 18x33 Oval Pool Deck Plan - 10x15 Pergola-Covered Above-Ground Pool Deck with 6-Step Entry | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "18x33",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 15\u0027",
+                          "Pool Fit: 18x33 oval above-ground pool opening (not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Coastal-modern, designed for shade, airflow, and outdoor entertaining"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x15 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "18x33",
+                 "18x33 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Malibu%2018x33%20Oval%20Pool%20Deck%20Plan%20-%2010x15%20Pergola-Covered%20Above-Ground%20Pool%20Deck%20with%206-Step%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e2c585/7716171027/il_fullxfull.7716171027_4xs4.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Malibu 18x33 Oval Pool Deck Plan combines shade, style, and function in one stunning design. With a 10x15 elevated deck, built-in safety railings, a 6-step staircase, and a full pergola overhead, this deck delivers both pool access and a shaded outdoor room for dining, relaxing, or entertaining. Designed for 18x33 oval above-ground pools\n10x15 deck with pergola for shade + style\nElevated 6-step staircase with railing details\nPerfect for lounge seating, dining, or outdoor bar setups\nEasy-t...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/malibu-18x33-oval-pool-deck-plan-10x15-pergola-covered-above-ground-pool-deck-with-6-step-entry-diy-pdf-plans/open-specs.json"
+}

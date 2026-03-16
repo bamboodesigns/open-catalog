@@ -1,0 +1,63 @@
+{
+    "plan_id":  "BD-POOL-20X32-EC7B34",
+    "slug":  "custom-order-for-aaron-childers-custom-20x32-pinellas-inspired-deck-for-32ft-round-pool-52in-tall",
+    "name":  "Custom order for Aaron Childers - Custom 20x32 (Pinellas Inspired Deck) for 32ft Round Pool, 52in tall",
+    "category":  "pool decks",
+    "dimensions_ft":  "20x32",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "freestanding",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 20\u0027 x 32\u0027",
+                          "Pool Fit: 24\u0027 round above-ground pool (pool not included)",
+                          "Access Points: Two 6-step staircases",
+                          "Roof Style: Open-top pergola for partial shade",
+                          "Design Type: Freestanding circular pool deck with attached pergola",
+                          "Included: Complete printable PDF plans with step-by-step instructions",
+                          "Plan Includes:",
+                          "Detailed framing and post layout diagrams"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool decks",
+                 "pool deck",
+                 "freestanding",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "20x32",
+                 "20x32 plan",
+                 "diy plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Custom%20order%20for%20Aaron%20Childers%20-%20Custom%2020x32%20(Pinellas%20Inspired%20Deck)%20for%2032ft%20Round%20Pool%2C%2052in%20tall",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f57226/7725406979/il_fullxfull.7725406979_h828.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Inspired by Pinellas (details below) BUT for 32ft pool: Make your pool the heart of your backyard with the Pinellas 20x32 Circle Pool Deck Plan - a luxurious wrap-around deck design that combines comfort, style, and functionality. Featuring a full pergola, built-in safety railings, and dual stair access, this design transforms your above-ground pool into a resort-style outdoor destination for family fun and relaxation.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/custom-order-for-aaron-childers-custom-20x32-pinellas-inspired-deck-for-32ft-round-pool-52in-tall/open-specs.json"
+}

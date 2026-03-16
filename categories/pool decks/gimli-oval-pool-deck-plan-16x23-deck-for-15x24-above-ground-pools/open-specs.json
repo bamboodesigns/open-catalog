@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-16X23-9283E7",
+    "slug":  "gimli-oval-pool-deck-plan-16x23-deck-for-15x24-above-ground-pools",
+    "name":  "Gimli Oval Pool Deck Plan - 16x23 Deck for 15x24 Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x23",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 x 24\u0027 Oval Above-Ground Pools",
+                          "Tailored for oval pool geometry with efficient deck integration (pool not included).",
+                          "Spacious 16\u0027 x 23\u0027 Deck Platform",
+                          "Ample space for seating, outdoor dining, conversation sets, and relaxation zones.",
+                          "Integrated Pergola Structure",
+                          "Adds shade, architectural interest, and the option for lighting, curtains, or climbing plants.",
+                          "Dual Staircase Access",
+                          "Two stairways improve safety, flow, and ease of entry and exit."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "16x23 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x23",
+                 "16x23 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Gimli%20Oval%20Pool%20Deck%20Plan%20-%2016x23%20Deck%20for%2015x24%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9fcece/7642941560/il_fullxfull.7642941560_ihyo.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Gimli Oval Pool Deck Plan delivers a bold blend of structure, comfort, and outdoor living-designed specifically for 15\u0027 x 24\u0027 oval above-ground pools. Featuring a spacious 16\u0027 x 23\u0027 deck layout, this design includes dual staircases, full safety railings, and an integrated pergola structure, creating a shaded retreat that feels equal parts durable and resort-inspired. Perfect for homeowners who want more than just pool access, Gimli offers room for lounging, dining, and entertaining while...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/gimli-oval-pool-deck-plan-16x23-deck-for-15x24-above-ground-pools/open-specs.json"
+}

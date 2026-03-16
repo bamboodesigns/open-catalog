@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-40X50-9E7547",
+    "slug":  "key-west-30-round-pool-deck-plan-massive-40x50-wrap-deck-resort-style-backyard-build-diy-pdf-plans",
+    "name":  "Key West - 30\u0027 Round Pool Deck Plan | Massive 40x50 Wrap Deck | Resort-Style Backyard Build | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "40x50",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for Standard 30\u0027 Round Above-Ground Pools",
+                          "Engineered footprint delivers ideal clearances and perfect visual symmetry.",
+                          "Oversized 40x50 Deck Zone",
+                          "Room for loungers, outdoor furniture, umbrellas, seating pods, and family gatherings.",
+                          "Resort-Like Wraparound Experience",
+                          "Enjoy sunbathing, supervising swimmers, drying towels, or hosting - all from one expansive platform.",
+                          "Safe, Wide Staircase Entry",
+                          "Sturdy rise and run measurements balanced with rail-height safety."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "40x50 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "40x50",
+                 "40x50 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Key%20West%20-%2030\u0027%20Round%20Pool%20Deck%20Plan%20%7C%20Massive%2040x50%20Wrap%20Deck%20%7C%20Resort-Style%20Backyard%20Build",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/1026cc/7696013279/il_fullxfull.7696013279_mboo.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring vacation home every day with Key West, a show-stopping 40x50 above-ground pool deck plan designed for 30-foot round pools.\nThis sprawling wrap deck creates a full outdoor living zone - space for grilling, lounging, poolside dining, and endless summer memories. Wide entry stairs, a perimeter railing system, and smart layout engineering make Key West the ideal combination of comfort, space, and style - all with DIY-friendly construction.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/key-west-30-round-pool-deck-plan-massive-40x50-wrap-deck-resort-style-backyard-build-diy-pdf-plans/open-specs.json"
+}

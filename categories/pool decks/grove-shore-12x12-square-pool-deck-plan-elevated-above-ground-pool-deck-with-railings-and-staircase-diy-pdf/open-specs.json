@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-12X12-0DF51A",
+    "slug":  "grove-shore-12x12-square-pool-deck-plan-elevated-above-ground-pool-deck-with-railings-and-staircase-diy-pdf",
+    "name":  "Grove Shore 12x12 Square Pool Deck Plan - Elevated Above-Ground Pool Deck with Railings \u0026 Staircase | DIY PDF",
+    "category":  "pool decks",
+    "dimensions_ft":  "12x12",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 12\u0027 x 12\u0027",
+                          "Pool Fit: Compatible with 24\u0027x12\u0027 above ground pools (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Simple + modern with clean lines, blending function and elegance",
+                          "Style: Coastal-inspired with clean lines, perfect for outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "12x12 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x12",
+                 "12x12 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Grove%20Shore%2012x12%20Square%20Pool%20Deck%20Plan%20-%20Elevated%20Above-Ground%20Pool%20Deck%20with%20Railings%20%26%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0e04f2/7751297773/il_fullxfull.7751297773_aj7r.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create the perfect backyard centerpiece with the Grove Shore 12x12 Square Pool Deck Plan. Designed for above-ground pools, this modern and versatile deck offers just the right amount of space for lounging, dining, or relaxing by the water. With built-in railings and a 6-step staircase, it ensures safety while giving your outdoor area a stylish upgrade. Designed for above-ground 24x12 pools\n12x12 elevated deck - ideal for lounge chairs, tables, or umbrellas\nSecure 6-step staircase with railing...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/grove-shore-12x12-square-pool-deck-plan-elevated-above-ground-pool-deck-with-railings-and-staircase-diy-pdf/open-specs.json"
+}

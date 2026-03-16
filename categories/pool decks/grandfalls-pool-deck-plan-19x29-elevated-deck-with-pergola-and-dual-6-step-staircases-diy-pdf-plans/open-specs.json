@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-19X29-EE16D6",
+    "slug":  "grandfalls-pool-deck-plan-19x29-elevated-deck-with-pergola-and-dual-6-step-staircases-diy-pdf-plans",
+    "name":  "Grandfalls Pool Deck Plan - 19x29 Elevated Deck with Pergola \u0026 Dual 6-Step Staircases | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "19x29",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 19\u0027 x 29\u0027",
+                          "Pool Fit: Round above-ground pool opening (pool not included)",
+                          "Access Points: Two 6-step staircases",
+                          "Style: Coastal-modern, designed for shade, airflow, and outdoor entertaining"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "19x29 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "19x29",
+                 "19x29 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Grandfalls%20Pool%20Deck%20Plan%20-%2019x29%20Elevated%20Deck%20with%20Pergola%20%26%20Dual%206-Step%20Staircases",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e6bf85/7740047315/il_fullxfull.7740047315_lsv1.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Grandfalls Circle Pool Deck Plan delivers shade, style, and functionality in one stunning backyard design. With a massive 19x29 elevated deck, dual 6-step staircases, built-in safety railings, and a full pergola overhead, this plan creates the ultimate poolside retreat. Whether for lounging, outdoor dining, or entertaining, this deck transforms your pool into a resort-style oasis. Designed for large round above-ground pools (up to 21\u0027 diameter)\nExpansive 19x29 deck with pergola for shade...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/grandfalls-pool-deck-plan-19x29-elevated-deck-with-pergola-and-dual-6-step-staircases-diy-pdf-plans/open-specs.json"
+}

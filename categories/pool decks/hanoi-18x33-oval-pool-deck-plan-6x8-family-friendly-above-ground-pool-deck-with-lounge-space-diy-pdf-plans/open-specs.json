@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-POOL-18X33-DED5CB",
+    "slug":  "hanoi-18x33-oval-pool-deck-plan-6x8-family-friendly-above-ground-pool-deck-with-lounge-space-diy-pdf-plans",
+    "name":  "Hanoi 18x33 Oval Pool Deck Plan - 6x8 Family-Friendly Above-Ground Pool Deck with Lounge Space | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "18x33",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 6\u0027 x 8\u0027",
+                          "Pool Fit: 18x33 oval above-ground pool opening (not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Resort-inspired, designed for airflow, relaxation, and easy maintenance"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "patio deck plan",
+                 "6x8 pool deck",
+                 "oval pool deck",
+                 "pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "18x33"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Hanoi%2018x33%20Oval%20Pool%20Deck%20Plan%20-%206x8%20Family-Friendly%20Above-Ground%20Pool%20Deck%20with%20Lounge%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4d9e6e/7668198936/il_fullxfull.7668198936_pk17.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Hanoi 18x33 Oval Pool 6x8 Deck Plan brings Southern charm and smart design to larger above-ground pool setups. With a raised entry platform, built-in safety railing, and lounge-ready space, this deck makes your oval pool the centerpiece of outdoor living. Perfect for 18x33 oval above-ground pools\nSafe stair + railing details included\nLounge platform for chairs + tables\nEasy-to-follow DIY plans",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/hanoi-18x33-oval-pool-deck-plan-6x8-family-friendly-above-ground-pool-deck-with-lounge-space-diy-pdf-plans/open-specs.json"
+}

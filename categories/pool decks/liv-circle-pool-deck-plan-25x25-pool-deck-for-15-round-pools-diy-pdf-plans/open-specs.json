@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-25X25-8D14CD",
+    "slug":  "liv-circle-pool-deck-plan-25x25-pool-deck-for-15-round-pools-diy-pdf-plans",
+    "name":  "Liv Circle Pool Deck Plan - 25x25 Pool Deck for 15\u0027 Round Pools | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "25x25",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed specifically for 15\u0027 diameter round above-ground pools",
+                          "Large 25x25 deck footprint for lounging, entertaining, and seating",
+                          "Wide walking clearance around the pool for safe circulation",
+                          "Integrated railing layout for safety and style",
+                          "Clean, modern outdoor aesthetic ideal for backyard upgrades",
+                          "Step-by-step DIY PDF plans with full material cut list \u0026 building guide",
+                          "Overall Deck Size: 25\u0027 x 25\u0027",
+                          "Pool Fit: 15\u0027 diameter round above-ground pool (pool not included)"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "25x25 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "25x25",
+                 "25x25 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Liv%20Circle%20Pool%20Deck%20Plan%20-%2025x25%20Pool%20Deck%20for%2015\u0027%20Round%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/816a48/7723883085/il_fullxfull.7723883085_hfkx.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Liv Circle Pool Deck Plan transforms your 15-foot above-ground pool into a stunning backyard retreat. Designed with a spacious 25x25 square layout, this deck provides generous lounging space, smooth circulation, and a balanced modern aesthetic that elevates your outdoor living experience. Whether you\u0027re hosting summer gatherings or enjoying quiet poolside relaxation, Liv delivers comfort, safety, and resort-inspired style. Perfect for homeowners who want maximum usable deck space with a c...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/liv-circle-pool-deck-plan-25x25-pool-deck-for-15-round-pools-diy-pdf-plans/open-specs.json"
+}

@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-10X16-9BE0E5",
+    "slug":  "faramir-oval-pool-deck-plan-10x16-deck-for-15x24-above-ground-pools",
+    "name":  "Faramir Oval Pool Deck Plan - 10x16 Deck for 15x24 Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x16",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 x 24\u0027 Oval Above-Ground Pools",
+                          "Tailored specifically for oval pool layouts (pool not included).",
+                          "Compact 10\u0027 x 16\u0027 Deck Platform",
+                          "Comfortable space for loungers, umbrellas, or small seating sets without excess bulk.",
+                          "Safe Staircase Entry",
+                          "Convenient and secure access to the pool deck area.",
+                          "Full Railing System Included",
+                          "Built-in safety railings provide protection while maintaining open views."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x16 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x16",
+                 "10x16 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Faramir%20Oval%20Pool%20Deck%20Plan%20-%2010x16%20Deck%20for%2015x24%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/589c7c/7647466560/il_fullxfull.7647466560_e1ee.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a calm, functional poolside escape with the Faramir Oval Pool Deck Plan, a smartly sized deck design crafted specifically for 15\u0027 x 24\u0027 oval above-ground pools. Featuring a 10\u0027 x 16\u0027 elevated deck, Faramir delivers the perfect balance of comfort, safety, and simplicity-ideal for homeowners who want a clean, efficient pool entry with just the right amount of lounge space. With its open layout, full safety railings, and straightforward stair access, the Faramir design is perfect for rela...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/faramir-oval-pool-deck-plan-10x16-deck-for-15x24-above-ground-pools/open-specs.json"
+}

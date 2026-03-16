@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-17X26-A99E1B",
+    "slug":  "jupiter-17x26-pool-deck-plan-elevated-above-ground-pool-deck-with-railing-pdf-dwg-diy-plans",
+    "name":  "Jupiter 17x26 Pool Deck Plan - Elevated Above-Ground Pool Deck with Railing | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "17x26",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 18\u0027 Round Above-Ground Pools",
+                          "Precision opening ensures a clean transition between deck and pool (pool not included).",
+                          "Large 17\u0027 x 26\u0027 Deck Layout",
+                          "Ample space for lounge chairs, seating areas, umbrellas, or small outdoor dining setups.",
+                          "Raised Deck for Easy Pool Entry",
+                          "Step directly from the deck into the pool for convenient and comfortable access.",
+                          "Full Safety Railing System",
+                          "Integrated railings provide security while keeping the space open and inviting."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "17x26 pool deck plan",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "17x26"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Jupiter%2017x26%20Pool%20Deck%20Plan%20-%20Elevated%20Above-Ground%20Pool%20Deck%20with%20Railing%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/cf0fa2/7801299506/il_fullxfull.7801299506_efj9.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Enjoy spacious backyard poolside living with the Jupiter Pool Deck Plan, a thoughtfully designed 17\u0027 x 26\u0027 raised deck built specifically for 18\u0027 round above-ground pools. This layout blends safety, comfort, and modern outdoor style to create a welcoming space for lounging, entertaining, and relaxing all season long. The generous deck footprint allows plenty of room for lounge chairs, umbrellas, and seating areas while maintaining smooth access to the pool. With integrated railings and an eas...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/jupiter-17x26-pool-deck-plan-elevated-above-ground-pool-deck-with-railing-pdf-dwg-diy-plans/open-specs.json"
+}

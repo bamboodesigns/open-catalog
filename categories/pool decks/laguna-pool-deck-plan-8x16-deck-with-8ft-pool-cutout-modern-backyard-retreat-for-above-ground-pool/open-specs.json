@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-8X16-9E2293",
+    "slug":  "laguna-pool-deck-plan-8x16-deck-with-8ft-pool-cutout-modern-backyard-retreat-for-above-ground-pool",
+    "name":  "Laguna Pool Deck Plan - 8x16 Deck with 8ft Pool Cutout + Modern Backyard Retreat for Above Ground Pool",
+    "category":  "pool decks",
+    "dimensions_ft":  "8x16",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "freestanding",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 8\u0027 x 16\u0027",
+                          "Pool Opening: 8 ft diameter (fits most circular plunge/soak tubs)",
+                          "Access Points: Two 3-step staircases",
+                          "Style: Modern resort-style, designed for relaxation, airflow, and easy maintenance"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  59,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "plunge pool platform",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "scottsdale backyard",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "8x16 pool deck",
+                 "8x16 deck",
+                 "pool decks",
+                 "pool deck",
+                 "freestanding",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "8x16"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Laguna%20Pool%20Deck%20Plan%20-%208x16%20Deck%20with%208ft%20Pool%20Cutout%20%2B%20Modern%20Backyard%20Retreat%20for%20Above%20Ground%20Pool",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/cc7cb3/7142065243/il_fullxfull.7142065243_c6uy.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a sleek, modern retreat with this pool deck plan - designed for above-ground plunge pools, comfortable lounging, and seamless landscape integration. 8x16 Freestanding Deck Platform\n8 ft Circular Cutout - Perfect for round above-ground or plunge pools (pool not included)\nDual Stair Access - Steps on both sides for easy entry\nResort-Inspired Design - Pairs beautifully with bamboo, tropical, or minimalist landscaping",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/laguna-pool-deck-plan-8x16-deck-with-8ft-pool-cutout-modern-backyard-retreat-for-above-ground-pool/open-specs.json"
+}

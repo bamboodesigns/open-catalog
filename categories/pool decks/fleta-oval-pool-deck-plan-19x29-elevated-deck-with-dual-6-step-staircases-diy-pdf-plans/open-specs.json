@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-19X29-72F9AE",
+    "slug":  "fleta-oval-pool-deck-plan-19x29-elevated-deck-with-dual-6-step-staircases-diy-pdf-plans",
+    "name":  "Fleta Oval Pool Deck Plan - 19x29 Elevated Deck with Dual 6-Step Staircases | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "19x29",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 19\u0027 x 29\u0027",
+                          "Pool Fit: 21x41 oval above-ground pool (pool not included)",
+                          "Access Points: Two 6-step staircases",
+                          "Style: Southern-inspired, combining poolside safety with an outdoor room feel"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "19x29 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "19x29",
+                 "19x29 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Fleta%20Oval%20Pool%20Deck%20Plan%20-%2019x29%20Elevated%20Deck%20with%20Dual%206-Step%20Staircases",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ac3be4/7655395668/il_fullxfull.7655395668_nllq.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Fleta Oval Pool Deck Plan makes your above-ground pool the centerpiece of backyard living. With a spacious 19x29 elevated deck, dual 6-step staircases, and built-in railings, this design doubles as both a safe pool entry and a stylish outdoor lounge or dining area. Perfect for families who want functionality, safety, and southern-inspired outdoor living. Designed for 21x41 oval above-ground pools\nExpansive 19x29 elevated deck with space for dining + seating\nTwo 6-step staircases with rail...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/fleta-oval-pool-deck-plan-19x29-elevated-deck-with-dual-6-step-staircases-diy-pdf-plans/open-specs.json"
+}

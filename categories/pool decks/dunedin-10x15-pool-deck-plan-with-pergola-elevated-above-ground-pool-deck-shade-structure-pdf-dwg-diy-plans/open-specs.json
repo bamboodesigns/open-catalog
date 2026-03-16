@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-10X15-3B6AC9",
+    "slug":  "dunedin-10x15-pool-deck-plan-with-pergola-elevated-above-ground-pool-deck-shade-structure-pdf-dwg-diy-plans",
+    "name":  "Dunedin 10x15 Pool Deck Plan with Pergola - Elevated Above-Ground Pool Deck + Shade Structure | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x15",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 15\u0027",
+                          "Pool Fit: 18\u0027 round above-ground pool opening (not included)",
+                          "Height: ~4.5 ft elevation for pool entry",
+                          "Pergola: Full overhead structure integrated with framing",
+                          "Railing Height: 36-42\" (per IRC/IBC guidelines)"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "10x15 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x15",
+                 "10x15 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Dunedin%2010x15%20Pool%20Deck%20Plan%20with%20Pergola%20-%20Elevated%20Above-Ground%20Pool%20Deck%20%2B%20Shade%20Structure%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/1ee639/7716657021/il_fullxfull.7716657021_b2zj.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring coastal style and shade to your backyard with the Dunedin 10x15 Pool Deck Plan with Pergola. This elevated deck is designed for 18ft round above-ground pools and includes a built-in pergola for modern outdoor living. Perfect for lounging, dining, or enjoying safe poolside access all summer long. 10x15 Elevated Deck Platform - Designed for 18ft above-ground pools (pool not included)\nIntegrated Pergola - Adds shade + architectural style\nSafe Stair + Railing Access - Meets residential safe...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/dunedin-10x15-pool-deck-plan-with-pergola-elevated-above-ground-pool-deck-shade-structure-pdf-dwg-diy-plans/open-specs.json"
+}

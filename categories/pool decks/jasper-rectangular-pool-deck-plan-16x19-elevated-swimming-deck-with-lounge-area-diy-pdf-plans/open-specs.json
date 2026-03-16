@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-16X19-86E8B3",
+    "slug":  "jasper-rectangular-pool-deck-plan-16x19-elevated-swimming-deck-with-lounge-area-diy-pdf-plans",
+    "name":  "Jasper Rectangular Pool Deck Plan - 16x19 Elevated Swimming Deck with Lounge Area | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x19",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 16\u0027 x 19\u0027",
+                          "Pool Fit: 21x9 above-ground pool opening (not included)",
+                          "Access Points: One entry staircase",
+                          "Style: Modern Texas-inspired design with a focus on outdoor living",
+                          "Bring the resort experience to your own backyard with this DIY pool deck plan - perfect for Austin summers and beyond."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "16x19 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x19",
+                 "16x19 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Jasper%20Rectangular%20Pool%20Deck%20Plan%20-%2016x19%20Elevated%20Swimming%20Deck%20with%20Lounge%20Area",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/948df3/7751314005/il_fullxfull.7751314005_oz47.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Jasper Rectangular Pool Deck Plan transforms your above-ground pool into a backyard retreat. With a spacious 16x19 layout, built-in railings, and a sturdy staircase, this design creates the perfect mix of poolside access and elevated lounge space. Whether you\u0027re entertaining friends or relaxing with family, this deck makes your backyard feel like a private resort. Designed for rectangular above-ground pools\nExpansive 16x19 elevated deck with space for loungers \u0026 seating\nSafe entry stairca...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/jasper-rectangular-pool-deck-plan-16x19-elevated-swimming-deck-with-lounge-area-diy-pdf-plans/open-specs.json"
+}
