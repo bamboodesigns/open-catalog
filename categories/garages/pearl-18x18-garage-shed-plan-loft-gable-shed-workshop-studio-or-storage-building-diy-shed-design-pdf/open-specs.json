@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-18X18-0FBDBE",
+    "slug":  "pearl-18x18-garage-shed-plan-loft-gable-shed-workshop-studio-or-storage-building-diy-shed-design-pdf",
+    "name":  "Pearl 18x18 Garage Shed Plan - Loft Gable Shed | Workshop, Studio, or Storage Building | DIY Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "18x18",
+    "area_sf":  324,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 18\u0027 x 18\u0027 (324 sq. ft.)",
+                          "Height: ~12 ft (with loft)",
+                          "Roof Type: Gable roof with vented ridge and loft floor system",
+                          "Doors: 6\u0027 wide double glass barn-style doors",
+                          "Siding: Horizontal lap shown (customizable for metal, wood, or shiplap finishes)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  42,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x18 shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pearl%2018x18%20Garage%20Shed%20Plan%20-%20Loft%20Gable%20Shed%20%7C%20Workshop%2C%20Studio%2C%20or%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ffa280/7727133125/il_fullxfull.7727133125_7i69.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Pearl 18x18 Garage Shed Plan - a modern classic that brings together refined symmetry, light-filled design, and practical function. With its gable roof and integrated loft, Pearl offers an adaptable space ideal for a garage, workshop, garden studio, or backyard retreat. Whether you\u0027re creating, building, or organizing, the Pearl 18x18 delivers elegant simplicity and easy-to-follow construction, designed to inspire makers and homeowners alike.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/pearl-18x18-garage-shed-plan-loft-gable-shed-workshop-studio-or-storage-building-diy-shed-design-pdf/open-specs.json"
+}

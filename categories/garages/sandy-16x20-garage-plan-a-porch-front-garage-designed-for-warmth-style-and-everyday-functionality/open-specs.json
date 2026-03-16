@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-16X20-A71185",
+    "slug":  "sandy-16x20-garage-plan-a-porch-front-garage-designed-for-warmth-style-and-everyday-functionality",
+    "name":  "Sandy 16x20 Garage Plan - A Porch-Front Garage Designed for Warmth, Style \u0026 Everyday Functionality",
+    "category":  "garages",
+    "dimensions_ft":  "16x20",
+    "area_sf":  320,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x20 Garage With a Covered Porch",
+                          "Perfectly sized for a compact vehicle, ATV, lawn tractor, workshop zone, or organized storage - plus a cozy porch ideal for seating, potting, or relaxation.",
+                          "DIY-Friendly Construction",
+                          "Clean framing, simplified roof lines, and easy-to-follow instruction layout make this design accessible for first-time builders and seasoned pros.",
+                          "Rustic Carriage-Style Double Doors",
+                          "Warm, wood-tone doors with arched upper windows create a handcrafted, upscale look while allowing wide access for equipment and tools.",
+                          "Inviting Natural Aesthetic",
+                          "Cream-toned horizontal siding, white trim, and classic bronze lantern lighting evoke a warm, coastal farmhouse."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  45,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x20 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sandy%2016x20%20Garage%20Plan%20-%20A%20Porch-Front%20Garage%20Designed%20for%20Warmth%2C%20Style%20%26%20Everyday%20Functionality",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/747a64/7721904068/il_fullxfull.7721904068_dihg.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Sandy Garage Plan - a 16x20 compact garage and porch combo designed for efficiency, charm, and versatile use. Featuring soft coastal-inspired siding, a classic gable roof, elegant lantern lighting, and a welcoming covered porch, the Sandy blends practical storage with comfortable outdoor living space. Whether you\u0027re building a small vehicle garage, garden equipment hub, crafting studio, or multi-use backyard retreat, the Sandy 16x20 provides smart...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/sandy-16x20-garage-plan-a-porch-front-garage-designed-for-warmth-style-and-everyday-functionality/open-specs.json"
+}

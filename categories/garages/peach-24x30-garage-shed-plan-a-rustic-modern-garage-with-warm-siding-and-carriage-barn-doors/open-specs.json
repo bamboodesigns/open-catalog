@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-24X30-5A9ED5",
+    "slug":  "peach-24x30-garage-shed-plan-a-rustic-modern-garage-with-warm-siding-and-carriage-barn-doors",
+    "name":  "Peach 24x30 Garage Shed Plan - A Rustic-Modern Garage with Warm Siding \u0026 Carriage Barn Doors",
+    "category":  "garages",
+    "dimensions_ft":  "24x30",
+    "area_sf":  720,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x30 Garage Shed with Classic Gable Roof",
+                          "A high-pitch roof provides incredible overhead clearance for storage, shelving, and flexible workshop setups - perfect for all-season protection.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean roof geometry, and step-by-step build plans make this project easy for both beginners and pro builders.",
+                          "Dual Barn-Style Garage Doors",
+                          "Rustic wooden carriage doors with upper glass panels allow smooth access for cars, tools, bikes, lawn equipment, and workshop materials - all while enhancing curb appeal.",
+                          "Warm Contemporary Aesthetic",
+                          "Peach horizontal siding paired with crisp white trim and natural wood textures creates a warm, inviting exterior with a modern-rustic edge."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x30 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Peach%2024x30%20Garage%20Shed%20Plan%20-%20A%20Rustic-Modern%20Garage%20with%20Warm%20Siding%20%26%20Carriage%20Barn%20Doors",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/416079/7719235732/il_fullxfull.7719235732_1b22.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Peach Garage Shed Plan - a 24x30 spacious garage and workspace solution designed for warmth, charm, and clean architectural simplicity. With its tall gable roof, peach-toned horizontal siding, and rustic barn-style double garage doors, the Peach offers timeless visual appeal with the practical utility modern homeowners need. Whether you\u0027re building a two-vehicle garage, a hobby studio, a garden equipment hub, or a multi-purpose backyard workshop,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/peach-24x30-garage-shed-plan-a-rustic-modern-garage-with-warm-siding-and-carriage-barn-doors/open-specs.json"
+}

@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-24X30-21B992",
+    "slug":  "sandra-gambrel-garage-plan-24x30-barn-style-garage-with-loft-potential-large-diy-workshop-and-storage-building-plans",
+    "name":  "Sandra Gambrel Garage Plan - 24x30 Barn-Style Garage with Loft Potential | Large DIY Workshop \u0026 Storage Building Plans",
+    "category":  "garages",
+    "dimensions_ft":  "24x30",
+    "area_sf":  720,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x30 Gambrel Roof Garage Design",
+                          "Classic barn-style architecture with a high-capacity roof profile that dramatically increases vertical interior space and storage potential.",
+                          "Spacious Multi-Vehicle Garage Layout",
+                          "The 24x30 footprint provides plenty of room for multiple vehicles, ATVs, lawn equipment, tool storage, and dedicated workshop areas.",
+                          "Loft-Ready Roof Structure",
+                          "The gambrel roof naturally creates overhead space ideal for a full storage loft, seasonal storage, or an elevated workshop mezzanine.",
+                          "DIY-Friendly Construction",
+                          "Efficient framing techniques and logical dimensions make Sandra a practical project for experienced DIY builders or contractors."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x30 shed",
+                 "garages",
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sandra%20Gambrel%20Garage%20Plan%20-%2024x30%20Barn-Style%20Garage%20with%20Loft%20Potential%20%7C%20Large%20DIY%20Workshop%20%26%20Storage%20Building%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6478d0/7821756103/il_fullxfull.7821756103_csz0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Sandra Gambrel Garage - a spacious 24x30 barn-style garage and workshop building designed for efficiency, durability, and timeless architectural appeal. Featuring the iconic gambrel roof profile, Sandra maximizes interior headroom while delivering the classic charm of a traditional barn-inspired structure. With its generous footprint, loft-ready design, and DIY-friendly construction, this garage combines serious functionality with standout curb ap...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/sandra-gambrel-garage-plan-24x30-barn-style-garage-with-loft-potential-large-diy-workshop-and-storage-building-plans/open-specs.json"
+}

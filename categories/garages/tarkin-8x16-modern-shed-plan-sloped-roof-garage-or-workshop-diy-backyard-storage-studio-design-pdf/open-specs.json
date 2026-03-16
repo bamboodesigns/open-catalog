@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-8X16-B7AA6C",
+    "slug":  "tarkin-8x16-modern-shed-plan-sloped-roof-garage-or-workshop-diy-backyard-storage-studio-design-pdf",
+    "name":  "Tarkin 8x16 Modern Shed Plan - Sloped Roof Garage or Workshop | DIY Backyard Storage Studio Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "8x16",
+    "area_sf":  128,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 8\u0027 x 16\u0027 (128 sq. ft.)",
+                          "Height: ~12 ft at roof peak",
+                          "Roof Type: Sloped (single-pitch) modern roof",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal)",
+                          "Foundation: Freestanding pier or slab compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  31,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "8x16 shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Tarkin%208x16%20Modern%20Shed%20Plan%20-%20Sloped%20Roof%20Garage%20or%20Workshop",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/3530db/7773640569/il_fullxfull.7773640569_mb2f.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Tarkin 8x16 Modern Shed Plan - a streamlined structure that blends industrial edge with modern minimalism. With its sloped roof, symmetrical framing, and spacious double-door access, Tarkin is ideal for builders, hobbyists, and homeowners who want their backyard shed to deliver both form and function. Whether you\u0027re crafting a garage-style workspace, garden studio, or organized storage solution, the Tarkin 8x16 offers the perfect combination of utili...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/tarkin-8x16-modern-shed-plan-sloped-roof-garage-or-workshop-diy-backyard-storage-studio-design-pdf/open-specs.json"
+}

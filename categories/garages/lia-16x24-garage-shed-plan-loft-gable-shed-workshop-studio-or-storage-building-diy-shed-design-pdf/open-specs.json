@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-16X24-7E998F",
+    "slug":  "lia-16x24-garage-shed-plan-loft-gable-shed-workshop-studio-or-storage-building-diy-shed-design-pdf",
+    "name":  "Lia 16x24 Garage Shed Plan - Loft Gable Shed | Workshop, Studio, or Storage Building | DIY Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "16x24",
+    "area_sf":  384,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 16\u0027 x 24\u0027 (384 sq. ft.)",
+                          "Height: ~12 ft (with loft)",
+                          "Roof Type: Classic gable roof with vented ridge",
+                          "Doors: 6\u0027 wide double glass barn doors",
+                          "Siding: Vertical board-and-batten shown (customizable for wood, lap, or metal)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x24 shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lia%2016x24%20Garage%20Shed%20Plan%20-%20Loft%20Gable%20Shed%20%7C%20Workshop%2C%20Studio%2C%20or%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/174b36/7676367178/il_fullxfull.7676367178_2m75.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Lia 16x24 Garage Shed Plan - a refined gable-roof design that combines modern simplicity, natural texture, and functional elegance. With its generous layout and full loft, Lia offers the perfect balance between storage, workspace, and architectural charm. Whether you\u0027re building a garage, art studio, workshop, or guest-ready loft, the Lia 16x24 delivers both beauty and practicality - a structure that feels handcrafted for your lifestyle.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/lia-16x24-garage-shed-plan-loft-gable-shed-workshop-studio-or-storage-building-diy-shed-design-pdf/open-specs.json"
+}
