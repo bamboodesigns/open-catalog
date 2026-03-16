@@ -1,0 +1,60 @@
+{
+    "plan_id":  "BD-DECK-4X10-F29A48",
+    "slug":  "4x10-micro-dock-plan-paddleboard-launch-for-lake-lanier",
+    "name":  "4x10 Micro Dock Plan - Paddleboard Launch for Lake Lanier",
+    "category":  "decks",
+    "dimensions_ft":  "4x10",
+    "area_sf":  40,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 4x10"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  39,
+    "currency":  "USD",
+    "files":  [
+                  "PDF"
+              ],
+    "tags":  [
+                 "dock plans pdf",
+                 "boat dock blueprint",
+                 "kayak dock plans",
+                 "diy waterfront dock",
+                 "lake house dock plan",
+                 "dock building plans",
+                 "florida dock plans",
+                 "pier dock design",
+                 "texas dock permit",
+                 "wood piling dock",
+                 "diy boat dock",
+                 "4x10 dock",
+                 "4x10 boat slip",
+                 "decks",
+                 "deck",
+                 "pdf plans",
+                 "4x10",
+                 "4x10 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=4x10%20Micro%20Dock%20Plan%20-%20Paddleboard%20Launch%20for%20Lake%20Lanier",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e502ae/7081160166/il_fullxfull.7081160166_183h.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Build your own minimalist lake platform with this 4x10 micro dock plan - ideal for paddleboards, kayaks, or a morning coffee by the water. Fits tight waterfront spaces\nUse as launch pad, swim dock, or private fishing pier\nPiling foundation (DIY install)\nPlans scaled and ready for permitting",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/4x10-micro-dock-plan-paddleboard-launch-for-lake-lanier/open-specs.json"
+}

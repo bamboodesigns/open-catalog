@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-DECK-10X20-BCE718",
+    "slug":  "hamilton-10x20-attached-deck-plan-covered-porch-design-diy-patio-deck-with-roof-and-railings-outdoor-living-pdf",
+    "name":  "Hamilton 10x20 Attached Deck Plan - Covered Porch Design | DIY Patio Deck with Roof \u0026 Railings | Outdoor Living PDF",
+    "category":  "decks",
+    "dimensions_ft":  "10x20",
+    "area_sf":  200,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "attached",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 20\u0027",
+                          "Design Type: Attached covered deck / porch",
+                          "Access: One staircase with railings",
+                          "Roof Style: Sloped for efficient water runoff",
+                          "Use: Outdoor dining, lounge, or sitting area",
+                          "Included: PDF plans with structural diagrams, framing, roof, and railing details",
+                          "Plan Includes:",
+                          "Complete framing layout with measurements"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  59,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "porch pergola plan",
+                 "lean to pergola",
+                 "mobile home deck",
+                 "waco porch design",
+                 "diy deck with roof",
+                 "freestanding deck",
+                 "backyard porch pdf",
+                 "tiny home pergola",
+                 "outdoor entry deck",
+                 "diy deck pdf",
+                 "small patio plan",
+                 "front porch kit",
+                 "10x20 porch",
+                 "decks",
+                 "deck",
+                 "attached",
+                 "porch",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x20"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Hamilton%2010x20%20Attached%20Deck%20Plan%20-%20Covered%20Porch%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7ccb62/7271612104/il_fullxfull.7271612104_79ai.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a cozy, covered outdoor retreat with the Hamilton 10x20 Attached Deck Plan - a smart, space-efficient design that delivers comfort, style, and functionality. This attached deck plan transforms your backyard into a shaded getaway perfect for lounging, dining, or entertaining, seamlessly extending your home\u0027s living space outdoors. 10x20 layout - ideal for patios, dining sets, or outdoor seating\nAttached design - connects directly to your home for a seamless look\nCovered roof - stay shad...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/hamilton-10x20-attached-deck-plan-covered-porch-design-diy-patio-deck-with-roof-and-railings-outdoor-living-pdf/open-specs.json"
+}

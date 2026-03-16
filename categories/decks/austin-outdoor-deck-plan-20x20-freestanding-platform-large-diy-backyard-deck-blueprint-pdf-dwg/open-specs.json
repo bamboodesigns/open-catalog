@@ -1,0 +1,69 @@
+{
+    "plan_id":  "BD-DECK-20X20-1954C4",
+    "slug":  "austin-outdoor-deck-plan-20x20-freestanding-platform-large-diy-backyard-deck-blueprint-pdf-dwg",
+    "name":  "Austin Outdoor Deck Plan - 20x20 Freestanding Platform | Large DIY Backyard Deck Blueprint - PDF + DWG",
+    "category":  "decks",
+    "dimensions_ft":  "20x20",
+    "area_sf":  400,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "outdoor kitchen",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Side Elevation",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  46,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "square porch pdf",
+                 "square porch plan",
+                 "deck patio plan",
+                 "20x20 deck",
+                 "20x20 patio",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "outdoor kitchen",
+                 "rv storage",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Austin%20Outdoor%20Deck%20Plan%20-%2020x20%20Freestanding%20Platform%20%7C%20Large%20DIY%20Backyard%20Deck%20Blueprint%20-%20PDF%20%2B%20DWG",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9278f0/7136643299/il_fullxfull.7136643299_tpe2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a serious outdoor living zone with this 20x20 freestanding deck plan - built for larger patios, modern homes, or backyard upgrades. With 400 square feet of usable space, this deck is perfect for open-air entertaining, outdoor kitchens, or multi-zone furniture layouts. 20\u0027 x 20\u0027 Square Deck - 400 SF\nIdeal for grills, furniture, hot tubs, or outdoor gatherings\nPerfect for Rear or Side Entry\nFreestanding Design (Non-Structural Connection to Home)\nIncludes Steps, Guardrails, and Posts Deta...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/austin-outdoor-deck-plan-20x20-freestanding-platform-large-diy-backyard-deck-blueprint-pdf-dwg/open-specs.json"
+}

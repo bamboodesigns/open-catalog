@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-16X20-9FDAE5",
+    "slug":  "charlotte-backyard-deck-plan-16x20-freestanding-platform-diy-patio-or-hot-tub-deck-blueprint-pdf-dwg",
+    "name":  "Charlotte Backyard Deck Plan - 16x20 Freestanding Platform | DIY Patio or Hot Tub Deck Blueprint (PDF + DWG)",
+    "category":  "decks",
+    "dimensions_ft":  "16x20",
+    "area_sf":  320,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Side Elevation",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "square porch pdf",
+                 "square porch plan",
+                 "deck patio plan",
+                 "16x20 deck",
+                 "16x20 patio",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Charlotte%20Backyard%20Deck%20Plan%20-%2016x20%20Freestanding%20Platform",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/800f2e/7136640137/il_fullxfull.7136640137_4xv2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Expand your outdoor living space with this 16x20 freestanding deck plan, perfect for dining areas, hot tubs, or weekend relaxation. Whether you\u0027re building in the city or out in the suburbs, this spacious deck fits a wide range of backyard layouts. 16x20 Layout - 320 SF total deck space\nIdeal for grills, furniture, hot tubs, or outdoor gatherings\nPerfect for Rear or Side Entry\nFreestanding Design (Non-Structural Connection to Home)\nIncludes Steps, Guardrails, and Posts Details\nPerfect for Tin...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/charlotte-backyard-deck-plan-16x20-freestanding-platform-diy-patio-or-hot-tub-deck-blueprint-pdf-dwg/open-specs.json"
+}

@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-5X8-D6E403",
+    "slug":  "crystal-river-entry-deck-5x8-freestanding-porch-plan-diy-modular-home-deck-with-stairs-and-railing",
+    "name":  "Crystal River Entry Deck - 5x8 Freestanding Porch Plan | DIY Modular Home Deck with Stairs \u0026 Railing",
+    "category":  "decks",
+    "dimensions_ft":  "5x8",
+    "area_sf":  40,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Side Elevation",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "mobile home deck",
+                 "porch deck pdf",
+                 "entry deck plan",
+                 "diy deck project",
+                 "tiny home porch",
+                 "freestanding deck",
+                 "deck with railing",
+                 "modular deck plan",
+                 "prefab porch plan",
+                 "patio deck pdf",
+                 "ocala deck permit",
+                 "5x8 deck plan",
+                 "5x8 deck design",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Crystal%20River%20Entry%20Deck%20-%205x8%20Freestanding%20Porch%20Plan",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/99ad48/7133205836/il_fullxfull.7133205836_66iq.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a clean, code-friendly entry deck for your mobile, modular, or tiny home. These freestanding deck plans are designed to sit independently on footings, making them ideal for backyard upgrades or mobile installations with light permitting. Choose Your Size: 5x8\nFreestanding Design (Non-Structural Connection to Home)\nIncludes Steps, Guardrails, and Posts Details\nPerfect for Tiny Homes, Cabins, and Mobile Homes\nClean, Modern Look with Traditional Framing\nPlan Set Designed for DIY or Permit...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/crystal-river-entry-deck-5x8-freestanding-porch-plan-diy-modular-home-deck-with-stairs-and-railing/open-specs.json"
+}

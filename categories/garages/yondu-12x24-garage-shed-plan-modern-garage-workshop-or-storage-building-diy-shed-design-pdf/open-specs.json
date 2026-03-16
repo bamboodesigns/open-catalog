@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GARG-12X24-3EDAFC",
+    "slug":  "yondu-12x24-garage-shed-plan-modern-garage-workshop-or-storage-building-diy-shed-design-pdf",
+    "name":  "Yondu 12x24 Garage Shed Plan - Modern Garage, Workshop, or Storage Building | DIY Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 24\u0027 (288 sq. ft.)",
+                          "Height: ~12 ft (to gable peak)",
+                          "Roof Type: Gable roof with vented ridge",
+                          "Doors: 8\u0027 garage door + single side entry door",
+                          "Siding: Vertical metal shown (customizable for wood or composite materials)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x24 garage shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Yondu%2012x24%20Garage%20Shed%20Plan%20-%20Modern%20Garage%2C%20Workshop%2C%20or%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/84ea96/7770197053/il_fullxfull.7770197053_gp8d.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Yondu 12x24 Garage Shed Plan - a spacious, modern design that unites precision structure and clean aesthetics. With its tall gable roof, vertical metal siding, and smooth garage door entry, Yondu offers the perfect blend of utility and architectural style. Whether you\u0027re looking for a home workshop, single-car garage, or storage building, the Yondu 12x24 provides expansive interior space, durable framing, and a streamlined look built to last. Designe...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/yondu-12x24-garage-shed-plan-modern-garage-workshop-or-storage-building-diy-shed-design-pdf/open-specs.json"
+}

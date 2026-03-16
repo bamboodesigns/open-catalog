@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-20X20-1B03FD",
+    "slug":  "aspen-grand-entry-deck-20x20-freestanding-porch-plan-diy-modular-or-mobile-home-deck-with-stairs-and-railing",
+    "name":  "Aspen Grand Entry Deck - 20x20 Freestanding Porch Plan | DIY Modular or Mobile Home Deck with Stairs \u0026 Railing",
+    "category":  "decks",
+    "dimensions_ft":  "20x20",
+    "area_sf":  400,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Elevation Drawings",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "mobile home deck",
+                 "porch deck pdf",
+                 "entry deck plan",
+                 "diy deck project",
+                 "tiny home porch",
+                 "freestanding deck",
+                 "deck with railing",
+                 "modular deck plan",
+                 "prefab porch plan",
+                 "patio deck pdf",
+                 "ocala deck permit",
+                 "20x20 deck plan",
+                 "20x20 deck design",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Aspen%20Grand%20Entry%20Deck%20-%2020x20%20Freestanding%20Porch%20Plan",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/179e50/7197595847/il_fullxfull.7197595847_8ejj.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a bold, open-air entryway with the Aspen Grand 20x20 Entry Deck Plan. Designed for mobile homes, modular cabins, and backyard upgrades, this freestanding porch deck delivers maximum space for outdoor dining, seating, or entertaining. 20x20 Large Deck - Spacious design for front or backyard entries\nFreestanding Build - No structural tie-in required\nStairs + Guardrails Included - Safe, code-friendly access\nIdeal for Cabins \u0026 Modular Homes - Strong, traditional framing details\nDIY + Permi...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/aspen-grand-entry-deck-20x20-freestanding-porch-plan-diy-modular-or-mobile-home-deck-with-stairs-and-railing/open-specs.json"
+}

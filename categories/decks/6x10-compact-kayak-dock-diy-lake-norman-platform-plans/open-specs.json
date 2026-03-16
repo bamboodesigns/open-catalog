@@ -1,0 +1,60 @@
+{
+    "plan_id":  "BD-DECK-6X10-F3C422",
+    "slug":  "6x10-compact-kayak-dock-diy-lake-norman-platform-plans",
+    "name":  "6x10 Compact Kayak Dock - DIY Lake Norman Platform Plans",
+    "category":  "decks",
+    "dimensions_ft":  "6x10",
+    "area_sf":  60,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 6x10"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  39,
+    "currency":  "USD",
+    "files":  [
+                  "PDF"
+              ],
+    "tags":  [
+                 "dock plans pdf",
+                 "boat dock blueprint",
+                 "kayak dock plans",
+                 "diy waterfront dock",
+                 "lake house dock plan",
+                 "dock building plans",
+                 "florida dock plans",
+                 "pier dock design",
+                 "texas dock permit",
+                 "wood piling dock",
+                 "diy boat dock",
+                 "6x10 dock",
+                 "6x10 kayak dock",
+                 "decks",
+                 "deck",
+                 "pdf plans",
+                 "6x10",
+                 "6x10 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=6x10%20Compact%20Kayak%20Dock%20-%20DIY%20Lake%20Norman%20Platform%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e2a78f/7129119651/il_fullxfull.7129119651_erou.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Build your own minimalist lake platform with this 6x10 Compact dock plan - ideal for paddleboards, kayaks, or a morning coffee by the water. Fits tight waterfront spaces\nUse as launch pad, swim dock, or private fishing pier\nPiling foundation (DIY install)\nPlans scaled and ready for permitting",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/6x10-compact-kayak-dock-diy-lake-norman-platform-plans/open-specs.json"
+}

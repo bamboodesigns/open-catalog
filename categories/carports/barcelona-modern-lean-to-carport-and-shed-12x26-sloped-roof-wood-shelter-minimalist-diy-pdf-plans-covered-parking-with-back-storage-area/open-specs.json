@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-CARP-12X26-88C25F",
+    "slug":  "barcelona-modern-lean-to-carport-and-shed-12x26-sloped-roof-wood-shelter-minimalist-diy-pdf-plans-covered-parking-with-back-storage-area",
+    "name":  "Barcelona Modern Lean-To Carport \u0026 Shed 12x26 - Sloped Roof Wood Shelter - Minimalist DIY PDF Plans - Covered Parking with Back Storage Area",
+    "category":  "carports",
+    "dimensions_ft":  "12x26",
+    "area_sf":  312,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "lean-to",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 12x26",
+                          "Carport",
+                          "Lean-to",
+                          "Monoslope roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "wood carport plan",
+                 "modern car shelter",
+                 "diy carport plans",
+                 "12x20 carport",
+                 "12x20 open carport",
+                 "12x20 cover",
+                 "new carport",
+                 "carport new",
+                 "carport with storage",
+                 "carport storage",
+                 "shed with parking",
+                 "slope roof carport",
+                 "diy carport",
+                 "carports",
+                 "carport",
+                 "lean-to",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x26"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Barcelona%20Modern%20Lean-To%20Carport%20%26%20Shed%2012x26%20-%20Sloped%20Roof%20Wood%20Shelter%20-%20Minimalist%20DIY%20PDF%20Plans%20-%20Covered%20Parking%20with%20Back%20Storage%20Area",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/83f907/7072166490/il_fullxfull.7072166490_12mk.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Streamlined and functional, this minimalist 12x26 lean-to carport includes an attached shed to keep your essentials dry and secure. Perfect for narrow driveways or modern home styles. Built for simplicity + style\nWood frame design for any climate\nInstant digital download with full drawing set\nIncludes shed framing, carport layout, elevations, and roof plan\nBuilt for Arizona sun, Pacific NW rain, or anywhere you want shade + storage.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/barcelona-modern-lean-to-carport-and-shed-12x26-sloped-roof-wood-shelter-minimalist-diy-pdf-plans-covered-parking-with-back-storage-area/open-specs.json"
+}

@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-20X24-4B9BC1",
+    "slug":  "20x24-montana-freestanding-deck-plan-diy-backyard-platform-for-modular-or-manufactured-homes-pdf-dwg",
+    "name":  "20x24 Montana Freestanding Deck Plan - DIY Backyard Platform for Modular or Manufactured Homes - PDF + DWG",
+    "category":  "decks",
+    "dimensions_ft":  "20x24",
+    "area_sf":  480,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Side Elevation",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "square porch pdf",
+                 "square porch plan",
+                 "deck patio plan",
+                 "20x24 deck",
+                 "20x24 patio",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=20x24%20Montana%20Freestanding%20Deck%20Plan%20-%20DIY%20Backyard%20Platform%20for%20Modular%20or%20Manufactured%20Homes%20-%20PDF%20%2B%20DWG",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/165296/7090737144/il_fullxfull.7090737144_2re8.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Upgrade your backyard living space with our 20x24 Freestanding Deck Plan, designed for easy DIY installation and permit-ready documentation. Perfect for mobile homes, modular builds, or simply creating an elevated outdoor escape. 20x24 Layout - 480 SF total deck space\nIdeal for grills, furniture, hot tubs, or outdoor gatherings\nPerfect for Rear or Side Entry\nFreestanding Design (Non-Structural Connection to Home)\nIncludes Steps, Guardrails, and Posts Details\nPerfect for Tiny Homes, Cabins, an...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/20x24-montana-freestanding-deck-plan-diy-backyard-platform-for-modular-or-manufactured-homes-pdf-dwg/open-specs.json"
+}

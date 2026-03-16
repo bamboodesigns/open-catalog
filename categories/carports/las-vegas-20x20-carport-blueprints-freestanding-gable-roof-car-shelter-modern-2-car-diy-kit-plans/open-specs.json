@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-CARP-20X20-EE7E5E",
+    "slug":  "las-vegas-20x20-carport-blueprints-freestanding-gable-roof-car-shelter-modern-2-car-diy-kit-plans",
+    "name":  "Las Vegas 20x20 Carport Blueprints - Freestanding Gable Roof Car Shelter - Modern 2-Car DIY Kit Plans",
+    "category":  "carports",
+    "dimensions_ft":  "20x20",
+    "area_sf":  400,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "freestanding",
+                 "gable roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 20x20",
+                          "Carport",
+                          "Freestanding",
+                          "Gable roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "open garage",
+                 "garage",
+                 "double carport",
+                 "two car carport",
+                 "two car garage",
+                 "wood carport plan",
+                 "modern car shelter",
+                 "gable roof carport",
+                 "diy carport plans",
+                 "20x20 garage",
+                 "20x20 carport",
+                 "20x20 double garage",
+                 "20x20 double carport",
+                 "carports",
+                 "carport",
+                 "freestanding",
+                 "gable roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "20x20"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Las%20Vegas%2020x20%20Carport%20Blueprints%20-%20Freestanding%20Gable%20Roof%20Car%20Shelter%20-%20Modern%202-Car%20DIY%20Kit%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6ec28c/7087360779/il_fullxfull.7087360779_t4n5.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "DIY Double Carport Plans - Open Gable Roof Structure - Perfect for Backyards\nGive your vehicles the stylish protection they deserve with this modern 20x20 double carport plan by Bamboo Designs. Featuring a sleek gable roof and clean architectural lines, this freestanding structure adds functionality and curb appeal to any property. Whether you\u0027re shielding your cars from Texas sun or prepping for city permits, this downloadable PDF includes easy-to-follow instructions, detailed elevations, di...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/las-vegas-20x20-carport-blueprints-freestanding-gable-roof-car-shelter-modern-2-car-diy-kit-plans/open-specs.json"
+}

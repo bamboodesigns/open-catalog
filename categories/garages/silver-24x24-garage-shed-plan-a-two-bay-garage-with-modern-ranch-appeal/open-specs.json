@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X24-AF5AB3",
+    "slug":  "silver-24x24-garage-shed-plan-a-two-bay-garage-with-modern-ranch-appeal",
+    "name":  "Silver 24x24 Garage Shed Plan - A Two-Bay Garage with Modern Ranch Appeal",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage Shed with High Gable Roof",
+                          "Spacious dual-bay layout offering room for vehicles, tools, machinery, and storage - all beneath a tall, classic gable roofline.",
+                          "DIY-Friendly Construction",
+                          "Simple framing, easy roof geometry, and clear plans make this project accessible for first-time builders and contractors.",
+                          "Dual-Purpose Access: Garage Door + Side Entry",
+                          "A wide overhead garage door accommodates vehicles and equipment, while a side walk-in door adds convenient everyday access.",
+                          "Clean Modern Aesthetic",
+                          "Soft gray lap siding, white trim, and dark garage accents deliver a sleek, contemporary look with timeless durability."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  45,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Silver%2024x24%20Garage%20Shed%20Plan%20-%20A%20Two-Bay%20Garage%20with%20Modern%20Ranch%20Appeal",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c1c645/7721907584/il_fullxfull.7721907584_ikt2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Silver Garage Shed Plan - a 24x24 garage and workspace solution designed for clean lines, strong structure, and modern farmhouse charm. With its sleek gray siding, contrasting dark garage door, and extended covered parking bay, the Silver blends contemporary style with practical, everyday usability. Whether you\u0027re building a two-vehicle garage, home workshop, equipment hub, or flexible utility space, the Silver 24x24 provides generous interior vol...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/silver-24x24-garage-shed-plan-a-two-bay-garage-with-modern-ranch-appeal/open-specs.json"
+}

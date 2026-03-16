@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-DECK-16X20-424FA7",
+    "slug":  "meridian-16x20-covered-deck-plan-freestanding-porch-design-diy-patio-roof-deck-with-railings-and-steps-outdoor-living-pdf",
+    "name":  "Meridian 16x20 Covered Deck Plan - Freestanding Porch Design | DIY Patio Roof Deck with Railings \u0026 Steps | Outdoor Living PDF",
+    "category":  "decks",
+    "dimensions_ft":  "16x20",
+    "area_sf":  320,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "monoslope roof",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 16\u0027 x 20\u0027",
+                          "Design Type: Freestanding covered deck / porch",
+                          "Access: One wide staircase with handrails",
+                          "Roof Style: Sloped roof for effective water drainage",
+                          "Use: Outdoor living, patio lounge, or sheltered dining space",
+                          "Included: Printable PDF plans with framing, roof, and railing details",
+                          "Plan Includes:",
+                          "Framing and post layout with structural details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  59,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "porch pergola plan",
+                 "lean to pergola",
+                 "mobile home deck",
+                 "waco porch design",
+                 "diy deck with roof",
+                 "freestanding deck",
+                 "backyard porch pdf",
+                 "tiny home pergola",
+                 "outdoor entry deck",
+                 "diy deck pdf",
+                 "small patio plan",
+                 "front porch kit",
+                 "16x20 porch",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "monoslope roof",
+                 "porch",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Meridian%2016x20%20Covered%20Deck%20Plan%20-%20Freestanding%20Porch%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ec8a7b/7319528837/il_fullxfull.7319528837_hjm1.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring shade, comfort, and timeless charm to your backyard with the Meridian 16x20 Covered Deck Plan - a spacious, freestanding design that combines open-air relaxation with a protective roof for year-round enjoyment. Perfect for dining, lounging, or entertaining, this covered porch deck adds both beauty and function to any home. Large 16x20 layout - perfect for outdoor furniture, dining, and lounge seating\nFreestanding design - no house attachment required, versatile placement\nCovered roof -...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/meridian-16x20-covered-deck-plan-freestanding-porch-design-diy-patio-roof-deck-with-railings-and-steps-outdoor-living-pdf/open-specs.json"
+}

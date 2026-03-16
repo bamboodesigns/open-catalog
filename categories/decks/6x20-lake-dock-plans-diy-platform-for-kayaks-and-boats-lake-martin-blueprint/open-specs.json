@@ -1,0 +1,60 @@
+{
+    "plan_id":  "BD-DECK-6X20-AFBADC",
+    "slug":  "6x20-lake-dock-plans-diy-platform-for-kayaks-and-boats-lake-martin-blueprint",
+    "name":  "6x20 Lake Dock Plans | DIY Platform for Kayaks \u0026 Boats - Lake Martin Blueprint",
+    "category":  "decks",
+    "dimensions_ft":  "6x20",
+    "area_sf":  120,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 6x20"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  52,
+    "currency":  "USD",
+    "files":  [
+                  "PDF"
+              ],
+    "tags":  [
+                 "dock plans pdf",
+                 "boat dock blueprint",
+                 "kayak dock plans",
+                 "diy waterfront dock",
+                 "lake house dock plan",
+                 "dock building plans",
+                 "florida dock plans",
+                 "pier dock design",
+                 "texas dock permit",
+                 "wood piling dock",
+                 "diy boat dock",
+                 "6x20 dock",
+                 "6x20 kayak dock",
+                 "decks",
+                 "deck",
+                 "pdf plans",
+                 "6x20",
+                 "6x20 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=6x20%20Lake%20Dock%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a568e7/7129124909/il_fullxfull.7129124909_5ohm.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Add the perfect balance of space and simplicity to your waterfront with this 6x20 DIY dock plan. Designed to fit small boats, paddleboards, or dual kayak launch, it\u0027s ideal for cabins, lake homes, or off-grid retreats. 20 ft length - generous room for loading/unloading\n6 ft width - perfect for single-sided tie-up or center access\nWood piling foundation - durable and code-aligned\nIdeal for Lakefront properties",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/6x20-lake-dock-plans-diy-platform-for-kayaks-and-boats-lake-martin-blueprint/open-specs.json"
+}

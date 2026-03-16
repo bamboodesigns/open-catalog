@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-CARP-12X20-F50766",
+    "slug":  "hyper-modern-12x20-carport-blueprint-lean-to-wall-sloped-roof-design-car-shelter-for-diyers-pdf-plans-with-optional-privacy-screen",
+    "name":  "Hyper Modern 12x20 Carport Blueprint - Lean to Wall Sloped Roof Design - Car Shelter for DIYers - PDF Plans with Optional Privacy Screen",
+    "category":  "carports",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "freestanding",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 12x20",
+                          "Carport",
+                          "Freestanding",
+                          "Monoslope roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "open garage",
+                 "garage",
+                 "wood carport plan",
+                 "modern car shelter",
+                 "diy carport plans",
+                 "12x20 carport",
+                 "12x20 garage",
+                 "12x20 open carport",
+                 "12x20 cover",
+                 "slope roof carport",
+                 "lean to wall carport",
+                 "side wall carport",
+                 "setback carport",
+                 "carports",
+                 "carport",
+                 "freestanding",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x20"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Hyper%20Modern%2012x20%20Carport%20Blueprint%20-%20Lean%20to%20Wall%20Sloped%20Roof%20Design%20-%20Car%20Shelter%20for%20DIYers%20-%20PDF%20Plans%20with%20Optional%20Privacy%20Screen",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9f556a/7068847314/il_fullxfull.7068847314_envb.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Hyper Carport Plans 12x20 - Lean to Wall Sloped Roof Parking Shelter - Driveway Cover with Privacy Wall - DIY Buildable PDF Give your vehicles the stylish protection they deserve with this modern 12x20 carport plan by Bamboo Designs. Featuring a sleek sloped roof and clean architectural lines, this freestanding structure adds functionality and curb appeal to any property.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/hyper-modern-12x20-carport-blueprint-lean-to-wall-sloped-roof-design-car-shelter-for-diyers-pdf-plans-with-optional-privacy-screen/open-specs.json"
+}

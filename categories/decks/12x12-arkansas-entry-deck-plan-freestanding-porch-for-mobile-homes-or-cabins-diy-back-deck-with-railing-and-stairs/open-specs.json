@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-12X12-2CC5C7",
+    "slug":  "12x12-arkansas-entry-deck-plan-freestanding-porch-for-mobile-homes-or-cabins-diy-back-deck-with-railing-and-stairs",
+    "name":  "12x12 Arkansas Entry Deck Plan | Freestanding Porch for Mobile Homes or Cabins | DIY Back Deck with Railing \u0026 Stairs",
+    "category":  "decks",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Side Elevation",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "12x12 deck plan",
+                 "square porch pdf",
+                 "144 sf deck plan",
+                 "square porch plan",
+                 "deck patio plan",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=12x12%20Arkansas%20Entry%20Deck%20Plan%20%7C%20Freestanding%20Porch%20for%20Mobile%20Homes%20or%20Cabins",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a3fcd2/7132442509/il_fullxfull.7132442509_rh55.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "This 12x12 freestanding deck plan is a clean and versatile solution for any modular, mobile, or backyard setup. It\u0027s big enough for patio furniture or an outdoor grill, while compact enough to meet most code and HOA restrictions. 144 SF Deck Footprint - Perfect square layout\nPerfect for Rear or Side Entry\nFreestanding Design (Non-Structural Connection to Home)\nIncludes Steps, Guardrails, and Posts Details\nPerfect for Tiny Homes, Cabins, and Mobile Homes\nClean, Modern Look with Traditional Fra...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/12x12-arkansas-entry-deck-plan-freestanding-porch-for-mobile-homes-or-cabins-diy-back-deck-with-railing-and-stairs/open-specs.json"
+}

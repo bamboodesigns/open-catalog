@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-24X24-FD75CA",
+    "slug":  "roux-24x24-garage-shed-plan-a-modern-lean-to-garage-with-warm-contemporary-style",
+    "name":  "Roux 24x24 Garage Shed Plan - A Modern Lean-To Garage with Warm Contemporary Style",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage with Modern Sloped Roof",
+                          "A bold single-pitch roof creates a sleek profile, excellent drainage, and high wall clearance for storage, shelving, and workspace flexibility.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, intuitive layouts, and simplified build steps make this structure ideal for both first-time builders and seasoned DIYers.",
+                          "Wide Overhead Garage Door + Walk-In Entry",
+                          "A modern, paneled garage door provides easy access for vehicles and equipment, while a separate side door improves daily convenience.",
+                          "Warm Modern Rustic Aesthetic",
+                          "Rich brown wood siding, white trim, and industrial-style gooseneck lights give the Roux a high-end, contemporary lodge appearance."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Roux%2024x24%20Garage%20Shed%20Plan%20-%20A%20Modern%20Lean-To%20Garage%20with%20Warm%20Contemporary%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4ad0ec/7721900368/il_fullxfull.7721900368_blwt.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Roux Garage Shed Plan - a 24x24 modern garage and workspace solution designed with clean architectural simplicity, warm wood tones, and everyday practicality. Featuring a streamlined single-slope roof, rich stained horizontal siding, and a wide overhead garage door, the Roux delivers modern elegance with rugged, real-world utility. Whether you\u0027re creating a spacious vehicle bay, full workshop, equipment storage hub, or multi-purpose hobby studio,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/roux-24x24-garage-shed-plan-a-modern-lean-to-garage-with-warm-contemporary-style/open-specs.json"
+}

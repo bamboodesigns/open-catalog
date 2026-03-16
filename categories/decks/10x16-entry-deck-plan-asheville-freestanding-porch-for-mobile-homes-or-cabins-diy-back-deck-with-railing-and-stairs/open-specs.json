@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-10X16-34AD00",
+    "slug":  "10x16-entry-deck-plan-asheville-freestanding-porch-for-mobile-homes-or-cabins-diy-back-deck-with-railing-and-stairs",
+    "name":  "10x16 Entry Deck Plan Asheville | Freestanding Porch for Mobile Homes or Cabins | DIY Back Deck with Railing \u0026 Stairs",
+    "category":  "decks",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Side Elevation",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "10x16 deck plan",
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "160 sf deck plan",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "10x16 deck addition",
+                 "10x16 deck patio",
+                 "10x16 rear deck",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=10x16%20Entry%20Deck%20Plan%20Asheville%20%7C%20Freestanding%20Porch%20for%20Mobile%20Homes%20or%20Cabins",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/73af29/7084488832/il_fullxfull.7084488832_tecp.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Add space, style, and structure with this 10x16 freestanding entry deck plan, designed for mobile homes, cabins, or backyard upgrades. Whether you\u0027re building at a rental, RV park, or family property, this layout offers plenty of room for seating, grilling, or safe access. 10x16 ft Layout - 160 SF of usable space\nPerfect for Rear or Side Entry\nFreestanding Design (Non-Structural Connection to Home)\nIncludes Steps, Guardrails, and Posts Details\nPerfect for Tiny Homes, Cabins, and Mobile Homes...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/10x16-entry-deck-plan-asheville-freestanding-porch-for-mobile-homes-or-cabins-diy-back-deck-with-railing-and-stairs/open-specs.json"
+}

@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GARG-20X28-79EC05",
+    "slug":  "leia-20x28-garage-shed-plan-modern-gable-roof-workshop-two-car-garage-or-studio-design-pdf",
+    "name":  "Leia 20x28 Garage Shed Plan - Modern Gable Roof Workshop | Two-Car Garage or Studio Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "20x28",
+    "area_sf":  560,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 20\u0027 x 28\u0027 (560 sq. ft.)",
+                          "Height: ~12 ft at roof peak",
+                          "Roof Type: Gable roof",
+                          "Doors: Full-width garage door + side entry door",
+                          "Windows: Configurable placements for natural light and ventilation",
+                          "Siding: Vertical panel siding shown (customizable for wood, composite, or metal)",
+                          "Foundation: Concrete slab or pier-supported option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x28 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Leia%2020x28%20Garage%20Shed%20Plan%20-%20Modern%20Gable%20Roof%20Workshop%20%7C%20Two-Car%20Garage%20or%20Studio%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a096fc/7754880931/il_fullxfull.7754880931_add2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next build with the Leia 20x28 Garage Shed Plan - a versatile, high-capacity structure that combines classic gable architecture with modern detailing. Designed for DIYers, builders, and homeowners who value functionality wrapped in clean form, Leia brings timeless strength and adaptable space to your backyard or property. Whether you\u0027re creating a two-car garage, home workshop, creative studio, or organized storage hub, the Leia 20x28 delivers efficiency, symmetry, and a refined m...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/leia-20x28-garage-shed-plan-modern-gable-roof-workshop-two-car-garage-or-studio-design-pdf/open-specs.json"
+}

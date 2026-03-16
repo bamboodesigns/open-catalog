@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-18X28-A28AF8",
+    "slug":  "thanos-18x28-garage-shed-plan-loft-garage-workshop-storage-or-studio-building-diy-shed-design-pdf",
+    "name":  "Thanos 18x28 Garage Shed Plan - Loft Garage | Workshop, Storage, or Studio Building | DIY Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "18x28",
+    "area_sf":  504,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 18\u0027 x 28\u0027 (504 sq. ft.)",
+                          "Height: ~18.5 ft (with loft)",
+                          "Roof Type: Gable roof with full loft and vented ridge",
+                          "Doors: 8\u0027 wide garage door + side entry door",
+                          "Siding: Vertical board-and-batten shown (customizable for wood, lap, or metal finishes)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x28 garage shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Thanos%2018x28%20Garage%20Shed%20Plan%20-%20Loft%20Garage%20%7C%20Workshop%2C%20Storage%2C%20or%20Studio%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e926b6/7770177035/il_fullxfull.7770177035_q479.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Thanos 18x28 Garage Shed Plan - a powerful, lofted gable design that delivers unmatched versatility and visual impact. With its tall roofline, full upper loft, and generous 18x28 footprint, Thanos provides all the space you need for a garage, workshop, creative studio, or storage loft - all while looking sharp and modern in any setting. Designed for DIY builders and design enthusiasts alike, Thanos combines professional-level framing layouts with a c...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/thanos-18x28-garage-shed-plan-loft-garage-workshop-storage-or-studio-building-diy-shed-design-pdf/open-specs.json"
+}

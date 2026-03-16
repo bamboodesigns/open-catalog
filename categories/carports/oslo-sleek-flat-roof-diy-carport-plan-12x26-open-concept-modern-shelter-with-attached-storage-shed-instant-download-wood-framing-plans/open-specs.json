@@ -1,0 +1,65 @@
+{
+    "plan_id":  "BD-CARP-12X26-4A079B",
+    "slug":  "oslo-sleek-flat-roof-diy-carport-plan-12x26-open-concept-modern-shelter-with-attached-storage-shed-instant-download-wood-framing-plans",
+    "name":  "Oslo Sleek Flat Roof DIY Carport Plan 12x26 - Open-Concept Modern Shelter with Attached Storage Shed - Instant Download Wood Framing Plans",
+    "category":  "carports",
+    "dimensions_ft":  "12x26",
+    "area_sf":  312,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "flat roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 12x26",
+                          "Carport",
+                          "Flat roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "wood carport plan",
+                 "modern car shelter",
+                 "diy carport plans",
+                 "12x20 carport",
+                 "12x20 open carport",
+                 "12x20 cover",
+                 "new carport",
+                 "carport new",
+                 "carport with storage",
+                 "carport storage",
+                 "shed with parking",
+                 "shed carport",
+                 "carport shed",
+                 "carports",
+                 "carport",
+                 "flat roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x26",
+                 "12x26 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Oslo%20Sleek%20Flat%20Roof%20DIY%20Carport%20Plan%2012x26%20-%20Open-Concept%20Modern%20Shelter%20with%20Attached%20Storage%20Shed%20-%20Instant%20Download%20Wood%20Framing%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/55fad0/7072157840/il_fullxfull.7072157840_bgf1.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "For lovers of open minimalism, this 12x26 carport offers a bold flat roof with a clean edge, supported by wood framing and featuring a secure 6\u0027 storage shed. Great for driveways with no setbacks. Full drawing set for DIY or contractor builds\nImmediate PDF download for print\nIdeal for California, Texas, or anywhere with bold architectural taste\nPair with dark wood stains or aluminum cladding for a luxury finish.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/oslo-sleek-flat-roof-diy-carport-plan-12x26-open-concept-modern-shelter-with-attached-storage-shed-instant-download-wood-framing-plans/open-specs.json"
+}

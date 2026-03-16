@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-18X20-F18848",
+    "slug":  "warlock-18x20-garage-shed-plan-loft-garage-workshop-storage-or-studio-building-diy-shed-design-pdf",
+    "name":  "Warlock 18x20 Garage Shed Plan - Loft Garage | Workshop, Storage, or Studio Building | DIY Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "18x20",
+    "area_sf":  360,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 18\u0027 x 20\u0027 (360 sq. ft.)",
+                          "Height: ~18.5 ft (with loft)",
+                          "Roof Type: Gable roof with vented ridge and full loft area",
+                          "Doors: 8\u0027 garage door + side man door",
+                          "Siding: Vertical wood shown (customizable for metal, lap, or composite finishes)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  41,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x20 garage shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Warlock%2018x20%20Garage%20Shed%20Plan%20-%20Loft%20Garage%20%7C%20Workshop%2C%20Storage%2C%20or%20Studio%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e40d3d/7722239384/il_fullxfull.7722239384_pyiq.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Warlock 18x20 Garage Shed Plan - a bold and spacious design that merges classic craftsmanship with modern function. With its high-pitched gable roof and full upper loft, this structure offers both everyday practicality and elevated style. Perfect for use as a garage, workshop, creative studio, or storage space, Warlock delivers durability, character, and room to grow. Built with simplicity and precision in mind, this plan makes construction straightf...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/warlock-18x20-garage-shed-plan-loft-garage-workshop-storage-or-studio-building-diy-shed-design-pdf/open-specs.json"
+}

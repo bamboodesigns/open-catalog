@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-DECK-14X20-78C006",
+    "slug":  "oxford-14x20-deck-plan-freestanding-backyard-deck-diy-patio-platform-with-railings-and-stairs-outdoor-living-pdf",
+    "name":  "Oxford 14x20 Deck Plan - Freestanding Backyard Deck | DIY Patio Platform with Railings \u0026 Stairs | Outdoor Living PDF",
+    "category":  "decks",
+    "dimensions_ft":  "14x20",
+    "area_sf":  280,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 14\u0027 x 20\u0027",
+                          "Design Type: Freestanding elevated deck",
+                          "Access: One wide 5-step staircase with railing",
+                          "Use: Outdoor dining, lounging, or entertainment area",
+                          "Included: Printable PDF plan with framing layout, cut list, and materials guide",
+                          "Plan Includes:",
+                          "Full structural framing diagrams",
+                          "Stair and railing construction details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "10x16 deck plan",
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "160 sf deck plan",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "10x16 deck addition",
+                 "10x16 rear deck",
+                 "14x20 deck patio",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Oxford%2014x20%20Deck%20Plan%20-%20Freestanding%20Backyard%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7adffd/7271429804/il_fullxfull.7271429804_ij55.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into an inviting outdoor retreat with the Oxford 14x20 Freestanding Deck Plan. This spacious, open-style deck provides the perfect foundation for dining, lounging, and entertaining, combining functionality with elegant design. Its freestanding structure allows flexible placement - perfect for patios, gardens, or poolside areas. Expansive 14x20 layout - ideal for large furniture sets and gatherings\nFreestanding design - no house attachment needed for easy placement\nSafe...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/oxford-14x20-deck-plan-freestanding-backyard-deck-diy-patio-platform-with-railings-and-stairs-outdoor-living-pdf/open-specs.json"
+}

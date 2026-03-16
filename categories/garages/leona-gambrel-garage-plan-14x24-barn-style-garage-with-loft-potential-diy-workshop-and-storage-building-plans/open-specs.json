@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-14X24-DA786F",
+    "slug":  "leona-gambrel-garage-plan-14x24-barn-style-garage-with-loft-potential-diy-workshop-and-storage-building-plans",
+    "name":  "Leona Gambrel Garage Plan - 14x24 Barn-Style Garage with Loft Potential | DIY Workshop \u0026 Storage Building Plans",
+    "category":  "garages",
+    "dimensions_ft":  "14x24",
+    "area_sf":  336,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x24 Gambrel Roof Garage Design",
+                          "Classic barn-style architecture with a high-capacity roof profile that enhances interior space and visual character.",
+                          "Spacious Garage \u0026 Workshop Layout",
+                          "The 14x24 footprint offers ample room for motorcycles, ATVs, lawn equipment, workshop benches, or compact vehicle storage while still leaving room for organized workspace.",
+                          "Loft-Ready Roof Structure",
+                          "The gambrel roof naturally creates overhead loft potential-perfect for seasonal storage, tool organization, or an elevated storage platform.",
+                          "DIY-Friendly Construction",
+                          "Clean framing techniques and practical dimensions make Leona an approachable build for both beginner builders and experienced DIY enthusiasts."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x24 shed",
+                 "garages",
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Leona%20Gambrel%20Garage%20Plan%20-%2014x24%20Barn-Style%20Garage%20with%20Loft%20Potential",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/491c24/7773758010/il_fullxfull.7773758010_obso.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Leona Gambrel Garage - a spacious 14x24 barn-style garage and workshop building designed for efficiency, durability, and timeless architectural appeal. Featuring the classic gambrel roof profile, Leona maximizes interior headroom while delivering the charming look of a traditional barn-inspired structure. With its well-balanced footprint, loft-ready roof design, and DIY-friendly construction, this garage blends practical functionality with eye-cat...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/leona-gambrel-garage-plan-14x24-barn-style-garage-with-loft-potential-diy-workshop-and-storage-building-plans/open-specs.json"
+}

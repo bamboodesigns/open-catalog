@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-14X20-3FC091",
+    "slug":  "sandhill-garage-shed-plan-14x20-gable-garage-workshop-diy-pdf-building-plans",
+    "name":  "Sandhill Garage Shed Plan - 14x20 Gable Garage Workshop | DIY PDF Building Plans",
+    "category":  "garages",
+    "dimensions_ft":  "14x20",
+    "area_sf":  280,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x20 Garage Shed with Gable Roof",
+                          "A classic peaked roof design provides excellent headroom, weather resistance, and timeless backyard style.",
+                          "Garage-Ready Front Access",
+                          "Designed to accommodate wide garage doors or double shed doors for easy storage of lawn equipment, motorcycles, ATVs, or workshop tools.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, standard lumber sizes, and efficient structural layout make Sandhill ideal for both beginner and experienced builders.",
+                          "Spacious Workshop Interior",
+                          "The 280 sq ft layout offers plenty of room for workbenches, storage shelving, hobby space, or compact vehicle storage."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  40,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x20 shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sandhill%20Garage%20Shed%20Plan%20-%2014x20%20Gable%20Garage%20Workshop",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f52823/7820974517/il_fullxfull.7820974517_fjza.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Sandhill Garage Shed - a spacious 14x20 garage-style storage and workshop structure designed for durability, versatility, and clean traditional lines. Built with a classic gable roof and practical garage-style layout, Sandhill blends strong curb appeal with highly functional interior space. Whether you\u0027re planning a backyard garage, ATV storage building, woodworking shop, or organized tool hub, this 14x20 garage shed plan provides the room and str...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/sandhill-garage-shed-plan-14x20-gable-garage-workshop-diy-pdf-building-plans/open-specs.json"
+}

@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-24X40-109CB9",
+    "slug":  "pi-24x40-rv-garage-shed-plan-modern-barn-style-rv-storage-and-workshop",
+    "name":  "Pi 24x40 RV Garage Shed Plan - Modern Barn Style RV Storage \u0026 Workshop",
+    "category":  "garages",
+    "dimensions_ft":  "24x40",
+    "area_sf":  960,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x40 Large RV Garage Layout",
+                          "A spacious footprint designed to comfortably accommodate RVs, motorhomes, campers, boats, and multiple vehicles with room for shelving, tools, or workspace.",
+                          "Tall RV-Height Garage Door",
+                          "Wide overhead garage door provides easy entry and maneuverability for larger vehicles and trailers.",
+                          "Classic High-Pitch Gable Roof",
+                          "The tall gable roof adds vertical clearance, excellent water drainage, and the timeless look of a modern barn-style garage.",
+                          "Durable Exterior Design",
+                          "Horizontal siding paired with a brick wainscot base creates a balanced modern-rustic appearance while adding durability and architectural character."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "garage shed",
+                 "24x40 rv garage plan",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "rv storage",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pi%2024x40%20RV%20Garage%20Shed%20Plan%20-%20Modern%20Barn%20Style%20RV%20Storage%20%26%20Workshop",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0265c4/7801206448/il_fullxfull.7801206448_8xhu.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Upgrade your property with the Pi RV Garage Shed - a spacious 24x40 storage and workshop structure designed for durability, efficiency, and classic barn-inspired style. Featuring a tall gable roof, warm horizontal siding, and a sturdy brick wainscot base, Pi combines practical vehicle storage with clean architectural lines that complement rural homes, farms, and modern backyard landscapes. The generous 24x40 footprint provides ample interior space to house RVs, campers, trailers, boats, truck...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/pi-24x40-rv-garage-shed-plan-modern-barn-style-rv-storage-and-workshop/open-specs.json"
+}

@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-10X10-408B44",
+    "slug":  "clayton-10x10-entry-deck-plan-freestanding-porch-for-mobile-or-modular-homes-diy-backyard-deck-with-stairs-and-railing",
+    "name":  "Clayton 10x10 Entry Deck Plan | Freestanding Porch for Mobile or Modular Homes | DIY Backyard Deck with Stairs \u0026 Railing",
+    "category":  "decks",
+    "dimensions_ft":  "10x10",
+    "area_sf":  100,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Side Elevation",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "mobile home deck",
+                 "porch deck pdf",
+                 "entry deck plan",
+                 "diy deck project",
+                 "tiny home porch",
+                 "freestanding deck",
+                 "deck with railing",
+                 "modular deck plan",
+                 "prefab porch plan",
+                 "patio deck pdf",
+                 "ocala deck permit",
+                 "10x10 deck plan",
+                 "10x10 porch",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Clayton%2010x10%20Entry%20Deck%20Plan%20%7C%20Freestanding%20Porch%20for%20Mobile%20or%20Modular%20Homes",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/58c5e3/7084067022/il_fullxfull.7084067022_jyk1.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Step into style and structure with this professionally designed 10x10 freestanding entry deck plan - perfect for mobile homes, modular setups, backyard cabins, or tiny houses. This deck adds comfort, code-friendly access, and serious curb appeal to any property. 10x10 Freestanding Design (Non-Structural Connection to Home)\nIncludes Steps, Guardrails, and Posts Details\nPerfect for Tiny Homes, Cabins, and Mobile Homes\nClean, Modern Look with Traditional Framing\nPlan Set Designed for DIY or Perm...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/clayton-10x10-entry-deck-plan-freestanding-porch-for-mobile-or-modular-homes-diy-backyard-deck-with-stairs-and-railing/open-specs.json"
+}

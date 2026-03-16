@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-12X16-137D06",
+    "slug":  "sedona-entry-deck-12x16-freestanding-porch-plan-diy-modular-cabin-and-mobile-home-deck",
+    "name":  "Sedona Entry Deck - 12x16 Freestanding Porch Plan | DIY Modular, Cabin \u0026 Mobile Home Deck",
+    "category":  "decks",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Elevation Drawings",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "mobile home deck",
+                 "porch deck pdf",
+                 "entry deck plan",
+                 "diy deck project",
+                 "tiny home porch",
+                 "freestanding deck",
+                 "deck with railing",
+                 "modular deck plan",
+                 "prefab porch plan",
+                 "patio deck pdf",
+                 "ocala deck permit",
+                 "12x16 deck",
+                 "12x16 deck plan",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sedona%20Entry%20Deck%20-%2012x16%20Freestanding%20Porch%20Plan",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ac7d9f/7149611502/il_fullxfull.7149611502_ki7u.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Add Southwest-inspired charm with the Sedona 12x16 Entry Deck Plan. This freestanding porch deck provides a balanced footprint for small-to-medium homes, giving you enough room for chairs, tables, and a comfortable entryway. 12x16 Deck Size - Compact yet spacious enough for entertaining\nFreestanding Design - No structural tie-in to the home\nIncludes Stairs \u0026 Guardrails - Safe access for daily use\nPerfect for Tiny Homes, Cabins \u0026 RV Lots\nDIY-Friendly + Permit-Ready",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/sedona-entry-deck-12x16-freestanding-porch-plan-diy-modular-cabin-and-mobile-home-deck/open-specs.json"
+}
