@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-4X4-A9821A",
+    "slug":  "baldwin-circle-pool-deck-plan-4x4-entry-deck-with-6-step-staircase-diy-pdf-plans",
+    "name":  "Baldwin Circle Pool Deck Plan - 4x4 Entry Deck with 6-Step Staircase | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "4x4",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 4\u0027 x 4\u0027",
+                          "Pool Fit: Round above-ground 24\u0027 diameter pool (pool not included)",
+                          "Access Point: One 6-step staircase",
+                          "Style: Functional and compact, designed for safety and everyday pool use"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "4x4 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "4x4",
+                 "4x4 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Baldwin%20Circle%20Pool%20Deck%20Plan%20-%204x4%20Entry%20Deck%20with%206-Step%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0b82bd/7682498134/il_fullxfull.7682498134_kamv.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Baldwin Circle Pool Deck Plan is the ideal solution for adding safe, stylish, and compact access to your above-ground pool. With a 4x4 elevated entry deck, built-in railings, and a 6-step staircase, this design provides a secure entry point while keeping yard space open. Perfect for families who want safety, convenience, and Florida-inspired outdoor living. Designed for round above-ground pools (up to 24\u0027 diameter)\nCompact 4x4 entry deck - great for smaller backyards\nSafe 6-step staircase...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/baldwin-circle-pool-deck-plan-4x4-entry-deck-with-6-step-staircase-diy-pdf-plans/open-specs.json"
+}

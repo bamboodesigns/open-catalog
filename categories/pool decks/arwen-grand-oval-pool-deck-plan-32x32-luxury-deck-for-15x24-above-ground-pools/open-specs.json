@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-POOL-32X32-4D8679",
+    "slug":  "arwen-grand-oval-pool-deck-plan-32x32-luxury-deck-for-15x24-above-ground-pools",
+    "name":  "Arwen Grand Oval Pool Deck Plan - 32x32 Luxury Deck for 15x24 Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "32x32",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 x 24\u0027 Oval Above-Ground Pools",
+                          "Custom-scaled to fit oval pools while maximizing usable deck space (pool not included).",
+                          "Massive 32\u0027 x 32\u0027 Platform Deck",
+                          "Creates a full outdoor living area with space for loungers, dining sets, planters, and entertaining zones.",
+                          "Dual Staircase Entry Points",
+                          "Two safe, code-friendly stair access points improve traffic flow and pool safety.",
+                          "Built-In Railings Around Deck Perimeter",
+                          "Provides peace of mind for families while maintaining a clean, polished look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "32x32 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "32x32"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Arwen%20Grand%20Oval%20Pool%20Deck%20Plan%20-%2032x32%20Luxury%20Deck%20for%2015x24%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8084f8/7647435322/il_fullxfull.7647435322_ee5w.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Arwen Pool Deck Plan transforms your above-ground oval pool into a true backyard retreat. Designed for 15\u0027 x 24\u0027 oval pools, this expansive 32\u0027 x 32\u0027 deck layout offers generous lounging zones, seamless pool access, and a resort-inspired footprint perfect for entertaining, relaxing, and everyday outdoor living. With wrap-around railings, dual staircases, and ample room for seating, dining, and planters, Arwen delivers elegance, safety, and functionality in one standout design.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/arwen-grand-oval-pool-deck-plan-32x32-luxury-deck-for-15x24-above-ground-pools/open-specs.json"
+}

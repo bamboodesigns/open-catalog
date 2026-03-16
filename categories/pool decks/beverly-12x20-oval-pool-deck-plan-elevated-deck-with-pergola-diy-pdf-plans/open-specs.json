@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-12X20-B65ED5",
+    "slug":  "beverly-12x20-oval-pool-deck-plan-elevated-deck-with-pergola-diy-pdf-plans",
+    "name":  "Beverly 12x20 Oval Pool Deck Plan - Elevated Deck with Pergola | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "12x20",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 12\u0027 x 20\u0027",
+                          "Pool Fit: 18x33 oval above-ground pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Modern-coastal, combining shade, airflow, and outdoor entertaining"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "12x20 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x20",
+                 "12x20 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Beverly%2012x20%20Oval%20Pool%20Deck%20Plan%20-%20Elevated%20Deck%20with%20Pergola",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e42f2a/7668146882/il_fullxfull.7668146882_bh89.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Beverly Oval Pool Deck Plan transforms your above-ground pool into a stylish outdoor retreat. Featuring a spacious 12x20 deck, safety railings, a wide staircase, and a full pergola over the pool, this design blends comfort, shade, and function for the ultimate backyard upgrade. Perfect for families and entertainers who want their deck to feel as luxurious as their pool. Designed for 18x33 oval above-ground pools\nOversized 12x20 elevated deck for seating, dining, or lounging\nFull pergola o...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/beverly-12x20-oval-pool-deck-plan-elevated-deck-with-pergola-diy-pdf-plans/open-specs.json"
+}

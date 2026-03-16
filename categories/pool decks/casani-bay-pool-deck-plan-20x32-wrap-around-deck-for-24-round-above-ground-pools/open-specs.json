@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-20X32-FDD996",
+    "slug":  "casani-bay-pool-deck-plan-20x32-wrap-around-deck-for-24-round-above-ground-pools",
+    "name":  "Casani Bay Pool Deck Plan - 20x32 Wrap-Around Deck for 24\u0027 Round Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "20x32",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 24\u0027 Round Above-Ground Pools",
+                          "Engineered specifically for larger pool setups (pool not included).",
+                          "Spacious 20\u0027 x 32\u0027 Wrap-Around Deck",
+                          "Ample room for seating areas, loungers, dining sets, and poolside furniture.",
+                          "Two Staircases for Easy Access",
+                          "Convenient and safe entry points for swimmers and guests.",
+                          "Full Perimeter Railing System",
+                          "Provides safety while maintaining open sightlines around the pool."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "20x32 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "20x32"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Casani%20Bay%20Pool%20Deck%20Plan%20-%2020x32%20Wrap-Around%20Deck%20for%2024\u0027%20Round%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/05b987/7730457763/il_fullxfull.7730457763_ch6y.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Casani Bay Pool Deck Plan transforms a large above-ground pool into a true backyard destination. Designed for 24\u0027 round above-ground pools, this expansive 20\u0027 x 32\u0027 wrap-around deck delivers generous space for lounging, entertaining, and seamless pool access-all while maintaining safety, comfort, and a clean coastal aesthetic. With wide decking, built-in railings, and dual stair access, Casani Bay is perfect for families, hosts, and homeowners who want a resort-inspired pool deck that fee...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/casani-bay-pool-deck-plan-20x32-wrap-around-deck-for-24-round-above-ground-pools/open-specs.json"
+}

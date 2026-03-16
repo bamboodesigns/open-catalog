@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-POOL-15X30-2F2BD7",
+    "slug":  "airy-oval-pool-deck-plan-15x30-pool-16x23-compact-deck-layout-diy-pdf-plans",
+    "name":  "Airy Oval Pool Deck Plan - 15x30 Pool | 16x23 Compact Deck Layout | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "15x30",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Pool Fit: 15x30 Oval Above-Ground Pools (pool not included)",
+                          "Overall Deck Size: 16\u0027 x 23\u0027",
+                          "Deck Style: Compact entry deck with efficient lounging zone",
+                          "Access Points: Two staircases for smooth entry \u0026 exit",
+                          "Design Style: Modern coastal / Florida-inspired outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "16x23 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "15x30",
+                 "15x30 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Airy%20Oval%20Pool%20Deck%20Plan%20-%2015x30%20Pool%20%7C%2016x23%20Compact%20Deck%20Layout",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/dc94cd/7647757288/il_fullxfull.7647757288_ebrf.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Airy Oval Pool Deck Plan is a beautifully compact and efficient design created specifically for 15x30 oval above-ground pools. Featuring a space-saving 16x23 layout, Airy delivers safe pool access, comfortable lounging space, and modern outdoor style - all while preserving valuable yard space. With dual staircases, integrated railings, and a smart, streamlined flow, Airy offers the perfect blend of function, safety, and simplicity, making it ideal for smaller backyards, tight layouts, and...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/airy-oval-pool-deck-plan-15x30-pool-16x23-compact-deck-layout-diy-pdf-plans/open-specs.json"
+}

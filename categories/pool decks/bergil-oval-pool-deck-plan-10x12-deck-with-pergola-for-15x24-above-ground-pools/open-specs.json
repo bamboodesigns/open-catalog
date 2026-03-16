@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-POOL-10X12-350079",
+    "slug":  "bergil-oval-pool-deck-plan-10x12-deck-with-pergola-for-15x24-above-ground-pools",
+    "name":  "Bergil Oval Pool Deck Plan - 10x12 Deck with Pergola for 15x24 Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x12",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 x 24\u0027 Oval Above-Ground Pools",
+                          "Engineered for proper alignment and fit (pool not included).",
+                          "10\u0027 x 12\u0027 Elevated Pool Deck",
+                          "Comfortable space for chairs, loungers, or a small table setup.",
+                          "Built-In Pergola Structure",
+                          "Adds partial shade, visual interest, and a resort-style feel.",
+                          "Single Staircase Access",
+                          "Safe and efficient entry with railing details included."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x12 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x12"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Bergil%20Oval%20Pool%20Deck%20Plan%20-%2010x12%20Deck%20with%20Pergola%20for%2015x24%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/18a4d5/7695387657/il_fullxfull.7695387657_45rs.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Bergil Oval Pool Deck Plan brings elevated comfort and shade to your backyard pool setup. Designed specifically for 15\u0027 x 24\u0027 oval above-ground pools, Bergil features a 10\u0027 x 12\u0027 raised deck topped with an open pergola, creating a relaxed poolside retreat that blends lounging, shade, and safe access into one elegant design. Perfect for homeowners who want more than a basic entry platform, Bergil adds architectural interest while maintaining a compact footprint-ideal for sun protection, co...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/bergil-oval-pool-deck-plan-10x12-deck-with-pergola-for-15x24-above-ground-pools/open-specs.json"
+}

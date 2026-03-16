@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-POOL-40X34-304FB3",
+    "slug":  "bella-40x34-circle-pool-deck-plan-diy-above-ground-pool-deck-wrap-around-lounge-and-entertainment-space-pdf-building-plans",
+    "name":  "Bella 40x34 Circle Pool Deck Plan - DIY Above-Ground Pool Deck | Wrap-Around Lounge \u0026 Entertainment Space | PDF Building Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "40x34",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 24\u0027 Round Above-Ground Pools",
+                          "Precision opening layout ensures a clean transition between deck and pool (pool not included).",
+                          "Massive 40\u0027 x 34\u0027 Deck Platform",
+                          "Extra-large layout provides space for outdoor dining, lounge areas, sun chairs, and entertaining zones.",
+                          "Raised Deck for Easy Pool Entry",
+                          "Step directly from deck level into the pool for smooth and comfortable access.",
+                          "Full Safety Railing System",
+                          "Integrated perimeter railings provide safety while keeping the space open and inviting."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "40x34 pool deck plan",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "40x34"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Bella%2040x34%20Circle%20Pool%20Deck%20Plan%20-%20DIY%20Above-Ground%20Pool%20Deck%20%7C%20Wrap-Around%20Lounge%20%26%20Entertainment%20Space%20%7C%20PDF%20Building%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6545ca/7801351700/il_fullxfull.7801351700_hip3.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Enjoy expansive backyard poolside living with the Bella Pool Deck Plan, a stunning 40\u0027 x 34\u0027 raised deck designed specifically for 24\u0027 round above-ground pools. Built for homeowners who want a resort-style outdoor space, Bella combines safety, generous lounging space, and modern backyard design to transform a standard above-ground pool into a true outdoor destination. The oversized deck layout provides plenty of room for lounge seating, dining tables, umbrellas, and entertaining zones, creati...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/bella-40x34-circle-pool-deck-plan-diy-above-ground-pool-deck-wrap-around-lounge-and-entertainment-space-pdf-building-plans/open-specs.json"
+}

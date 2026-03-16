@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-10X18-F95059",
+    "slug":  "carmel-valley-oval-pool-deck-plan-10x18-elevated-deck-with-6-step-entry-diy-pdf-plans",
+    "name":  "Carmel Valley Oval Pool Deck Plan - 10x18 Elevated Deck with 6-Step Entry | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x18",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 18\u0027",
+                          "Pool Fit: 21x41 oval above-ground pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Coastal-inspired, blending California poolside living with a true outdoor room feel"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x18 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x18",
+                 "10x18 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Carmel%20Valley%20Oval%20Pool%20Deck%20Plan%20-%2010x18%20Elevated%20Deck%20with%206-Step%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/638f86/7655349084/il_fullxfull.7655349084_j8u6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Carmel Valley Oval Pool Deck Plan transforms your above-ground pool into the perfect outdoor retreat. With a spacious 10x18 elevated deck, built-in railings, and a wide 6-step staircase, this design doubles as both a safe pool entry and a dedicated lounge or dining space. Perfect for families who want their deck to shine as much as their pool. Designed for 21x41 oval above-ground pools\nLarge 10x18 elevated deck with dining + seating space\nSafe 6-step staircase and railing details included...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/carmel-valley-oval-pool-deck-plan-10x18-elevated-deck-with-6-step-entry-diy-pdf-plans/open-specs.json"
+}

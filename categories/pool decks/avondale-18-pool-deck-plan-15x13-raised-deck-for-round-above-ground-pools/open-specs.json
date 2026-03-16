@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-15X13-DEE6E1",
+    "slug":  "avondale-18-pool-deck-plan-15x13-raised-deck-for-round-above-ground-pools",
+    "name":  "Avondale 18\u0027 Pool Deck Plan - 15x13 Raised Deck for Round Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "15x13",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 18\u0027 Round Above-Ground Pools",
+                          "Precision opening layout for a seamless pool-to-deck transition (pool not included).",
+                          "15\u0027 x 13\u0027 Elevated Deck Platform",
+                          "Spacious footprint provides room for lounge chairs, small dining sets, or conversation seating.",
+                          "Raised Entry for Easy Pool Access",
+                          "Step directly from deck to pool edge for safe and convenient entry.",
+                          "Integrated Railing System",
+                          "Modern guardrail layout enhances safety while maintaining open backyard views."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "15x13 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "15x13"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Avondale%2018\u0027%20Pool%20Deck%20Plan%20-%2015x13%20Raised%20Deck%20for%20Round%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/071457/7754046615/il_fullxfull.7754046615_7gvr.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Elevate your backyard experience with the Avondale Pool Deck Plan - a stylish and functional 15\u0027 x 13\u0027 raised deck designed specifically for 18\u0027 round above-ground pools. Blending comfort, safety, and modern outdoor living, Avondale creates the perfect poolside retreat for relaxing, entertaining, and soaking up the season. With its clean railing lines, generous lounge space, and easy-access staircase, this design transforms your above-ground pool into a polished backyard focal point. Whether...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/avondale-18-pool-deck-plan-15x13-raised-deck-for-round-above-ground-pools/open-specs.json"
+}

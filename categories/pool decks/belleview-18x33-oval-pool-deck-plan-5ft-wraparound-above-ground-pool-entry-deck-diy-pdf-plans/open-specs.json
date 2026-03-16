@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-POOL-18X33-8CF5E4",
+    "slug":  "belleview-18x33-oval-pool-deck-plan-5ft-wraparound-above-ground-pool-entry-deck-diy-pdf-plans",
+    "name":  "Belleview 18x33 Oval Pool Deck Plan - 5ft Wraparound Above-Ground Pool Entry Deck | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "18x33",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Width: 5\u0027 wraparound platform",
+                          "Pool Fit: 18x33 oval above-ground pool opening (not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Coastal-modern, curved design built for safety, airflow, and backyard appeal"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "5\u0027 wrap around deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "18x33"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Belleview%2018x33%20Oval%20Pool%20Deck%20Plan%20-%205ft%20Wraparound%20Above-Ground%20Pool%20Entry%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/2dd056/7668037234/il_fullxfull.7668037234_6but.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Belleview 18x33 Oval Pool Deck Plan gives your pool a stylish coastal-inspired upgrade with a smart 5ft wraparound design. Featuring a curved edge that follows the pool shape, safety railings, and a 6-step staircase, this deck makes your pool both safer and more inviting. With space for seating and accents like planters or lounge chairs, it\u0027s the perfect blend of form and function. Designed for 18x33 oval above-ground pools\n5ft wraparound deck for safer pool entry + stylish design\nInclude...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/belleview-18x33-oval-pool-deck-plan-5ft-wraparound-above-ground-pool-entry-deck-diy-pdf-plans/open-specs.json"
+}

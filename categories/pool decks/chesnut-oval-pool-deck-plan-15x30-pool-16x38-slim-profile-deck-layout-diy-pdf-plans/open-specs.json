@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-POOL-15X30-1314DC",
+    "slug":  "chesnut-oval-pool-deck-plan-15x30-pool-16x38-slim-profile-deck-layout-diy-pdf-plans",
+    "name":  "Chesnut Oval Pool Deck Plan - 15x30 Pool | 16x38 Slim Profile Deck Layout | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "15x30",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Pool Fit: 15x30 Oval Above-Ground Pools (pool not included)",
+                          "Overall Deck Size: 16\u0027 x 38\u0027",
+                          "Deck Style: Slim-profile layout with efficient lounging zones",
+                          "Access Points: Two staircases for easy entry \u0026 exit",
+                          "Design Style: Modern coastal / Florida-inspired outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "16x38 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "15x30",
+                 "15x30 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Chesnut%20Oval%20Pool%20Deck%20Plan%20-%2015x30%20Pool%20%7C%2016x38%20Slim%20Profile%20Deck%20Layout",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/176f97/7696009381/il_fullxfull.7696009381_ruo1.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Chesnut Oval Pool Deck Plan delivers a clean, efficient, and beautifully balanced layout designed specifically for 15x30 oval above-ground pools. Featuring a streamlined 16x38 footprint, this deck offers safe access, functional lounging space, and a modern outdoor aesthetic - perfect for backyards where space efficiency matters just as much as style. With dual staircases, integrated railings, and a smart flow design, Chesnut creates a welcoming pool entry while preserving valuable yard sp...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/chesnut-oval-pool-deck-plan-15x30-pool-16x38-slim-profile-deck-layout-diy-pdf-plans/open-specs.json"
+}

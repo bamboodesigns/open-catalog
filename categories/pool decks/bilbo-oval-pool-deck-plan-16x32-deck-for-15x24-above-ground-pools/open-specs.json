@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-16X32-9A2117",
+    "slug":  "bilbo-oval-pool-deck-plan-16x32-deck-for-15x24-above-ground-pools",
+    "name":  "Bilbo Oval Pool Deck Plan - 16x32 Deck for 15x24 Above-Ground Pools",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x32",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 x 24\u0027 Oval Above-Ground Pools",
+                          "Optimized for oval pool shapes while maximizing usable deck space (pool not included).",
+                          "Spacious 16\u0027 x 32\u0027 Deck Platform",
+                          "Plenty of room for outdoor seating, loungers, dining areas, and entertaining zones.",
+                          "Dual Staircase Entry Points",
+                          "Two safe, easy-access staircases enhance circulation and improve overall safety.",
+                          "Built-In Railing System",
+                          "Full perimeter railings provide peace of mind without blocking open backyard views."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "16x32 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x32",
+                 "16x32 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Bilbo%20Oval%20Pool%20Deck%20Plan%20-%2016x32%20Deck%20for%2015x24%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/accf23/7695391551/il_fullxfull.7695391551_am91.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Bilbo Oval Pool Deck Plan transforms your above-ground pool into a welcoming backyard escape designed for relaxation, entertaining, and everyday enjoyment. Crafted specifically for 15\u0027 x 24\u0027 oval above-ground pools, this 16\u0027 x 32\u0027 deck layout delivers generous lounge space, smooth traffic flow, and safe, comfortable pool access - all wrapped in a timeless, resort-inspired design. With built-in railings, dual staircases, and ample room for seating, umbrellas, and decor, Bilbo blends charm,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/bilbo-oval-pool-deck-plan-16x32-deck-for-15x24-above-ground-pools/open-specs.json"
+}

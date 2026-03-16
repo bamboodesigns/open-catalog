@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-NA-C5FA7F",
+    "slug":  "arcadia-circle-pool-deck-plan-5ft-wrap-around-deck-with-dual-6-step-entry-diy-pdf-plans",
+    "name":  "Arcadia Circle Pool Deck Plan - 5ft Wrap Around Deck with Dual 6-Step Entry | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  null,
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 5ft wrap-around",
+                          "Pool Fit: Round above-ground 24\u0027 diameter pool (pool not included)",
+                          "Access Points: Two 6-step staircases",
+                          "Style: Southern-inspired, blending poolside relaxation with functional outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "5\u0027 wrap around deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "diy plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Arcadia%20Circle%20Pool%20Deck%20Plan%20-%205ft%20Wrap%20Around%20Deck%20with%20Dual%206-Step%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/1ce838/7728036643/il_fullxfull.7728036643_agcs.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Arcadia Circle Pool Deck Plan makes your above-ground pool the centerpiece of backyard living. With a stylish 5ft wrap-around deck, built-in railings, and two 6-step staircases, this design is the perfect combination of pool safety and outdoor entertaining. Whether you\u0027re hosting family gatherings or just enjoying a quiet swim, this deck adds comfort, convenience, and Southern-inspired charm. Designed for round above-ground pools (24\u0027 diameter)\n5ft wrap-around elevated decking for maximum...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/arcadia-circle-pool-deck-plan-5ft-wrap-around-deck-with-dual-6-step-entry-diy-pdf-plans/open-specs.json"
+}

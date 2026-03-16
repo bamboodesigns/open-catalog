@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-POOL-15X30-887D08",
+    "slug":  "breezy-oval-pool-deck-plan-15x30-pool-10x12-ultra-compact-entry-deck-diy-pdf-plans",
+    "name":  "Breezy Oval Pool Deck Plan - 15x30 Pool | 10x12 Ultra-Compact Entry Deck | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "15x30",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Pool Fit: 15x30 Oval Above-Ground Pools (pool not included)",
+                          "Overall Deck Size: 10\u0027 x 12\u0027",
+                          "Deck Style: Compact entry platform with streamlined flow",
+                          "Access Points: Two staircases for smooth entry \u0026 exit",
+                          "Design Style: Minimal modern / Florida-inspired outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x12 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "15x30",
+                 "15x30 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Breezy%20Oval%20Pool%20Deck%20Plan%20-%2015x30%20Pool%20%7C%2010x12%20Ultra-Compact%20Entry%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6d75b6/7647776786/il_fullxfull.7647776786_2i5y.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Breezy Oval Pool Deck Plan is a smart, ultra-compact solution designed specifically for 15x30 oval above-ground pools. Featuring a space-saving 10x12 footprint, Breezy provides safe, clean, and convenient pool access while keeping material costs low and yard space wide open. With dual staircases, built-in railings, and a streamlined platform design, Breezy is perfect for homeowners who want simple functionality, easy DIY construction, and an affordable pool deck upgrade.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/breezy-oval-pool-deck-plan-15x30-pool-10x12-ultra-compact-entry-deck-diy-pdf-plans/open-specs.json"
+}
