@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-16X48-314231",
+    "slug":  "gleam-tiny-home-16x48-modern-adu-and-backyard-living-space-diy-tiny-house-plan",
+    "name":  "Gleam Tiny Home - 16x48 Modern ADU \u0026 Backyard Living Space | DIY Tiny House Plan",
+    "category":  "tiny homes",
+    "dimensions_ft":  "16x48",
+    "area_sf":  768,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "loft",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x48 Spacious Tiny Home with Sloped Roof",
+                          "Modern minimalist architecture built for larger ADU applications, rental opportunities, or full-time compact living.",
+                          "Expanded Interior Footprint (768 sq ft)",
+                          "Generous proportions allow for open-concept living areas, defined sleeping zones, full kitchens, bathrooms, and storage solutions.",
+                          "DIY-Friendly Construction",
+                          "Clean lines, standard framing methods, and practical dimensions make Gleam approachable for both experienced builders and ambitious DIYers.",
+                          "Balanced Entry \u0026 Window Placement",
+                          "Strategically placed doors and windows maximize daylight, ventilation, and functionality while maintaining privacy."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "16x48 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "loft",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Gleam%20Tiny%20Home%20-%2016x48%20Modern%20ADU%20%26%20Backyard%20Living%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/bcf378/7769596611/il_fullxfull.7769596611_8mhh.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next big backyard upgrade with the Gleam Tiny Home - a spacious 16x48 modern living and working retreat designed for flexibility, comfort, and clean architectural simplicity. Showcasing a streamlined single-slope roof, warm horizontal siding, and bold contemporary lines, Gleam delivers standout curb appeal with expansive interior potential. With 768 square feet of thoughtfully designed space, this layout is ideal for those who want more room to live, work, host, or create - wit...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/gleam-tiny-home-16x48-modern-adu-and-backyard-living-space-diy-tiny-house-plan/open-specs.json"
+}

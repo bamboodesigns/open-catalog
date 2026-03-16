@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-TINY-NA-315D2B",
+    "slug":  "cedar-view-contemporary-a-frame-cabin-house-plan-928-sf-2-bed-2-bath-modern-architectural-pdf-dwg",
+    "name":  "Cedar View: Contemporary A-Frame Cabin House Plan (928 SF) - 2 Bed 2 Bath - Modern Architectural PDF + DWG",
+    "category":  "tiny homes",
+    "dimensions_ft":  null,
+    "area_sf":  928,
+    "bedrooms":  2,
+    "bathrooms":  2,
+    "type":  [
+                 "cabin",
+                 "house",
+                 "a-frame"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Approx. Square Footage: 928 SF",
+                          "Bedrooms: 2",
+                          "Bathrooms: 2",
+                          "Vertical A-frame silhouette with rear balcony",
+                          "Ground floor open-concept layout",
+                          "Floor-to-ceiling windows for maximum light",
+                          "Stylish outdoor circular patio space",
+                          "Compact and efficient use of interior space"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "design plans",
+                 "a frame",
+                 "aframe",
+                 "cabin",
+                 "remote cabin",
+                 "airbnb cabin",
+                 "airbnb aframe",
+                 "tiny home",
+                 "tiny a frame",
+                 "tiny cabin",
+                 "cabin aframe",
+                 "tiny homes",
+                 "house",
+                 "a-frame",
+                 "pdf plans",
+                 "dwg plans",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Cedar%20View%3A%20Contemporary%20A-Frame%20Cabin%20House%20Plan%20(928%20SF)%20-%202%20Bed%202%20Bath%20-%20Modern%20Architectural%20PDF%20%2B%20DWG",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/14c6b7/7050269369/il_fullxfull.7050269369_ezzo.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Design your dream escape with this stunning Contemporary A-Frame Cabin Plan - a sleek, modern take on the classic triangular cabin form. Featuring open living spaces, oversized glass facades, and carefully designed flow, this cabin is ideal for wooded retreats, rental units, or serene lakeside homes. Maximize functionality in under 1,000 square feet while enjoying an eye-catching architectural profile built for views, light, and lifestyle.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/cedar-view-contemporary-a-frame-cabin-house-plan-928-sf-2-bed-2-bath-modern-architectural-pdf-dwg/open-specs.json"
+}

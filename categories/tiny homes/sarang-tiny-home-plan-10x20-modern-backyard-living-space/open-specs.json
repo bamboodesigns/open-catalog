@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-TINY-10X20-943C6D",
+    "slug":  "sarang-tiny-home-plan-10x20-modern-backyard-living-space",
+    "name":  "Sarang Tiny Home Plan - 10x20 Modern Backyard Living Space",
+    "category":  "tiny homes",
+    "dimensions_ft":  "10x20",
+    "area_sf":  200,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x20 Tiny Home with Single-Slope Roof",
+                          "A streamlined modern design ideal for compact lots, backyard builds, and flexible ADU applications.",
+                          "DIY-Friendly Construction",
+                          "Simple framing, clean geometry, and straightforward construction make Sarang approachable for both first-time builders and experienced DIYers.",
+                          "Inviting Covered Entry Deck",
+                          "Front porch and stair access create a welcoming transition between indoor and outdoor living.",
+                          "Balanced Window \u0026 Door Layout",
+                          "Strategically placed windows bring in natural light while maintaining privacy and ventilation."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "10x20 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sarang%20Tiny%20Home%20Plan%20-%2010x20%20Modern%20Backyard%20Living%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7e0a08/7692415630/il_fullxfull.7692415630_9x0t.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next small-space project with the Sarang Tiny Home Plan - a thoughtfully designed 10x20 modern tiny home that balances simplicity, comfort, and versatile functionality. Featuring a clean single-slope roofline, warm horizontal wood siding, and a welcoming front deck entry, Sarang delivers timeless curb appeal with efficient interior potential. Whether you\u0027re planning a backyard guesthouse, compact ADU, private home office, creative studio, or a minimalist full-time tiny home, Sa...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/sarang-tiny-home-plan-10x20-modern-backyard-living-space/open-specs.json"
+}

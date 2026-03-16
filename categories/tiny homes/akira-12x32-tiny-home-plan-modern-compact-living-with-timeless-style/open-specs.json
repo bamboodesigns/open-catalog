@@ -1,0 +1,75 @@
+{
+    "plan_id":  "BD-TINY-12X32-E22E2F",
+    "slug":  "akira-12x32-tiny-home-plan-modern-compact-living-with-timeless-style",
+    "name":  "Akira 12x32 Tiny Home Plan - Modern Compact Living with Timeless Style",
+    "category":  "tiny homes",
+    "dimensions_ft":  "12x32",
+    "area_sf":  384,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "cabin",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x32 Tiny Home with Modern Sloped Roof",
+                          "Minimalist architectural style ideal for small properties, compact yards, ADU conversions, and modern neighborhoods.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, intuitive layout options, and builder-ready design suitable for both beginners and pros.",
+                          "Functional Door \u0026 Window Design",
+                          "Thoughtfully placed entry and windows provide natural light, cross ventilation, and flexible interior arrangement.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm horizontal wood siding, clean trim lines, and a streamlined lean-to roof create a modern-meets-rustic vibe."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "12x32 tiny home",
+                 "tiny homes",
+                 "cabin",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Akira%2012x32%20Tiny%20Home%20Plan%20-%20Modern%20Compact%20Living%20with%20Timeless%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ac0f48/7649402417/il_fullxfull.7649402417_5xzc.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Akira Tiny Home - a spacious 12x32 modern retreat engineered for efficiency, comfort, and clean architectural style. With its sleek single-slope roof, beautifully finished wood siding, and crisp modern lines, Akira blends contemporary form with everyday practicality. Whether you\u0027re planning a backyard guest suite, family studio, business-from-home hub, or fully featured tiny home living space, the Akira 12x32 delivers smart space planning, DIY-fri...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/akira-12x32-tiny-home-plan-modern-compact-living-with-timeless-style/open-specs.json"
+}

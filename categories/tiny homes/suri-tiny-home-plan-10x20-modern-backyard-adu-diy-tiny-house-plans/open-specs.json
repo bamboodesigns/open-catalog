@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-10X20-850F3D",
+    "slug":  "suri-tiny-home-plan-10x20-modern-backyard-adu-diy-tiny-house-plans",
+    "name":  "Suri Tiny Home Plan - 10x20 Modern Backyard ADU | DIY Tiny House Plans",
+    "category":  "tiny homes",
+    "dimensions_ft":  "10x20",
+    "area_sf":  200,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x20 Tiny Home with Sloped Roof",
+                          "Modern minimalist architecture ideal for compact lots, backyard ADUs, and multi-purpose outdoor living.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean rooflines, and efficient dimensions make Suri approachable for first-time builders and experienced DIYers alike.",
+                          "Smart Entry \u0026 Window Layout",
+                          "Thoughtfully placed doors and windows provide natural light, ventilation, and a comfortable indoor flow without sacrificing privacy.",
+                          "Warm, Contemporary Exterior Design",
+                          "Horizontal wood siding, modern trim details, and a single-pitch roof create a stylish modern-rustic aesthetic that complements any property."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "10x20 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Suri%20Tiny%20Home%20Plan%20-%2010x20%20Modern%20Backyard%20ADU",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/19d73c/7692537600/il_fullxfull.7692537600_l2q0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Suri Tiny Home - a sleek 10x20 modern living and working space thoughtfully designed for efficiency, versatility, and clean architectural style. With its compact footprint and smart proportions, Suri delivers big potential in a streamlined form that fits beautifully into backyards, side yards, and tight urban lots. Featuring a modern single-slope roof, warm horizontal wood siding, and crisp contemporary lines, Suri offers a refined exterior paired...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/suri-tiny-home-plan-10x20-modern-backyard-adu-diy-tiny-house-plans/open-specs.json"
+}

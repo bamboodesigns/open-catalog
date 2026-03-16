@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-TINY-12X20-60D0F8",
+    "slug":  "mei-12x20-tiny-home-plan-modern-compact-living-with-timeless-style",
+    "name":  "Mei 12x20 Tiny Home Plan - Modern Compact Living with Timeless Style",
+    "category":  "tiny homes",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "cabin",
+                 "house",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x20 Tiny Home Layout (240 sq ft)",
+                          "An efficient footprint that maximizes interior usability while remaining compact, cost-effective, and ideal for small lots.",
+                          "DIY-Friendly Tiny Home Construction",
+                          "Straightforward framing, clean lines, and easy-to-follow plans suitable for confident beginners and experienced builders alike.",
+                          "Flexible Interior Living Space",
+                          "Designed to accommodate a sleeping area, kitchenette, seating or workspace, and optional bathroom configuration.",
+                          "Modern Natural Aesthetic",
+                          "Warm wood siding, clean trim details, and balanced proportions create a modern yet inviting tiny home exterior."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "12x20 tiny home",
+                 "tiny homes",
+                 "cabin",
+                 "house",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x20",
+                 "12x20 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mei%2012x20%20Tiny%20Home%20Plan%20-%20Modern%20Compact%20Living%20with%20Timeless%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/980c90/7574026470/il_fullxfull.7574026470_s0aa.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard living upgrade with the Mei Tiny Home Plan - a 12x20 modern tiny home designed for efficiency, comfort, and clean architectural simplicity. With its streamlined form, warm wood siding, and thoughtfully designed openings, the Mei delivers contemporary style paired with practical, everyday livability. Whether you\u0027re building a backyard tiny home, guest house, ADU, home office, or creative retreat, the Mei 12x20 offers smart space planning, DIY-friendly construction,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/mei-12x20-tiny-home-plan-modern-compact-living-with-timeless-style/open-specs.json"
+}

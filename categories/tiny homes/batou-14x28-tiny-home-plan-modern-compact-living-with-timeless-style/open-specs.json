@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-14X28-37EFC0",
+    "slug":  "batou-14x28-tiny-home-plan-modern-compact-living-with-timeless-style",
+    "name":  "Batou 14x28 Tiny Home Plan - Modern Compact Living with Timeless Style",
+    "category":  "tiny homes",
+    "dimensions_ft":  "14x28",
+    "area_sf":  392,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x28 Tiny Home with Sloped Roof",
+                          "Minimalist architecture crafted for modern yards, tight setbacks, and flexible backyard ADU installations.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, efficient wall lines, and easy-to-follow plans make Batou ideal for beginners and experienced builders alike.",
+                          "Spacious Front Entry \u0026 Natural Light",
+                          "Well-positioned door and windows maximize access, ventilation, and daylight throughout the interior.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm wood lap siding, clean trim, and a streamlined single-pitch roof balance rustic charm with modern elegance."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "14x28 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Batou%2014x28%20Tiny%20Home%20Plan%20-%20Modern%20Compact%20Living%20with%20Timeless%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f07f88/7601553874/il_fullxfull.7601553874_oees.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Batou Tiny Home - a spacious 14x28 modern build designed for efficiency, function, and clean architectural simplicity. Featuring a sleek single-slope roof, warm horizontal wood siding, and crisp structural lines, Batou blends modern styling with everyday practicality. Whether you\u0027re creating a generous home office, guest suite, creative studio, or a fully livable tiny-home retreat, the Batou 14x28 offers smart interior planning, DIY-friendly desig...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/batou-14x28-tiny-home-plan-modern-compact-living-with-timeless-style/open-specs.json"
+}

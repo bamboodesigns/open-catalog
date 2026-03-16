@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-14X28-004CB8",
+    "slug":  "brando-14x28-tiny-home-plan-modern-compact-living-with-timeless-style",
+    "name":  "Brando 14x28 Tiny Home Plan - Modern Compact Living with Timeless Style",
+    "category":  "tiny homes",
+    "dimensions_ft":  "14x28",
+    "area_sf":  392,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x28 Tiny Home with Sloped Roof",
+                          "Minimalist architecture crafted for modern yards, tight setbacks, and flexible backyard ADU installations.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, efficient wall lines, and easy-to-follow plans make Brando ideal for beginners and experienced builders alike.",
+                          "Spacious Front Entry \u0026 Natural Light",
+                          "Well-positioned door and windows maximize access, ventilation, and daylight throughout the interior.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm wood lap siding, clean trim, and a streamlined single-pitch roof balance rustic charm with modern elegance."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "14x28 tiny home",
+                 "brando",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Brando%2014x28%20Tiny%20Home%20Plan%20-%20Modern%20Compact%20Living%20with%20Timeless%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/99dbbc/7601565994/il_fullxfull.7601565994_5juo.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Brando Tiny Home - a spacious 14x28 modern build designed for efficiency, function, and clean architectural simplicity. Featuring a sleek single-slope roof, warm horizontal wood siding, and crisp structural lines, Brando blends modern styling with everyday practicality. Whether you\u0027re creating a generous home office, guest suite, creative studio, or a fully livable tiny-home retreat, the Brando 14x28 offers smart interior planning, DIY-friendly de...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/brando-14x28-tiny-home-plan-modern-compact-living-with-timeless-style/open-specs.json"
+}

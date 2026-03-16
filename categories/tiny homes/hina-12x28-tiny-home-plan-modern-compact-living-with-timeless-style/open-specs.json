@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-12X28-DB9E2C",
+    "slug":  "hina-12x28-tiny-home-plan-modern-compact-living-with-timeless-style",
+    "name":  "Hina 12x28 Tiny Home Plan - Modern Compact Living with Timeless Style",
+    "category":  "tiny homes",
+    "dimensions_ft":  "12x28",
+    "area_sf":  336,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x28 Tiny Home with Single-Slope Roof",
+                          "Minimalist architecture ideal for modern backyards, tight property lines, and flexible living solutions.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clear plans, and clean design make Asahi accessible to both beginners and experienced builders.",
+                          "Functional Front Entry \u0026 Windows",
+                          "Thoughtful door placement and well-sized windows provide easy access, natural light, and ventilation throughout the interior.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm horizontal wood siding, clean trim, and a sleek lean-to roof give a modern yet rustic balance for any backyard or garden setting."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "12x28 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Hina%2012x28%20Tiny%20Home%20Plan%20-%20Modern%20Compact%20Living%20with%20Timeless%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/036456/7574065222/il_fullxfull.7574065222_el2a.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your backyard lifestyle upgrade with the Hina Tiny Home - a spacious 12x28 modern tiny house designed for efficiency, style, and smart living. With its sleek single-slope roof, warm horizontal wood siding, and thoughtfully positioned doors and windows, the Hina delivers contemporary design with practical everyday functionality. Perfect for a backyard office, guest retreat, art studio, or full tiny-home living, the 12x28 Hina combines clever space planning, DIY-friendly construction,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/hina-12x28-tiny-home-plan-modern-compact-living-with-timeless-style/open-specs.json"
+}

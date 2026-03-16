@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-14X32-19F32C",
+    "slug":  "fumi-14x32-tiny-home-plan-modern-compact-living-with-timeless-style",
+    "name":  "Fumi 14x32 Tiny Home Plan - Modern Compact Living with Timeless Style",
+    "category":  "tiny homes",
+    "dimensions_ft":  "14x32",
+    "area_sf":  448,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "cabin",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x32 Tiny Home with Sloped Roof",
+                          "Modern minimalist architecture designed for compact residential lots, ADU conversions, and lifestyle-focused backyard builds.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean wall lines, and easy-to-follow layout options are perfect for both first-time builders and pros.",
+                          "Ample Daylight \u0026 Easy Access",
+                          "A well-placed front entry paired with large, thoughtfully positioned windows creates bright interiors with refreshing airflow.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm wood lap siding, crisp trim accents, and a sleek lean-to roof deliver a modern, timeless exterior with rustic personality."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "14x32 tiny home",
+                 "tiny homes",
+                 "cabin",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Fumi%2014x32%20Tiny%20Home%20Plan%20-%20Modern%20Compact%20Living%20with%20Timeless%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/16cec2/7649872215/il_fullxfull.7649872215_8717.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Fumi Tiny Home - a 14x32 modern living, working, and retreat-ready space designed for efficiency, beauty, and clean architectural lines. With its streamlined single-slope roof, warm wood siding, and crisp contemporary styling, Fumi blends form and function effortlessly. Whether you\u0027re creating a full tiny home, a guesthouse hideaway, a generous home office, or a creative maker studio, the 14x32 Fumi offers smart space planning, DIY-friendly constr...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/fumi-14x32-tiny-home-plan-modern-compact-living-with-timeless-style/open-specs.json"
+}

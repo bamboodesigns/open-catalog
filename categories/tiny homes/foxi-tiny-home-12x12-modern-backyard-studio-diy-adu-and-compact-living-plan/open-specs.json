@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-12X12-4841B0",
+    "slug":  "foxi-tiny-home-12x12-modern-backyard-studio-diy-adu-and-compact-living-plan",
+    "name":  "Foxi Tiny Home - 12x12 Modern Backyard Studio | DIY ADU \u0026 Compact Living Plan",
+    "category":  "tiny homes",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "loft",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x12 Compact Tiny Home Design",
+                          "Efficient footprint ideal for small backyards, ADU applications, hobby spaces, or flex-room expansions.",
+                          "Modern Single-Slope Roofline",
+                          "Lean-to roof creates clean contemporary lines while allowing for effective water drainage.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing and standard building techniques make Foxi accessible for both beginner and experienced builders.",
+                          "Smart Entry \u0026 Window Placement",
+                          "Balanced door and window layout enhances natural light, ventilation, and interior comfort."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "12x12 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "loft",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Foxi%20Tiny%20Home%20-%2012x12%20Modern%20Backyard%20Studio",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/44af3b/7769671267/il_fullxfull.7769671267_n1um.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard transformation with the Foxi Tiny Home - a smart and stylish 12x12 modern living space designed for efficiency, charm, and clean architectural simplicity. Showcasing a streamlined single-slope roof, warm horizontal wood siding, and crisp contemporary lines, Foxi delivers compact comfort with standout curb appeal. With 144 square feet of highly functional space, this design is perfect for maximizing smaller lots while maintaining versatility. Whether you\u0027re envisio...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/foxi-tiny-home-12x12-modern-backyard-studio-diy-adu-and-compact-living-plan/open-specs.json"
+}

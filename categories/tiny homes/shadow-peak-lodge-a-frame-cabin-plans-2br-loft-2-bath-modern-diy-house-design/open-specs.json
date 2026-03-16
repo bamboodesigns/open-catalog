@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-TINY-NA-34F6E5",
+    "slug":  "shadow-peak-lodge-a-frame-cabin-plans-2br-loft-2-bath-modern-diy-house-design",
+    "name":  "Shadow Peak Lodge - A-Frame Cabin Plans (2BR + Loft + 2 Bath) | Modern DIY House Design",
+    "category":  "tiny homes",
+    "dimensions_ft":  null,
+    "area_sf":  null,
+    "bedrooms":  2,
+    "bathrooms":  2,
+    "type":  [
+                 "cabin",
+                 "house",
+                 "a-frame",
+                 "loft"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Cabin",
+                          "A-frame",
+                          "Loft"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  72,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "design plans",
+                 "a frame",
+                 "aframe",
+                 "cabin",
+                 "remote cabin",
+                 "airbnb cabin",
+                 "airbnb aframe",
+                 "tiny home",
+                 "tiny a frame",
+                 "tiny cabin",
+                 "cabin aframe",
+                 "off grid cabin",
+                 "tiny homes",
+                 "house",
+                 "a-frame",
+                 "loft",
+                 "pdf plans",
+                 "dwg plans",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Shadow%20Peak%20Lodge%20-%20A-Frame%20Cabin%20Plans%20(2BR%20%2B%20Loft%20%2B%202%20Bath)%20%7C%20Modern%20DIY%20House%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8db12a/7052743587/il_fullxfull.7052743587_qkgj.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring the mountain vibes home with the Shadow Peak Lodge. This striking A-frame cabin plan features 2 full bedrooms, a cozy loft, 2 bathrooms, and expansive outdoor deck areas-perfect for year-round getaways or your dream short-term rental. Floor Plan Details:\nTotal Footprint: 32\u0027 x 30\u0027 (excluding decks)",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/shadow-peak-lodge-a-frame-cabin-plans-2br-loft-2-bath-modern-diy-house-design/open-specs.json"
+}

@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-TINY-12X30-1ED04B",
+    "slug":  "sora-12x30-tiny-home-plan-modern-compact-living-with-timeless-style",
+    "name":  "Sora 12x30 Tiny Home Plan - Modern Compact Living with Timeless Style",
+    "category":  "tiny homes",
+    "dimensions_ft":  "12x30",
+    "area_sf":  360,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x30 Tiny Home with Single-Slope Roof",
+                          "Minimalist, modern architecture designed for small lots, tight property lines, and flexible backyard living.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clear instructions, and clean lines make Sora approachable for both beginners and seasoned builders.",
+                          "Functional Entry \u0026 Ample Windows",
+                          "Strategically placed doors and windows ensure easy access, natural light, and ventilation throughout the interior.",
+                          "Contemporary Natural Aesthetic",
+                          "Horizontal wood siding, clean trim, and a single-pitch roof create a modern yet rustic balance that suits any backyard or garden setting."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "12x30 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sora%2012x30%20Tiny%20Home%20Plan%20-%20Modern%20Compact%20Living%20with%20Timeless%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7e9813/7622172001/il_fullxfull.7622172001_j49j.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your backyard transformation with the Sora Tiny Home - a spacious 12x30 modern tiny house designed for efficiency, style, and versatile living. Featuring a sleek single-slope roof, warm horizontal wood siding, and thoughtfully placed doors and windows, Sora blends contemporary design with everyday practicality. Whether you\u0027re creating a backyard office, guest retreat, creative studio, or full tiny-home living space, the 12x30 Sora offers smart space planning, DIY-friendly constructi...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/sora-12x30-tiny-home-plan-modern-compact-living-with-timeless-style/open-specs.json"
+}

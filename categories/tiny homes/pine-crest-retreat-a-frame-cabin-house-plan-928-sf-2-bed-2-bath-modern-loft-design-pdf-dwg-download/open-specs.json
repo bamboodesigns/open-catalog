@@ -1,0 +1,65 @@
+{
+    "plan_id":  "BD-TINY-NA-E3C70E",
+    "slug":  "pine-crest-retreat-a-frame-cabin-house-plan-928-sf-2-bed-2-bath-modern-loft-design-pdf-dwg-download",
+    "name":  "Pine Crest Retreat - A-Frame Cabin House Plan (928 SF) - 2 Bed 2 Bath - Modern Loft Design - PDF + DWG Download",
+    "category":  "tiny homes",
+    "dimensions_ft":  null,
+    "area_sf":  928,
+    "bedrooms":  2,
+    "bathrooms":  2,
+    "type":  [
+                 "cabin",
+                 "house",
+                 "a-frame",
+                 "loft"
+             ],
+    "material_type":  [
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Cabin",
+                          "A-frame",
+                          "Loft"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  91,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "design plans",
+                 "a frame",
+                 "aframe",
+                 "cabin",
+                 "remote cabin",
+                 "airbnb cabin",
+                 "airbnb aframe",
+                 "tiny home",
+                 "tiny a frame",
+                 "tiny cabin",
+                 "cabin aframe",
+                 "tiny homes",
+                 "house",
+                 "a-frame",
+                 "loft",
+                 "pdf plans",
+                 "dwg plans",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pine%20Crest%20Retreat%20-%20A-Frame%20Cabin%20House%20Plan%20(928%20SF)%20-%202%20Bed%202%20Bath%20-%20Modern%20Loft%20Design%20-%20PDF%20%2B%20DWG%20Download",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/cebeb3/7050277747/il_fullxfull.7050277747_6p7o.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Unplug, unwind, and reconnect with nature in your own Pine Crest Retreat - a contemporary A-frame cabin design crafted for peaceful getaways and stylish mountain living. This 928 SF home features a dramatic triangular profile, expansive glazing, and a compact yet efficient 2-bedroom, 2-bathroom layout. Perfect for forest lots, short-term rentals, or a serene second home. Whether you\u0027re a DIY builder or a contractor, this thoughtfully drawn plan set offers a professional and builder-friendly f...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/pine-crest-retreat-a-frame-cabin-house-plan-928-sf-2-bed-2-bath-modern-loft-design-pdf-dwg-download/open-specs.json"
+}

@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-TINY-16X40-498264",
+    "slug":  "sataki-tiny-home-plan-16x40-modern-backyard-adu-diy-tiny-house-plans-640-sq-ft",
+    "name":  "Sataki Tiny Home Plan - 16x40 Modern Backyard ADU | DIY Tiny House Plans (640 Sq Ft)",
+    "category":  "tiny homes",
+    "dimensions_ft":  "16x40",
+    "area_sf":  640,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x40 Tiny Home with Sloped Roof",
+                          "Modern minimalist architecture designed for backyard ADU use, larger lots, and highly flexible living layouts.",
+                          "DIY-Friendly Construction",
+                          "Clean lines, standard framing, and straightforward roof geometry make Sataki approachable for beginners and efficient for experienced builders.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "Well-placed doors and balanced window openings maximize natural light, airflow, and functional interior zoning throughout the larger footprint.",
+                          "Warm, Contemporary Exterior Finish",
+                          "Horizontal wood siding, sleek trim accents, and a single-pitch lean-to roof create a modern-rustic aesthetic with timeless curb appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "16x40 tiny home",
+                 "tiny homes",
+                 "house",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sataki%20Tiny%20Home%20Plan%20-%2016x40%20Modern%20Backyard%20ADU",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f0aa4f/7692898802/il_fullxfull.7692898802_fsu0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Sataki Tiny Home - an expansive 16x40 modern living and working space designed for comfort, efficiency, and clean architectural simplicity. With its extended length and generous width, Sataki delivers outstanding interior flexibility while maintaining a sleek, contemporary profile ideal for backyard ADUs, guesthouses, and modern outdoor living environments. Featuring a streamlined single-slope roof, warm horizontal wood siding, and crisp contempor...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/tiny homes/sataki-tiny-home-plan-16x40-modern-backyard-adu-diy-tiny-house-plans-640-sq-ft/open-specs.json"
+}
