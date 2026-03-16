@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-18X20-7D2CC7",
+    "slug":  "elowin-18x20-modern-monoslope-roof-shed-contemporary-backyard-studio-workshop-and-storage-building-pdf",
+    "name":  "Elowin - 18x20 Modern Monoslope Roof Shed | Contemporary Backyard Studio, Workshop \u0026 Storage Building (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "18x20",
+    "area_sf":  360,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "18x20 Modern Monoslope Shed Design",
+                          "A striking single-slope roofline offers contemporary aesthetics while promoting efficient water runoff and structural simplicity.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing and clean roof geometry make Elowin a great project for both beginner builders and experienced DIYers.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "Well-positioned doors and windows allow easy access while bringing in natural light and maintaining comfortable interior airflow.",
+                          "Modern Exterior Finish",
+                          "Horizontal wood siding paired with crisp trim and the lean-to roofline creates a stylish modern-rustic exterior that complements a variety of backyard environments."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x20 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Elowin%20-%2018x20%20Modern%20Monoslope%20Roof%20Shed%20%7C%20Contemporary%20Backyard%20Studio%2C%20Workshop%20%26%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/148e94/7838615555/il_fullxfull.7838615555_rd4j.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard with the Elowin 18x20 Monoslope Roof Shed - a modern outdoor structure designed for versatility, efficiency, and clean architectural style. With its sleek single-slope roofline, warm horizontal siding, and crisp contemporary proportions, Elowin delivers a refined exterior that blends beautifully into modern homes, landscaped yards, and outdoor living spaces. Offering 360 square feet of highly flexible interior space, Elowin is perfect for homeowners who want more than...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/elowin-18x20-modern-monoslope-roof-shed-contemporary-backyard-studio-workshop-and-storage-building-pdf/open-specs.json"
+}

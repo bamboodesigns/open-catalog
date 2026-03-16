@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-18X30-16498E",
+    "slug":  "alder-18x30-modern-monoslope-roof-shed-spacious-backyard-studio-workshop-and-storage-building-pdf",
+    "name":  "Alder - 18x30 Modern Monoslope Roof Shed | Spacious Backyard Studio, Workshop \u0026 Storage Building (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "18x30",
+    "area_sf":  540,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "18x30 Modern Monoslope Shed Design",
+                          "A bold single-slope roofline creates striking contemporary architecture while improving water runoff and structural efficiency.",
+                          "Large Multi-Purpose Interior Space",
+                          "With 540 square feet of usable space, Alder offers ample room for workshops, studios, offices, storage, or future living conversions.",
+                          "DIY-Friendly Construction",
+                          "Clean framing lines, practical dimensions, and a straightforward roof structure make this design approachable for DIY builders and professionals alike.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "Strategically positioned doors and windows allow natural daylight to fill the interior while promoting fresh airflow and easy access."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x30 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Alder%20-%2018x30%20Modern%20Monoslope%20Roof%20Shed%20%7C%20Spacious%20Backyard%20Studio%2C%20Workshop%20%26%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6dc6fe/7790732244/il_fullxfull.7790732244_1hqi.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Elevate your backyard with the Alder 18x30 Monoslope Roof Shed - a large, modern outdoor structure crafted for versatility, efficiency, and bold architectural style. Showcasing a sleek single-slope roofline, warm horizontal wood siding, and crisp contemporary detailing, Alder offers a refined exterior paired with expansive interior potential. With an impressive 540 square feet of flexible space, this structure is ideal for homeowners looking to create something more than just a storage shed....",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/alder-18x30-modern-monoslope-roof-shed-spacious-backyard-studio-workshop-and-storage-building-pdf/open-specs.json"
+}

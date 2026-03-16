@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X24-181DEE",
+    "slug":  "chester-12x24-shed-plan-a-barn-style-storage-shed-with-classic-charm-and-efficient-function",
+    "name":  "Chester 12x24 Shed Plan - A Barn-Style Storage Shed with Classic Charm \u0026 Efficient Function",
+    "category":  "sheds",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x24 Gambrel Roof Shed",
+                          "Classic barn-style gambrel roof maximizes overhead space while delivering timeless farmhouse charm.",
+                          "Expanded Vertical Storage Potential",
+                          "Dual-slope roof design allows for loft installation, overhead shelving, or future mezzanine build-outs.",
+                          "DIY-Friendly Construction",
+                          "Traditional framing methods and efficient rectangular footprint make Chester approachable for confident DIY builders and professionals alike.",
+                          "Spacious 288 sq ft Layout",
+                          "Open-concept interior allows flexible customization for storage systems, workbenches, hobby zones, or small office conversions."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  31,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x24 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Chester%2012x24%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20Shed%20with%20Classic%20Charm%20%26%20Efficient%20Function",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/57c9b3/7818392511/il_fullxfull.7818392511_hktj.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Chester Gambrel Shed - a spacious 12x24 barn-style structure designed for maximum overhead storage, classic curb appeal, and versatile functionality. Featuring a traditional gambrel roofline, Chester combines timeless barn architecture with practical interior flexibility, delivering 288 square feet of highly usable space with expanded vertical clearance. With its iconic double-slope roof design, Chester offers enhanced loft potential and increased...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/chester-12x24-shed-plan-a-barn-style-storage-shed-with-classic-charm-and-efficient-function/open-specs.json"
+}

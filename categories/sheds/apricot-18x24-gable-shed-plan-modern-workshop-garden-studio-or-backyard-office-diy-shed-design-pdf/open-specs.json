@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-18X24-A8A59A",
+    "slug":  "apricot-18x24-gable-shed-plan-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf",
+    "name":  "Apricot 18x24 Gable Shed Plan - Modern Workshop, Garden Studio, or Backyard Office | DIY Shed Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "18x24",
+    "area_sf":  432,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "18x24 Gable Roof Shed Design",
+                          "A spacious 432 sq ft structure offering plenty of room for organized storage, equipment, or a dedicated hobby workshop.",
+                          "Classic Gable Roof Architecture",
+                          "The traditional roofline provides excellent durability, efficient water drainage, and extra vertical interior space.",
+                          "DIY-Friendly Construction",
+                          "Designed with standard framing methods and clear structural layout, making it ideal for both beginner and experienced builders.",
+                          "Balanced Door \u0026 Window Layout",
+                          "Strategically placed entry and windows provide natural light, easy access, and improved airflow throughout the interior."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x24 shed",
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Apricot%2018x24%20Gable%20Shed%20Plan%20-%20Modern%20Workshop%2C%20Garden%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/daaaed/7773967686/il_fullxfull.7773967686_ehql.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Apricot Gable Roof Shed - a spacious 18x24 multi-purpose shed designed for durability, efficiency, and timeless backyard style. Featuring a traditional gable roofline, balanced window placement, and clean exterior siding, Apricot delivers a classic structure with generous interior space and endless functional possibilities. The 18x24 footprint offers a comfortable amount of room for organized storage, workshop space, hobby projects, or backyard eq...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/apricot-18x24-gable-shed-plan-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf/open-specs.json"
+}

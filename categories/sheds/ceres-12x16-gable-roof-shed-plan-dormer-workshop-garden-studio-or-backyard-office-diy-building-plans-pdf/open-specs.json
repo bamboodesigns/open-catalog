@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-12X16-C150FE",
+    "slug":  "ceres-12x16-gable-roof-shed-plan-dormer-workshop-garden-studio-or-backyard-office-diy-building-plans-pdf",
+    "name":  "Ceres 12x16 Gable Roof Shed Plan - Dormer Workshop, Garden Studio, or Backyard Office | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 16\u0027 (192 sq. ft.)",
+                          "Height: ~12 ft with dormer",
+                          "Roof Type: Gable roof with integrated dormer window",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Side and dormer windows for balanced natural light",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal siding)",
+                          "Foundation: Suitable for freestanding pier or concrete slab"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  46,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Ceres%2012x16%20Gable%20Roof%20Shed%20Plan%20-%20Dormer%20Workshop%2C%20Garden%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/867fc2/7727741907/il_fullxfull.7727741907_992u.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Ceres 12x16 Gable Roof Shed Plan - a timeless architectural design elevated by a bold dormer skylight that fills your workspace with natural light. Perfectly proportioned for creative studios, workshops, home offices, or organized storage, Ceres combines traditional charm with modern sophistication. Featuring clean gable lines, wide double doors, and a functional dormer window, this plan offers a versatile layout that\u0027s ideal for both practical use a...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/ceres-12x16-gable-roof-shed-plan-dormer-workshop-garden-studio-or-backyard-office-diy-building-plans-pdf/open-specs.json"
+}

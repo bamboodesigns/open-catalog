@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-14X18-438663",
+    "slug":  "chardon-modern-shed-plan-14x18-monoslope-roof-backyard-studio-diy-office-and-workshop-pdf-plans",
+    "name":  "Chardon Modern Shed Plan - 14x18 Monoslope Roof Backyard Studio | DIY Office \u0026 Workshop PDF Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "14x18",
+    "area_sf":  252,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x18 Modern Shed with Monoslope Roof",
+                          "A clean single-slope roof design creates contemporary architectural lines while providing efficient drainage and taller interior wall height.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing techniques and standard lumber dimensions make the Chardon shed accessible for both beginner builders and experienced DIY enthusiasts.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "A carefully positioned entry door and balanced window placements allow for easy access, natural daylight, and refreshing interior airflow.",
+                          "Modern Exterior Styling",
+                          "Horizontal wood siding, sleek trim details, and the lean-to roofline create a modern-rustic look that complements both contemporary and traditional homes."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x18 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Chardon%20Modern%20Shed%20Plan%20-%2014x18%20Monoslope%20Roof%20Backyard%20Studio",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/57718d/7773228296/il_fullxfull.7773228296_rqdv.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Chardon Modern Shed - a spacious 14x18 monoslope roof backyard studio designed for efficiency, style, and clean architectural simplicity. Featuring a sleek single-slope roofline, warm horizontal wood siding potential, and crisp contemporary proportions, Chardon delivers a refined exterior with flexible interior potential. Whether you\u0027re envisioning a quiet backyard office, creative studio, hobby workshop, or a stylish modern storage retreat, the 1...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/chardon-modern-shed-plan-14x18-monoslope-roof-backyard-studio-diy-office-and-workshop-pdf-plans/open-specs.json"
+}

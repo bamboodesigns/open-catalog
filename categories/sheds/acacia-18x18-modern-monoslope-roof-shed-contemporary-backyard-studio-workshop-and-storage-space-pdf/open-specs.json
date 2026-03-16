@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-18X18-B794C7",
+    "slug":  "acacia-18x18-modern-monoslope-roof-shed-contemporary-backyard-studio-workshop-and-storage-space-pdf",
+    "name":  "Acacia - 18x18 Modern Monoslope Roof Shed | Contemporary Backyard Studio, Workshop \u0026 Storage Space (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "18x18",
+    "area_sf":  324,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "18x18 Modern Monoslope Shed Design",
+                          "A contemporary single-slope roofline creates a bold architectural look while improving rainwater runoff and structural efficiency.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, practical dimensions, and clean roof geometry make Acacia an approachable project for both first-time builders and seasoned DIYers.",
+                          "Bright \u0026 Airy Interior Potential",
+                          "Strategically placed windows and a front-entry layout invite natural daylight while promoting healthy airflow throughout the space.",
+                          "Modern Exterior Styling",
+                          "Horizontal wood siding, crisp trim details, and the signature lean-to roof design deliver a minimalist aesthetic that complements modern landscapes and homes."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x18 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Acacia%20-%2018x18%20Modern%20Monoslope%20Roof%20Shed%20%7C%20Contemporary%20Backyard%20Studio%2C%20Workshop%20%26%20Storage%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9cab60/7838409491/il_fullxfull.7838409491_buqi.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Upgrade your backyard with the Acacia 18x18 Monoslope Roof Shed - a sleek, modern outdoor structure designed for versatility, durability, and clean architectural style. Featuring a striking single-slope roofline and balanced contemporary proportions, Acacia blends modern design with highly practical space that adapts easily to your lifestyle needs. With 324 square feet of flexible interior space, this shed is ideal for everything from a creative studio or home office to a hobby workshop, orga...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/acacia-18x18-modern-monoslope-roof-shed-contemporary-backyard-studio-workshop-and-storage-space-pdf/open-specs.json"
+}

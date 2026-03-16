@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X24-F50DD0",
+    "slug":  "ember-12x24-lean-to-shed-plan-a-modern-shed-with-a-sleek-sloped-roof-diy-lean-to-shed-plans",
+    "name":  "Ember 12x24 Lean-To Shed Plan - A Modern Shed with a Sleek Sloped Roof| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x24 Lean-To Shed with Sloped Roof",
+                          "Minimalist single-pitch roof featuring clean lines, strong drainage, and a wide modern profile perfect for open or narrow yard spaces.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, easy roof geometry, and simplified layouts make the Ember ideal for beginners and experienced builders alike.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors create a generous opening for lawn tools, power equipment, woodworking machinery, bikes, or project materials.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm horizontal wood siding, crisp white trim, and a smooth lean-to roof blend together for a refined rustic-modern look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x24 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Ember%2012x24%20Lean-To%20Shed%20Plan%20-%20A%20Modern%20Shed%20with%20a%20Sleek%20Sloped%20Roof",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8c0f80/7435072136/il_fullxfull.7435072136_k7po.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Ember Lean-To Shed Plan - a 12x24 modern storage and workspace solution built for efficiency, style, and clean architectural simplicity. With its long streamlined sloped roof, warm wood siding, and classic barn-style double doors, the Ember delivers contemporary form blended with practical, everyday utility. Whether you\u0027re building a full-size workshop, garden equipment hub, hobby studio, backyard office, or a spacious organization shed, the Ember...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/ember-12x24-lean-to-shed-plan-a-modern-shed-with-a-sleek-sloped-roof-diy-lean-to-shed-plans/open-specs.json"
+}

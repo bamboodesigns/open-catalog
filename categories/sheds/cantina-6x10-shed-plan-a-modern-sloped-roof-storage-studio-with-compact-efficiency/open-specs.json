@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-6X10-4C2033",
+    "slug":  "cantina-6x10-shed-plan-a-modern-sloped-roof-storage-studio-with-compact-efficiency",
+    "name":  "Cantina 6x10 Shed Plan - A Modern Sloped-Roof Storage Studio with Compact Efficiency",
+    "category":  "sheds",
+    "dimensions_ft":  "6x10",
+    "area_sf":  60,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "6x10 Modern Shed with Sloped Roof - Clean, contemporary profile with excellent water runoff",
+                          "DIY-Friendly Construction - Straightforward framing and beginner-friendly instructions",
+                          "Single Entry Door - Secure access for tools, supplies, and seasonal storage",
+                          "Modern Minimalist Aesthetic - Vertical siding, crisp trim, and a sleek mono-slope silhouette",
+                          "Compact \u0026 Versatile - Ideal for tool storage, garden equipment, hobby supplies, or a micro studio",
+                          "Size: 6\u0027 x 10\u0027 (60 sq ft)",
+                          "Roof Type: Mono-slope roof with extended overhangs",
+                          "Doors: Single standard-width entry door"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  31,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "6x10 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Cantina%206x10%20Shed%20Plan%20-%20A%20Modern%20Sloped-Roof%20Storage%20Studio%20with%20Compact%20Efficiency",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/2d158d/7770463347/il_fullxfull.7770463347_3e7g.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kick off your next backyard upgrade with the Cantina Sloped Roof Shed Plan - a 6x10 compact modern shed that blends clean lines, simple construction, and smart storage potential. With its streamlined mono-slope roof, vertical siding, and minimal footprint, the Cantina is the perfect solution for homeowners who need organized storage without sacrificing yard space. Whether you\u0027re building a garden tool shed, utility hub, paint/storage closet, or a tidy micro-workspace, the Cantina 6x10 deliver...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/cantina-6x10-shed-plan-a-modern-sloped-roof-storage-studio-with-compact-efficiency/open-specs.json"
+}

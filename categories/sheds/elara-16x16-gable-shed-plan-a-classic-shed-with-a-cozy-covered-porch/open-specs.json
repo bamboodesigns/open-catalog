@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-16X16-2BA52D",
+    "slug":  "elara-16x16-gable-shed-plan-a-classic-shed-with-a-cozy-covered-porch",
+    "name":  "Elara 16x16 Gable Shed Plan - A Classic Shed with a Cozy Covered Porch",
+    "category":  "sheds",
+    "dimensions_ft":  "16x16",
+    "area_sf":  256,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x16 Gable Shed with Covered Porch",
+                          "Spacious interior + welcoming front porch for seating, storage overflow, or decor.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clear elevations, and an easy-to-follow plan set.",
+                          "Double Front Doors",
+                          "Wide dual doors allow effortless access for equipment, tools, or furniture.",
+                          "Warm Rustic Aesthetic",
+                          "Natural wood siding, clean rooflines, and a charming cabin look that fits any landscape."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  42,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x16 shed",
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Elara%2016x16%20Gable%20Shed%20Plan%20-%20A%20Classic%20Shed%20with%20a%20Cozy%20Covered%20Porch",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8c511f/7730872045/il_fullxfull.7730872045_739g.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a peaceful, multi-purpose haven with the Elara Gable Shed Plan - a 16x16 wooden shed that blends rustic charm with clean modern structure. Designed with warm natural siding, a spacious covered front porch, and iconic gable-roof architecture, the Elara is perfect for homeowners looking to elevate their outdoor space with beauty and function. Whether you\u0027re building a cozy garden studio, relaxing hobby retreat, backyard office, or an organized storage hub, the Elara...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/elara-16x16-gable-shed-plan-a-classic-shed-with-a-cozy-covered-porch/open-specs.json"
+}

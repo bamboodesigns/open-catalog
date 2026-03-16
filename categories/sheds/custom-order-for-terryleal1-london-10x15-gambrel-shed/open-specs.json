@@ -1,0 +1,51 @@
+{
+    "plan_id":  "BD-SHED-10X15-B381CF",
+    "slug":  "custom-order-for-terryleal1-london-10x15-gambrel-shed",
+    "name":  "Custom order for terryleal1 - London 10x15 gambrel shed",
+    "category":  "sheds",
+    "dimensions_ft":  "10x15",
+    "area_sf":  150,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Intermediate",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 10x15",
+                          "Gambrel roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  39,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x15",
+                 "10x15 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Custom%20order%20for%20terryleal1%20-%20London%2010x15%20gambrel%20shed",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/717f22/7602834496/il_fullxfull.7602834496_6nki.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "PDF/DWG of customized shed all else same as London 10x16, but revised to 10x15. All terms, inclusions and product description from other model applies.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/custom-order-for-terryleal1-london-10x15-gambrel-shed/open-specs.json"
+}

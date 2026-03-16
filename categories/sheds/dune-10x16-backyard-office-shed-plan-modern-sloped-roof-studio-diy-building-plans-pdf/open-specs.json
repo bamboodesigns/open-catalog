@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-SHED-10X16-795E47",
+    "slug":  "dune-10x16-backyard-office-shed-plan-modern-sloped-roof-studio-diy-building-plans-pdf",
+    "name":  "Dune 10x16 Backyard Office Shed Plan - Modern Sloped Roof Studio | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 10\u0027 x 16\u0027 (160 sq. ft.)",
+                          "Height: ~12 ft at roof peak",
+                          "Roof Type: Single sloped roof with extended overhang",
+                          "Doors: Modern glass double doors",
+                          "Windows: Corner glass wall + high clerestory window for natural ventilation",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Dune%2010x16%20Backyard%20Office%20Shed%20Plan%20-%20Modern%20Sloped%20Roof%20Studio",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/88bc13/7720507755/il_fullxfull.7720507755_18au.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Dune 10x16 Backyard Office Shed Plan - a modern, light-filled structure that brings together simplicity, innovation, and craftsmanship. With its bold single-slope roof, corner glass wall, and clean architectural lines, the Dune offers a refined yet approachable aesthetic designed for productivity and peace. Perfect as a home office, art studio, writing retreat, or design workspace, Dune turns any backyard into a sanctuary of creativity and clarity.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/dune-10x16-backyard-office-shed-plan-modern-sloped-roof-studio-diy-building-plans-pdf/open-specs.json"
+}

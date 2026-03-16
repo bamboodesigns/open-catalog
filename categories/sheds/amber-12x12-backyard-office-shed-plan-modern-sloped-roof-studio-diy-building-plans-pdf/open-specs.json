@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-SHED-12X12-122B24",
+    "slug":  "amber-12x12-backyard-office-shed-plan-modern-sloped-roof-studio-diy-building-plans-pdf",
+    "name":  "Amber 12x12 Backyard Office Shed Plan - Modern Sloped Roof Studio | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 12\u0027 (144 sq. ft.)",
+                          "Height: ~12 ft at the high roof point",
+                          "Roof Type: Single sloped (shed-style) roof with overhang",
+                          "Doors: Modern glass double entry doors",
+                          "Windows: Expansive front glass wall + side vent windows",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal siding)",
+                          "Foundation: Freestanding pier or concrete slab compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x12 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Amber%2012x12%20Backyard%20Office%20Shed%20Plan%20-%20Modern%20Sloped%20Roof%20Studio",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/af0274/7720502427/il_fullxfull.7720502427_rhjm.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Amber 12x12 Backyard Office Shed Plan - a sleek, modern studio that merges clean design with everyday utility. Featuring a bold single-sloped roof, full glass front wall, and streamlined wood aesthetic, Amber brings light, focus, and architectural charm into your backyard. Perfect for remote work, creative projects, or quiet reflection, the Amber offers a compact yet elevated space that feels expansive and inspiring - all in an efficient, DIY-friendl...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/amber-12x12-backyard-office-shed-plan-modern-sloped-roof-studio-diy-building-plans-pdf/open-specs.json"
+}

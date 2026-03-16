@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X16-80C866",
+    "slug":  "birch-12x16-lean-to-shed-plan-a-modern-shed-with-a-clean-sloped-roof-diy-lean-to-shed-plans",
+    "name":  "Birch 12x16 Lean-To Shed Plan - A Modern Shed with a Clean Sloped Roof| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x16 Lean-To Shed with Sloped Roof",
+                          "Minimalist single-slope roof designed for efficient drainage and a clean, modern silhouette perfect for narrow or open yard spaces.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simple roof structure, and beginner-friendly layouts make this shed accessible for any skill level.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors provide a generous opening for lawn gear, outdoor tools, project materials, bikes, and more.",
+                          "Modern Natural Aesthetic",
+                          "Horizontal wood siding, crisp white trim, and a smooth sloped roof combine to create a warm, modern-rustic look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x16 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Birch%2012x16%20Lean-To%20Shed%20Plan%20-%20A%20Modern%20Shed%20with%20a%20Clean%20Sloped%20Roof",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c588d0/7435039072/il_fullxfull.7435039072_d1pk.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Birch Lean-To Shed Plan - a 12x16 modern storage and workspace solution crafted for clean architectural simplicity, reliable function, and warm rustic character. With its streamlined single-pitch roof, textured wood siding, and wide barn-style double doors, the Birch brings together modern form and practical utility in one beautifully balanced design. Whether you\u0027re building a workshop, garden supply hub, hobby studio, or a fully organized storage...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/birch-12x16-lean-to-shed-plan-a-modern-shed-with-a-clean-sloped-roof-diy-lean-to-shed-plans/open-specs.json"
+}

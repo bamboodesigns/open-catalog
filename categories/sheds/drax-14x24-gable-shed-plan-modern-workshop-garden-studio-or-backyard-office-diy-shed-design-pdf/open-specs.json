@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-14X24-2F12C1",
+    "slug":  "drax-14x24-gable-shed-plan-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf",
+    "name":  "Drax 14x24 Gable Shed Plan - Modern Workshop, Garden Studio, or Backyard Office | DIY Shed Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "14x24",
+    "area_sf":  336,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 14\u0027 x 24\u0027 (336 sq. ft.)",
+                          "Height: ~12 ft (to gable peak)",
+                          "Roof Type: Gable roof with vented ridge",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Side-mounted for natural light and ventilation",
+                          "Siding: Horizontal wood shown (customizable for metal, wood, or composite)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x24 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Drax%2014x24%20Gable%20Shed%20Plan%20-%20Modern%20Workshop%2C%20Garden%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c8bb8b/7724289477/il_fullxfull.7724289477_gg7d.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Drax 14x24 Gable Shed Plan - a spacious and refined design that merges classic architecture with modern craftsmanship. Featuring a tall gable roof, wide double doors, and beautiful horizontal siding, this shed offers both presence and practicality for any type of backyard use. Whether you\u0027re building a workshop, garden studio, art space, or backyard office, the Drax 14x24 provides ample room, clean construction efficiency, and timeless design in one...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/drax-14x24-gable-shed-plan-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf/open-specs.json"
+}

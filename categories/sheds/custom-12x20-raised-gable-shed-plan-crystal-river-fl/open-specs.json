@@ -1,0 +1,63 @@
+{
+    "plan_id":  "BD-SHED-12X20-476970",
+    "slug":  "custom-12x20-raised-gable-shed-plan-crystal-river-fl",
+    "name":  "Custom 12x20 Raised Gable Shed Plan (Crystal River, FL)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "raised",
+                 "loft",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 12\u0027 x 20\u0027 (240 sq ft)",
+                          "Foundation: Raised pier system (~24\" elevation)",
+                          "Roof Type: Gable roof",
+                          "Front: Single entry door (left side)",
+                          "Side: Double doors for mower access",
+                          "Windows: 1 front + 1 rear",
+                          "Optional Feature: Interior storage loft framing concept"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  99,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "raised",
+                 "loft",
+                 "workshop",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x20",
+                 "12x20 plan",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Custom%2012x20%20Raised%20Gable%20Shed%20Plan%20(Crystal%20River%2C%20FL)",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6abb28/7857128415/il_fullxfull.7857128415_lt2q.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Build a functional backyard workshop with a Custom 12x20 Raised Gable Roof Shed Plan, adapted from our Eris shed concept and modified to match your layout requirements and flood-elevated foundation. This design provides a raised pier-supported structure approximately 24\" above grade, suitable for areas with occasional flooding while maintaining a clean, classic gable-roof workshop profile.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/custom-12x20-raised-gable-shed-plan-crystal-river-fl/open-specs.json"
+}

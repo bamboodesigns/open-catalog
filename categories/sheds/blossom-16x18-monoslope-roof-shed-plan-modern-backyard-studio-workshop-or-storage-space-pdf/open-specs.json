@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-16X18-4A6E11",
+    "slug":  "blossom-16x18-monoslope-roof-shed-plan-modern-backyard-studio-workshop-or-storage-space-pdf",
+    "name":  "Blossom 16x18 Monoslope Roof Shed Plan - Modern Backyard Studio, Workshop, or Storage Space (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "16x18",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x18 Monoslope Roof Shed",
+                          "A spacious yet compact shed design featuring a modern single-pitch roofline and efficient interior layout.",
+                          "DIY-Friendly Construction",
+                          "Simple framing methods and clear structural lines make Blossom approachable for both beginner and experienced builders.",
+                          "Modern Lean-To Roof Design",
+                          "The angled roof enhances contemporary style while improving drainage and reducing roofing complexity.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "Strategically positioned doors and windows allow for natural daylight, airflow, and easy access."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x16 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Blossom%2016x18%20Monoslope%20Roof%20Shed%20Plan%20-%20Modern%20Backyard%20Studio%2C%20Workshop%2C%20or%20Storage%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a6d8bd/7824472169/il_fullxfull.7824472169_6rlh.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Blossom Shed Plan - a versatile 16x18 modern monoslope shed designed for efficiency, contemporary style, and flexible backyard functionality. Featuring a sleek single-slope roofline, warm horizontal siding potential, and crisp architectural lines, Blossom delivers a refined exterior with adaptable interior possibilities. With 288 square feet of usable space, this thoughtfully sized shed is perfect for homeowners who want a backyard office, creativ...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/blossom-16x18-monoslope-roof-shed-plan-modern-backyard-studio-workshop-or-storage-space-pdf/open-specs.json"
+}

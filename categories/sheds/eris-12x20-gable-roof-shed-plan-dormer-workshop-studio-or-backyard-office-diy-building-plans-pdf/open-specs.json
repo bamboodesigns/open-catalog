@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-12X20-BA89D1",
+    "slug":  "eris-12x20-gable-roof-shed-plan-dormer-workshop-studio-or-backyard-office-diy-building-plans-pdf",
+    "name":  "Eris 12x20 Gable Roof Shed Plan - Dormer Workshop, Studio, or Backyard Office | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 20\u0027 (240 sq. ft.)",
+                          "Height: ~12 ft (including dormer)",
+                          "Roof Type: Gable roof with integrated dormer",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Side and dormer windows for ventilation and light",
+                          "Siding: Horizontal lap shown (customizable for metal, wood, or composite finishes)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x20 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Eris%2012x20%20Gable%20Roof%20Shed%20Plan%20-%20Dormer%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/41d4e3/7679802304/il_fullxfull.7679802304_ebnh.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Eris 12x20 Gable Roof Shed Plan - a timeless structure elevated by a bold dormer skylight and clean architectural precision. This spacious shed combines classic form and modern function, creating an inspiring environment for work, creativity, or organized living. With its generous 240 sq. ft. layout, Eris offers the ideal balance between size and sophistication - perfect for home workshops, garden studios, or backyard offices. Its gable roof and inte...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/eris-12x20-gable-roof-shed-plan-dormer-workshop-studio-or-backyard-office-diy-building-plans-pdf/open-specs.json"
+}

@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-20X20-E1BAE0",
+    "slug":  "cassia-20x20-modern-monoslope-roof-shed-contemporary-backyard-studio-workshop-and-storage-building-pdf",
+    "name":  "Cassia - 20x20 Modern Monoslope Roof Shed | Contemporary Backyard Studio, Workshop \u0026 Storage Building (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "20x20",
+    "area_sf":  400,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "20x20 Modern Monoslope Shed Design",
+                          "A bold single-slope roofline creates a contemporary architectural look while improving rainwater runoff and structural efficiency.",
+                          "DIY-Friendly Construction",
+                          "Clean lines, standard framing, and intuitive building geometry make Cassia ideal for both beginner builders and seasoned DIY enthusiasts.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "A well-positioned entry door and balanced window placement provide easy access, natural daylight, and refreshing interior airflow.",
+                          "Warm Contemporary Exterior Finish",
+                          "Horizontal wood siding paired with sleek trim and the lean-to roofline creates a modern-rustic aesthetic with timeless curb appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x20 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Cassia%20-%2020x20%20Modern%20Monoslope%20Roof%20Shed%20%7C%20Contemporary%20Backyard%20Studio%2C%20Workshop%20%26%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7ef2e1/7838795967/il_fullxfull.7838795967_p5gf.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Cassia 20x20 Monoslope Roof Shed - a spacious modern structure designed for efficiency, versatility, and clean architectural style. Highlighting a sleek single-slope roofline, warm horizontal wood siding, and crisp contemporary detailing, Cassia delivers a refined exterior paired with highly practical interior space. With 400 square feet of flexible interior area, this thoughtfully designed shed is perfect for transforming your backyard into a cre...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/cassia-20x20-modern-monoslope-roof-shed-contemporary-backyard-studio-workshop-and-storage-building-pdf/open-specs.json"
+}

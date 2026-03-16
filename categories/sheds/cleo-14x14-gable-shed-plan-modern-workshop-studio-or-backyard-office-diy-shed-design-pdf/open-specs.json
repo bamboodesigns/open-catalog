@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-14X14-7AF595",
+    "slug":  "cleo-14x14-gable-shed-plan-modern-workshop-studio-or-backyard-office-diy-shed-design-pdf",
+    "name":  "Cleo 14x14 Gable Shed Plan - Modern Workshop, Studio, or Backyard Office | DIY Shed Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "14x14",
+    "area_sf":  196,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 14\u0027 x 14\u0027 (196 sq. ft.)",
+                          "Height: ~12 ft (to gable peak)",
+                          "Roof Type: Classic gable roof with vented ridge detail",
+                          "Doors: 6\u0027 wide glass double doors (customizable)",
+                          "Windows: Optional side or rear windows for natural light",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x14 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Cleo%2014x14%20Gable%20Shed%20Plan%20-%20Modern%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f8eb5c/7676102840/il_fullxfull.7676102840_a9sg.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Cleo 14x14 Gable Shed Plan - a classic gable design reimagined for modern living. With its symmetrical rooflines, double-door entry, and clean architectural profile, Cleo blends timeless craftsmanship with sleek, contemporary appeal. Whether you\u0027re building a creative studio, workshop, garden retreat, or backyard office, this 14x14 layout delivers spacious design, structural simplicity, and endless versatility - all in an elegant form that fits any l...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/cleo-14x14-gable-shed-plan-modern-workshop-studio-or-backyard-office-diy-shed-design-pdf/open-specs.json"
+}

@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-12X24-691893",
+    "slug":  "callisto-12x24-gable-roof-shed-plan-dormer-workshop-studio-or-backyard-office-diy-building-plans-pdf",
+    "name":  "Callisto 12x24 Gable Roof Shed Plan - Dormer Workshop, Studio, or Backyard Office | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 24\u0027 (288 sq. ft.)",
+                          "Height: ~12 ft (including dormer)",
+                          "Roof Type: Gable roof with integrated dormer window",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Front and side placement for ventilation and balanced light",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  45,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x24 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Callisto%2012x24%20Gable%20Roof%20Shed%20Plan%20-%20Dormer%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8869d3/7679783526/il_fullxfull.7679783526_hr5b.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Callisto 12x24 Gable Roof Shed Plan - a timeless design enhanced with a bold dormer skylight and refined proportions. Featuring a bright, open layout and striking gable symmetry, this plan is perfect for builders, creators, and dreamers who want a space that balances tradition with contemporary detail. With 288 square feet of functional space, Callisto provides the ideal setup for a home workshop, garden studio, or backyard office. Its dormer design...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/callisto-12x24-gable-roof-shed-plan-dormer-workshop-studio-or-backyard-office-diy-building-plans-pdf/open-specs.json"
+}

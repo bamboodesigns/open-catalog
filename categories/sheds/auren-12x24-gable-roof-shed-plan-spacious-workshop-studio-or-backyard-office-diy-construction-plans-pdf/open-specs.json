@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-12X24-C4AED7",
+    "slug":  "auren-12x24-gable-roof-shed-plan-spacious-workshop-studio-or-backyard-office-diy-construction-plans-pdf",
+    "name":  "Auren 12x24 Gable Roof Shed Plan - Spacious Workshop, Studio, or Backyard Office | DIY Construction Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 24\u0027 (288 sq. ft.)",
+                          "Height: ~12 ft to peak",
+                          "Roof Type: Gable roof with symmetrical pitch",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Two large side windows for light and airflow",
+                          "Siding: Horizontal wood shown (customizable for lap, board-and-batten, or metal siding)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x24 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Auren%2012x24%20Gable%20Roof%20Shed%20Plan%20-%20Spacious%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/928197/7723990787/il_fullxfull.7723990787_7l7j.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring form and function together with the Auren 12x24 Gable Roof Shed Plan - a large, versatile design that blends classic craftsmanship with modern efficiency. Featuring a strong gable roof, twin windows for natural light, and wide double barn doors, Auren is ideal for homeowners who want a structure that\u0027s both beautiful and built to last. Perfect for use as a workshop, creative studio, backyard office, or garden storage, the Auren shed delivers unmatched space, balance, and timeless appeal.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/auren-12x24-gable-roof-shed-plan-spacious-workshop-studio-or-backyard-office-diy-construction-plans-pdf/open-specs.json"
+}
