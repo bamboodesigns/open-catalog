@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X16-8B328F",
+    "slug":  "ramona-12x16-gambrel-shed-plan-a-barn-style-storage-and-workspace-design",
+    "name":  "Ramona 12x16 Gambrel Shed Plan - A Barn-Style Storage \u0026 Workspace Design",
+    "category":  "sheds",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x16 Gambrel Roof Shed",
+                          "Iconic barn-style gambrel roof provides increased headroom and usable wall height-ideal for tall storage, shelving, or future loft options.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, efficient roof geometry, and easy-to-follow plans make this shed suitable for both beginners and experienced builders.",
+                          "Wide Double Door Access",
+                          "Classic barn-style double doors allow easy movement of lawn equipment, tools, bikes, workbenches, and bulky storage items.",
+                          "Timeless Barn Aesthetic",
+                          "Warm horizontal lap siding, clean white trim, and a traditional roofline create a rustic yet refined backyard structure."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  32,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x16 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Ramona%2012x16%20Gambrel%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20%26%20Workspace%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/99b17a/7747077743/il_fullxfull.7747077743_hj1h.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Ramona Gambrel Shed Plan - a 12x16 barn-style shed designed to maximize interior space while delivering timeless curb appeal. Featuring a classic gambrel roof, clean horizontal siding, and wide barn-style double doors, Ramona combines traditional charm with modern functionality. Whether you\u0027re building a spacious storage shed, backyard workshop, garden supply hub, or creative hobby space, the Ramona 12x16 offers smart space planning, DIY-friendly...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/ramona-12x16-gambrel-shed-plan-a-barn-style-storage-and-workspace-design/open-specs.json"
+}

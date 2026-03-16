@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-12X40-0D991E",
+    "slug":  "saturn-12x40-gable-roof-shed-plan-extra-large-workshop-studio-or-backyard-office-diy-building-plans-pdf",
+    "name":  "Saturn 12x40 Gable Roof Shed Plan - Extra-Large Workshop, Studio, or Backyard Office | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x40",
+    "area_sf":  480,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 40\u0027 (480 sq. ft.)",
+                          "Height: ~12 ft to roof peak",
+                          "Roof Type: Classic gable roof",
+                          "Doors: Dual 6\u0027 wide glass or barn-style doors (customizable)",
+                          "Windows: Generous window layout for natural light",
+                          "Siding: Horizontal lap shown (compatible with wood, metal, or composite finishes)",
+                          "Foundation: Freestanding pier or slab compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x40 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Saturn%2012x40%20Gable%20Roof%20Shed%20Plan%20-%20Extra-Large%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/fc6df8/7679566378/il_fullxfull.7679566378_36gi.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next big project with the Saturn 12x40 Gable Roof Shed Plan - a striking, extra-spacious design that combines traditional architecture with modern versatility. With a sleek gable roofline, abundant windows, and dual entry doors, Saturn provides the perfect foundation for your dream workshop, studio, home office, or guest retreat. Built for both aesthetics and efficiency, this plan offers a wide-open interior layout that\u0027s ideal for customization - whether you\u0027re organizing tools,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/saturn-12x40-gable-roof-shed-plan-extra-large-workshop-studio-or-backyard-office-diy-building-plans-pdf/open-specs.json"
+}

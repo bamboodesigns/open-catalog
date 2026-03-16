@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-10X16-993897",
+    "slug":  "saylor-10x16-lean-to-shed-plan-a-modern-shed-with-a-sleek-sloped-roof-diy-lean-to-shed-plans",
+    "name":  "Saylor 10x16 Lean-To Shed Plan - A Modern Shed with a Sleek Sloped Roof| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x16 Lean-To Shed with Sloped Roof",
+                          "Minimalist architecture designed for modern homes, patios, and tight property lines.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean lines, and easy-to-follow plans suitable for beginners and pros.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors make it easy to move in tools, equipment, bikes, garden supplies, or workshop materials.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm horizontal wood siding, clean trim, and a single-pitch roof create a modern yet rustic balance."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  26,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "10x16 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Saylor%2010x16%20Lean-To%20Shed%20Plan%20-%20A%20Modern%20Shed%20with%20a%20Sleek%20Sloped%20Roof",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/d87fcb/7482640815/il_fullxfull.7482640815_g9l3.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Saylor Lean-To Shed Plan - a 10x16 modern storage and workspace solution designed for efficiency, style, and clean architectural simplicity. With its streamlined sloped roof, warm wood siding, and wide barn-style double doors, the Saylor delivers contemporary form with practical, everyday utility. Whether you\u0027re building a compact workshop, garden supply hub, hobby studio, or organized storage shed, the Saylor 10x16 offers smart space planning, DI...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/saylor-10x16-lean-to-shed-plan-a-modern-shed-with-a-sleek-sloped-roof-diy-lean-to-shed-plans/open-specs.json"
+}

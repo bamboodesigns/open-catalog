@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-10X20-38A379",
+    "slug":  "nalani-10x20-shed-plan-a-barn-style-storage-shed-with-expanded-space-and-charming-cottage-appeal",
+    "name":  "Nalani 10x20 Shed Plan - A Barn-Style Storage Shed with Expanded Space \u0026 Charming Cottage Appeal",
+    "category":  "sheds",
+    "dimensions_ft":  "10x20",
+    "area_sf":  200,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x20 Shed with Gambrel Barn Roof",
+                          "A traditional barn profile that boosts overhead storage capacity-ideal for lofts, shelving, tool hanging, and long-term organization.",
+                          "DIY-Friendly Construction",
+                          "Simple framing, clear assembly steps, and straightforward materials make this plan perfect for both beginners and seasoned builders.",
+                          "Wide Barn-Style Double Doors",
+                          "Extra-wide entry doors allow smooth access for lawn equipment, bikes, storage bins, workshop tools, and seasonal items.",
+                          "Charming Cottage Aesthetic",
+                          "Bold blue siding, white trim, warm wood doors, and decorative exterior lighting create a welcoming, elevated backyard structure."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x20 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Nalani%2010x20%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20Shed%20with%20Expanded%20Space%20%26%20Charming%20Cottage%20Appeal",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ff7806/7696399638/il_fullxfull.7696399638_ig29.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Nalani Barn Shed Plan - a 10x20 spacious storage and workspace solution crafted for efficiency, character, and everyday functionality. Featuring a classic gambrel barn roof, bright lap siding, craftsman-style trim, and rustic double doors, the Nalani blends nostalgic farmstead architecture with clean, contemporary detailing. Whether you\u0027re building a large garden shed, DIY workshop, hobby studio, or an ultra-organized outdoor storage hub**, the Na...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/nalani-10x20-shed-plan-a-barn-style-storage-shed-with-expanded-space-and-charming-cottage-appeal/open-specs.json"
+}

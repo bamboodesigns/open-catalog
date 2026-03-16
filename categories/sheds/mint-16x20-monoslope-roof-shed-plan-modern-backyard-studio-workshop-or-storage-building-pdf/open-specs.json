@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-16X20-418554",
+    "slug":  "mint-16x20-monoslope-roof-shed-plan-modern-backyard-studio-workshop-or-storage-building-pdf",
+    "name":  "Mint 16x20 Monoslope Roof Shed Plan - Modern Backyard Studio, Workshop, or Storage Building (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "16x20",
+    "area_sf":  320,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "16x20 Monoslope Roof Shed",
+                          "A spacious backyard structure with a modern single-pitch roofline and efficient open floor plan.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing methods and clean structural geometry make Mint ideal for beginner and experienced builders alike.",
+                          "Modern Lean-To Roof Design",
+                          "The sloped roofline enhances contemporary curb appeal while allowing efficient drainage and simplified roof construction.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "Strategically placed doors and windows provide convenient access, natural lighting, and comfortable airflow."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x20 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mint%2016x20%20Monoslope%20Roof%20Shed%20Plan%20-%20Modern%20Backyard%20Studio%2C%20Workshop%2C%20or%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/777c57/7790198136/il_fullxfull.7790198136_bl8r.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Mint Shed Plan - a spacious 16x20 modern monoslope shed designed for efficiency, contemporary curb appeal, and flexible backyard functionality. Showcasing a sleek single-slope roofline, clean architectural proportions, and the potential for warm horizontal wood siding, Mint delivers a modern exterior with highly adaptable interior space. With 320 square feet of usable floor area, Mint provides plenty of room for a productive backyard workshop, org...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/mint-16x20-monoslope-roof-shed-plan-modern-backyard-studio-workshop-or-storage-building-pdf/open-specs.json"
+}

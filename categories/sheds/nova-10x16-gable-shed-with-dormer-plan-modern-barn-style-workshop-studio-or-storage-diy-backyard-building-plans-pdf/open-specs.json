@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-10X16-DBE1AC",
+    "slug":  "nova-10x16-gable-shed-with-dormer-plan-modern-barn-style-workshop-studio-or-storage-diy-backyard-building-plans-pdf",
+    "name":  "Nova 10x16 Gable Shed with Dormer Plan - Modern Barn-Style Workshop, Studio, or Storage | DIY Backyard Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 10\u0027 x 16\u0027 (160 sq. ft.)",
+                          "Height: ~12 ft (including dormer)",
+                          "Roof Type: Gable roof with integrated dormer window",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Front dormer and side wall openings for natural light",
+                          "Siding: Horizontal wood shown (customizable for metal, composite, or lap siding)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  26,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "10x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Nova%2010x16%20Gable%20Shed%20with%20Dormer%20Plan%20-%20Modern%20Barn-Style%20Workshop%2C%20Studio%2C%20or%20Storage",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/96df19/7730612907/il_fullxfull.7730612907_nbi6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Nova Gable Shed Plan - a 10x16 design that blends traditional architecture with modern innovation. Featuring a bold dormer window and clean gable lines, Nova delivers abundant natural light, efficient space, and timeless charm. Whether you\u0027re building a workshop, creative studio, or backyard retreat, this plan provides the perfect balance of form, function, and DIY simplicity. 10x16 Gable Roof Shed with Dormer - Classic structure meets bright, contem...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/nova-10x16-gable-shed-with-dormer-plan-modern-barn-style-workshop-studio-or-storage-diy-backyard-building-plans-pdf/open-specs.json"
+}

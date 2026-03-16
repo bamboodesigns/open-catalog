@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-12X16-36596F",
+    "slug":  "raine-12x16-gambrel-shed-plan-a-barn-style-storage-and-workspace-solution",
+    "name":  "Raine 12x16 Gambrel Shed Plan - A Barn-Style Storage \u0026 Workspace Solution",
+    "category":  "sheds",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x16 Gambrel Roof Shed",
+                          "Classic barn-style architecture provides increased headroom and superior storage capacity compared to standard gable sheds.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean roof geometry, and clear build logic make this plan approachable for beginners and efficient for experienced builders.",
+                          "Wide Double Door Access",
+                          "Traditional barn-style double doors allow easy entry for lawn equipment, tools, bikes, workbenches, and bulky storage items.",
+                          "Timeless Barn Aesthetic",
+                          "Horizontal lap siding, simple trim details, and the iconic gambrel roof create a rustic yet refined look that never goes out of style."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  32,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x16 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Raine%2012x16%20Gambrel%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20%26%20Workspace%20Solution",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/bed3a7/7699122500/il_fullxfull.7699122500_bws6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Raine Gambrel Shed Plan - a 12x16 barn-style shed designed to deliver maximum interior volume, timeless character, and everyday versatility. Featuring a classic gambrel roof profile, clean horizontal siding, and wide barn-style double doors, Raine blends traditional charm with modern functionality. Whether you\u0027re building a spacious storage shed, backyard workshop, garden hub, or creative hobby space, the Raine 12x16 offers smart space planning, D...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/raine-12x16-gambrel-shed-plan-a-barn-style-storage-and-workspace-solution/open-specs.json"
+}

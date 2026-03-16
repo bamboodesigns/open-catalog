@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-12X30-901A7D",
+    "slug":  "nythea-12x30-gable-roof-shed-plan-spacious-workshop-studio-or-backyard-office-diy-building-plans-pdf",
+    "name":  "Nythea 12x30 Gable Roof Shed Plan - Spacious Workshop, Studio, or Backyard Office | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x30",
+    "area_sf":  360,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 30\u0027 (360 sq. ft.)",
+                          "Height: ~12 ft to roof peak",
+                          "Roof Type: Traditional gable roof with clean lines",
+                          "Doors: 6\u0027 wide double glass-paneled barn doors",
+                          "Windows: Multiple large side windows for natural light",
+                          "Siding: Horizontal lap siding shown (customizable for wood, metal, or composite finishes)",
+                          "Foundation: Freestanding pier or concrete slab compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x30 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Nythea%2012x30%20Gable%20Roof%20Shed%20Plan%20-%20Spacious%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/97dbe9/7727127997/il_fullxfull.7727127997_qwvh.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create something extraordinary with the Nythea 12x30 Gable Roof Shed Plan - a masterfully designed structure that combines classic architecture with expansive, flexible space. With its symmetrical windows, wide double entry doors, and bold gable roofline, Nythea delivers function, elegance, and scale for builders who want more room to create, work, or relax. Whether you\u0027re building a woodworking studio, garden office, storage barn, or creative workspace, the Nythea\u0027s timeless design and effic...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/nythea-12x30-gable-roof-shed-plan-spacious-workshop-studio-or-backyard-office-diy-building-plans-pdf/open-specs.json"
+}

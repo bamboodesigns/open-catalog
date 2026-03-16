@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-8X12-E46C40",
+    "slug":  "neil-8x12-lean-to-shed-plan-a-modern-storage-solution-designed-to-elevate-any-backyard-diy-lean-to-shed-plans",
+    "name":  "Neil 8x12 Lean-To Shed Plan - A Modern Storage Solution Designed to Elevate Any Backyard | DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "8x12",
+    "area_sf":  96,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 8\u0027 x 12\u0027 (96 sq ft)",
+                          "Roof Type: Single-slope (lean-to) roof",
+                          "Height: 13.5\u0027",
+                          "Doors: Single full-height entry door",
+                          "Siding: Vertical board siding shown (also compatible with lap, metal, or composite)",
+                          "Placement: Designed to attach alongside an existing structure",
+                          "Foundation: Freestanding pier blocks or slab-on-grade options included"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  26,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "8x12 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "workshop",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Neil%208x12%20Lean-To%20Shed%20Plan%20-%20A%20Modern%20Storage%20Solution%20Designed%20to%20Elevate%20Any%20Backyard",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/3a3e53/7467573725/il_fullxfull.7467573725_j5md.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Introducing the Neil Lean-To Shed Plan - an 8x12 Modern Storage Solution Designed to Elevate Any Backyard Transform unused exterior wall space into powerful, efficient storage with the Neil Lean-To Shed Plan, a sleek 8x12 design crafted for homeowners who value clean lines, smart functionality, and easy DIY construction. With its contemporary sloped roof, vertical board siding, and compact footprint, Neil is perfect for organizing garden tools, outdoor gear, seasonal decor, and everything in...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/neil-8x12-lean-to-shed-plan-a-modern-storage-solution-designed-to-elevate-any-backyard-diy-lean-to-shed-plans/open-specs.json"
+}

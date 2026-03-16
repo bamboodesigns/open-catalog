@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-SHED-10X16-C012DC",
+    "slug":  "martis-10x16-backyard-office-shed-plan-modern-gable-roof-studio-with-dormer-diy-building-plans-pdf",
+    "name":  "Martis 10x16 Backyard Office Shed Plan - Modern Gable Roof Studio with Dormer | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 10\u0027 x 16\u0027 (160 sq. ft.)",
+                          "Height: ~12 ft (at dormer peak)",
+                          "Roof Type: Gable roof with integrated dormer window",
+                          "Doors: Modern glass double doors with transom light",
+                          "Windows: Large front picture window + dormer light window",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal options)",
+                          "Foundation: Freestanding pier or concrete slab"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "10x16 shed",
+                 "office shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Martis%2010x16%20Backyard%20Office%20Shed%20Plan%20-%20Modern%20Gable%20Roof%20Studio%20with%20Dormer",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/5c5f14/7675451640/il_fullxfull.7675451640_i84p.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Martis 10x16 Backyard Office Shed Plan - a sleek and inspiring workspace design that merges modern elegance with everyday practicality. With its bold gable lines, glass front facade, and dormer window detail, Martis transforms any outdoor space into a light-filled creative studio, private home office, or serene garden retreat. Designed for the modern professional or creator, the Martis offers both beauty and functionality - combining efficient struct...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/martis-10x16-backyard-office-shed-plan-modern-gable-roof-studio-with-dormer-diy-building-plans-pdf/open-specs.json"
+}

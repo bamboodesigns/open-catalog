@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-SHED-8X8-1B8FF4",
+    "slug":  "sally-8x8-lean-to-shed-plan-a-modern-shed-designed-for-compact-efficiency-clean-lines-and-everyday-practicality-diy-lean-to-shed-plans",
+    "name":  "Sally 8x8 Lean-To Shed Plan - A modern shed designed for compact efficiency, clean lines, and everyday practicality| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "8x8",
+    "area_sf":  64,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 8\u0027 x 8\u0027 (64 sq ft)",
+                          "Roof Type: Lean-to / sloped roof",
+                          "Height: ~13.5\u0027 ft depending on pitch",
+                          "Doors: 1 standard single entry door",
+                          "Windows: Optional vertical window for added light",
+                          "Siding: Vertical wood siding shown (customizable to metal, composite, or lap siding)",
+                          "Foundation: Freestanding pier, skid, or slab options"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  26,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "8x8 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sally%208x8%20Lean-To%20Shed%20Plan%20-%20A%20modern%20shed%20designed%20for%20compact%20efficiency%2C%20clean%20lines%2C%20and%20everyday%20practicality",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/2638e7/7467509429/il_fullxfull.7467509429_as8z.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard upgrade with the Sally Lean-To Shed Plan - an 8x8 modern shed designed for compact efficiency, clean lines, and everyday practicality. Built to sit seamlessly against your home, the Sally 8x8 offers the perfect blend of space-saving design and elevated style. Its sloped lean-to roof, vertical siding, and refined entryway make it an ideal choice for homeowners who want storage convenience without sacrificing aesthetics.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/sally-8x8-lean-to-shed-plan-a-modern-shed-designed-for-compact-efficiency-clean-lines-and-everyday-practicality-diy-lean-to-shed-plans/open-specs.json"
+}

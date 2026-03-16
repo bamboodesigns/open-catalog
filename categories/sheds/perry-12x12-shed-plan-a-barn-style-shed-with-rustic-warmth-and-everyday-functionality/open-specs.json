@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-12X12-78AFAF",
+    "slug":  "perry-12x12-shed-plan-a-barn-style-shed-with-rustic-warmth-and-everyday-functionality",
+    "name":  "Perry 12x12 Shed Plan - A Barn-Style Shed with Rustic Warmth \u0026 Everyday Functionality",
+    "category":  "sheds",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x12 Shed with Gambrel Barn Roof",
+                          "The traditional barn-style roof provides enhanced interior headroom and adds unmistakable character while maximizing usable space.",
+                          "DIY-Friendly Construction",
+                          "Designed with straightforward framing and easy-to-follow plans, making this shed approachable for beginners and efficient for experienced builders.",
+                          "Wide Double Door Access",
+                          "Barn-style double doors allow effortless movement of tools, lawn equipment, bikes, storage bins, and workshop materials.",
+                          "Rustic Natural Aesthetic",
+                          "Warm horizontal wood siding, contrasting trim, and classic barn details create a timeless look that fits both rural and modern backyard settings."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x12 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Perry%2012x12%20Shed%20Plan%20-%20A%20Barn-Style%20Shed%20with%20Rustic%20Warmth%20%26%20Everyday%20Functionality",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/2171c3/7744599783/il_fullxfull.7744599783_7l68.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Perry Shed Plan - a 12x12 barn-style storage and workspace solution designed for durability, efficiency, and timeless appeal. Featuring a classic gambrel barn roof, rich wood siding, crisp white trim, and bold barn-style double doors, the Perry delivers a perfect blend of rustic charm and modern usability. Whether you\u0027re building a compact workshop, garden storage shed, hobby space, or a clean, organized backyard utility building, the Perry 12x12...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/perry-12x12-shed-plan-a-barn-style-shed-with-rustic-warmth-and-everyday-functionality/open-specs.json"
+}

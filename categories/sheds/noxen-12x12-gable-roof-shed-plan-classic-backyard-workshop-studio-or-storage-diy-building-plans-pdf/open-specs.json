@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-12X12-CD2C56",
+    "slug":  "noxen-12x12-gable-roof-shed-plan-classic-backyard-workshop-studio-or-storage-diy-building-plans-pdf",
+    "name":  "Noxen 12x12 Gable Roof Shed Plan - Classic Backyard Workshop, Studio, or Storage | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 12\u0027 (144 sq. ft.)",
+                          "Height: ~12 ft to roof peak",
+                          "Roof Type: Gable roof with classic overhangs",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Optional side vents or small windows for light and airflow",
+                          "Siding: Horizontal wood shown (customizable for lap, metal, or composite siding)",
+                          "Foundation: Pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x12 shed",
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Noxen%2012x12%20Gable%20Roof%20Shed%20Plan%20-%20Classic%20Backyard%20Workshop%2C%20Studio%2C%20or%20Storage",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/56dc4a/7679179768/il_fullxfull.7679179768_8mls.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring classic craftsmanship to your backyard with the Noxen 12x12 Gable Roof Shed Plan - a traditional design reimagined for today\u0027s DIY builders. With its balanced proportions, strong gable lines, and barn-style double doors, Noxen delivers timeless structure, everyday functionality, and easy-to-follow construction. Perfect as a workshop, garden studio, or storage space, this 12x12 shed combines classic charm with reliable utility - making it a standout addition to any home landscape.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/noxen-12x12-gable-roof-shed-plan-classic-backyard-workshop-studio-or-storage-diy-building-plans-pdf/open-specs.json"
+}

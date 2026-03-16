@@ -1,0 +1,75 @@
+{
+    "plan_id":  "BD-SHED-12X40-4E8594",
+    "slug":  "mercury-12x40-gable-roof-shed-plan-large-workshop-studio-or-backyard-office-with-porch-diy-building-plans-pdf",
+    "name":  "Mercury 12x40 Gable Roof Shed Plan - Large Workshop, Studio, or Backyard Office with Porch | DIY Building Plans (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "12x40",
+    "area_sf":  480,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 40\u0027 (480 sq. ft.)",
+                          "Height: ~12 ft at roof peak",
+                          "Roof Type: Traditional gable roof",
+                          "Doors: Dual 6\u0027 wide barn-style or glass French doors",
+                          "Windows: Multiple large side and front windows for natural light",
+                          "Siding: Horizontal lap shown (compatible with wood, metal, or composite finishes)",
+                          "Porch: Integrated covered entry for shade and style",
+                          "Foundation: Designed for freestanding pier or concrete slab"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  45,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x40 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mercury%2012x40%20Gable%20Roof%20Shed%20Plan%20-%20Large%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office%20with%20Porch",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7a6c6e/7679170488/il_fullxfull.7679170488_ckm2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring your biggest backyard dreams to life with the Mercury 12x40 Gable Roof Shed Plan - a spacious, elegant structure that blends classic form with modern function. Featuring a full gable roof, wide double-door entry, and a cozy covered porch, Mercury is perfect for homeowners looking to expand their outdoor living, storage, or creative workspace in style. This large-format plan delivers 480 sq. ft. of flexible interior space - ideal for a workshop, art studio, home office, or hobby barn - w...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/mercury-12x40-gable-roof-shed-plan-large-workshop-studio-or-backyard-office-with-porch-diy-building-plans-pdf/open-specs.json"
+}

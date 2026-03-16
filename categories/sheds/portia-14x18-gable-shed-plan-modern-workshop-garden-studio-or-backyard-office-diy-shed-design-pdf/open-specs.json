@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-14X18-52FDAC",
+    "slug":  "portia-14x18-gable-shed-plan-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf",
+    "name":  "Portia 14x18 Gable Shed Plan - Modern Workshop, Garden Studio, or Backyard Office | DIY Shed Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "14x18",
+    "area_sf":  252,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 14\u0027 x 18\u0027 (252 sq. ft.)",
+                          "Height: ~12 ft (to gable peak)",
+                          "Roof Type: Traditional gable roof with vented ridge",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Side and rear options for natural light and airflow",
+                          "Siding: Vertical wood shown (customizable for metal, wood, or composite)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x18 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Portia%2014x18%20Gable%20Shed%20Plan%20-%20Modern%20Workshop%2C%20Garden%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/247d4c/7679196276/il_fullxfull.7679196276_dr64.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Portia 14x18 Gable Shed Plan - a refined, modern shed that merges classic barn charm with clean architectural precision. With its tall gable roof, barn-style double doors, and generous side windows, the Portia creates a bright and versatile space perfect for any creative or functional use. Whether you\u0027re crafting a woodworking shop, home office, art studio, or garden retreat, the Portia 14x18 delivers structure, beauty, and flexibility - all in a des...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/portia-14x18-gable-shed-plan-modern-workshop-garden-studio-or-backyard-office-diy-shed-design-pdf/open-specs.json"
+}

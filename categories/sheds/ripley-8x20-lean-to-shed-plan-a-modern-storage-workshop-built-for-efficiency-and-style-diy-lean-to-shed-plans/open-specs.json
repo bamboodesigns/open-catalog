@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-8X20-B2C71C",
+    "slug":  "ripley-8x20-lean-to-shed-plan-a-modern-storage-workshop-built-for-efficiency-and-style-diy-lean-to-shed-plans",
+    "name":  "Ripley 8x20 Lean-To Shed Plan - A Modern Storage Workshop Built for Efficiency \u0026 Style| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "8x20",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 8\u0027 x 20\u0027 (160 sq ft)",
+                          "Height: 13.5\u0027 ft",
+                          "Roof Type: Single-slope lean-to roof for efficient drainage and modern styling",
+                          "Doors: Double barn-style front doors",
+                          "Windows: Side ventilation window (positions customizable)",
+                          "Siding: Vertical or horizontal lap shown (compatible with wood, metal, or composite options)",
+                          "Foundation: Freestanding pier blocks or slab foundation options"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  35,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "8x20 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Ripley%208x20%20Lean-To%20Shed%20Plan%20-%20A%20Modern%20Storage%20Workshop%20Built%20for%20Efficiency%20%26%20Style",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f3e6cd/7470610363/il_fullxfull.7470610363_epoc.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch Your Next Backyard Upgrade with the Ripley Lean-To Shed Plan - an 8x20 Modern Storage Workshop Built for Efficiency \u0026 Style Transform unused wall space into serious storage and workspace with the Ripley 8x20 Lean-To Shed Plan, a streamlined, modern shed design that fits beautifully against your home while expanding your functional footprint. With its long, spacious layout, bold lean-to roofline, and craftsman-inspired double doors, the Ripley delivers a clean, architectural look paired...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/ripley-8x20-lean-to-shed-plan-a-modern-storage-workshop-built-for-efficiency-and-style-diy-lean-to-shed-plans/open-specs.json"
+}

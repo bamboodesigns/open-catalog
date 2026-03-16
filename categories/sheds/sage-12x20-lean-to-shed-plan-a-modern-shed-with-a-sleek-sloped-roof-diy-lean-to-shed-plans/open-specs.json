@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X20-972A1D",
+    "slug":  "sage-12x20-lean-to-shed-plan-a-modern-shed-with-a-sleek-sloped-roof-diy-lean-to-shed-plans",
+    "name":  "Sage 12x20 Lean-To Shed Plan - A Modern Shed with a Sleek Sloped Roof| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x20 Lean-To Shed with Sloped Roof",
+                          "Minimalist single-pitch roof delivers clean geometry, excellent drainage, and a modern presence suited for both tight and open backyard settings.",
+                          "DIY-Friendly Construction",
+                          "Simple framing, intuitive layout, and easy-to-follow instructions make this shed ideal for both new builders and experienced DIYers.",
+                          "Wide Glass-Pane Double Doors",
+                          "Classic barn-style double doors with window panes provide bright natural light and easy entry for tools, equipment, bikes, or workshop materials.",
+                          "Contemporary Natural Aesthetic",
+                          "Warm horizontal wood siding, crisp trim, and a modern lean-to roof combine for a clean, rustic-modern look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  32,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "12x20 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sage%2012x20%20Lean-To%20Shed%20Plan%20-%20A%20Modern%20Shed%20with%20a%20Sleek%20Sloped%20Roof",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/517b61/7482973339/il_fullxfull.7482973339_npxi.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Sage Lean-To Shed Plan - a 12x20 modern workspace and storage solution designed for efficiency, style, and clean architectural simplicity. Featuring a streamlined single-slope roof, rich natural wood siding, and elegant glass-pane double doors, the Sage delivers contemporary character with practical, everyday utility. Whether you\u0027re building a spacious workshop, garden supply hub, hobby studio, home office, or a fully organized storage shed, the S...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/sage-12x20-lean-to-shed-plan-a-modern-shed-with-a-sleek-sloped-roof-diy-lean-to-shed-plans/open-specs.json"
+}

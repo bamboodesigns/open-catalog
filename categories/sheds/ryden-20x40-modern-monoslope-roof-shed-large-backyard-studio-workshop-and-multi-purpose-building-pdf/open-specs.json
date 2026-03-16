@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-20X40-4C846E",
+    "slug":  "ryden-20x40-modern-monoslope-roof-shed-large-backyard-studio-workshop-and-multi-purpose-building-pdf",
+    "name":  "Ryden - 20x40 Modern Monoslope Roof Shed | Large Backyard Studio, Workshop \u0026 Multi-Purpose Building (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "20x40",
+    "area_sf":  800,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "20x40 Modern Monoslope Shed Design",
+                          "A bold single-slope roofline delivers contemporary architectural style while improving water runoff and structural efficiency.",
+                          "Extra-Large Interior Space",
+                          "With 800 sq ft of usable area, Ryden provides abundant room for workshops, studios, offices, storage systems, or creative workspaces.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, standard materials, and intuitive building geometry make Ryden ideal for both beginner builders and seasoned DIY enthusiasts.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "A well-positioned entry door and balanced windows provide convenient access while inviting natural daylight and refreshing airflow."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x40 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Ryden%20-%2020x40%20Modern%20Monoslope%20Roof%20Shed%20%7C%20Large%20Backyard%20Studio%2C%20Workshop%20%26%20Multi-Purpose%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/833a4c/7838889945/il_fullxfull.7838889945_beq2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Ryden 20x40 Monoslope Roof Shed - a generously sized modern structure designed for efficiency, versatility, and clean architectural style. Featuring a streamlined single-slope roof, warm horizontal wood siding, and crisp contemporary lines, Ryden delivers a refined exterior with exceptional interior potential. With an impressive 800 square feet of flexible interior space, Ryden offers the ideal foundation for transforming your backyard into a spac...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/ryden-20x40-modern-monoslope-roof-shed-large-backyard-studio-workshop-and-multi-purpose-building-pdf/open-specs.json"
+}
