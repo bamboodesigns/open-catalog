@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-BARN-12X12-029CE4",
+    "slug":  "shadow-12x12-horse-paddock-plan-an-enclosed-run-in-shelter-for-equine-comfort-and-protection",
+    "name":  "Shadow 12x12 Horse Paddock Plan - An Enclosed Run-In Shelter for Equine Comfort \u0026 Protection",
+    "category":  "barns",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "barn",
+                 "lean-to",
+                 "monoslope roof",
+                 "run-in shelter"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x12 Horse Paddock with Sloped Roof",
+                          "The lean-to roof design promotes efficient rain runoff while providing reliable shade and weather coverage.",
+                          "Three-Sided Enclosed Shelter",
+                          "Solid side and rear walls protect horses from wind, rain, and sun while keeping the front open for easy access and natural ventilation.",
+                          "DIY-Friendly Construction",
+                          "Simple framing, standard lumber dimensions, and clear build logic make this paddock ideal for DIY builders, ranch owners, and homesteaders.",
+                          "Durable Farm-Style Aesthetic",
+                          "Natural wood construction with clean lines creates a practical, professional look that pairs well with barns, fencing, and pasture layouts."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy paddock",
+                 "diy paddock plans",
+                 "backyard paddock",
+                 "outdoor paddock",
+                 "paddock design",
+                 "paddock ideas",
+                 "paddock plans",
+                 "paddock",
+                 "horse paddock",
+                 "cool paddock",
+                 "outside paddock",
+                 "paddock for horse",
+                 "12x12 paddock",
+                 "barns",
+                 "barn",
+                 "lean-to",
+                 "monoslope roof",
+                 "run-in shelter",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Shadow%2012x12%20Horse%20Paddock%20Plan%20-%20An%20Enclosed%20Run-In%20Shelter%20for%20Equine%20Comfort%20%26%20Protection",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4eebab/7561180595/il_fullxfull.7561180595_noor.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next pasture or ranch upgrade with the Shadow Horse Paddock Plan - a 12x12 enclosed run-in shelter designed to provide dependable shade, wind protection, and everyday comfort for horses. Featuring a single-slope roof, partially enclosed side and back walls, and an open front entry, Shadow offers a secure, calm environment while maintaining excellent airflow and visibility. Whether you\u0027re building a horse run-in shelter, feeding paddock, resting stall, or a compact livestock sha...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/barns/shadow-12x12-horse-paddock-plan-an-enclosed-run-in-shelter-for-equine-comfort-and-protection/open-specs.json"
+}

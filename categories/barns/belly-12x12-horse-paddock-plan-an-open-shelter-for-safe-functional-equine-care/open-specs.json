@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-BARN-12X12-3BB2A2",
+    "slug":  "belly-12x12-horse-paddock-plan-an-open-shelter-for-safe-functional-equine-care",
+    "name":  "Belly 12x12 Horse Paddock Plan - An Open Shelter for Safe, Functional Equine Care",
+    "category":  "barns",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "barn",
+                 "lean-to",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x12 Horse Paddock with Sloped Roof",
+                          "The single-slope roof design provides dependable rain runoff and shade coverage while keeping the structure visually clean and functional.",
+                          "Open-Air, Horse-Safe Design",
+                          "Partial slatted walls offer airflow, visibility, and safety while allowing horses to move freely and comfortably.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, standard lumber sizing, and easy-to-follow plans make this paddock suitable for DIY builders and farm owners alike.",
+                          "Durable Agricultural Aesthetic",
+                          "Natural wood construction with clean lines creates a practical yet attractive paddock that complements barns, fencing, and pasture landscapes."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  21,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy paddock",
+                 "diy paddock plans",
+                 "backyard paddock",
+                 "outdoor paddock",
+                 "paddock design",
+                 "paddock ideas",
+                 "paddock plans",
+                 "paddock",
+                 "horse paddock",
+                 "cool paddock",
+                 "outside paddock",
+                 "paddock for horse",
+                 "12x12 paddock",
+                 "barns",
+                 "barn",
+                 "lean-to",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x12"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Belly%2012x12%20Horse%20Paddock%20Plan%20-%20An%20Open%20Shelter%20for%20Safe%2C%20Functional%20Equine%20Care",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/88455c/7561028999/il_fullxfull.7561028999_nvsx.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next pasture or property upgrade with the Belly Horse Paddock Plan - a 12x12 open-air paddock shelter designed for durability, airflow, and everyday equine comfort. Featuring a sturdy sloped roof, open-sided layout with horizontal rail fencing, and a clean timber structure, Belly delivers reliable weather protection while maintaining excellent visibility and ventilation for horses. Whether you\u0027re building a temporary turnout shelter, feeding station, rest area, or a compact hor...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/barns/belly-12x12-horse-paddock-plan-an-open-shelter-for-safe-functional-equine-care/open-specs.json"
+}

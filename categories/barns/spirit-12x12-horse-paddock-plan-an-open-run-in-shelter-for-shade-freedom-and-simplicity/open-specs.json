@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-BARN-12X12-1CA146",
+    "slug":  "spirit-12x12-horse-paddock-plan-an-open-run-in-shelter-for-shade-freedom-and-simplicity",
+    "name":  "Spirit 12x12 Horse Paddock Plan - An Open Run-In Shelter for Shade, Freedom \u0026 Simplicity",
+    "category":  "barns",
+    "dimensions_ft":  "12x12",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "barn",
+                 "lean-to",
+                 "monoslope roof",
+                 "run-in shelter"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x12 Open Horse Paddock with Sloped Roof",
+                          "A simple lean-to roof provides dependable sun and rain protection while maintaining an open, stress-free environment for horses.",
+                          "Fully Open Run-In Design",
+                          "Four-post construction allows horses to enter and exit freely from all sides, promoting natural movement and excellent ventilation.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, minimal materials, and clean lines make this paddock ideal for DIY builders, ranch owners, and homesteaders.",
+                          "Strong Farm-Style Aesthetic",
+                          "Exposed timber framing delivers a classic, functional look that pairs perfectly with fencing, barns, and rural settings."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy paddock",
+                 "diy paddock plans",
+                 "backyard paddock",
+                 "outdoor paddock",
+                 "paddock design",
+                 "paddock ideas",
+                 "paddock plans",
+                 "paddock",
+                 "horse paddock",
+                 "cool paddock",
+                 "outside paddock",
+                 "paddock for horse",
+                 "12x12 paddock",
+                 "barns",
+                 "barn",
+                 "lean-to",
+                 "monoslope roof",
+                 "run-in shelter",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Spirit%2012x12%20Horse%20Paddock%20Plan%20-%20An%20Open%20Run-In%20Shelter%20for%20Shade%2C%20Freedom%20%26%20Simplicity",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/814e56/7561231031/il_fullxfull.7561231031_6lje.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your pasture upgrade with the Spirit Horse Paddock Plan - a 12x12 open run-in shelter designed for horses that thrive with space, airflow, and unobstructed access. Featuring a clean single-slope roof, sturdy timber posts, and a fully open layout, Spirit delivers essential shade and weather protection without confinement. Whether you\u0027re building a horse shade structure, feeding area, turnout paddock, or a flexible livestock shelter, the Spirit 12x12 offers straightforward constructio...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/barns/spirit-12x12-horse-paddock-plan-an-open-run-in-shelter-for-shade-freedom-and-simplicity/open-specs.json"
+}

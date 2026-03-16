@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-BARN-12X24-9A67D2",
+    "slug":  "lucky-12x24-horse-paddock-plan-an-open-run-in-shelter-for-horses-and-livestock",
+    "name":  "Lucky 12x24 Horse Paddock Plan - An Open Run-In Shelter for Horses \u0026 Livestock",
+    "category":  "barns",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "barn",
+                 "lean-to",
+                 "monoslope roof",
+                 "run-in shelter"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x24 Open Horse Paddock Shelter",
+                          "A wide-span design offering ample room for multiple horses to stand, rest, and rotate comfortably.",
+                          "Single-Slope Lean-To Roof",
+                          "Provides effective sun and rain protection while keeping the structure visually light and easy to build.",
+                          "Fully Open Access Design",
+                          "No walls or enclosures-ideal for free movement, excellent visibility, and reduced herd tension.",
+                          "DIY-Friendly Post-and-Beam Construction",
+                          "Simple framing system with clean lines makes this paddock shelter approachable for DIY builders and professionals alike."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  53,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy paddock",
+                 "diy paddock plans",
+                 "backyard paddock",
+                 "outdoor paddock",
+                 "paddock design",
+                 "paddock ideas",
+                 "paddock plans",
+                 "paddock",
+                 "horse paddock",
+                 "cool paddock",
+                 "outside paddock",
+                 "paddock for horse",
+                 "12x24 paddock",
+                 "barns",
+                 "barn",
+                 "lean-to",
+                 "monoslope roof",
+                 "run-in shelter",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lucky%2012x24%20Horse%20Paddock%20Plan%20-%20An%20Open%20Run-In%20Shelter%20for%20Horses%20%26%20Livestock",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4c067c/7515692044/il_fullxfull.7515692044_8ylu.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your pasture upgrade with the Lucky Horse Paddock Plan - a 12x24 open run-in shelter designed for maximum airflow, easy access, and dependable shade in paddock and pasture environments. Featuring a clean single-slope roof, sturdy post-and-beam framing, and a fully open layout, Lucky provides horses with reliable protection from sun and light weather while maintaining a calm, stress-free turnout space. Whether you\u0027re creating a shared horse shelter, feeding and watering station, or a...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/barns/lucky-12x24-horse-paddock-plan-an-open-run-in-shelter-for-horses-and-livestock/open-specs.json"
+}
