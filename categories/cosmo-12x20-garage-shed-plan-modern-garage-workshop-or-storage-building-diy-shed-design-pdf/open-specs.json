@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GARG-12X20-BF9822",
+    "slug":  "cosmo-12x20-garage-shed-plan-modern-garage-workshop-or-storage-building-diy-shed-design-pdf",
+    "name":  "Cosmo 12x20 Garage Shed Plan - Modern Garage, Workshop, or Storage Building | DIY Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 20\u0027 (240 sq. ft.)",
+                          "Height: ~12 ft (to gable peak)",
+                          "Roof Type: Traditional gable roof with vented ridge",
+                          "Doors: 8\u0027 wide garage door + side man door",
+                          "Siding: Vertical metal paneling (customizable for wood or composite siding)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x20 garage shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Cosmo%2012x20%20Garage%20Shed%20Plan%20-%20Modern%20Garage%2C%20Workshop%2C%20or%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/386031/7753945003/il_fullxfull.7753945003_5slz.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Cosmo 12x20 Garage Shed Plan - a bold, contemporary design that combines modern simplicity with everyday function. Featuring a tall gable roof, clean vertical siding, and a smooth garage door entry, the Cosmo provides an adaptable space for parking, projects, or organized storage that looks right at home in any setting. Whether you\u0027re building a garage, hobby shop, or modern backyard workspace, the Cosmo 12x20 delivers structure, strength, and design...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/cosmo-12x20-garage-shed-plan-modern-garage-workshop-or-storage-building-diy-shed-design-pdf/open-specs.json"
+}

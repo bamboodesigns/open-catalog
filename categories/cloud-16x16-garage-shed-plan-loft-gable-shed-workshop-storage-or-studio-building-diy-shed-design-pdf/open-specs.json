@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-16X16-244923",
+    "slug":  "cloud-16x16-garage-shed-plan-loft-gable-shed-workshop-storage-or-studio-building-diy-shed-design-pdf",
+    "name":  "Cloud 16x16 Garage Shed Plan - Loft Gable Shed | Workshop, Storage, or Studio Building | DIY Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "16x16",
+    "area_sf":  256,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 16\u0027 x 16\u0027 (256 sq. ft.)",
+                          "Height: ~12 ft (with loft)",
+                          "Roof Type: Gable roof with vented ridge and loft area",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Siding: Horizontal wood lap shown (customizable for metal, composite, or shiplap finishes)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "16x16 shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Cloud%2016x16%20Garage%20Shed%20Plan%20-%20Loft%20Gable%20Shed%20%7C%20Workshop%2C%20Storage%2C%20or%20Studio%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ae659e/7724057951/il_fullxfull.7724057951_k5af.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Cloud 16x16 Garage Shed Plan - a clean, modern gable design that brings together timeless structure, versatile space, and elevated simplicity. With its open floor layout and full loft, Cloud offers the perfect balance of functionality and form, making it ideal for a garage, creative studio, or storage retreat. Whether you\u0027re a DIY builder or design enthusiast, this plan is made for easy construction, customization, and everyday use - a reliable desig...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/cloud-16x16-garage-shed-plan-loft-gable-shed-workshop-storage-or-studio-building-diy-shed-design-pdf/open-specs.json"
+}

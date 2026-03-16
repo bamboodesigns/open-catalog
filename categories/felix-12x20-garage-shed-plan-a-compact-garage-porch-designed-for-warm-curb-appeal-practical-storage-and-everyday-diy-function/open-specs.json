@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-12X20-BC3E3B",
+    "slug":  "felix-12x20-garage-shed-plan-a-compact-garage-porch-designed-for-warm-curb-appeal-practical-storage-and-everyday-diy-function",
+    "name":  "Felix 12x20 Garage Shed Plan - A Compact Garage + Porch Designed for Warm Curb Appeal, Practical Storage \u0026 Everyday DIY Function",
+    "category":  "garages",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x20 Garage Shed With Side Porch",
+                          "A beautifully proportioned garage layout paired with a covered porch-ideal for seating, potting, tool staging, or simple backyard relaxation.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simple roof geometry, and clear plan details make the Felix accessible for both new builders and seasoned DIYers.",
+                          "Single Oversized Garage Door",
+                          "Smooth access for lawn equipment, ATVs, motorcycles, bikes, tools, woodworking materials, or garden supplies.",
+                          "Warm Natural Aesthetic",
+                          "Rich horizontal wood siding, crisp white trim, lantern-style lighting, and a clean gable roofline give the Felix a cozy, cottage-inspired appearance with modern durability."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x20 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Felix%2012x20%20Garage%20Shed%20Plan%20-%20A%20Compact%20Garage%20%2B%20Porch%20Designed%20for%20Warm%20Curb%20Appeal%2C%20Practical%20Storage%20%26%20Everyday%20DIY%20Function",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/2b72dc/7754317221/il_fullxfull.7754317221_r10s.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Felix Garage Shed Plan - a 12x20 multi-use garage and porch design crafted for efficiency, charm, and practical day-to-day use. Featuring a classic gable roof, warm wood siding, expanded floor space, and a small covered side porch, the Felix combines timeless style with flexible utility for homeowners who want both beauty and performance. Whether you\u0027re building a compact vehicle garage, hobby workspace, garden shed, side-porch retreat, or organiz...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/felix-12x20-garage-shed-plan-a-compact-garage-porch-designed-for-warm-curb-appeal-practical-storage-and-everyday-diy-function/open-specs.json"
+}

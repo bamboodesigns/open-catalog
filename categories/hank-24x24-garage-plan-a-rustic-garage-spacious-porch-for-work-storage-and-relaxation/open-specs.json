@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-24X24-956F3C",
+    "slug":  "hank-24x24-garage-plan-a-rustic-garage-spacious-porch-for-work-storage-and-relaxation",
+    "name":  "Hank 24x24 Garage Plan - A Rustic Garage + Spacious Porch for Work, Storage \u0026 Relaxation",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage With Extended Covered Porch",
+                          "A flexible square footprint with plenty of interior room for vehicles, tools, or workshop equipment - paired with a shaded porch perfect for seating, storage overflow, or outdoor relaxation.",
+                          "DIY-Friendly Construction",
+                          "Clean framing, simple geometry, and detailed plans make this design accessible for both first-time builders and experienced craftspeople.",
+                          "Dual Carriage-Style Garage Doors",
+                          "Classic farmhouse-inspired double doors with upper window grids add charm while providing wide, practical access for cars, ATVs, mowers, or large equipment.",
+                          "Warm Rustic Exterior",
+                          "Vertical wood siding, crisp white trim, lantern-style lighting, and stone-look lower paneling create a rich, inviting aesthetic with high-end visual appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Hank%2024x24%20Garage%20Plan%20-%20A%20Rustic%20Garage%20%2B%20Spacious%20Porch%20for%20Work%2C%20Storage%20%26%20Relaxation",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/d3f8d9/7754856505/il_fullxfull.7754856505_snxu.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Hank Garage Plan - a 24x24 classic garage and covered porch design crafted for efficiency, comfort, and timeless rural charm. With its steep gable roof, warm vertical wood siding, oversized dual garage doors, and a generous wrap-style porch, the Hank delivers refined farmhouse character with practical everyday functionality. Whether you\u0027re building a home workshop, garden supply hub, project studio, or well-organized vehicle storage, the Hank 24x2...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/hank-24x24-garage-plan-a-rustic-garage-spacious-porch-for-work-storage-and-relaxation/open-specs.json"
+}

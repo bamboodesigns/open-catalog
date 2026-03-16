@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-24X48-7DD8BB",
+    "slug":  "halle-24x48-rv-garage-shed-plan-extra-large-barn-style-rv-storage-and-workshop",
+    "name":  "Halle 24x48 RV Garage Shed Plan - Extra Large Barn Style RV Storage \u0026 Workshop",
+    "category":  "garages",
+    "dimensions_ft":  "24x48",
+    "area_sf":  152,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x48 Extra-Large RV Garage Layout",
+                          "A generous footprint designed to comfortably house large RVs, motorhomes, trailers, boats, and multiple vehicles while still leaving room for shelving, storage, and workspace.",
+                          "Large RV-Height Garage Door",
+                          "Wide overhead door allows easy entry and maneuverability for tall vehicles and oversized equipment.",
+                          "Classic High-Pitch Gable Roof",
+                          "The tall gable roof provides increased interior height, excellent drainage, and the timeless silhouette of a traditional barn-style garage.",
+                          "Durable Rustic Exterior Design",
+                          "Shingle siding paired with wood trim accents creates a charming farmhouse-inspired appearance that complements country homes and modern rural properties."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "garage shed",
+                 "24x48 rv garage plan",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "rv storage",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Halle%2024x48%20RV%20Garage%20Shed%20Plan%20-%20Extra%20Large%20Barn%20Style%20RV%20Storage%20%26%20Workshop",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/837c28/7849179101/il_fullxfull.7849179101_l80t.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next property upgrade with the Halle RV Garage Shed - a spacious 24x48 storage and workshop structure designed for durability, efficiency, and timeless barn-style architecture. Featuring a tall gable roof, classic shingle siding, and a contrasting wood base trim, Halle delivers a warm rustic exterior paired with a highly functional interior layout. Whether you\u0027re looking to store your RV, camper, boat, trailer, trucks, or build a spacious workshop, the 24x48 Halle offers genero...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/halle-24x48-rv-garage-shed-plan-extra-large-barn-style-rv-storage-and-workshop/open-specs.json"
+}

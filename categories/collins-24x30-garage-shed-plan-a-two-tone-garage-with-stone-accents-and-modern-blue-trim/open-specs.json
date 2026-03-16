@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-24X30-7EBD84",
+    "slug":  "collins-24x30-garage-shed-plan-a-two-tone-garage-with-stone-accents-and-modern-blue-trim",
+    "name":  "Collins 24x30 Garage Shed Plan - A Two-Tone Garage with Stone Accents \u0026 Modern Blue Trim",
+    "category":  "garages",
+    "dimensions_ft":  "24x30",
+    "area_sf":  720,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing",
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x30 Garage Shed with Classic Gable Roof",
+                          "A tall, efficient roofline provides excellent overhead clearance for attic storage, loft potential, or extended workspace comfort.",
+                          "DIY-Friendly Construction",
+                          "Clean framing, symmetrical gable geometry, and well-organized plans make the Collins a straightforward build for any skill level.",
+                          "Wide Modern Garage Door Access",
+                          "Large double garage doors-styled in a bold blue finish-allow easy entry for vehicles, lawn tractors, tools, large equipment, and workshop materials.",
+                          "Contemporary Rustic Aesthetic",
+                          "A unique combination of vertical wood siding, stone lower facade, white trim, and a blue metal roof creates a sharp, polished exterior that stands out without overpowering the landscape."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x30 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "loft",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Collins%2024x30%20Garage%20Shed%20Plan%20-%20A%20Two-Tone%20Garage%20with%20Stone%20Accents%20%26%20Modern%20Blue%20Trim",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/cbe9a6/7705974940/il_fullxfull.7705974940_d9g5.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Collins Garage Shed Plan - a 24x30 premium garage and workshop solution designed with modern craftsmanship, warm natural materials, and bold architectural character. Featuring a striking blue metal roof, matching garage doors, and a beautiful blend of vertical wood siding over stone accents, the Collins delivers both sophistication and everyday practicality. Whether you\u0027re building a two-vehicle garage, a large workshop, a hobby studio, or an orga...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/collins-24x30-garage-shed-plan-a-two-tone-garage-with-stone-accents-and-modern-blue-trim/open-specs.json"
+}

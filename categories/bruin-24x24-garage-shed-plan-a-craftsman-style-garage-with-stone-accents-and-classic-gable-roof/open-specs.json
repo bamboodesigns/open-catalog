@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X24-8DF0F8",
+    "slug":  "bruin-24x24-garage-shed-plan-a-craftsman-style-garage-with-stone-accents-and-classic-gable-roof",
+    "name":  "Bruin 24x24 Garage Shed Plan - A Craftsman-Style Garage with Stone Accents \u0026 Classic Gable Roof",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage with Classic Gable Roof",
+                          "High-pitch roofline offers traditional charm, excellent snow shedding, and plenty of interior wall height for shelving, tools, and storage.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simple roof geometry, and clean building lines make this an ideal project for both first-time builders and experienced contractors.",
+                          "Dual Vehicle Access",
+                          "Two modern overhead garage doors provide wide, easy entry for cars, trucks, ATVs, lawn equipment, or workshop materials.",
+                          "Craftsman Stone + Wood Exterior",
+                          "Warm brown lap siding paired with textured stone base details creates a rich, earthy aesthetic inspired by lodge and Craftsman-style architecture."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Bruin%2024x24%20Garage%20Shed%20Plan%20-%20A%20Craftsman-Style%20Garage%20with%20Stone%20Accents%20%26%20Classic%20Gable%20Roof",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/fc77cf/7703681458/il_fullxfull.7703681458_ljbg.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Bruin Garage Shed Plan - a 24x24 premium garage and workshop solution designed with timeless Craftsman character, strong architectural detailing, and efficient, builder-friendly construction. Featuring a classic gable roof, rich wood siding, and beautiful stone wainscoting, the Bruin delivers unmatched curb appeal paired with practical everyday functionality. Whether you\u0027re constructing a two-vehicle garage, a full woodworking shop, a storage hub...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/bruin-24x24-garage-shed-plan-a-craftsman-style-garage-with-stone-accents-and-classic-gable-roof/open-specs.json"
+}

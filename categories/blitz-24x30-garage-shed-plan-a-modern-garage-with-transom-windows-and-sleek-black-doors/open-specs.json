@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-24X30-5330D2",
+    "slug":  "blitz-24x30-garage-shed-plan-a-modern-garage-with-transom-windows-and-sleek-black-doors",
+    "name":  "Blitz 24x30 Garage Shed Plan - A Modern Garage with Transom Windows \u0026 Sleek Black Doors",
+    "category":  "garages",
+    "dimensions_ft":  "24x30",
+    "area_sf":  720,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x30 Garage with Modern Sloped Roof",
+                          "A sleek single-pitch roof offers efficient drainage, visual simplicity, and standout architectural character ideal for modern homes.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean roof geometry, and organized build plans make the Blitz an accessible project for both experienced builders and confident DIYers.",
+                          "Wide Double Garage Door Access",
+                          "Gloss-black double garage doors provide smooth entry for vehicles, equipment, tools, bikes, outdoor gear, and workshop materials.",
+                          "Contemporary Minimal Aesthetic",
+                          "Light horizontal siding, transom-style windows, crisp white trim, and a strong black roofline create a clean, refined, modern-outbuilding design."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  42,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x30 garage shed",
+                 "garages",
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Blitz%2024x30%20Garage%20Shed%20Plan%20-%20A%20Modern%20Garage%20with%20Transom%20Windows%20%26%20Sleek%20Black%20Doors",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a60abf/7751334753/il_fullxfull.7751334753_kkz0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Blitz Garage Shed Plan - a 24x30 contemporary garage and workshop solution designed with crisp lines, modern architecture, and all-season durability. With its bold single-slope roof, clean horizontal siding, upper transom windows, and black-panel garage doors, the Blitz offers a striking, minimalist look built for today\u0027s homes. Whether you\u0027re creating a two-vehicle garage, a year-round workshop, a storage hub, or a creative project space, the Bli...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/blitz-24x30-garage-shed-plan-a-modern-garage-with-transom-windows-and-sleek-black-doors/open-specs.json"
+}

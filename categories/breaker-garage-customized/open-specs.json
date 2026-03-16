@@ -1,0 +1,52 @@
+{
+    "plan_id":  "BD-GARG-NA-3B626D",
+    "slug":  "breaker-garage-customized",
+    "name":  "Breaker Garage - Customized",
+    "category":  "garages",
+    "dimensions_ft":  null,
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "loft"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Detailed floor plan + elevations",
+                          "Roof + wall framing layouts",
+                          "Loft framing + section details",
+                          "Door + window dimensions"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  120,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "garages",
+                 "garage",
+                 "loft",
+                 "pdf plans",
+                 "dwg plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Breaker%20Garage%20-%20Customized",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/61938b/7705569764/il_fullxfull.7705569764_hyh6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Customize your \"Breaker\" Garage Shed Plan: Add Incorporated full loft space, 16x34 size amend windows/doors as per client sketches or needs. We will share drafts and work with you during design process to ensure we capture your vision. Plan Set Includes:\nDetailed floor plan + elevations\nRoof + wall framing layouts\nLoft framing + section details\nDoor + window dimensions\nMaterial + hardware list\nPDF format (Printable 24x36 or letter size)",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/breaker-garage-customized/open-specs.json"
+}

@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-24X24-D30E08",
+    "slug":  "capri-24x24-garage-shed-plan-a-modern-garage-with-bold-contemporary-styling",
+    "name":  "Capri 24x24 Garage Shed Plan - A Modern Garage with Bold Contemporary Styling",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing",
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage with Modern Sloped Roof",
+                          "A streamlined single-pitch roof delivers sharp modern appeal, efficient drainage, and added height for storage and workspace flexibility.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simple roof geometry, and easy-to-follow building plans make this design ideal for beginners and seasoned builders alike.",
+                          "Wide Overhead Garage Door",
+                          "Smooth-operating, modern-style garage door provides generous access for vehicles, tools, seasonal gear, and workshop equipment.",
+                          "Contemporary Exterior Design",
+                          "Bold blue horizontal siding, crisp white trim, and sleek metal roof lines create a clean, modern look with standout curb appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  32,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Capri%2024x24%20Garage%20Shed%20Plan%20-%20A%20Modern%20Garage%20with%20Bold%20Contemporary%20Styling",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/00ff34/7751633781/il_fullxfull.7751633781_trcq.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Capri Garage Shed Plan - a 24x24 modern garage and workspace solution designed for clean architectural lines, high functionality, and year-round durability. With its sleek single-slope roof, vibrant Capri-blue siding, and wide overhead garage door, this design delivers contemporary form with practical, everyday utility. Whether you\u0027re building a full-size workshop, a spacious vehicle bay, a gear storage hub, or a multi-purpose creative space, the...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/capri-24x24-garage-shed-plan-a-modern-garage-with-bold-contemporary-styling/open-specs.json"
+}

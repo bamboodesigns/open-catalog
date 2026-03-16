@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-12X24-2C5B7A",
+    "slug":  "angola-gambrel-garage-plan-12x24-barn-style-garage-with-loft-potential-diy-pdf-building-plans",
+    "name":  "Angola Gambrel Garage Plan - 12x24 Barn-Style Garage with Loft Potential | DIY PDF Building Plans",
+    "category":  "garages",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x24 Gambrel Roof Garage Design",
+                          "Classic barn-style architecture with a high-capacity roof profile that increases interior volume and allows for optional loft storage.",
+                          "Spacious Garage Footprint",
+                          "The 12x24 layout offers ample room for a vehicle, lawn equipment, motorcycles, workshop tools, or organized storage.",
+                          "Loft-Ready Roof Structure",
+                          "The gambrel roof design naturally creates overhead space ideal for a storage loft, seasonal gear, or workshop shelving.",
+                          "DIY-Friendly Construction",
+                          "Simple framing methods and efficient dimensions make Angola an approachable build for both beginner and experienced DIY builders."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x24 garage",
+                 "garages",
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Angola%20Gambrel%20Garage%20Plan%20-%2012x24%20Barn-Style%20Garage%20with%20Loft%20Potential",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/019ccb/7821613021/il_fullxfull.7821613021_ritc.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Angola Gambrel Garage - a versatile 12x24 barn-style garage and storage solution designed for efficiency, durability, and timeless curb appeal. Featuring the classic gambrel roof profile, this design maximizes interior headroom while delivering the charming look of a traditional barn. With its balanced proportions, practical footprint, and DIY-friendly structure, the Angola garage blends smart functionality with attractive architectural character....",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/angola-gambrel-garage-plan-12x24-barn-style-garage-with-loft-potential-diy-pdf-building-plans/open-specs.json"
+}

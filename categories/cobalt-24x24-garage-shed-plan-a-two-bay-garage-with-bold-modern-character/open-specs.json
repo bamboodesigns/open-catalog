@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X24-452A70",
+    "slug":  "cobalt-24x24-garage-shed-plan-a-two-bay-garage-with-bold-modern-character",
+    "name":  "Cobalt 24x24 Garage Shed Plan - A Two-Bay Garage with Bold Modern Character",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage Shed with Classic Gable Roof",
+                          "A spacious dual-bay layout designed for vehicles, machinery, tools, and high-capacity storage.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simplified roof geometry, and easy-to-read plans make this project approachable for beginners and pros.",
+                          "Dual Modern Garage Doors",
+                          "Wide overhead doors with divided-light windows provide excellent access and sleek modern style.",
+                          "Clean, Contemporary Aesthetic",
+                          "Vibrant blue horizontal siding, crisp white trim, and paired lantern lighting create a striking, polished exterior."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  42,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Cobalt%2024x24%20Garage%20Shed%20Plan%20-%20A%20Two-Bay%20Garage%20with%20Bold%20Modern%20Character",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/72ae9e/7751648189/il_fullxfull.7751648189_5g0b.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Cobalt Garage Shed Plan - a 24x24 modern garage + workspace solution engineered for durability, functionality, and standout curb appeal. With its bold blue siding, classic gable roof, clean trim lines, and dual overhead doors, the Cobalt blends fresh modern energy with timeless architectural symmetry. Whether you\u0027re building a full-size vehicle garage, home workshop, equipment hub, or multi-purpose storage space, the Cobalt 24x24 offers expansive...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/cobalt-24x24-garage-shed-plan-a-two-bay-garage-with-bold-modern-character/open-specs.json"
+}

@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-18X20-7F25D2",
+    "slug":  "dove-18x20-garage-shed-plan-loft-gable-shed-workshop-studio-or-storage-building-diy-modern-shed-design-pdf",
+    "name":  "Dove 18x20 Garage Shed Plan - Loft Gable Shed | Workshop, Studio, or Storage Building | DIY Modern Shed Design (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "18x20",
+    "area_sf":  360,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing",
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 18\u0027 x 20\u0027 (360 sq. ft.)",
+                          "Height: ~12 ft (with loft)",
+                          "Roof Type: Gable roof with vented ridge",
+                          "Doors: 6\u0027 wide double glass barn-style doors",
+                          "Siding: Vertical board-and-batten shown (customizable for wood, lap, or composite)",
+                          "Foundation: Freestanding pier or concrete slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  45,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x20 shed",
+                 "garages",
+                 "garage",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Dove%2018x20%20Garage%20Shed%20Plan%20-%20Loft%20Gable%20Shed%20%7C%20Workshop%2C%20Studio%2C%20or%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/670398/7724283545/il_fullxfull.7724283545_r4dw.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Dove 18x20 Garage Shed Plan - a classic gable design reimagined with modern simplicity and enduring beauty. Featuring a lofted interior and balanced proportions, Dove provides both function and form, perfect for use as a garage, workshop, art studio, or backyard storage haven. With straightforward framing and a versatile layout, the Dove 18x20 plan delivers builder-friendly construction and architectural grace - an ideal addition to any property that...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/dove-18x20-garage-shed-plan-loft-gable-shed-workshop-studio-or-storage-building-diy-modern-shed-design-pdf/open-specs.json"
+}

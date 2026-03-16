@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X24-6121C0",
+    "slug":  "canary-24x24-garage-shed-plan-a-two-bay-garage-with-classic-craftsmanship",
+    "name":  "Canary 24x24 Garage Shed Plan - A Two-Bay Garage with Classic Craftsmanship",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage Shed with Gable Roof",
+                          "A spacious dual-bay design ideal for parking vehicles, storing tools, or creating a large workshop area.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clear roof geometry, and beginner-friendly plans make this an accessible project for any builder.",
+                          "Wide Garage Door Access",
+                          "A traditional paneled overhead garage door provides smooth entry for cars, equipment, and large storage items.",
+                          "Classic Natural Aesthetic",
+                          "Warm horizontal lap siding, crisp white trim, and cottage-style lantern lighting give the Canary its signature charm."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Canary%2024x24%20Garage%20Shed%20Plan%20-%20A%20Two-Bay%20Garage%20with%20Classic%20Craftsmanship",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/97e8f1/7703689946/il_fullxfull.7703689946_4wv4.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Canary Garage Shed Plan - a 24x24 multi-purpose garage and workspace solution designed for efficiency, durability, and timeless curb appeal. Featuring a steep gable roof, warm golden wood siding, and clean white trim, the Canary blends classic barn charm with modern functionality. Whether you\u0027re building a two-vehicle garage, home workshop, equipment storage hub, or a flexible utility building, the Canary 24x24 offers generous interior space, DIY-...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/canary-24x24-garage-shed-plan-a-two-bay-garage-with-classic-craftsmanship/open-specs.json"
+}

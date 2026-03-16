@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X30-0D2FF0",
+    "slug":  "bronze-24x30-garage-shed-plan-a-craftsman-garage-with-wood-brick-exterior-and-expansive-gable-roof",
+    "name":  "Bronze 24x30 Garage Shed Plan - A Craftsman Garage with Wood + Brick Exterior \u0026 Expansive Gable Roof",
+    "category":  "garages",
+    "dimensions_ft":  "24x30",
+    "area_sf":  720,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x30 Gable-Roof Garage Shed",
+                          "A spacious footprint with a tall gable roof provides excellent vertical clearance for tools, vehicles, and overhead storage.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simplified roof lines, and clean layouts make this design easy to build for beginners and experienced contractors alike.",
+                          "Wide Modern Garage Door",
+                          "A large paneled overhead door with glass inserts allows seamless access for cars, trucks, equipment, or workshop materials.",
+                          "Warm Craftsman Exterior",
+                          "Wood lap siding paired with stone-look brick adds texture, contrast, and durability - giving the Bronze a balanced rustic-modern aesthetic."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x30 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Bronze%2024x30%20Garage%20Shed%20Plan%20-%20A%20Craftsman%20Garage%20with%20Wood%20%2B%20Brick%20Exterior%20%26%20Expansive%20Gable%20Roof",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/b7458f/7751467659/il_fullxfull.7751467659_a0a0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Bronze Garage Shed Plan - a 24x30 premium garage and workspace solution designed for efficiency, style, and clean architectural craftsmanship. With its high gable roof, rich horizontal wood siding, and durable brick wainscoting, the Bronze blends modern durability with warm, rustic charm. Whether you\u0027re building a two-vehicle garage, a full workshop, a home business studio, or a versatile storage hub, the Bronze 24x30 offers increased square foota...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/bronze-24x30-garage-shed-plan-a-craftsman-garage-with-wood-brick-exterior-and-expansive-gable-roof/open-specs.json"
+}

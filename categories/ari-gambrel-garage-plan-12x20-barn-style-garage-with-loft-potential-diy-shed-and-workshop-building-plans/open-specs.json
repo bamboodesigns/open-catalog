@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-12X20-3DAEB3",
+    "slug":  "ari-gambrel-garage-plan-12x20-barn-style-garage-with-loft-potential-diy-shed-and-workshop-building-plans",
+    "name":  "Ari Gambrel Garage Plan - 12x20 Barn-Style Garage with Loft Potential | DIY Shed \u0026 Workshop Building Plans",
+    "category":  "garages",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x20 Gambrel Roof Garage Design",
+                          "Classic barn-style architecture with a high-capacity roofline that increases overhead space and visual appeal.",
+                          "Efficient Garage Footprint",
+                          "The 12x20 layout provides ample room for a small vehicle, motorcycle, ATV, tools, or organized lawn and garden equipment storage.",
+                          "Loft-Ready Roof Structure",
+                          "The gambrel roof naturally creates overhead space ideal for a storage loft, seasonal items, workshop shelving, or creative workspace expansion.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing methods and practical dimensions make the Ari garage approachable for both beginner builders and experienced DIYers."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x20 garage",
+                 "garages",
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Ari%20Gambrel%20Garage%20Plan%20-%2012x20%20Barn-Style%20Garage%20with%20Loft%20Potential",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4e6945/7821620205/il_fullxfull.7821620205_p4l1.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Ari Gambrel Garage - a versatile 12x20 barn-style garage and storage structure designed for efficiency, durability, and classic curb appeal. Featuring the iconic gambrel roof profile, Ari maximizes interior headroom while delivering the timeless charm of a traditional barn-inspired design. With its balanced footprint, practical layout, and DIY-friendly construction, this garage plan blends smart functionality with architectural character. Whether...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/ari-gambrel-garage-plan-12x20-barn-style-garage-with-loft-potential-diy-shed-and-workshop-building-plans/open-specs.json"
+}

@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GARG-24X40-70B00A",
+    "slug":  "ezra-24x40-garage-shed-plan-a-three-bay-garage-with-rustic-warmth-and-expansive-storage",
+    "name":  "Ezra 24x40 Garage Shed Plan - A Three-Bay Garage with Rustic Warmth \u0026 Expansive Storage",
+    "category":  "garages",
+    "dimensions_ft":  "24x40",
+    "area_sf":  960,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x40 Three-Bay Garage Shed",
+                          "A spacious footprint designed to house multiple vehicles, tools, machinery, and hobby equipment - with room to grow.",
+                          "DIY-Friendly Construction",
+                          "Clear layouts, simple framing, and beginner-friendly instructions make this garage accessible for first-time builders and seasoned pros.",
+                          "Wide Garage Door Access",
+                          "Three large bay doors with upper window panels offer easy, smooth entry for vehicles, ATVs, trailers, lawn gear, and workshop materials.",
+                          "Warm, Contemporary Exterior Design",
+                          "Golden horizontal wood siding, white architectural trim, and a high gable roof create a rustic-modern balance with standout curb appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  42,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x40 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "pdf plans",
+                 "dwg plans",
+                 "24x40"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Ezra%2024x40%20Garage%20Shed%20Plan%20-%20A%20Three-Bay%20Garage%20with%20Rustic%20Warmth%20%26%20Expansive%20Storage",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/37c23f/7754282387/il_fullxfull.7754282387_41g6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Ezra Garage Shed Plan - a 24x40 multi-bay garage, workshop, and storage solution designed for maximum space, clean architectural lines, and welcoming rustic style. Featuring a tall gable roof, golden-toned wood siding, crisp white trim, and three oversized garage bays, the Ezra blends timeless charm with functional everyday performance. Whether you\u0027re building a large vehicle garage, a full-scale workshop, lawn and equipment hub, or a hybrid hobby...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/ezra-24x40-garage-shed-plan-a-three-bay-garage-with-rustic-warmth-and-expansive-storage/open-specs.json"
+}

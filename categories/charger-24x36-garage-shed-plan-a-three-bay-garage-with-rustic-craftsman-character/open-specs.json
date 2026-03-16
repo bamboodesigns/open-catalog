@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X36-223B03",
+    "slug":  "charger-24x36-garage-shed-plan-a-three-bay-garage-with-rustic-craftsman-character",
+    "name":  "Charger 24x36 Garage Shed Plan - A Three-Bay Garage with Rustic Craftsman Character",
+    "category":  "garages",
+    "dimensions_ft":  "24x36",
+    "area_sf":  864,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x36 Three-Bay Garage Shed",
+                          "Expansive floor space designed to house vehicles, equipment, tools, and hobby gear with room to spare.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing and easy-to-follow plans suitable for both first-time builders and seasoned pros.",
+                          "Three Carriage-Style Garage Doors",
+                          "Stylish chevron-pattern doors with upper window panels provide wide, functional access while enhancing curb appeal.",
+                          "Craftsman Natural Aesthetic",
+                          "Warm horizontal siding, stone wainscoting, crisp white trim, and a classic gable roof create a timeless, high-end look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x36 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Charger%2024x36%20Garage%20Shed%20Plan%20-%20A%20Three-Bay%20Garage%20with%20Rustic%20Craftsman%20Character",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ebf174/7703702002/il_fullxfull.7703702002_to3g.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next property upgrade with the Charger Garage Shed Plan - a 24x36 multi-bay garage and workshop solution built for serious storage, clean design, and long-lasting performance. With its classic gable roof, warm brown siding, stone-accent wainscoting, and three beautifully detailed carriage-style garage doors, the Charger blends rustic charm with everyday functionality. Whether you\u0027re building a three-car garage, a full-scale workshop, a vehicle restoration bay, or an organized s...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/charger-24x36-garage-shed-plan-a-three-bay-garage-with-rustic-craftsman-character/open-specs.json"
+}

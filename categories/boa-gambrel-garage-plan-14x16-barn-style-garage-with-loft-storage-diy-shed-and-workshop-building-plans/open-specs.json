@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-14X16-43B24C",
+    "slug":  "boa-gambrel-garage-plan-14x16-barn-style-garage-with-loft-storage-diy-shed-and-workshop-building-plans",
+    "name":  "Boa Gambrel Garage Plan - 14x16 Barn-Style Garage with Loft Storage | DIY Shed \u0026 Workshop Building Plans",
+    "category":  "garages",
+    "dimensions_ft":  "14x16",
+    "area_sf":  224,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x16 Gambrel Roof Garage Design",
+                          "Classic barn-style architecture with a high-capacity roof profile that increases vertical space and enhances the structure\u0027s visual character.",
+                          "Efficient Garage \u0026 Workshop Layout",
+                          "The 14x16 footprint offers ample room for tools, motorcycles, ATVs, lawn equipment, or a compact vehicle while still leaving space for workbenches and storage.",
+                          "Loft-Ready Roof Structure",
+                          "The gambrel roof naturally creates overhead loft potential-perfect for storing seasonal items, tools, or building an elevated storage platform.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing and efficient dimensions make Boa a practical project for both beginner builders and experienced DIY enthusiasts."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x16 shed",
+                 "garages",
+                 "garage",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Boa%20Gambrel%20Garage%20Plan%20-%2014x16%20Barn-Style%20Garage%20with%20Loft%20Storage",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/937e4f/7773698932/il_fullxfull.7773698932_49zm.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Boa Gambrel Garage - a versatile 14x16 barn-style garage and workshop space designed for efficiency, durability, and classic architectural charm. Featuring the iconic gambrel roof profile, Boa maximizes interior headroom while creating the timeless look of a traditional barn structure. With its balanced footprint, practical layout, and DIY-friendly design, this garage plan blends smart functionality with eye-catching curb appeal. Whether you\u0027re pl...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/boa-gambrel-garage-plan-14x16-barn-style-garage-with-loft-storage-diy-shed-and-workshop-building-plans/open-specs.json"
+}

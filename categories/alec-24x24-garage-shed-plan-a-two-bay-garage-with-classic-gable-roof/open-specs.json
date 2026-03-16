@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X24-D0C8B2",
+    "slug":  "alec-24x24-garage-shed-plan-a-two-bay-garage-with-classic-gable-roof",
+    "name":  "Alec 24x24 Garage Shed Plan - A Two-Bay Garage with Classic Gable Roof",
+    "category":  "garages",
+    "dimensions_ft":  "24x24",
+    "area_sf":  576,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x24 Garage Shed with Classic Gable Roof",
+                          "Spacious, symmetrical layout ideal for parking two vehicles, storing equipment, or setting up a full workshop zone.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean roof geometry, and easy-to-follow plans make this garage accessible to new builders and seasoned pros.",
+                          "Dual Carriage-Style Garage Doors",
+                          "Wide double garage doors with divided-light windows offer excellent access, ventilation, and timeless curb appeal.",
+                          "Strong, Clean Exterior Aesthetic",
+                          "Horizontal lap siding, crisp white trim, and traditional lantern lighting create a cohesive and inviting garage design."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  40,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x24 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Alec%2024x24%20Garage%20Shed%20Plan%20-%20A%20Two-Bay%20Garage%20with%20Classic%20Gable%20Roof",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/13bb24/7703148544/il_fullxfull.7703148544_94bp.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Alec Garage Shed Plan - a 24x24 multi-purpose garage and workspace solution designed for strength, storage capacity, and clean architectural style. With its traditional gable roof, carriage-style double garage doors, and crisp exterior detailing, the Alec blends timeless American design with modern practicality. Whether you\u0027re building a vehicle garage, workshop, equipment hub, or all-in-one utility structure, the Alec 24x24 offers generous square...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/alec-24x24-garage-shed-plan-a-two-bay-garage-with-classic-gable-roof/open-specs.json"
+}

@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-12X16-6E67E3",
+    "slug":  "farrah-12x16-garage-shed-plan-a-compact-garage-and-porch-retreat-designed-for-charm-utility-and-everyday-function",
+    "name":  "Farrah 12x16 Garage Shed Plan - A Compact Garage and Porch Retreat Designed for Charm, Utility \u0026 Everyday Function",
+    "category":  "garages",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x16 Garage Shed With Covered Porch",
+                          "A compact yet highly functional layout featuring a full garage bay and an inviting side porch perfect for seating, potting, or seasonal decor.",
+                          "DIY-Friendly Construction",
+                          "Simple framing, clean roof lines, and clear instructions make this a great project for beginners and experienced builders alike.",
+                          "Single Garage Door Access",
+                          "A full-size garage door allows easy access for lawn equipment, small vehicles, bikes, tools, hobby materials, or workshop essentials.",
+                          "Warm Cottage-Inspired Aesthetic",
+                          "Classic horizontal wood siding, crisp white trim, charming lantern-style lighting, and a cozy porch create a timeless look with modern durability."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x16 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "porch",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Farrah%2012x16%20Garage%20Shed%20Plan%20-%20A%20Compact%20Garage%20and%20Porch%20Retreat%20Designed%20for%20Charm%2C%20Utility%20%26%20Everyday%20Function",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4daf5c/7706348158/il_fullxfull.7706348158_ohrc.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Farrah Garage Shed Plan - a 12x16 compact garage and porch combination designed for warm architectural charm, efficient storage, and versatile day-to-day usability. With its classic gable roof, rich wood siding, welcoming covered porch, and single garage bay, the Farrah blends cottage appeal with the practical functionality homeowners love. Whether you\u0027re building a small vehicle garage, garden supply hub, hobby workshop, backyard relaxation nook,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/farrah-12x16-garage-shed-plan-a-compact-garage-and-porch-retreat-designed-for-charm-utility-and-everyday-function/open-specs.json"
+}

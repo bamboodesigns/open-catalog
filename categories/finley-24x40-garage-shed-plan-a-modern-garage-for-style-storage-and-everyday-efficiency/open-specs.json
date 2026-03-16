@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-GARG-24X40-B80920",
+    "slug":  "finley-24x40-garage-shed-plan-a-modern-garage-for-style-storage-and-everyday-efficiency",
+    "name":  "Finley 24x40 Garage Shed Plan - A Modern Garage for Style, Storage \u0026 Everyday Efficiency",
+    "category":  "garages",
+    "dimensions_ft":  "24x40",
+    "area_sf":  960,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x40 Garage Shed With Modern Sloped Roof",
+                          "A streamlined single-slope roof creates a minimalist profile while maximizing vertical wall height and indoor working space.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, modern geometry, and simple structural detailing make this an excellent build for beginners and experienced builders alike.",
+                          "Triple Barn-Style Garage Doors",
+                          "Three large rustic-modern garage doors provide wide, easy access for vehicles, tools, machinery, garden equipment, or workshop materials.",
+                          "Warm Contemporary Aesthetic",
+                          "Rich wood siding, white trim, high clerestory-style windows, and modern lighting fixtures deliver a beautiful mix of rustic warmth and modern clean lines."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  41,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x40 garage shed",
+                 "garages",
+                 "garage",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Finley%2024x40%20Garage%20Shed%20Plan%20-%20A%20Modern%20Garage%20for%20Style%2C%20Storage%20%26%20Everyday%20Efficiency",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7b5cf3/7706409004/il_fullxfull.7706409004_tbqz.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next property upgrade with the Finley Garage Shed Plan - a 24x40 modern workshop and multi-vehicle garage designed for clean architectural simplicity, exceptional functionality, and warm exterior appeal. With its crisp single-slope roofline, rich natural wood siding, transom-style windows, and artisan herringbone garage doors, the Finley brings together modern design and practical storage in a way that elevates any backyard or homestead. Whether you\u0027re building a spacious works...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/finley-24x40-garage-shed-plan-a-modern-garage-for-style-storage-and-everyday-efficiency/open-specs.json"
+}

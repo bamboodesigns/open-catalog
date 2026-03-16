@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GARG-6X8-9C4701",
+    "slug":  "6x8-front-or-rear-entry-landing-with-stairs-fort-lexington-pdf-dwg",
+    "name":  "6x8 Front or Rear Entry Landing with Stairs - Fort Lexington - PDF + DWG",
+    "category":  "garages",
+    "dimensions_ft":  "6x8",
+    "area_sf":  48,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Framing plan with lumber layout",
+                          "Stair and landing section details",
+                          "Railing and guard design (meets IRC code)",
+                          "Foundation/piers or concrete slab detail",
+                          "6\u0027 x 8\u0027 landing deck area",
+                          "One full-width stair step (customizable)",
+                          "Railing height: 36\" standard (customizable if needed)",
+                          "Includes Steps, Guardrails, and Posts Details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "square porch pdf",
+                 "square porch plan",
+                 "deck patio plan",
+                 "6x8 landing",
+                 "6x8 deck",
+                 "garages",
+                 "garage",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans",
+                 "6x8"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=6x8%20Front%20or%20Rear%20Entry%20Landing%20with%20Stairs%20-%20Fort%20Lexington%20-%20PDF%20%2B%20DWG",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/b040ed/7139452707/il_fullxfull.7139452707_fs9g.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "A clean, modern solution for elevated access to your home or garage. This 6\u0027 x 8\u0027 landing includes one step down and guardrails, ideal for front, rear, or side entries. Plan Set Includes:\nFraming plan with lumber layout\nStair and landing section details\nRailing and guard design (meets IRC code)\nFoundation/piers or concrete slab detail\nElevations and overall dimensions\nPDF format, ready for contractor use or DIY Builder",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/6x8-front-or-rear-entry-landing-with-stairs-fort-lexington-pdf-dwg/open-specs.json"
+}

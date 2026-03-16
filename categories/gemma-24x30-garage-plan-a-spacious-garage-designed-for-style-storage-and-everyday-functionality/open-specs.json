@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-24X30-7A06A6",
+    "slug":  "gemma-24x30-garage-plan-a-spacious-garage-designed-for-style-storage-and-everyday-functionality",
+    "name":  "Gemma 24x30 Garage Plan - A Spacious Garage Designed for Style, Storage \u0026 Everyday Functionality",
+    "category":  "garages",
+    "dimensions_ft":  "24x30",
+    "area_sf":  720,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "24x30 Multi-Bay Garage",
+                          "Three spacious bays accommodate vehicles, equipment, outdoor gear, or workshop setups with ease.",
+                          "DIY-Friendly Construction",
+                          "Clean framing, clear structural lines, and straightforward assembly make this plan accessible for beginners and pros alike.",
+                          "Carriage-Style Garage Doors",
+                          "Wide wood-grain doors with upper glass panels create a warm, handcrafted look while offering excellent access for vehicles and tools.",
+                          "Distinctive Modern-Rustic Exterior",
+                          "Blue horizontal siding, crisp white trim, black shingle wainscoting, and warm wood doors blend into a polished yet inviting aesthetic."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "24x30 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Gemma%2024x30%20Garage%20Plan%20-%20A%20Spacious%20Garage%20Designed%20for%20Style%2C%20Storage%20%26%20Everyday%20Functionality",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6037cd/7706906686/il_fullxfull.7706906686_soxk.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next property upgrade with the Gemma Garage Plan - a 24x30 multi-bay garage crafted for efficiency, clean design, and versatile use. With its classic gable roof, bold blue siding, rich wood carriage-style garage doors, and extended covered parking bay, the Gemma delivers standout visual appeal with practical functionality for homeowners, hobbyists, and vehicle enthusiasts. Whether you\u0027re building a home workshop, a vehicle storage hub, a hobby studio, or a well-organized utilit...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/gemma-24x30-garage-plan-a-spacious-garage-designed-for-style-storage-and-everyday-functionality/open-specs.json"
+}

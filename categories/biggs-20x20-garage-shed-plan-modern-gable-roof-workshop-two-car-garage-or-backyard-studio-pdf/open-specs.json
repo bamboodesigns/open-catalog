@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GARG-20X20-676EAF",
+    "slug":  "biggs-20x20-garage-shed-plan-modern-gable-roof-workshop-two-car-garage-or-backyard-studio-pdf",
+    "name":  "Biggs 20x20 Garage Shed Plan - Modern Gable Roof Workshop | Two-Car Garage or Backyard Studio (PDF)",
+    "category":  "garages",
+    "dimensions_ft":  "20x20",
+    "area_sf":  400,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 20\u0027 x 20\u0027 (400 sq. ft.)",
+                          "Height: ~12 ft at roof peak",
+                          "Roof Type: Gable roof",
+                          "Doors: Full-width garage door + side entry door",
+                          "Windows: Flexible placements for natural light and airflow",
+                          "Siding: Vertical lap shown (customizable for wood, metal, or composite finishes)",
+                          "Foundation: Concrete slab or pier-supported"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x20 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Biggs%2020x20%20Garage%20Shed%20Plan%20-%20Modern%20Gable%20Roof%20Workshop%20%7C%20Two-Car%20Garage%20or%20Backyard%20Studio",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6a46d1/7703391320/il_fullxfull.7703391320_frmz.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Biggs 20x20 Garage Shed Plan - a modern gable-roof design that blends timeless craftsmanship with everyday functionality. Perfectly sized for two vehicles, a home workshop, or a creative studio, Biggs delivers clean structure, efficient space, and a bold architectural presence that elevates any property. With its classic gable lines, wide front garage door, and durable framing, the Biggs 20x20 offers both utility and style - designed for builders, ho...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/biggs-20x20-garage-shed-plan-modern-gable-roof-workshop-two-car-garage-or-backyard-studio-pdf/open-specs.json"
+}

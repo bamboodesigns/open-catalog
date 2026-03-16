@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-12X24-02C0C8",
+    "slug":  "fawn-12x24-garage-shed-plan-a-porch-enhanced-garage-designed-for-warm-charm-flexible-storage-and-everyday-backyard-living",
+    "name":  "Fawn 12x24 Garage Shed Plan - A Porch-Enhanced Garage Designed for Warm Charm, Flexible Storage \u0026 Everyday Backyard Living",
+    "category":  "garages",
+    "dimensions_ft":  "12x24",
+    "area_sf":  288,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x24 Garage Shed With Full-Length Porch",
+                          "A spacious garage footprint paired with a charming covered porch - perfect for seating, gardening, relaxing, or staging outdoor projects.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simple roof structure, and clean lines make this plan accessible for beginners while offering refinement for seasoned builders.",
+                          "Carriage-Style Double Garage Doors",
+                          "Classic wooden-look garage doors provide easy access for yard equipment, ATVs, motorcycles, tools, workshop materials, or storage essentials.",
+                          "Warm Natural Aesthetic",
+                          "Horizontal wood siding, white trim, rustic lighting fixtures, and a sheltering gable roof create a stylish cottage feel with modern durability."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  35,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x24 garage shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Fawn%2012x24%20Garage%20Shed%20Plan%20-%20A%20Porch-Enhanced%20Garage%20Designed%20for%20Warm%20Charm%2C%20Flexible%20Storage%20%26%20Everyday%20Backyard%20Living",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8dea23/7706374068/il_fullxfull.7706374068_e2xf.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Fawn Garage Shed Plan - a 12x24 garage and covered porch combination that blends cozy cottage aesthetics with practical, multipurpose functionality. With its timeless gable roof, warm wood siding, elegant carriage-style garage door, and an inviting full-length porch, the Fawn delivers architectural character with everyday usability. Whether you\u0027re building a small vehicle garage, garden workshop, hobby studio, backyard entertaining nook, or organi...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/fawn-12x24-garage-shed-plan-a-porch-enhanced-garage-designed-for-warm-charm-flexible-storage-and-everyday-backyard-living/open-specs.json"
+}

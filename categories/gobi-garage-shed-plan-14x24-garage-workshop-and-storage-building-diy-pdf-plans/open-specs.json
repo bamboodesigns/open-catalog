@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GARG-14X24-1A5573",
+    "slug":  "gobi-garage-shed-plan-14x24-garage-workshop-and-storage-building-diy-pdf-plans",
+    "name":  "Gobi Garage Shed Plan - 14x24 Garage Workshop \u0026 Storage Building | DIY PDF Plans",
+    "category":  "garages",
+    "dimensions_ft":  "14x24",
+    "area_sf":  336,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x24 Garage Shed with High-Capacity Layout",
+                          "A spacious 336 sq ft structure designed for vehicle storage, workshops, equipment organization, or multi-purpose backyard use.",
+                          "DIY-Friendly Construction",
+                          "Clean framing methods, standard lumber sizes, and intuitive building plans make the Gobi shed approachable for both beginners and experienced builders.",
+                          "Wide Garage Access",
+                          "Designed to accommodate garage doors or large double-door openings, making it easy to store riding mowers, motorcycles, ATVs, or bulky equipment.",
+                          "Balanced Door \u0026 Window Layout",
+                          "Strategic door and window placement allows for natural daylight, airflow, and convenient daily access."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  40,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x24 shed",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Gobi%20Garage%20Shed%20Plan%20-%2014x24%20Garage%20Workshop%20%26%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c7e869/7820990913/il_fullxfull.7820990913_mgpo.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Gobi Garage Shed - a spacious 14x24 garage-style storage and workshop building designed for efficiency, durability, and clean architectural simplicity. With its strong garage-ready structure, balanced proportions, and practical layout, Gobi delivers a refined exterior with highly functional interior potential. Whether you\u0027re planning a backyard garage, dedicated workshop, equipment storage hub, or a multi-purpose hobby space, the 14x24 Gobi Garage...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/gobi-garage-shed-plan-14x24-garage-workshop-and-storage-building-diy-pdf-plans/open-specs.json"
+}

@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-GARG-20X44-C603A5",
+    "slug":  "grok-rv-garage-shed-a-spacious-20x44-storage-and-workshop-structure",
+    "name":  "Grok RV Garage Shed - A spacious 20x44 storage and workshop structure",
+    "category":  "garages",
+    "dimensions_ft":  "20x44",
+    "area_sf":  880,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "20x44 Large RV Garage Layout",
+                          "A generous footprint designed to accommodate RVs, motorhomes, campers, boats, and multiple vehicles with room to spare for tools, shelving, and workspace.",
+                          "Tall Overhead Garage Door Access",
+                          "A wide RV-ready overhead door allows easy entry and maneuverability for larger vehicles and trailers.",
+                          "Classic High-Pitch Gable Roof",
+                          "The gable roof design provides increased interior height, efficient water runoff, and a timeless barn-style silhouette.",
+                          "Durable Exterior Design",
+                          "Vertical wood siding paired with a sturdy lower masonry base detail creates a refined modern-rustic appearance built for longevity."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "garage shed",
+                 "20x44 rv garage plan",
+                 "garages",
+                 "garage",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "rv storage",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Grok%20RV%20Garage%20Shed%20-%20A%20spacious%2020x44%20storage%20and%20workshop%20structure",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6cf896/7801177958/il_fullxfull.7801177958_dp9c.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next property upgrade with the Grok RV Garage Shed - a spacious 20x44 storage and workshop structure designed for durability, functionality, and clean architectural style. Showcasing a tall gable roof, warm vertical wood siding, and a sturdy masonry base detail, Grok combines practical vehicle storage with polished barn-inspired design. The oversized garage door and elongated layout make it ideal for housing RVs, trailers, boats, trucks, and large equipment while still leaving...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/garages/grok-rv-garage-shed-a-spacious-20x44-storage-and-workshop-structure/open-specs.json"
+}
