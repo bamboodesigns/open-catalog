@@ -1,0 +1,69 @@
+{
+    "plan_id":  "BD-POOL-16X16-0164B9",
+    "slug":  "sunrise-pergola-pool-deck-plan-16x16-deck-with-8ft-pool-cutout-full-size-16x16-pergola",
+    "name":  "Sunrise Pergola Pool Deck Plan - 16x16 Deck with 8ft Pool Cutout + Full-Size 16x16 Pergola",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x16",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "freestanding",
+                 "round pool",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 16\u0027 x 16\u0027",
+                          "Pergola Size: 16\u0027 x 16\u0027 (matches deck footprint)",
+                          "Pool Opening: 8 ft diameter",
+                          "Access Points: Two 3-step staircases",
+                          "Style: Modern resort-style, perfect for open-air shade, privacy add-ons, or draped fabric covers"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  59,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "porch pergola plan",
+                 "lean to pergola",
+                 "mobile home deck",
+                 "waco porch design",
+                 "diy deck with roof",
+                 "freestanding deck",
+                 "backyard porch pdf",
+                 "tiny home pergola",
+                 "outdoor entry deck",
+                 "diy deck pdf",
+                 "small patio plan",
+                 "front porch kit",
+                 "16x16 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "freestanding",
+                 "round pool",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sunrise%20Pergola%20Pool%20Deck%20Plan%20-%2016x16%20Deck%20with%208ft%20Pool%20Cutout%20%2B%20Full-Size%2016x16%20Pergola",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c8459f/7142103691/il_fullxfull.7142103691_i5ju.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Turn your backyard into a luxury outdoor destination with this combined pool deck + pergola plan - designed for lounging, dining, and swimming in one cohesive structure. Perfect for entertaining, resort-style living, or upgrading a rental property. 16x16 Freestanding Deck Platform\n8 ft Circular Pool Cutout - Fits most plunge or above-ground pools (pool not included)\nMatching 16x16 Pergola - Full-span shade for dining, lounging, or outdoor kitchen setups\nDual Stair Access - Convenient entry fr...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/sunrise-pergola-pool-deck-plan-16x16-deck-with-8ft-pool-cutout-full-size-16x16-pergola/open-specs.json"
+}

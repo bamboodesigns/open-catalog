@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-21X9-211C71",
+    "slug":  "tulsa-21x9-pool-deck-plan-9x12-above-ground-pool-entry-deck-with-platform-and-railings-diy-pdf-plans",
+    "name":  "Tulsa 21x9 Pool Deck Plan - 9x12 Above-Ground Pool Entry Deck with Platform and Railings | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "21x9",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 9\u0027 x 12\u0027",
+                          "Pool Fit: 21x9 above-ground pool opening (not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Modern + functional, designed for airflow, safety, and simple backyard integration"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "9x12 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "21x9"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Tulsa%2021x9%20Pool%20Deck%20Plan%20-%209x12%20Above-Ground%20Pool%20Entry%20Deck%20with%20Platform%20and%20Railings",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9ed21c/7751321043/il_fullxfull.7751321043_bpu0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Tulsa 21x9 Pool Deck Plan delivers a compact, functional entry solution for your above-ground pool. With a 9x12 raised platform, safety railings, and a 6-step staircase, this design makes pool access safer and easier while keeping a clean, modern look. Perfect for backyards where space is limited but style and safety still matter. Designed for 21x9 above-ground pools\nRaised 9x12 deck for safe pool entry and lounging\nIncludes railing + 6-step staircase details\nCompact design, easy-to-build...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/tulsa-21x9-pool-deck-plan-9x12-above-ground-pool-entry-deck-with-platform-and-railings-diy-pdf-plans/open-specs.json"
+}

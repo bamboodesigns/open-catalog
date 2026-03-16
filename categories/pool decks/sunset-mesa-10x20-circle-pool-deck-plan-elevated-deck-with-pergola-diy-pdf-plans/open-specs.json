@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-10X20-A67BF9",
+    "slug":  "sunset-mesa-10x20-circle-pool-deck-plan-elevated-deck-with-pergola-diy-pdf-plans",
+    "name":  "Sunset Mesa 10x20 Circle Pool Deck Plan - Elevated Deck with Pergola | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x20",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 20\u0027",
+                          "Pool Fit: Round above-ground 24\u0027 diameter pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Sunset-inspired with pergola for shade, relaxation \u0026 entertainment"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x20 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x20",
+                 "10x20 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sunset%20Mesa%2010x20%20Circle%20Pool%20Deck%20Plan%20-%20Elevated%20Deck%20with%20Pergola",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/667ed2/7682546476/il_fullxfull.7682546476_758z.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring style, shade, and functionality to your backyard with the Sunset Mesa 10x20 Circle Pool Deck Plan. Designed with a modern pergola overhead, this elevated deck transforms your above-ground pool into the centerpiece of your outdoor living space. With built-in safety railings and a 6-step staircase, it\u0027s the perfect blend of pool access and an outdoor retreat for dining, lounging, or entertaining. Designed for round above-ground pools (24\u0027 diameter)\nSpacious 10x20 elevated deck with built-...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/sunset-mesa-10x20-circle-pool-deck-plan-elevated-deck-with-pergola-diy-pdf-plans/open-specs.json"
+}

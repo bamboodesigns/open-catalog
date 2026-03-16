@@ -1,0 +1,65 @@
+{
+    "plan_id":  "BD-POOL-16X20-E902CC",
+    "slug":  "stellar-container-pool-deck-plan-16x20-elevated-wrap-deck-with-railing-pdf-dwg-diy-plans",
+    "name":  "Stellar Container Pool Deck Plan - 16x20 Elevated Wrap Deck with Railing | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x20",
+    "area_sf":  320,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Elevation Views",
+                          "Framing Plan + Stair Details",
+                          "Railing Notes \u0026 Code Considerations"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  46,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "container deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "backyard deck",
+                 "small pool deck",
+                 "compact deck",
+                 "pool deck diy",
+                 "modern deck",
+                 "elevated deck",
+                 "shipping pool",
+                 "16x20 deck",
+                 "pool decks",
+                 "pool deck",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x20",
+                 "16x20 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Stellar%20Container%20Pool%20Deck%20Plan%20-%2016x20%20Elevated%20Wrap%20Deck%20with%20Railing%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/3aff9e/7744185645/il_fullxfull.7744185645_3sih.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a spacious, resort-style poolside retreat with this 16x20 elevated deck plan - designed to wrap alongside your shipping container pool for lounging, entertaining, and safe access. Perfect for larger yards, rentals, or homeowners who want a statement backyard deck with plenty of room for sunbathing, dining, or gatherings. 16x20 Elevated Deck Platform - Sized for 8x20 container pools (not included)\nWrap Deck Layout - Expands seating \u0026 lounging space along the pool\nStair + Railing Access...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/stellar-container-pool-deck-plan-16x20-elevated-wrap-deck-with-railing-pdf-dwg-diy-plans/open-specs.json"
+}

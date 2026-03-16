@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-POOL-32X37-11E494",
+    "slug":  "victoria-circle-pool-deck-plan-32x37-round-pool-deck-diy-pool-decking-plans-pdf",
+    "name":  "Victoria Circle Pool Deck Plan - 32x37 Round Pool Deck | DIY Pool Decking Plans (PDF)",
+    "category":  "pool decks",
+    "dimensions_ft":  "32x37",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "freestanding",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 32\u0027 x 37\u0027 total footprint",
+                          "Pool Fit: 24\u0027 round above-ground pool opening (pool not included)",
+                          "Access Points: Single staircase entry with wide treads",
+                          "Style: Coastal-inspired circular design with classic railings and tiered lounging areas",
+                          "Use: Pool entry + outdoor lounge, dining, or sun deck",
+                          "Foundation: Freestanding support structure for stability and drainage"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "32x37 pool deck",
+                 "pool decks",
+                 "freestanding",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "32x37"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Victoria%20Circle%20Pool%20Deck%20Plan%20-%2032x37%20Round%20Pool%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/900818/7730506923/il_fullxfull.7730506923_n6uz.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Make your pool the true heart of your backyard with the Victoria Circle Pool Deck Plan - a luxurious and family-friendly design that transforms your above-ground pool into a private resort retreat. With its graceful circular layout, elevated decking, and integrated railings, this deck plan creates the perfect blend of leisure, style, and function. Whether you\u0027re entertaining friends, relaxing with family, or soaking up the sun, Victoria delivers the ultimate outdoor experience - where every s...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/victoria-circle-pool-deck-plan-32x37-round-pool-deck-diy-pool-decking-plans-pdf/open-specs.json"
+}

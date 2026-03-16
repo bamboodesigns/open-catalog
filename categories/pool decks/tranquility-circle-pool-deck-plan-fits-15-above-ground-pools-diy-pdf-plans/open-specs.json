@@ -1,0 +1,69 @@
+{
+    "plan_id":  "BD-POOL-NA-745BFE",
+    "slug":  "tranquility-circle-pool-deck-plan-fits-15-above-ground-pools-diy-pdf-plans",
+    "name":  "Tranquility Circle Pool Deck Plan - Fits 15\u0027 Above-Ground Pools | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  null,
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for standard 15\u0027 round above-ground pools",
+                          "Compact 6\u0027 x 8\u0027 elevated deck platform",
+                          "Safe, user-friendly stairs for easy pool entry",
+                          "Perimeter railing details included for peace of mind",
+                          "Buildable by one or two DIYers-no specialized tools required",
+                          "Visuals + diagrams to guide every step",
+                          "Deck Size: 6\u0027 x 8\u0027",
+                          "Pool Fit: 15\u0027 round above-ground pool opening (pool not included)"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "deck wood plan",
+                 "6x8 pool deck",
+                 "deck plans",
+                 "pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "diy plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Tranquility%20Circle%20Pool%20Deck%20Plan%20-%20Fits%2015\u0027%20Above-Ground%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e08540/7723984595/il_fullxfull.7723984595_ctip.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a calming summer escape with the Tranquility Circle Pool Deck Plan, purpose-designed for 15-foot above-ground round pools. With its compact 6x8 platform, modern railings, and smooth-step access, this deck brings safety, beauty, and comfort to every splash and sunset dip. Whether you\u0027re looking for easier pool entry or a relaxing perch for towels and lounging, Tranquility delivers the perfect balance of simplicity and style for any space.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/tranquility-circle-pool-deck-plan-fits-15-above-ground-pools-diy-pdf-plans/open-specs.json"
+}

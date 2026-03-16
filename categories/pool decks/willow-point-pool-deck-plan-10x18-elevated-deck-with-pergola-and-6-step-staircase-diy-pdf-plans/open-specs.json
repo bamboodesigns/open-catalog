@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-10X18-8D5D14",
+    "slug":  "willow-point-pool-deck-plan-10x18-elevated-deck-with-pergola-and-6-step-staircase-diy-pdf-plans",
+    "name":  "Willow Point Pool Deck Plan - 10x18 Elevated Deck with Pergola \u0026 6-Step Staircase | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x18",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 18\u0027",
+                          "Pool Fit: Round above-ground 21ft pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Coastal-modern, designed for shade, airflow, and outdoor entertaining"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "10x18 pool deck",
+                 "deck plan",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x18",
+                 "10x18 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Willow%20Point%20Pool%20Deck%20Plan%20-%2010x18%20Elevated%20Deck%20with%20Pergola%20%26%206-Step%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/67781d/7692241578/il_fullxfull.7692241578_gptv.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Willow Point Circle Pool Deck Plan combines shade, style, and functionality in one stunning design. With a 10x18 elevated deck, a full pergola overhead, built-in safety railings, and a 6-step staircase, this deck delivers both pool access and a shaded outdoor retreat. Perfect for families who want to transform their backyard into a true resort-style living space. Designed for round above-ground pools (up to 21\u0027 diameter)\nSpacious 10x18 deck with pergola for shade + lounging\nElevated 6-ste...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/willow-point-pool-deck-plan-10x18-elevated-deck-with-pergola-and-6-step-staircase-diy-pdf-plans/open-specs.json"
+}

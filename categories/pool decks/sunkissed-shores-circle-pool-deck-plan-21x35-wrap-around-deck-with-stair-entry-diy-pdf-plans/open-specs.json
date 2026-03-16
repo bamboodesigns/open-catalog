@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-21X35-BF24FF",
+    "slug":  "sunkissed-shores-circle-pool-deck-plan-21x35-wrap-around-deck-with-stair-entry-diy-pdf-plans",
+    "name":  "Sunkissed Shores Circle Pool Deck Plan - 21x35 Wrap-Around Deck with Stair Entry | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "21x35",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed to wrap round above-ground pools",
+                          "Oversized 21x35 circular deck zone",
+                          "Built-in railing details for safety + style",
+                          "Full-width staircase for simple, safe entry",
+                          "Plenty of room for lounging, outdoor dining \u0026 decor",
+                          "Clear diagrams + beginner-friendly instructions",
+                          "Complete cut list, hardware recommendations \u0026 materials list",
+                          "Deck Size: 21\u0027 x 35\u0027 curved pool deck platform"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "21x35 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "21x35",
+                 "21x35 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Sunkissed%20Shores%20Circle%20Pool%20Deck%20Plan%20-%2021x35%20Wrap-Around%20Deck%20with%20Stair%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f18065/7608265852/il_fullxfull.7608265852_51ze.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Turn your backyard into a tropical escape with the Sunkissed Shores Circle Pool Deck Plan - a spacious 21x35 wrap-around deck designed to perfectly curve with your 27ft pool and create a true outdoor retreat. With room for loungers, umbrellas, and poolside seating, this design transforms your swimming space into the centerpiece of summer living. Crafted for above-ground pools and engineered for easy weekend building, the Tiki Hideaway is the ultimate hangout deck for families, entertainers, o...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/sunkissed-shores-circle-pool-deck-plan-21x35-wrap-around-deck-with-stair-entry-diy-pdf-plans/open-specs.json"
+}

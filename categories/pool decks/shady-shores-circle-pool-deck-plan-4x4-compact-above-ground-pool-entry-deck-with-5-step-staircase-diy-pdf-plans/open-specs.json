@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-4X4-F6FCB2",
+    "slug":  "shady-shores-circle-pool-deck-plan-4x4-compact-above-ground-pool-entry-deck-with-5-step-staircase-diy-pdf-plans",
+    "name":  "Shady Shores Circle Pool Deck Plan - 4x4 Compact Above-Ground Pool Entry Deck with 5-Step Staircase | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "4x4",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 4\u0027 x 4\u0027",
+                          "Pool Fit: Compatible with most 21\u0027 round above-ground pools (pool not included)",
+                          "Access Points: One 5-step staircase",
+                          "Style: Compact, functional, and budget-friendly - inspired by Nashville\u0027s practical outdoor lifestyle"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "4x4 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "4x4",
+                 "4x4 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Shady%20Shores%20Circle%20Pool%20Deck%20Plan%20-%204x4%20Compact%20Above-Ground%20Pool%20Entry%20Deck%20with%205-Step%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/184f81/7740176505/il_fullxfull.7740176505_8c5y.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Shady Shores Circle Pool Deck Plan is the perfect solution for adding safe and stylish access to your above-ground pool without taking up too much yard space. This 4x4 compact deck is designed for simplicity, safety, and functionality. With a built-in railing system and a 5-step staircase, it creates an easy, secure entry point for swimmers of all ages. Designed for round above-ground pools\nCompact 4x4 elevated entry deck for small backyards\nSafe 5-step staircase with railing details incl...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/shady-shores-circle-pool-deck-plan-4x4-compact-above-ground-pool-entry-deck-with-5-step-staircase-diy-pdf-plans/open-specs.json"
+}

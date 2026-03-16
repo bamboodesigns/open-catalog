@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-POOL-30X40-D709A2",
+    "slug":  "tortuga-30-round-pool-deck-plan-30x40-wrap-lounge-deck-diy-pdf-plans",
+    "name":  "Tortuga - 30\u0027 Round Pool Deck Plan | 30x40 Wrap Lounge Deck | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "30x40",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 30\u0027 Round Above-Ground Pools",
+                          "Purpose-built dimensions for a seamless fit and direct pool entry.",
+                          "Expansive 30x40 Deck Surface",
+                          "Room for loungers, dining sets, storage benches, grilling zones \u0026 more.",
+                          "Safe + Comfortable Stair Entry",
+                          "Gently pitched steps with railing for confidence and convenience.",
+                          "DIY-Friendly Layout",
+                          "Straightforward framing + standard lumber sizes make construction accessible."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "30x40 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "30x40",
+                 "30x40 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Tortuga%20-%2030\u0027%20Round%20Pool%20Deck%20Plan%20%7C%2030x40%20Wrap%20Lounge%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/abe98c/7727953023/il_fullxfull.7727953023_hnnl.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your above-ground pool into a tropical hideaway with Tortuga, a spacious 30x40 outdoor deck designed exclusively for 30-foot round pools.\nWith an oversized lounging platform, built-in safety railing, and smooth deck-to-pool access, Tortuga creates a true outdoor living room wrapped around the water. Perfect for families, entertainers, and pool lovers ready to turn their backyard into a staycation oasis.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/tortuga-30-round-pool-deck-plan-30x40-wrap-lounge-deck-diy-pdf-plans/open-specs.json"
+}

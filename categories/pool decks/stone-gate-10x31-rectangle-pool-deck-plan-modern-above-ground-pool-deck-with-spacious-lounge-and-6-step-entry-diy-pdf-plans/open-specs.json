@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-10X31-E6F183",
+    "slug":  "stone-gate-10x31-rectangle-pool-deck-plan-modern-above-ground-pool-deck-with-spacious-lounge-and-6-step-entry-diy-pdf-plans",
+    "name":  "Stone Gate 10x31 Rectangle Pool Deck Plan - Modern Above-Ground Pool Deck with Spacious Lounge \u0026 6-Step Entry | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x31",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 31\u0027",
+                          "Pool Fit: 31x16 rectangle above-ground pool opening (not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Modern \u0026 coastal-inspired, blending open-air lounging with poolside access"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x31 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x31",
+                 "10x31 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Stone%20Gate%2010x31%20Rectangle%20Pool%20Deck%20Plan%20-%20Modern%20Above-Ground%20Pool%20Deck%20with%20Spacious%20Lounge%20%26%206-Step%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/61121a/7751176363/il_fullxfull.7751176363_i5if.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Elevate your backyard with the Stone Gate 10x31 Rectangle Pool Deck Plan, designed to bring style, safety, and space to your above-ground pool. This expansive deck layout combines poolside access with room for outdoor furniture, making it the perfect centerpiece for family relaxation and entertaining. With built-in railings and a 6-step staircase, this plan is both functional and inviting. Designed for 31x16 rectangle above-ground pools\nLarge 10x31 elevated deck with lounge + dining space\nSaf...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/stone-gate-10x31-rectangle-pool-deck-plan-modern-above-ground-pool-deck-with-spacious-lounge-and-6-step-entry-diy-pdf-plans/open-specs.json"
+}

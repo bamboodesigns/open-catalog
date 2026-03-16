@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-19X20-69A790",
+    "slug":  "suncoast-pointe-19x20-rectangle-pool-deck-plan-modern-above-ground-pool-deck-with-railings-and-staircase-diy-pdf",
+    "name":  "Suncoast Pointe 19x20 Rectangle Pool Deck Plan - Modern Above-Ground Pool Deck with Railings \u0026 Staircase | DIY PDF",
+    "category":  "pool decks",
+    "dimensions_ft":  "19x20",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 19\u0027 x 20\u0027",
+                          "Pool Fit: Designed for rectangle above-ground 24x12 pools (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Coastal-inspired with clean lines, perfect for outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "19x20 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "19x20",
+                 "19x20 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Suncoast%20Pointe%2019x20%20Rectangle%20Pool%20Deck%20Plan%20-%20Modern%20Above-Ground%20Pool%20Deck%20with%20Railings%20%26%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9b24d4/7703371544/il_fullxfull.7703371544_pphq.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into the ultimate relaxation space with the Suncoast Pointe 19x20 Rectangle Pool Deck Plan. Designed to complement modern above-ground pools, this spacious deck offers plenty of room for lounging, dining, and entertaining. With built-in railings and a secure 6-step staircase, it combines safety with style, creating the perfect poolside retreat for families. Designed for rectangle above-ground 24x12 pools\nLarge 19x20 elevated deck for seating \u0026 dining setups\n6-step stai...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/suncoast-pointe-19x20-rectangle-pool-deck-plan-modern-above-ground-pool-deck-with-railings-and-staircase-diy-pdf/open-specs.json"
+}

@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-17X17-8365A2",
+    "slug":  "twentynine-palms-17x17-pool-deck-plan-elevated-corner-deck-for-18ft-above-ground-pools-pdf-dwg-diy-plans",
+    "name":  "Twentynine Palms 17x17 Pool Deck Plan - Elevated Corner Deck for 18ft Above-Ground Pools | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "17x17",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 17\u0027 x 17\u0027 (corner-style layout)",
+                          "Pool Fit: 18\u0027 round above-ground pool opening (not included)",
+                          "Height: ~4.5 ft elevation for pool entry",
+                          "Railing Height: 36-42\" per IRC/IBC guidelines",
+                          "Style: Corner configuration to save yard space while adding lounge area"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "17x17",
+                 "17x17 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Twentynine%20Palms%2017x17%20Pool%20Deck%20Plan%20-%20Elevated%20Corner%20Deck%20for%2018ft%20Above-Ground%20Pools%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/eb3e70/7671729114/il_fullxfull.7671729114_7c6y.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Upgrade your backyard with the Twentynine Palms 17x17 Pool Deck Plan - a modern corner-style elevated deck designed to fit a 18ft round above-ground pool. With safe stair + railing access and plenty of room for seating, umbrellas, or a grill, this design is perfect for maximizing space in a compact footprint. 17x17 Elevated Corner Deck - Designed for 16ft round above-ground pools (pool not included)\nSmart Corner Layout - Efficient design adds style + functionality\nSafe Stair + Railing Access...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/twentynine-palms-17x17-pool-deck-plan-elevated-corner-deck-for-18ft-above-ground-pools-pdf-dwg-diy-plans/open-specs.json"
+}

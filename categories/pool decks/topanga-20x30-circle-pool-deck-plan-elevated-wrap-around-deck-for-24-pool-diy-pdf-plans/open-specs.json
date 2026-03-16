@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-20X30-1FC778",
+    "slug":  "topanga-20x30-circle-pool-deck-plan-elevated-wrap-around-deck-for-24-pool-diy-pdf-plans",
+    "name":  "Topanga 20x30 Circle Pool Deck Plan - Elevated Wrap-Around Deck for 24\u0027 Pool | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "20x30",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 20\u0027 x 30\u0027",
+                          "Pool Fit: Round above-ground 24\u0027 diameter pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Southern-inspired, combining pool safety with resort-style outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "20x30 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "20x30",
+                 "20x30 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Topanga%2020x30%20Circle%20Pool%20Deck%20Plan%20-%20Elevated%20Wrap-Around%20Deck%20for%2024\u0027%20Pool",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/9ecbdd/7682555130/il_fullxfull.7682555130_jh4o.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard with the Topanga 20x30 Circle Pool Deck Plan. This oversized deck wraps beautifully around your above-ground pool, offering a spacious layout for lounging, dining, and entertaining. With safety railings, a 6-step staircase, and easy access entry, this design blends practicality with luxury - perfect for sunny Orlando summers. Designed for round above-ground pools (24\u0027 diameter)\nExpansive 20x30 elevated deck with plenty of space for seating + dining\nSafe 6-step staircas...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/topanga-20x30-circle-pool-deck-plan-elevated-wrap-around-deck-for-24-pool-diy-pdf-plans/open-specs.json"
+}

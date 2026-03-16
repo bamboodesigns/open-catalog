@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-37X37-13B56B",
+    "slug":  "the-venetian-waterway-37x37-circle-pool-deck-plan-wrap-around-above-ground-deck-diy-pdf-plans",
+    "name":  "The Venetian Waterway - 37x37 Circle Pool Deck Plan | Wrap-Around Above-Ground Deck | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "37x37",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Massive 37x37 circular deck footprint",
+                          "Designed to wrap around above-ground pools",
+                          "Plenty of room for lounge chairs, dining sets \u0026 shade umbrellas",
+                          "Built-in railing system for style, comfort, and security",
+                          "Wide step-entry access for smooth pool entry and exit",
+                          "DIY-friendly plans - perfect for confident beginners \u0026 seasoned builders",
+                          "Includes detailed framing, materials list, and cut sheets",
+                          "Turns any above-ground pool into a backyard centerpiece"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "37x37 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "37x37",
+                 "37x37 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=The%20Venetian%20Waterway%20-%2037x37%20Circle%20Pool%20Deck%20Plan%20%7C%20Wrap-Around%20Above-Ground%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/b59425/7621858820/il_fullxfull.7621858820_6rdc.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring luxury resort vibes home with The Venetian Waterway, a grand 37x37 circular pool deck designed to elevate your entire backyard. With a wide wrap-around footprint, built-in railings, and generous lounging room, this deck transforms a standard 27ft above-ground pool into a stunning centerpiece worthy of long summer days and evening gatherings. Inspired by waterfront architecture and breezy outdoor living, The Venetian Waterway gives you space to entertain, relax, dine, sunbathe - or simpl...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/the-venetian-waterway-37x37-circle-pool-deck-plan-wrap-around-above-ground-deck-diy-pdf-plans/open-specs.json"
+}
