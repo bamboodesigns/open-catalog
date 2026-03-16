@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-12X16-0B8AB0",
+    "slug":  "mariglow-tiny-pool-home-12x16-modern-backyard-pool-house-diy-cabana-and-guest-retreat-plan",
+    "name":  "Mariglow Tiny Pool Home - 12x16 Modern Backyard Pool House | DIY Cabana \u0026 Guest Retreat Plan",
+    "category":  "sheds",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x16 Modern Pool House Design",
+                          "A compact yet spacious layout ideal for poolside entertaining, lounging, or backyard upgrades.",
+                          "Single-Slope Contemporary Roofline",
+                          "Lean-to roof design offers clean modern lines while ensuring efficient water drainage.",
+                          "DIY-Friendly Construction",
+                          "Simple framing, standard materials, and straightforward dimensions make Mariglow accessible for both beginner and experienced builders.",
+                          "Bright \u0026 Airy Window Placement",
+                          "Strategically positioned windows invite natural light while maintaining privacy from neighboring properties."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  48,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "workshop plans",
+                 "tiny home plans",
+                 "dwg tiny home plan",
+                 "diy tiny home",
+                 "pdf tiny home",
+                 "tiny home blueprint",
+                 "diy home",
+                 "modern tiny home",
+                 "dwg tiny home",
+                 "12x16 tiny pool home",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "studio",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x16"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mariglow%20Tiny%20Pool%20Home%20-%2012x16%20Modern%20Backyard%20Pool%20House",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/fdf471/7721669708/il_fullxfull.7721669708_kmgy.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Refresh your backyard oasis with the Mariglow Tiny Pool Home - a stylish 12x16 modern poolside retreat designed for comfort, convenience, and clean architectural simplicity. Featuring a streamlined single-slope roof, warm horizontal siding, and bright contemporary lines, Mariglow adds a polished focal point to your pool area while delivering highly functional interior space. Perfect as a pool house, cabana, guest suite, or backyard lounge, the 12x16 Mariglow combines compact efficiency with u...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/mariglow-tiny-pool-home-12x16-modern-backyard-pool-house-diy-cabana-and-guest-retreat-plan/open-specs.json"
+}

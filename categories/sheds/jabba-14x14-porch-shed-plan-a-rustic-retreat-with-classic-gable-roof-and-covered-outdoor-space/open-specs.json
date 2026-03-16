@@ -1,0 +1,75 @@
+{
+    "plan_id":  "BD-SHED-14X14-00AE4F",
+    "slug":  "jabba-14x14-porch-shed-plan-a-rustic-retreat-with-classic-gable-roof-and-covered-outdoor-space",
+    "name":  "Jabba 14x14 Porch Shed Plan - A Rustic Retreat with Classic Gable Roof \u0026 Covered Outdoor Space",
+    "category":  "sheds",
+    "dimensions_ft":  "14x14",
+    "area_sf":  196,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x14 Gable Shed with Full Covered Porch - A perfect blend of indoor storage and outdoor living",
+                          "DIY-Friendly Build - Straightforward framing and easy-to-follow instructions",
+                          "Rustic Double Door Access - Wide barn-style doors for tools, equipment \u0026 workspace comforts",
+                          "Warm Craftsman Aesthetic - Natural wood textures, gable symmetry, and porch charm",
+                          "Spacious Versatility - Ideal for a workshop, hobby room, garden retreat, or backyard lounge",
+                          "Size: 14\u0027 x 14\u0027 (196 sq ft total footprint)",
+                          "Porch: Full-width covered porch (perfect for seating, decor \u0026 outdoor use)",
+                          "Roof Type: Classic gable roof with extended porch overhang"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x14 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Jabba%2014x14%20Porch%20Shed%20Plan%20-%20A%20Rustic%20Retreat%20with%20Classic%20Gable%20Roof%20%26%20Covered%20Outdoor%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/2bf741/7682943372/il_fullxfull.7682943372_s97n.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a true getaway with the Jabba Porch Shed Plan, a beautifully designed 14x14 gable-roof shed that blends storage, style, and outdoor living into one inviting structure. With its spacious covered porch, handcrafted double doors, and warm cabin-inspired aesthetic, Jabba is perfect for anyone who wants a functional workspace and a relaxing outdoor nook-right at home. Whether you\u0027re building a workshop, mini-studio, garden room, or backyard lounge, the Jabba 14x14 deli...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/jabba-14x14-porch-shed-plan-a-rustic-retreat-with-classic-gable-roof-and-covered-outdoor-space/open-specs.json"
+}

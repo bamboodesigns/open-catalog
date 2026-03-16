@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-20X30-32CD77",
+    "slug":  "lark-20x30-modern-monoslope-roof-shed-spacious-backyard-studio-workshop-and-multi-purpose-building-pdf",
+    "name":  "Lark - 20x30 Modern Monoslope Roof Shed | Spacious Backyard Studio, Workshop \u0026 Multi-Purpose Building (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "20x30",
+    "area_sf":  600,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "20x30 Modern Monoslope Shed Design",
+                          "A sleek single-slope roofline provides contemporary architectural appeal while promoting efficient water runoff.",
+                          "DIY-Friendly Construction",
+                          "Clean framing lines, standard materials, and intuitive layout make Lark suitable for both first-time builders and seasoned DIYers.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "Well-placed doors and windows allow convenient access while filling the interior with natural daylight and airflow.",
+                          "Warm Contemporary Exterior Finish",
+                          "Horizontal wood siding paired with modern trim and a lean-to roof creates a stylish modern-rustic appearance."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x30 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lark%20-%2020x30%20Modern%20Monoslope%20Roof%20Shed%20%7C%20Spacious%20Backyard%20Studio%2C%20Workshop%20%26%20Multi-Purpose%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c2fc92/7838846393/il_fullxfull.7838846393_ov4h.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Lark 20x30 Monoslope Roof Shed - a spacious modern structure designed for efficiency, versatility, and clean architectural style. Highlighting a streamlined single-slope roof, warm horizontal wood siding, and crisp contemporary lines, Lark delivers a refined exterior with exceptional interior potential. With 600 square feet of flexible interior space, this design offers the perfect canvas for transforming your backyard into a creative studio, remo...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/lark-20x30-modern-monoslope-roof-shed-spacious-backyard-studio-workshop-and-multi-purpose-building-pdf/open-specs.json"
+}

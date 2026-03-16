@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-14X14-C9A3E1",
+    "slug":  "knoll-modern-shed-plan-14x14-monoslope-roof-studio-shed-diy-backyard-office-and-workshop-pdf-plans",
+    "name":  "Knoll Modern Shed Plan - 14x14 Monoslope Roof Studio Shed | DIY Backyard Office \u0026 Workshop PDF Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "14x14",
+    "area_sf":  196,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x14 Modern Shed with Monoslope Roof",
+                          "A clean single-slope roof design delivers contemporary architecture while allowing efficient water drainage and a taller interior wall for added headroom.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing methods and standard lumber sizes make the Knoll shed ideal for both beginner builders and experienced DIYers.",
+                          "Thoughtful Door \u0026 Window Layout",
+                          "Balanced door and window placements allow for easy access, abundant natural light, and comfortable airflow throughout the interior.",
+                          "Contemporary Exterior Style",
+                          "Horizontal wood siding, minimal trim lines, and the modern lean-to roof create a sleek backyard structure with timeless architectural appeal."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x14 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Knoll%20Modern%20Shed%20Plan%20-%2014x14%20Monoslope%20Roof%20Studio%20Shed",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ec7fc3/7821109155/il_fullxfull.7821109155_r628.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Knoll Modern Shed - a stylish 14x14 monoslope roof backyard studio designed for efficiency, versatility, and clean architectural simplicity. Featuring a sleek single-slope roofline, warm horizontal siding potential, and crisp contemporary geometry, Knoll delivers a refined exterior with highly flexible interior possibilities. Whether you\u0027re envisioning a quiet backyard office, creative studio, hobby workshop, or modern storage retreat, the 14x14 K...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/knoll-modern-shed-plan-14x14-monoslope-roof-studio-shed-diy-backyard-office-and-workshop-pdf-plans/open-specs.json"
+}

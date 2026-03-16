@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-10X16-8B6130",
+    "slug":  "london-10x16-shed-plan-a-barn-style-storage-shed-for-workshops-garden-tools-and-backyard-organization",
+    "name":  "London 10x16 Shed Plan - A Barn-Style Storage Shed for Workshops, Garden Tools, and Backyard Organization",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x16 Shed with Gambrel Barn Roof",
+                          "A high barn-style roof creates expanded vertical headroom, ideal for lofts, tall shelving, or additional overhead storage.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing and clean architectural details make this shed accessible for beginners yet satisfying for experienced builders.",
+                          "Wide Double Door Access",
+                          "Sophisticated barn-style double doors with decorative windowpanes ensure effortless movement of tools, gardening equipment, bikes, workshop supplies, and seasonal storage.",
+                          "Refined Natural Aesthetic",
+                          "Bright white horizontal siding, contrasting dark doors, and curated lighting fixtures give the London a fresh farmhouse appeal that blends seamlessly into landscaped or rural settings."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x16 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=London%2010x16%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20Shed%20for%20Workshops%2C%20Garden%20Tools%2C%20and%20Backyard%20Organization",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/1069c3/7683526076/il_fullxfull.7683526076_3441.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the London Barn Shed Plan - a 10x16 elegant storage and workspace solution designed with timeless charm, clean lines, and practical everyday functionality. Featuring a graceful gambrel barn-style roof, crisp white siding, and beautifully detailed double doors, the London blends classic farmhouse style with modern storage performance. Whether you\u0027re building a garden supply shed, backyard workshop, hobby studio, or a stylish, organized storage space, t...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/london-10x16-shed-plan-a-barn-style-storage-shed-for-workshops-garden-tools-and-backyard-organization/open-specs.json"
+}

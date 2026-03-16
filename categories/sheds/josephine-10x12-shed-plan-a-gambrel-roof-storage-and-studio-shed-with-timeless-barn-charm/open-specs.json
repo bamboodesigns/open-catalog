@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-10X12-0D2674",
+    "slug":  "josephine-10x12-shed-plan-a-gambrel-roof-storage-and-studio-shed-with-timeless-barn-charm",
+    "name":  "Josephine 10x12 Shed Plan - A Gambrel-Roof Storage \u0026 Studio Shed with Timeless Barn Charm",
+    "category":  "sheds",
+    "dimensions_ft":  "10x12",
+    "area_sf":  120,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing",
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x12 Shed With Gambrel Barn Roof",
+                          "A classic barn-inspired profile that provides higher interior headroom and a beautifully traditional silhouette.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, simple roof structure, and clean detailing make this build approachable for beginners and rewarding for experienced builders.",
+                          "Elegant Double Barn Doors",
+                          "Stained wood double doors with upper windows add curb appeal while offering wide access for tools, equipment, lawn gear, bikes, or project materials.",
+                          "Rustic Meets Refined Exterior",
+                          "Warm horizontal wood siding, crisp white trim, lantern-style lighting, and a deep blue metal roof deliver a balanced blend of farmhouse charm and modern durability."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  35,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x12 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Josephine%2010x12%20Shed%20Plan%20-%20A%20Gambrel-Roof%20Storage%20%26%20Studio%20Shed%20with%20Timeless%20Barn%20Charm",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/746cfb/7683412408/il_fullxfull.7683412408_2bpc.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Josephine Shed Plan - a 10x12 classic barn-style storage and workspace solution designed for maximum interior volume, rustic charm, and everyday practicality. Featuring a signature gambrel roof, warm wood siding, and elegant double barn doors, the Josephine blends iconic farmhouse character with smart, compact functionality. Whether you\u0027re building a garden supply shed, mini workshop, hobby studio, or simply need an organized space for tools and o...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/josephine-10x12-shed-plan-a-gambrel-roof-storage-and-studio-shed-with-timeless-barn-charm/open-specs.json"
+}

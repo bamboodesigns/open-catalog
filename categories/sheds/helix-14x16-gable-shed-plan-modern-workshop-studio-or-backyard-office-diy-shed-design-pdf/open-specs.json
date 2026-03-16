@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-14X16-B1C39A",
+    "slug":  "helix-14x16-gable-shed-plan-modern-workshop-studio-or-backyard-office-diy-shed-design-pdf",
+    "name":  "Helix 14x16 Gable Shed Plan - Modern Workshop, Studio, or Backyard Office | DIY Shed Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "14x16",
+    "area_sf":  224,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 14\u0027 x 16\u0027 (224 sq. ft.)",
+                          "Height: ~12 ft (to gable peak)",
+                          "Roof Type: Gable roof with vented ridge",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Side windows for natural light and ventilation",
+                          "Siding: Horizontal lap shown (customizable for metal, wood, or composite)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Helix%2014x16%20Gable%20Shed%20Plan%20-%20Modern%20Workshop%2C%20Studio%2C%20or%20Backyard%20Office",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f920a0/7724308997/il_fullxfull.7724308997_9ru6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Helix 14x16 Gable Shed Plan - a bold yet timeless design that merges classic structure with modern simplicity. With its clean gable roof, wide double doors, and refined symmetry, Helix is built to inspire builders, creators, and dreamers alike. Whether you\u0027re crafting a dedicated workshop, creative studio, storage space, or backyard office, this design delivers efficient construction, architectural charm, and a spacious layout that fits beautifully i...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/helix-14x16-gable-shed-plan-modern-workshop-studio-or-backyard-office-diy-shed-design-pdf/open-specs.json"
+}

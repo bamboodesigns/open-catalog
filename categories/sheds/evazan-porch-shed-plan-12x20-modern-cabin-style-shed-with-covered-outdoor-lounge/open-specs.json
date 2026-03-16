@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X20-C65079",
+    "slug":  "evazan-porch-shed-plan-12x20-modern-cabin-style-shed-with-covered-outdoor-lounge",
+    "name":  "Evazan Porch Shed Plan - 12x20 Modern Cabin-Style Shed with Covered Outdoor Lounge",
+    "category":  "sheds",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "12x20 Porch Shed with Gable Roof - Spacious interior + full covered porch for seating and outdoor use",
+                          "Charming Cabin Aesthetic - Natural wood siding, tall symmetry, and inviting architectural details",
+                          "DIY-Ready Plans - Clean framing logic and simple construction steps",
+                          "Double Door Access - Wide front doors perfect for equipment, furniture, bikes, tools, and storage",
+                          "Relaxation-Ready Porch - Ideal for outdoor dining, morning coffee, or a backyard reading nook",
+                          "Multi-Purpose Design - Suitable for workshops, studios, garden sheds, guest overflow, craft spaces, and more",
+                          "Overall Size: 12\u0027 x 20\u0027 (240 sq ft)",
+                          "Porch: Full-width covered front porch"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x20 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Evazan%20Porch%20Shed%20Plan%20-%2012x20%20Modern%20Cabin-Style%20Shed%20with%20Covered%20Outdoor%20Lounge",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/70f53a/7682933168/il_fullxfull.7682933168_8njz.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard upgrade with the Evazan Porch Shed Plan - a spacious 12x20 cabin-inspired shed designed to blend classic charm, outdoor living, and efficient storage in one beautiful structure. With its inviting full-width covered porch, tall gable roofline, and double door entry, the Evazan elevates any property with warmth, functionality, and style. Perfect for DIYers, hobbyists, entertainers, or anyone craving a dedicated indoor-outdoor retreat. Whether you\u0027re building a workshop...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/evazan-porch-shed-plan-12x20-modern-cabin-style-shed-with-covered-outdoor-lounge/open-specs.json"
+}

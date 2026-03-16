@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-10X18-E8E83D",
+    "slug":  "madeline-10x18-shed-plan-a-barn-style-storage-shed-with-classic-charm-and-elevated-function",
+    "name":  "Madeline 10x18 Shed Plan - A Barn-Style Storage Shed with Classic Charm \u0026 Elevated Function",
+    "category":  "sheds",
+    "dimensions_ft":  "10x18",
+    "area_sf":  180,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x18 Shed with Gambrel Barn Roof",
+                          "A classic barn silhouette that increases vertical storage space-ideal for lofts, shelves, long-handled tools, and overhead organization.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, clean design lines, and step-by-step instructions support first-time builders and experienced makers alike.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors make it easy to move in landscaping tools, bicycles, equipment, seasonal decor, or workshop materials.",
+                          "Warm, Traditional Exterior Aesthetic",
+                          "Horizontal wood siding, white farmhouse trim, vintage sconces, and arched barn doors create a welcoming, heritage-inspired look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  32,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x18 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Madeline%2010x18%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20Shed%20with%20Classic%20Charm%20%26%20Elevated%20Function",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/ed27cf/7744339801/il_fullxfull.7744339801_965l.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Madeline Barn Shed Plan - a 10x18 beautifully crafted storage and workspace solution designed for efficiency, charm, and timeless architectural appeal. Featuring a signature gambrel barn roof, warm wood siding, crisp white trim, and traditional double doors with transom windows, the Madeline blends nostalgic barn aesthetics with modern day practicality. Whether you\u0027re building a garden supply hub, DIY workshop, crafting getaway, or a dedicated out...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/madeline-10x18-shed-plan-a-barn-style-storage-shed-with-classic-charm-and-elevated-function/open-specs.json"
+}

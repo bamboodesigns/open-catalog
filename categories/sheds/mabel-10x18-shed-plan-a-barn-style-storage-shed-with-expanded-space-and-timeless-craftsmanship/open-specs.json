@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-10X18-FA40C2",
+    "slug":  "mabel-10x18-shed-plan-a-barn-style-storage-shed-with-expanded-space-and-timeless-craftsmanship",
+    "name":  "Mabel 10x18 Shed Plan - A Barn-Style Storage Shed with Expanded Space \u0026 Timeless Craftsmanship",
+    "category":  "sheds",
+    "dimensions_ft":  "10x18",
+    "area_sf":  180,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x18 Shed with Gambrel Barn Roof",
+                          "The classic barn-style roof offers increased overhead clearance, ideal for adding loft storage, hanging tools, or installing tall shelving.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, intuitive instructions, and clean architectural lines make this shed approachable for first-time builders and satisfying for seasoned DIYers.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors provide easy movement for mowers, bicycles, large tools, gardening supplies, workshop equipment, and seasonal storage items.",
+                          "Classic Natural Aesthetic",
+                          "Warm horizontal siding, farmhouse trim, and vintage-inspired lighting give Mabel a timeless look that elevates any landscape."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x18 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mabel%2010x18%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20Shed%20with%20Expanded%20Space%20%26%20Timeless%20Craftsmanship",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/b0f588/7683556492/il_fullxfull.7683556492_qphp.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Mabel Barn Shed Plan - a 10x18 premium storage and workspace solution designed for charm, functionality, and maximum versatility. With its signature gambrel barn roof, warm horizontal siding, crisp white trim, and rustic double barn doors, the Mabel blends classic Americana style with modern practicality. Whether you\u0027re designing a garden tool hub, crafting retreat, backyard workshop, or beautifully organized storage shed, the Mabel 10x18 provides...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/mabel-10x18-shed-plan-a-barn-style-storage-shed-with-expanded-space-and-timeless-craftsmanship/open-specs.json"
+}

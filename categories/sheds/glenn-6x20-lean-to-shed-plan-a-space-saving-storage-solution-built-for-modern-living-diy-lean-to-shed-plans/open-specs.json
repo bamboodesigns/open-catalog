@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-6X20-DAE1BE",
+    "slug":  "glenn-6x20-lean-to-shed-plan-a-space-saving-storage-solution-built-for-modern-living-diy-lean-to-shed-plans",
+    "name":  "Glenn 6x20 Lean-To Shed Plan - A Space-Saving Storage Solution Built for Modern Living| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "6x20",
+    "area_sf":  120,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 6\u0027 x 20\u0027 (120 sq ft)",
+                          "Roof Type: Single-slope lean-to roof",
+                          "Exterior: Vertical siding shown (also customizable for metal, composite, or board-and-batten)",
+                          "Doors: Large double barn-style entry doors for easy equipment access",
+                          "Foundation: Freestanding pier foundation or slab option",
+                          "Placement: Designed to sit flush against a home, garage, or existing structure"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "6x20 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Glenn%206x20%20Lean-To%20Shed%20Plan%20-%20A%20Space-Saving%20Storage%20Solution%20Built%20for%20Modern%20Living",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/39bfbc/7419556916/il_fullxfull.7419556916_fwsd.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch Your Next Backyard Upgrade with the Glenn Lean-To Shed Plan - a 6x20 Space-Saving Storage Solution Built for Modern Living Meet Glenn, the ultimate 6x20 lean-to shed designed for homeowners who want maximum storage, minimal footprint, and seamless integration with their home\u0027s architecture. With its sleek sloped roof, elongated layout, and clean modern lines, this shed brings practical efficiency and elevated style directly to your backyard.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/glenn-6x20-lean-to-shed-plan-a-space-saving-storage-solution-built-for-modern-living-diy-lean-to-shed-plans/open-specs.json"
+}

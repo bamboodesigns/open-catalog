@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-20X24-E40D98",
+    "slug":  "fanna-20x24-porch-shed-plan-a-rustic-retreat-with-classic-gable-roof-and-covered-outdoor-space",
+    "name":  "Fanna 20x24 Porch Shed Plan - A Rustic Retreat with Classic Gable Roof \u0026 Covered Outdoor Space",
+    "category":  "sheds",
+    "dimensions_ft":  "20x24",
+    "area_sf":  480,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "20x24 Gable Roof Shed with Porch",
+                          "Expansive 480 sq ft layout combined with a traditional peaked roof for superior drainage, added ceiling height, and classic symmetry.",
+                          "Integrated Covered Front Porch",
+                          "A functional porch extension provides shaded entry, decorative charm, staging space for tools or plants, and a cozy outdoor seating area.",
+                          "DIY-Friendly Construction",
+                          "Built using conventional framing techniques and straightforward gable roof construction, making it accessible for experienced DIYers and professional builders alike.",
+                          "Large Open-Concept Interior",
+                          "Spacious, unobstructed floor plan allows for flexible customization - add workbenches, storage systems, office partitions, or recreational build-outs."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "20x24 shed",
+                 "sheds",
+                 "shed",
+                 "gable roof",
+                 "workshop",
+                 "studio",
+                 "porch",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Fanna%2020x24%20Porch%20Shed%20Plan%20-%20A%20Rustic%20Retreat%20with%20Classic%20Gable%20Roof%20%26%20Covered%20Outdoor%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/56c910/7818346803/il_fullxfull.7818346803_smc6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Fanna Gable Shed with Porch - a spacious 20x24 backyard structure designed for durability, flexibility, and timeless architectural appeal. Featuring a classic gable roofline and an inviting covered front porch, Fanna delivers an impressive 480 square feet of interior space with the charm of a small cabin and the functionality of a high-capacity workshop. With its balanced roof pitch, clean exterior lines, and welcoming porch detail, the 20x24 Fann...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/fanna-20x24-porch-shed-plan-a-rustic-retreat-with-classic-gable-roof-and-covered-outdoor-space/open-specs.json"
+}

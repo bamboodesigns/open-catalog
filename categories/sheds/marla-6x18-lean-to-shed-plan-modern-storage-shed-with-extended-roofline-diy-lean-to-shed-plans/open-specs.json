@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-6X18-82048F",
+    "slug":  "marla-6x18-lean-to-shed-plan-modern-storage-shed-with-extended-roofline-diy-lean-to-shed-plans",
+    "name":  "Marla 6x18 Lean-To Shed Plan - Modern Storage Shed with Extended Roofline | DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "6x18",
+    "area_sf":  108,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 6\u0027 x 18\u0027 (108 sq ft)",
+                          "Height: 13.5\u0027",
+                          "Roof Type: Sloped lean-to roof for simplified drainage",
+                          "Height: Varies by slope (optimized for walk-in usability)",
+                          "Doors: Wide double barn-style doors",
+                          "Siding: Horizontal lap shown (customizable to wood, metal, or composite)",
+                          "Placement: Designed to sit against an exterior wall or freestanding",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "6x18 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Marla%206x18%20Lean-To%20Shed%20Plan%20-%20Modern%20Storage%20Shed%20with%20Extended%20Roofline",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f769bc/7419505458/il_fullxfull.7419505458_9c9c.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard upgrade with the Marla Lean-To Shed Plan - a sleek, space-efficient 6x18 lean-to shed designed to blend seamlessly against your home while delivering powerful storage capacity and modern style. With its extended sloped roof, full double-door access, and clean architectural lines, Marla is perfect for homeowners who want maximum organization in a compact footprint - all with a contemporary look that elevates any exterior. Whether you\u0027re storing garden tools, seasonal...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/marla-6x18-lean-to-shed-plan-modern-storage-shed-with-extended-roofline-diy-lean-to-shed-plans/open-specs.json"
+}

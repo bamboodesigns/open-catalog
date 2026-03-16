@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-12X16-71A100",
+    "slug":  "kabe-12x16-porch-shed-plan-diy-gable-roof-studio-workshop-or-backyard-office-with-covered-porch",
+    "name":  "Kabe 12x16 Porch Shed Plan - DIY Gable Roof Studio, Workshop, or Backyard Office with Covered Porch",
+    "category":  "sheds",
+    "dimensions_ft":  "12x16",
+    "area_sf":  192,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 12\u0027 x 16\u0027 (192 sqft)",
+                          "Porch: Integrated covered front porch with posts",
+                          "Roof Type: Traditional gable roof with extended overhang",
+                          "Doors: Full double barn-style doors for easy access",
+                          "Windows: Multiple operable windows for airflow + natural light",
+                          "Siding: Horizontal lap shown (customizable for wood, composite, or metal)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "12x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Kabe%2012x16%20Porch%20Shed%20Plan%20-%20DIY%20Gable%20Roof%20Studio%2C%20Workshop%2C%20or%20Backyard%20Office%20with%20Covered%20Porch",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/13638b/7683183290/il_fullxfull.7683183290_2j28.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Kabe Porch Shed Plan - a 12x16 classic-meets-modern design built for creativity, comfort, and everyday functionality. With its charming covered front porch, clean gable geometry, and extended 12x16 footprint, the Kabe Shed is perfect for homeowners who want more than storage - they want a true backyard retreat. Whether used as a workshop, garden studio, hobby room, or an inviting relaxation space, the Kabe Plan blends warm cottage character with prac...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/kabe-12x16-porch-shed-plan-diy-gable-roof-studio-workshop-or-backyard-office-with-covered-porch/open-specs.json"
+}

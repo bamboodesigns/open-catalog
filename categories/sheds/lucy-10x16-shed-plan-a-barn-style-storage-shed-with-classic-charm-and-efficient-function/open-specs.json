@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-10X16-C47B4A",
+    "slug":  "lucy-10x16-shed-plan-a-barn-style-storage-shed-with-classic-charm-and-efficient-function",
+    "name":  "Lucy 10x16 Shed Plan - A Barn-Style Storage Shed with Classic Charm \u0026 Efficient Function",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x16 Shed with Gambrel Barn Roof",
+                          "A traditional barn-style roof dramatically increases overhead clearance - perfect for loft storage, tall shelving, or large equipment.",
+                          "DIY-Friendly Construction",
+                          "Designed with straightforward framing, intuitive assembly steps, and clean structural lines that make the build manageable for beginners and satisfying for experienced builders.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors allow smooth movement of mowers, gardening tools, workshop materials, bikes, and seasonal storage items.",
+                          "Warm Natural Aesthetic",
+                          "Vertical wood siding, white trim accents, and dark farmhouse lighting create a timeless country look with durable, modern performance."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  31,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x16 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lucy%2010x16%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20Shed%20with%20Classic%20Charm%20%26%20Efficient%20Function",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/7714f2/7683540768/il_fullxfull.7683540768_6sn6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Lucy Barn Shed Plan - a 10x16 premium storage and workspace solution designed for timeless beauty, reliable construction, and everyday utility. Featuring a charming gambrel barn roof, natural wood vertical siding, crisp white trim, and rustic barn-style double doors, Lucy delivers classic countryside appeal while providing exceptional interior storage capacity. Whether you\u0027re building a garden supply hub, compact workshop, hobby studio, or beautif...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/lucy-10x16-shed-plan-a-barn-style-storage-shed-with-classic-charm-and-efficient-function/open-specs.json"
+}

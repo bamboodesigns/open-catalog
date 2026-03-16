@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-10X14-75F2F7",
+    "slug":  "karter-shed-plan-a-10x14-barn-style-storage-shed-for-tools-gardening-hobbies-and-backyard-organization",
+    "name":  "Karter Shed Plan - A 10x14 Barn-Style Storage Shed for Tools, Gardening, Hobbies \u0026 Backyard Organization",
+    "category":  "sheds",
+    "dimensions_ft":  "10x14",
+    "area_sf":  140,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x14 Shed with Gambrel Barn Roof",
+                          "A classic high-profile barn roof maximizes vertical headroom, creating a spacious and efficient interior ideal for shelves, loft storage, and large items.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, intuitive layout, and builder-ready plans make this project easy for beginners and rewarding for experienced craftsmen.",
+                          "Wide Double Door Front Access",
+                          "Rustic barn-style double doors with decorative windows add charm while providing wide entry for mowers, tools, totes, bikes, or workshop materials.",
+                          "Warm Natural Aesthetic",
+                          "Horizontal wood siding, crisp trim, and lantern-style fixtures deliver a rustic-meets-modern look that fits beautifully into landscaped yards and cabin settings."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  26,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x14 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "loft",
+                 "workshop",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Karter%20Shed%20Plan%20-%20A%2010x14%20Barn-Style%20Storage%20Shed%20for%20Tools%2C%20Gardening%2C%20Hobbies%20%26%20Backyard%20Organization",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/1672e5/7731460109/il_fullxfull.7731460109_lvxb.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Karter Barn Shed Plan - a 10x14 timeless storage and workspace solution designed with efficiency, charm, and classic architectural appeal. Featuring a distinctive gambrel barn roof, beautiful wood siding, and wide double doors, the Karter blends rustic character with practical, everyday functionality. Whether you\u0027re building a garden tool hub, lawn equipment storage shed, creative hobby space, or a highly organized backyard utility shed, the Karte...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/karter-shed-plan-a-10x14-barn-style-storage-shed-for-tools-gardening-hobbies-and-backyard-organization/open-specs.json"
+}

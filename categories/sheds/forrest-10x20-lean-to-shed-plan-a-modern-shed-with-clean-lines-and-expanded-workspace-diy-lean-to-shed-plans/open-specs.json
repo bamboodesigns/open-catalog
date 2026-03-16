@@ -1,0 +1,74 @@
+{
+    "plan_id":  "BD-SHED-10X20-626592",
+    "slug":  "forrest-10x20-lean-to-shed-plan-a-modern-shed-with-clean-lines-and-expanded-workspace-diy-lean-to-shed-plans",
+    "name":  "Forrest 10x20 Lean-To Shed Plan - A Modern Shed With Clean Lines \u0026 Expanded Workspace| DIY Lean-To Shed Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "10x20",
+    "area_sf":  200,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x20 Lean-To Shed with Sleek Sloped Roof",
+                          "Long, spacious layout with a single-pitch roof ideal for drainage and contemporary curb appeal.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing, intuitive structure, and easy-to-follow plans suitable for new or seasoned builders.",
+                          "Wide Double Door Access",
+                          "Rustic barn-style double doors provide generous opening width for lawn tools, workshop machinery, bikes, or storage bins.",
+                          "Clean Modern-Rustic Appearance",
+                          "Horizontal wood siding, crisp trim lines, and a minimalist roof profile create a warm yet modern design."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  26,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "10x20 lean to shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Forrest%2010x20%20Lean-To%20Shed%20Plan%20-%20A%20Modern%20Shed%20With%20Clean%20Lines%20%26%20Expanded%20Workspace",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/fe8da6/7434758840/il_fullxfull.7434758840_twej.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a highly functional, contemporary workspace with the Forrest Lean-To Shed Plan - a 10x20 modern shed designed for builders, gardeners, makers, and homeowners who need more room without sacrificing style. With its elongated footprint, streamlined sloped roof, rustic double doors, and warm wood siding, the Forrest blends modern simplicity with practical, everyday performance. Whether you\u0027re building a workshop, lawn-equipment hub, hobby studio, or organized storage...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/forrest-10x20-lean-to-shed-plan-a-modern-shed-with-clean-lines-and-expanded-workspace-diy-lean-to-shed-plans/open-specs.json"
+}

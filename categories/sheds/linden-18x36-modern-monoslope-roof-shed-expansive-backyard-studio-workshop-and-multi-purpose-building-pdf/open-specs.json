@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-18X36-DBE345",
+    "slug":  "linden-18x36-modern-monoslope-roof-shed-expansive-backyard-studio-workshop-and-multi-purpose-building-pdf",
+    "name":  "Linden - 18x36 Modern Monoslope Roof Shed | Expansive Backyard Studio, Workshop \u0026 Multi-Purpose Building (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "18x36",
+    "area_sf":  648,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "18x36 Modern Monoslope Shed Design",
+                          "A bold single-slope roofline creates a contemporary architectural look while promoting efficient water runoff and structural simplicity.",
+                          "Expansive Interior Space",
+                          "With 648 square feet, Linden offers generous room for workshops, studios, offices, storage, or potential ADU-style conversions.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing and clean roof geometry make this design ideal for both beginner builders and seasoned DIY enthusiasts.",
+                          "Thoughtful Entry \u0026 Window Layout",
+                          "Well-placed doors and windows allow easy access while inviting natural light and airflow throughout the interior."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "18x36 shed",
+                 "sheds",
+                 "shed",
+                 "lean-to",
+                 "monoslope roof",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Linden%20-%2018x36%20Modern%20Monoslope%20Roof%20Shed%20%7C%20Expansive%20Backyard%20Studio%2C%20Workshop%20%26%20Multi-Purpose%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a0dd56/7838727447/il_fullxfull.7838727447_8wu8.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard with the Linden 18x36 Monoslope Roof Shed - a spacious modern structure designed for versatility, efficiency, and bold architectural style. Featuring a sleek single-slope roofline, warm horizontal wood siding, and crisp contemporary detailing, Linden offers a refined exterior while delivering an impressive amount of interior flexibility. With 648 square feet of usable space, Linden is ideal for homeowners who want more than a traditional shed. Whether you\u0027re planning a...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/linden-18x36-modern-monoslope-roof-shed-expansive-backyard-studio-workshop-and-multi-purpose-building-pdf/open-specs.json"
+}

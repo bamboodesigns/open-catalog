@@ -1,0 +1,75 @@
+{
+    "plan_id":  "BD-SHED-14X16-9C23AC",
+    "slug":  "gunner-14x16-porch-shed-plan-a-gable-roof-retreat-with-spacious-covered-porch",
+    "name":  "Gunner 14x16 Porch Shed Plan - A Gable-Roof Retreat with Spacious Covered Porch",
+    "category":  "sheds",
+    "dimensions_ft":  "14x16",
+    "area_sf":  224,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "14x16 Gable Shed with Full Covered Porch - A perfect balance of indoor utility \u0026 outdoor relaxation",
+                          "DIY-Friendly Build - Clear framing layouts and step-by-step diagrams",
+                          "Barn-Style Double Doors - Wide access for equipment, motorcycles, tools, or hobby gear",
+                          "Cozy Cottage Aesthetic - Traditional gable profile, warm siding, and handcrafted detailing",
+                          "Multi-Purpose Functionality - Great as a workshop, studio, storage shed, home office, or garden retreat",
+                          "Size: 14\u0027 x 16\u0027 (224 sq ft footprint)",
+                          "Porch: Large covered front porch for relaxing, reading, or staging garden tools",
+                          "Interior: Spacious open layout for storage, workspace, or customization"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  42,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "14x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Gunner%2014x16%20Porch%20Shed%20Plan%20-%20A%20Gable-Roof%20Retreat%20with%20Spacious%20Covered%20Porch",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/b93348/7682937500/il_fullxfull.7682937500_dtej.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring warmth, charm, and purpose to your backyard with the Gunner Porch Shed Plan, a beautifully crafted 14x16 gable-roof shed featuring a full-width covered porch and timeless cottage appeal. Designed for homeowners who want functionality and outdoor comfort, this plan blends indoor workspace with an inviting porch that\u0027s perfect for lounging, gardening, or creative projects. Whether you\u0027re building a workshop, craft studio, garden escape, or storage haven, the Gunner 14x16 offers generous s...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/gunner-14x16-porch-shed-plan-a-gable-roof-retreat-with-spacious-covered-porch/open-specs.json"
+}

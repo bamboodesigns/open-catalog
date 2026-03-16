@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-10X16-FF5EB0",
+    "slug":  "lumen-10x16-gable-shed-plan-modern-barn-style-storage-workshop-or-studio-diy-backyard-shed-pdf-building-plans",
+    "name":  "Lumen 10x16 Gable Shed Plan - Modern Barn-Style Storage, Workshop, or Studio | DIY Backyard Shed PDF Building Plans",
+    "category":  "sheds",
+    "dimensions_ft":  "10x16",
+    "area_sf":  160,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 10\u0027 x 16\u0027 (160 sq. ft.)",
+                          "Roof Type: Traditional gable roof",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Side and gable-end openings for natural light",
+                          "Siding: Horizontal lap shown (customizable to wood, metal, or composite)",
+                          "Foundation: Freestanding pier or slab design option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "gable shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "10x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "gable roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lumen%2010x16%20Gable%20Shed%20Plan%20-%20Modern%20Barn-Style%20Storage%2C%20Workshop%2C%20or%20Studio",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0fe489/7679153430/il_fullxfull.7679153430_nf0v.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Brighten your backyard with the Lumen Gable Shed Plan - a 10x16 design that blends classic barn-inspired architecture with modern simplicity. With its sharp gable lines, double barn doors, and balanced symmetry, the Lumen Shed delivers both style and utility. Perfect for use as a workshop, garden studio, storage space, or creative escape, it\u0027s designed to enhance your property while staying DIY-friendly and cost-effective. 10x16 Gable Shed Design - Spacious layout for tools, equipment, or wor...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/lumen-10x16-gable-shed-plan-modern-barn-style-storage-workshop-or-studio-diy-backyard-shed-pdf-building-plans/open-specs.json"
+}

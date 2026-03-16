@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-6X16-8D9C7B",
+    "slug":  "juno-6x16-modern-shed-plan-sloped-roof-storage-building-diy-contemporary-garden-shed-design-pdf",
+    "name":  "Juno 6x16 Modern Shed Plan - Sloped Roof Storage Building | DIY Contemporary Garden Shed Design (PDF)",
+    "category":  "sheds",
+    "dimensions_ft":  "6x16",
+    "area_sf":  96,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 6\u0027 x 16\u0027 (96 sq. ft.)",
+                          "Height: ~12 ft (highest point)",
+                          "Roof Type: Single-slope (modern shed roof)",
+                          "Doors: 6\u0027 wide double barn-style doors",
+                          "Windows: Dual front windows for light and ventilation",
+                          "Siding: Horizontal lap shown (customizable for wood, metal, or composite)",
+                          "Foundation: Freestanding pier or slab option"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "6x16 shed",
+                 "sheds",
+                 "shed",
+                 "freestanding",
+                 "monoslope roof",
+                 "barn-style",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Juno%206x16%20Modern%20Shed%20Plan%20-%20Sloped%20Roof%20Storage%20Building",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a83f6a/7725608624/il_fullxfull.7725608624_bvs5.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Launch your next backyard project with the Juno 6x16 Shed Plan - a beautifully balanced modern shed that combines clean form, rustic texture, and functional space. With its single-slope roof, horizontal wood siding, and classic barn doors, Juno is perfect for homeowners looking to create a stylish garden workspace, tool storage, or compact backyard studio. Designed with efficiency and craftsmanship in mind, the Juno 6x16 offers simple construction, modern design lines, and versatile purpose -...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/juno-6x16-modern-shed-plan-sloped-roof-storage-building-diy-contemporary-garden-shed-design-pdf/open-specs.json"
+}

@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-SHED-10X14-2E0350",
+    "slug":  "kalani-10x14-shed-plan-a-barn-style-storage-shed-for-tools-garden-gear-workshops-and-backyard-organization",
+    "name":  "Kalani 10x14 Shed Plan - A Barn-Style Storage Shed for Tools, Garden Gear, Workshops \u0026 Backyard Organization",
+    "category":  "sheds",
+    "dimensions_ft":  "10x14",
+    "area_sf":  140,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x14 Shed with Gambrel Barn Roof",
+                          "A tall barn-profile roof maximizes vertical space for overhead storage, shelving, and improved interior functionality.",
+                          "DIY-Friendly Construction",
+                          "Clear framing, standard materials, and easy-to-follow plans make the Kalani ideal for first-time builders and seasoned DIYers.",
+                          "Wide Double Door Access",
+                          "Rustic double barn doors provide generous clearance for loading tools, wheelbarrows, lawn equipment, totes, and workshop materials.",
+                          "Warm, Natural Aesthetic",
+                          "Rich horizontal wood siding, crisp white trim, and a curved barn roof create a refined, rustic look that enhances any landscape."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  28,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x14 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Kalani%2010x14%20Shed%20Plan%20-%20A%20Barn-Style%20Storage%20Shed%20for%20Tools%2C%20Garden%20Gear%2C%20Workshops%20%26%20Backyard%20Organization",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f3b37b/7731364143/il_fullxfull.7731364143_ihoy.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Kalani Barn Shed Plan - a 10x14 classic storage and workspace solution designed for efficiency, rustic charm, and everyday practicality. With its beautiful gambrel barn-style roof, timeless wood siding, and double barn doors, the Kalani blends traditional character with functional design that elevates any backyard or homestead. Whether you\u0027re creating a garden supply hub, lawn equipment storage space, hobby workshop, or simply a stylish shed to st...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/kalani-10x14-shed-plan-a-barn-style-storage-shed-for-tools-garden-gear-workshops-and-backyard-organization/open-specs.json"
+}

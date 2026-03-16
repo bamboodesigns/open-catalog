@@ -1,0 +1,73 @@
+{
+    "plan_id":  "BD-SHED-10X12-5BB84E",
+    "slug":  "jocelyn-10x12-shed-plan-a-gambrel-roof-barn-shed-for-storage-gardening-and-creative-backyard-spaces",
+    "name":  "Jocelyn 10x12 Shed Plan - A Gambrel-Roof Barn Shed for Storage, Gardening, and Creative Backyard Spaces",
+    "category":  "sheds",
+    "dimensions_ft":  "10x12",
+    "area_sf":  120,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "10x12 Shed with Gambrel Barn Roof",
+                          "The classic gambrel profile maximizes interior headroom, creating a spacious and airy feel within a compact footprint.",
+                          "DIY-Friendly Construction",
+                          "Straightforward framing and intuitive detailing make this project approachable for beginners and perfectly satisfying for experienced builders.",
+                          "Charming Double Door Entry",
+                          "Rustic barn-inspired double doors with upper windowpanes provide wide access for storage and add instant curb appeal.",
+                          "Warm Farmhouse Aesthetic",
+                          "Horizontal wood siding, crisp white trim, and lantern-style lighting create a welcoming, rustic-meets-modern look."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "shed plans",
+                 "diy shed",
+                 "backyard shed",
+                 "storage shed",
+                 "workshop plans",
+                 "garden shed",
+                 "modern shed",
+                 "pdf shed plan",
+                 "dwg shed plan",
+                 "shed blueprint",
+                 "diy storage",
+                 "office shed",
+                 "10x12 shed",
+                 "sheds",
+                 "shed",
+                 "gambrel roof",
+                 "barn-style",
+                 "workshop",
+                 "studio",
+                 "pdf plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Jocelyn%2010x12%20Shed%20Plan%20-%20A%20Gambrel-Roof%20Barn%20Shed%20for%20Storage%2C%20Gardening%2C%20and%20Creative%20Backyard%20Spaces",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/cc66d0/7731351635/il_fullxfull.7731351635_403o.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Kickstart your next backyard upgrade with the Jocelyn Shed Plan - a 10x12 barn-style storage and workspace solution designed for efficiency, charm, and timeless architectural appeal. With its signature gambrel roof, warm wood siding, and beautifully crafted double doors, the Jocelyn combines classic country character with practical everyday utility. Whether you\u0027re building a compact workshop, garden supply hub, hobby studio, or a neatly organized storage shed, the Jocelyn 10x12 offers smart u...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/sheds/jocelyn-10x12-shed-plan-a-gambrel-roof-barn-shed-for-storage-gardening-and-creative-backyard-spaces/open-specs.json"
+}
