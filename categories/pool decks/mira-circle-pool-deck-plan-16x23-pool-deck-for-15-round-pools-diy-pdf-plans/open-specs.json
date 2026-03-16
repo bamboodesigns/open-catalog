@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-16X23-C8384C",
+    "slug":  "mira-circle-pool-deck-plan-16x23-pool-deck-for-15-round-pools-diy-pdf-plans",
+    "name":  "Mira Circle Pool Deck Plan - 16x23 Pool Deck for 15\u0027 Round Pools | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x23",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed specifically for 15\u0027 diameter round above-ground pools",
+                          "Spacious 16x23 wrap-around decking with room for seating and relaxation",
+                          "Optimized deck width for comfortable walking and poolside lounging",
+                          "Built-in railing layout for enhanced safety and clean aesthetics",
+                          "Compact yet open design - ideal for smaller and mid-size backyards",
+                          "Easy-to-follow DIY PDF plans with complete material cut list \u0026 step-by-step building guide",
+                          "Overall Deck Size: 16\u0027 x 23\u0027",
+                          "Pool Fit: 15\u0027 diameter round above-ground pools (pool not included)"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "16x23 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x23",
+                 "16x23 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mira%20Circle%20Pool%20Deck%20Plan%20-%2016x23%20Pool%20Deck%20for%2015\u0027%20Round%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/78a0e9/7723922461/il_fullxfull.7723922461_fu9h.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Mira Circle Pool Deck Plan transforms your 15-foot above-ground pool into a beautiful backyard retreat. Featuring a 16x23 wrap-around deck layout, this design provides safe access, smooth circulation, and generous lounging space while maintaining a clean, modern footprint. Perfect for families and entertainers alike, Mira blends safety, comfort, and resort-inspired outdoor living into one elegant pool deck solution. Key Features\nDesigned specifically for 15\u0027 diameter round above-ground po...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/mira-circle-pool-deck-plan-16x23-pool-deck-for-15-round-pools-diy-pdf-plans/open-specs.json"
+}

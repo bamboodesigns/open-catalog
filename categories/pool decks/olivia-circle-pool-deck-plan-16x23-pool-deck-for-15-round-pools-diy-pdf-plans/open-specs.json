@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-16X23-76606F",
+    "slug":  "olivia-circle-pool-deck-plan-16x23-pool-deck-for-15-round-pools-diy-pdf-plans",
+    "name":  "Olivia Circle Pool Deck Plan - 16x23 Pool Deck for 15\u0027 Round Pools | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x23",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 15\u0027 Round Above-Ground Pools",
+                          "Precision layout ensures a clean and functional pool opening (pool not included).",
+                          "Large 16\u0027 x 23\u0027 Deck Platform",
+                          "Generous space for lounge chairs, seating areas, and poolside entertaining.",
+                          "Raised Deck for Easy Pool Entry",
+                          "Step directly from deck level into the pool for convenient access.",
+                          "Full Perimeter Safety Railings",
+                          "Integrated railing system improves safety while maintaining an open feel."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "16x23 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x23",
+                 "16x23 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Olivia%20Circle%20Pool%20Deck%20Plan%20-%2016x23%20Pool%20Deck%20for%2015\u0027%20Round%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/67a4e7/7801266084/il_fullxfull.7801266084_tmzb.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Enjoy relaxing backyard living with the Olivia Pool Deck Plan, a spacious 16\u0027 x 23\u0027 raised deck designed specifically for 15\u0027 round above-ground pools. With clean lines, generous lounging space, and built-in safety railings, Olivia transforms a simple pool into a comfortable backyard retreat perfect for relaxing afternoons or entertaining friends and family. The open layout provides ample room for poolside seating, sun loungers, umbrellas, and small dining setups while maintaining easy and sa...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/olivia-circle-pool-deck-plan-16x23-pool-deck-for-15-round-pools-diy-pdf-plans/open-specs.json"
+}

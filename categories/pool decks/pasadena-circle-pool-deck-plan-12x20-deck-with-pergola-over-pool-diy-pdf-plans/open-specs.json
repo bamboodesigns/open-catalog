@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-12X20-0A2B8A",
+    "slug":  "pasadena-circle-pool-deck-plan-12x20-deck-with-pergola-over-pool-diy-pdf-plans",
+    "name":  "Pasadena Circle Pool Deck Plan - 12x20 Deck with Pergola Over Pool | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "12x20",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 12\u0027 x 20\u0027",
+                          "Pool Fit: Round above-ground 18\u0027 diameter pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Coastal-modern, designed for San Diego\u0027s sunny climate with built-in shade"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "12x20 deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x20",
+                 "12x20 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pasadena%20Circle%20Pool%20Deck%20Plan%20-%2012x20%20Deck%20with%20Pergola%20Over%20Pool",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/3f2d7b/7716858497/il_fullxfull.7716858497_nc08.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring California style to your backyard with the Pasadena Pool Deck Plan. This spacious 12x20 elevated deck includes built-in railings, a wide staircase, and a full pergola over the pool, blending shade, safety, and relaxation in one stunning design. Perfect for homeowners who want to create an outdoor lounge that feels like a resort while keeping pool access simple and secure. Designed for round above-ground pools (18\u0027 diameter)\nOversized 12x20 elevated deck with room for seating + dining\nFu...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/pasadena-circle-pool-deck-plan-12x20-deck-with-pergola-over-pool-diy-pdf-plans/open-specs.json"
+}

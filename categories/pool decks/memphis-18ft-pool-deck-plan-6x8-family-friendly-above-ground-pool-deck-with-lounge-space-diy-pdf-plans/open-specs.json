@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-6X8-93C7F0",
+    "slug":  "memphis-18ft-pool-deck-plan-6x8-family-friendly-above-ground-pool-deck-with-lounge-space-diy-pdf-plans",
+    "name":  "Memphis 18ft Pool Deck Plan - 6x8 Family-Friendly Above-Ground Pool Deck with Lounge Space | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "6x8",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 6\u0027 x 8\u0027",
+                          "Pool Fit: 18\u0027 round above-ground pool opening (not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Modern resort-style, designed for relaxation, airflow, and easy maintenance"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  34,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "patio deck plan",
+                 "6x8 pool deck",
+                 "pool deck plans",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "6x8",
+                 "6x8 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Memphis%2018ft%20Pool%20Deck%20Plan%20-%206x8%20Family-Friendly%20Above-Ground%20Pool%20Deck%20with%20Lounge%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a6fe7f/7716725947/il_fullxfull.7716725947_jg4m.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Memphis 18ft Pool 6x8 Deck Plan combines Southern charm with modern backyard functionality. With built-in safety railing and a lounge platform, this deck makes your above-ground pool the centerpiece of outdoor living. Perfect for 18 ft above-ground pools\nSafe stair + railing details included\nLounge-ready space for chairs + tables\nEasy-to-follow DIY plans",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/memphis-18ft-pool-deck-plan-6x8-family-friendly-above-ground-pool-deck-with-lounge-space-diy-pdf-plans/open-specs.json"
+}

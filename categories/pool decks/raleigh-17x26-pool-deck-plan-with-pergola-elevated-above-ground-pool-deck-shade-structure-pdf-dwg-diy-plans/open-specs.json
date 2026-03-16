@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-17X26-9D694D",
+    "slug":  "raleigh-17x26-pool-deck-plan-with-pergola-elevated-above-ground-pool-deck-shade-structure-pdf-dwg-diy-plans",
+    "name":  "Raleigh 17x26 Pool Deck Plan with Pergola - Elevated Above-Ground Pool Deck + Shade Structure | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "17x26",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 17\u0027 x 26\u0027",
+                          "Pool Fit: 18\u0027 round above-ground pool opening (not included)",
+                          "Height: ~4.5 ft elevation for pool entry",
+                          "Pergola: Full overhead structure, integrated into deck framing",
+                          "Railing Height: 36-42\" per IRC/IBC guidelines"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "18ft pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "17x26",
+                 "17x26 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Raleigh%2017x26%20Pool%20Deck%20Plan%20with%20Pergola%20-%20Elevated%20Above-Ground%20Pool%20Deck%20%2B%20Shade%20Structure%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a8d0c2/7146487472/il_fullxfull.7146487472_e1ff.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Upgrade your backyard into a full outdoor retreat with the Raleigh 17x26 Pool Deck Plan with Pergola. This elevated deck wraps seamlessly around a 18ft above-ground pool and includes a spacious pergola for shade, lounging, and dining. Perfect for families, entertainers, and homeowners who want a resort-style setup in their own yard. 17x26 Elevated Deck Platform - Designed for 18ft above-ground pools (pool not included)\nIntegrated Pergola - Shade + architectural style built into the plan\nSafe...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/raleigh-17x26-pool-deck-plan-with-pergola-elevated-above-ground-pool-deck-shade-structure-pdf-dwg-diy-plans/open-specs.json"
+}

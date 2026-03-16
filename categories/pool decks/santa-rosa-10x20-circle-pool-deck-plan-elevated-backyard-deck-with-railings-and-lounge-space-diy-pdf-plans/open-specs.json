@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-10X20-1057BF",
+    "slug":  "santa-rosa-10x20-circle-pool-deck-plan-elevated-backyard-deck-with-railings-and-lounge-space-diy-pdf-plans",
+    "name":  "Santa Rosa 10x20 Circle Pool Deck Plan - Elevated Backyard Deck with Railings \u0026 Lounge Space | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x20",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 20\u0027",
+                          "Pool Fit: Round above-ground 24\u0027 diameter pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Santa Rosa-inspired design, offering a relaxed coastal feel with practical poolside functionality"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x20 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x20",
+                 "10x20 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Santa%20Rosa%2010x20%20Circle%20Pool%20Deck%20Plan%20-%20Elevated%20Backyard%20Deck%20with%20Railings%20%26%20Lounge%20Space",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0f5633/7730480301/il_fullxfull.7730480301_hw5p.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring coastal charm to your backyard with the Santa Rosa 10x20 Circle Pool Deck Plan. Designed for round above-ground pools, this spacious deck blends safety, style, and functionality - transforming your pool into the centerpiece of outdoor living. With built-in railings, a 6-step staircase, and a wide 10x20 layout, the Santa Rosa deck is perfect for relaxing, dining, or entertaining by the water. Designed for round above-ground pools (24\u0027 diameter)\nLarge 10x20 elevated deck with room for lou...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/santa-rosa-10x20-circle-pool-deck-plan-elevated-backyard-deck-with-railings-and-lounge-space-diy-pdf-plans/open-specs.json"
+}

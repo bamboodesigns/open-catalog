@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-POOL-25X25-3DB374",
+    "slug":  "pacific-crest-30-round-pool-deck-plan-massive-25x25-wrap-deck-resort-style-backyard-build-diy-pdf-plans",
+    "name":  "Pacific Crest - 30\u0027 Round Pool Deck Plan | Massive 25x25 Wrap Deck | Resort-Style Backyard Build | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "25x25",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for Standard 30\u0027 Round Above-Ground Pools",
+                          "Scaled perfectly for edge access, comfort, and clean sightlines.",
+                          "25x25 Elevated Deck Zone",
+                          "Room for loungers, tables, storage benches, or an umbrella station.",
+                          "Smart Space Planning",
+                          "Keeps the deck tight to your pool without overtaking your yard footprint.",
+                          "Safe, Code-Friendly Staircase Entry",
+                          "Comfortable rise + run geometry with railings for added security."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "25x25 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "25x25",
+                 "25x25 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pacific%20Crest%20-%2030\u0027%20Round%20Pool%20Deck%20Plan%20%7C%20Massive%2025x25%20Wrap%20Deck%20%7C%20Resort-Style%20Backyard%20Build",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4556b6/7648129190/il_fullxfull.7648129190_sdvz.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Upgrade your pool into the ultimate summer hangout with Pacific Crest, a clean and modern 25x25 above-ground pool deck designed specifically for 30-foot round pools.\nWith a wrap-access entry, built-in safety railing, and lounge-ready floor space, Pacific Crest offers the perfect balance of compact footprint and everyday functionality. Whether you\u0027re sunbathing, supervising swimmers, or hosting weekend cookouts, this deck transforms your pool into a true backyard destination.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/pacific-crest-30-round-pool-deck-plan-massive-25x25-wrap-deck-resort-style-backyard-build-diy-pdf-plans/open-specs.json"
+}

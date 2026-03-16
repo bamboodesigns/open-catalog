@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-POOL-21X35-B57313",
+    "slug":  "pineapple-place-circle-pool-deck-plan-21x35-wrap-around-deck-with-stair-entry-diy-pdf-plans",
+    "name":  "Pineapple Place Circle Pool Deck Plan - 21x35 Wrap-Around Deck with Stair Entry | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "21x35",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "wrap-around",
+                 "round pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed for 27\u0027 Round Above-Ground Pools",
+                          "Precision opening layout ensures a smooth transition between the deck and pool (pool not included).",
+                          "Large 21\u0027 x 35\u0027 Deck Platform",
+                          "Plenty of space for lounge chairs, dining sets, umbrellas, and entertaining zones.",
+                          "Raised Deck for Easy Pool Entry",
+                          "Step directly from the deck into the pool for convenient and comfortable access.",
+                          "Full Safety Railing System",
+                          "Integrated guardrails provide safety while maintaining an open backyard feel."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "21x35 pool deck",
+                 "pool decks",
+                 "wrap-around",
+                 "round pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans",
+                 "21x35"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pineapple%20Place%20Circle%20Pool%20Deck%20Plan%20-%2021x35%20Wrap-Around%20Deck%20with%20Stair%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e2657f/7801375048/il_fullxfull.7801375048_gvbo.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Enjoy resort-style backyard living with the Pineapple Place Pool Deck Plan, a spacious 21\u0027 x 35\u0027 raised deck designed specifically for 27\u0027 round above-ground pools. Built with comfort, safety, and modern outdoor entertaining in mind, this layout transforms a standard pool setup into a welcoming outdoor retreat. The generous deck footprint offers plenty of room for loungers, dining tables, umbrellas, and relaxing seating areas, making it perfect for poolside gatherings or quiet afternoons in t...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/pineapple-place-circle-pool-deck-plan-21x35-wrap-around-deck-with-stair-entry-diy-pdf-plans/open-specs.json"
+}

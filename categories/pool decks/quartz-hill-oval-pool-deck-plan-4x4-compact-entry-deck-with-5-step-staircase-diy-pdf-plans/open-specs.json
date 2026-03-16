@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-4X4-E69D2C",
+    "slug":  "quartz-hill-oval-pool-deck-plan-4x4-compact-entry-deck-with-5-step-staircase-diy-pdf-plans",
+    "name":  "Quartz Hill Oval Pool Deck Plan - 4x4 Compact Entry Deck with 5-Step Staircase | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "4x4",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 4\u0027 x 4\u0027",
+                          "Pool Fit: Oval above-ground pool opening (pool not included)",
+                          "Access Points: One 5-step staircase",
+                          "Style: Southern-inspired, designed for safety and backyard convenience"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "4x4 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "4x4",
+                 "4x4 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Quartz%20Hill%20Oval%20Pool%20Deck%20Plan%20-%204x4%20Compact%20Entry%20Deck%20with%205-Step%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6ba00c/7703444187/il_fullxfull.7703444187_r03g.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Quartz Hill Oval Pool Deck Plan is the perfect compact solution for safe and stylish pool access. With a 4x4 elevated entry deck, built-in railings, and a sturdy 5-step staircase, this design provides a secure entry point without taking up too much yard space. Ideal for families who want convenience, safety, and affordability in a smaller footprint. Designed for oval above-ground pools (up to 21x41)\nCompact 4x4 elevated entry deck for space-saving pool access\nSafe 5-step staircase with ra...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/quartz-hill-oval-pool-deck-plan-4x4-compact-entry-deck-with-5-step-staircase-diy-pdf-plans/open-specs.json"
+}

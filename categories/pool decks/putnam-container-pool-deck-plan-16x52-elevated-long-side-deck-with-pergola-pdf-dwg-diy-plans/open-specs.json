@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-16X52-2E180E",
+    "slug":  "putnam-container-pool-deck-plan-16x52-elevated-long-side-deck-with-pergola-pdf-dwg-diy-plans",
+    "name":  "Putnam Container Pool Deck Plan - 16x52 Elevated Long-Side Deck with Pergola | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "16x52",
+    "area_sf":  832,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 16\u0027 x 52\u0027",
+                          "Height: ~4 ft elevation for flush pool access",
+                          "Railing Height: 36-42\" (per IRC/IBC guidelines)",
+                          "Style: Modern, spacious, built for entertaining",
+                          "Pergola Size: 12\u0027 x 16\u0027"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "container deck",
+                 "pool deck plan",
+                 "diy deck plans",
+                 "pergola deck",
+                 "backyard pool",
+                 "pool deck diy",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "pool pergola",
+                 "wood deck plan",
+                 "elevated deck",
+                 "shipping pool",
+                 "modern pergola",
+                 "pool decks",
+                 "pool deck",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x52",
+                 "16x52 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Putnam%20Container%20Pool%20Deck%20Plan%20-%2016x52%20Elevated%20Long-Side%20Deck%20with%20Pergola%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/df47d3/7744073603/il_fullxfull.7744073603_b8f5.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Take your backyard to the next level with this 16x52 elevated deck plan with pergola - designed to run along the long side of a 40ft shipping container pool. With its expansive footprint, full railing, and wide stair access, this design is perfect for large families, entertaining, and creating a true resort-style outdoor living space. 16x52 Elevated Deck Platform - Sized for 8x40 container pools (not included)\nLong-Side Layout - Expansive space for lounge chairs, umbrellas \u0026 gatherings\nStair...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/putnam-container-pool-deck-plan-16x52-elevated-long-side-deck-with-pergola-pdf-dwg-diy-plans/open-specs.json"
+}

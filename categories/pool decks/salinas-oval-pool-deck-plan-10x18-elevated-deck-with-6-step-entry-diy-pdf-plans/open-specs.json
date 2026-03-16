@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-POOL-10X18-8E22C4",
+    "slug":  "salinas-oval-pool-deck-plan-10x18-elevated-deck-with-6-step-entry-diy-pdf-plans",
+    "name":  "Salinas Oval Pool Deck Plan - 10x18 Elevated Deck with 6-Step Entry | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x18",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 18\u0027",
+                          "Pool Fit: 21x41 oval above-ground pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Coastal-inspired, crafted for California\u0027s year-round outdoor living lifestyle"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x18 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x18",
+                 "10x18 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Salinas%20Oval%20Pool%20Deck%20Plan%20-%2010x18%20Elevated%20Deck%20with%206-Step%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/514afe/7652355011/il_fullxfull.7652355011_st65.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Salinas Oval Pool Deck Plan is designed to make your backyard the ultimate poolside retreat. With a spacious 10x18 elevated deck, built-in railings, and a wide 6-step staircase, this layout blends safety, style, and functionality. Whether you\u0027re lounging, dining, or hosting family gatherings, this deck doubles as both a secure pool entry and an outdoor living space. Designed for 21x41 oval above-ground pools\nSpacious 10x18 elevated deck with lounge + dining potential\nBuilt-in 6-step stair...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/salinas-oval-pool-deck-plan-10x18-elevated-deck-with-6-step-entry-diy-pdf-plans/open-specs.json"
+}

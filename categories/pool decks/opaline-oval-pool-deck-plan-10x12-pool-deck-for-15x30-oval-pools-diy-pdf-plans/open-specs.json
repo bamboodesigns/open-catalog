@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-10X12-0E8593",
+    "slug":  "opaline-oval-pool-deck-plan-10x12-pool-deck-for-15x30-oval-pools-diy-pdf-plans",
+    "name":  "Opaline Oval Pool Deck Plan - 10x12 Pool Deck for 15x30 Oval Pools | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x12",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed specifically for 15x30 oval above-ground pools",
+                          "Efficient 10x12 deck footprint - ideal for compact spaces and smaller yards",
+                          "Optimized walking clearance for safe and comfortable pool entry",
+                          "Built-in railing layout for enhanced safety and clean aesthetics",
+                          "Simple, modern design - perfect for quick DIY builds \u0026 lower material costs",
+                          "Easy-to-follow DIY PDF plans with complete material cut list \u0026 step-by-step building guide",
+                          "Overall Deck Size: 10\u0027 x 12\u0027",
+                          "Pool Fit: 15\u0027 x 30\u0027 oval above-ground pools (pool not included)"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x12 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x12",
+                 "10x12 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Opaline%20Oval%20Pool%20Deck%20Plan%20-%2010x12%20Pool%20Deck%20for%2015x30%20Oval%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/4f91a0/7695773619/il_fullxfull.7695773619_jhs1.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Opaline Oval Pool Deck Plan transforms your 15x30 above-ground oval pool into a peaceful and functional backyard escape. Featuring a compact 10x12 platform layout, this design provides safe and convenient pool access while maintaining a clean, efficient footprint - perfect for small yards, streamlined builds, and budget-friendly projects. Opaline blends simplicity, safety, and modern outdoor style into one beautifully balanced pool deck solution. Key Features\nDesigned specifically for 15x...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/opaline-oval-pool-deck-plan-10x12-pool-deck-for-15x30-oval-pools-diy-pdf-plans/open-specs.json"
+}

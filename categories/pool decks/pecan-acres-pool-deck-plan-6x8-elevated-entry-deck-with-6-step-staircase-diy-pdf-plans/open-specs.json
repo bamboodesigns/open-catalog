@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-6X8-D41C5C",
+    "slug":  "pecan-acres-pool-deck-plan-6x8-elevated-entry-deck-with-6-step-staircase-diy-pdf-plans",
+    "name":  "Pecan Acres Pool Deck Plan - 6x8 Elevated Entry Deck with 6-Step Staircase | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "6x8",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 6\u0027 x 8\u0027",
+                          "Pool Fit: Round above-ground pool opening (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Simple yet modern inspired, combining safety with functional outdoor living"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  37,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "6x8 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "6x8",
+                 "6x8 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pecan%20Acres%20Pool%20Deck%20Plan%20-%206x8%20Elevated%20Entry%20Deck%20with%206-Step%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8275ba/7740164013/il_fullxfull.7740164013_rfed.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Pecan Acres Circle Pool Deck Plan is a compact yet stylish solution for adding safe and convenient access to your above-ground pool. With a 6x8 elevated entry deck, built-in railings, and a sturdy 6-step staircase, this design makes pool time easier and safer for the whole family. Its space-efficient footprint is perfect for smaller yards while still offering a lounge spot for relaxing poolside. Designed for round above-ground pools (up to 21\u0027 diameter)\nCompact 6x8 elevated entry deck for...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/pecan-acres-pool-deck-plan-6x8-elevated-entry-deck-with-6-step-staircase-diy-pdf-plans/open-specs.json"
+}

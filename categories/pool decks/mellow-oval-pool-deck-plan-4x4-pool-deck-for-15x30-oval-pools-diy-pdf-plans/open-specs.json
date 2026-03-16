@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-POOL-4X4-A81E3B",
+    "slug":  "mellow-oval-pool-deck-plan-4x4-pool-deck-for-15x30-oval-pools-diy-pdf-plans",
+    "name":  "Mellow Oval Pool Deck Plan - 4x4 Pool Deck for 15x30 Oval Pools | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "4x4",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Designed specifically for 15x30 oval above-ground pools",
+                          "Ultra-compact 4x4 deck footprint - ideal for extremely tight spaces",
+                          "Optimized standing and walking clearance for safe pool entry",
+                          "Built-in railing layout for enhanced safety and clean aesthetics",
+                          "Minimalist design - perfect for fast builds \u0026 lowest material cost",
+                          "Easy-to-follow DIY PDF plans with complete material cut list \u0026 step-by-step building guide",
+                          "Overall Deck Size: 4\u0027 x 4\u0027",
+                          "Pool Fit: 15\u0027 x 30\u0027 oval above-ground pools (pool not included)"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "4x4 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "oval pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "4x4",
+                 "4x4 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mellow%20Oval%20Pool%20Deck%20Plan%20-%204x4%20Pool%20Deck%20for%2015x30%20Oval%20Pools",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/5dcb9b/7647818206/il_fullxfull.7647818206_6zqc.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Mellow Oval Pool Deck Plan turns your 15x30 above-ground oval pool into a clean, ultra-compact, and functional backyard upgrade. Featuring a minimal 4x4 platform layout, this design delivers safe and simple pool access while maintaining the smallest possible footprint - perfect for tight spaces, budget-conscious builds, and quick DIY installations. Mellow blends simplicity, safety, and modern outdoor style into one perfectly efficient pool deck solution. Key Features\nDesigned specifically...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/mellow-oval-pool-deck-plan-4x4-pool-deck-for-15x30-oval-pools-diy-pdf-plans/open-specs.json"
+}

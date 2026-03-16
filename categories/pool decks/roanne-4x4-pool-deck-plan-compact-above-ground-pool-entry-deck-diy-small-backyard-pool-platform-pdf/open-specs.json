@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-POOL-4X4-333291",
+    "slug":  "roanne-4x4-pool-deck-plan-compact-above-ground-pool-entry-deck-diy-small-backyard-pool-platform-pdf",
+    "name":  "Roanne 4x4 Pool Deck Plan - Compact Above Ground Pool Entry Deck | DIY Small Backyard Pool Platform PDF",
+    "category":  "pool decks",
+    "dimensions_ft":  "4x4",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 4\u0027 x 4\u0027",
+                          "Pool Fit: Compatible with most standard rectangular 24x12 above-ground pools (not included)",
+                          "Access: One 5-step entry staircase",
+                          "Style: Simple, functional, and family-safe design",
+                          "Skill Level: Beginner to intermediate DIY builder",
+                          "Plan Includes:",
+                          "Complete framing diagrams and step layouts",
+                          "Handrail and support structure details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "4x4 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "4x4",
+                 "4x4 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Roanne%204x4%20Pool%20Deck%20Plan%20-%20Compact%20Above%20Ground%20Pool%20Entry%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0941f2/7751304583/il_fullxfull.7751304583_6xaq.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Upgrade your backyard pool setup with the Roanne 4x4 Pool Deck Plan, a smart, space-saving solution for creating a safe and stylish entry point to your above-ground pool. This compact design features a 4x4 elevated platform with secure railings and a 5-step staircase, giving swimmers easy access without sacrificing valuable yard space. Designed for above-ground rectangle pools\nCompact 4x4 footprint perfect for small yards or tight poolside areas\nSafe 5-step staircase with railing system for a...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/roanne-4x4-pool-deck-plan-compact-above-ground-pool-entry-deck-diy-small-backyard-pool-platform-pdf/open-specs.json"
+}

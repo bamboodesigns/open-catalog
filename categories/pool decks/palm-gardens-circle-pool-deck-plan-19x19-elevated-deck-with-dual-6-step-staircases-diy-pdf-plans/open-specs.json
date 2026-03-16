@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-19X19-41C0B6",
+    "slug":  "palm-gardens-circle-pool-deck-plan-19x19-elevated-deck-with-dual-6-step-staircases-diy-pdf-plans",
+    "name":  "Palm Gardens Circle Pool Deck Plan - 19x19 Elevated Deck with Dual 6-Step Staircases | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "19x19",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 19\u0027 x 19\u0027",
+                          "Pool Fit: Round above-ground pool opening (pool not included)",
+                          "Access Points: Two 6-step staircases",
+                          "Style: Southern-inspired, blending poolside safety with the feel of an outdoor room"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "19x19 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "19x19",
+                 "19x19 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Palm%20Gardens%20Circle%20Pool%20Deck%20Plan%20-%2019x19%20Elevated%20Deck%20with%20Dual%206-Step%20Staircases",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/50b84e/7740156297/il_fullxfull.7740156297_lhbf.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Palm Gardens Circle Pool Deck Plan makes your 21ft above-ground pool the highlight of your backyard. With a generous 19x19 elevated deck, dual 6-step staircases, and built-in railings, this design doubles as both a safe pool entry and a spacious outdoor lounge or dining area. Perfect for families who want their deck to shine as much as their pool, this layout blends functionality with southern-inspired outdoor living. Designed for round above-ground pools (up to 21\u0027 diameter)\nExpansive 19...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/palm-gardens-circle-pool-deck-plan-19x19-elevated-deck-with-dual-6-step-staircases-diy-pdf-plans/open-specs.json"
+}

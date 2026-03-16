@@ -1,0 +1,65 @@
+{
+    "plan_id":  "BD-POOL-4X12-C988ED",
+    "slug":  "miami-container-pool-deck-plan-4x12-compact-elevated-deck-with-railing-pdf-dwg-diy-plans",
+    "name":  "Miami Container Pool Deck Plan - 4x12 Compact Elevated Deck with Railing | PDF + DWG DIY Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "4x12",
+    "area_sf":  48,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 4\u0027 x 12\u0027",
+                          "Height: ~4 ft elevation for flush pool access",
+                          "Railing Height: 36-42\" (per IRC/IBC guidelines)",
+                          "Style: Simple + functional with clean lines"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "container deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "backyard deck",
+                 "small pool deck",
+                 "compact deck",
+                 "4x12 deck plan",
+                 "pool deck diy",
+                 "modern deck",
+                 "elevated deck",
+                 "shipping pool",
+                 "pool decks",
+                 "pool deck",
+                 "pdf plans",
+                 "dwg plans",
+                 "4x12",
+                 "4x12 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Miami%20Container%20Pool%20Deck%20Plan%20-%204x12%20Compact%20Elevated%20Deck%20with%20Railing%20%7C%20PDF%20%2B%20DWG%20DIY%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f20170/7696101628/il_fullxfull.7696101628_83g0.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create safe and stylish access to your shipping container pool with this 4x12 compact deck plan - designed for functionality, railing safety, and space efficiency. Perfect for smaller yards, rentals, or homeowners who want a budget-friendly deck option without sacrificing looks. 4x12 Elevated Deck Platform - Sized for 8x20 container pools (not included)\nStair + Railing Access - Meets residential safety standards\nCompact Footprint - Space-saving while providing poolside lounging\nDIY-Friendly -...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/miami-container-pool-deck-plan-4x12-compact-elevated-deck-with-railing-pdf-dwg-diy-plans/open-specs.json"
+}

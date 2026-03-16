@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-POOL-18X33-A639E1",
+    "slug":  "mesa-18x33-oval-pool-deck-plan-4x4-above-ground-pool-entry-deck-with-safety-railings-diy-pdf-plans",
+    "name":  "Mesa 18x33 Oval Pool Deck Plan - 4x4 Above-Ground Pool Entry Deck with Safety Railings | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "18x33",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool",
+                 "oval pool",
+                 "raised"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 4\u0027 x 4\u0027",
+                          "Pool Opening: Fits 18x33 oval pools",
+                          "Access Points: One 6-step staircase",
+                          "Style: Desert-modern, easy to maintain, built for hot climates"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  18,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "4x4 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "oval pool",
+                 "raised",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Mesa%2018x33%20Oval%20Pool%20Deck%20Plan%20-%204x4%20Above-Ground%20Pool%20Entry%20Deck%20with%20Safety%20Railings",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e19dca/7668257584/il_fullxfull.7668257584_iume.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Enjoy year-round poolside living with the Mesa 4x4 Deck Plan, designed for oval above-ground pools. Compact, safe, and stylish, this deck blends shade options, railing details, and modern backyard appeal-perfect for upgrading your 18x33 oval pool setup. Built for 18x33 oval pools\nRaised entry deck with 6-step stairs\nIncludes railing + stair details\nCompact footprint with family-friendly design",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/mesa-18x33-oval-pool-deck-plan-4x4-above-ground-pool-entry-deck-with-safety-railings-diy-pdf-plans/open-specs.json"
+}

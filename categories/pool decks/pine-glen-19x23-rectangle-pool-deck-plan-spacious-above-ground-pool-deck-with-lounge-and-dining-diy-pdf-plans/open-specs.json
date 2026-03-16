@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-19X23-D832A6",
+    "slug":  "pine-glen-19x23-rectangle-pool-deck-plan-spacious-above-ground-pool-deck-with-lounge-and-dining-diy-pdf-plans",
+    "name":  "Pine Glen 19x23 Rectangle Pool Deck Plan - Spacious Above-Ground Pool Deck with Lounge \u0026 Dining | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "19x23",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 19\u0027 x 23\u0027",
+                          "Pool Fit: Rectangle above-ground 31\u0027x16\u0027 pool (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Resort-inspired, blending poolside living with outdoor dining and lounge comfort"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "19x23 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "19x23",
+                 "19x23 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pine%20Glen%2019x23%20Rectangle%20Pool%20Deck%20Plan%20-%20Spacious%20Above-Ground%20Pool%20Deck%20with%20Lounge%20%26%20Dining",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/12cd44/7703233320/il_fullxfull.7703233320_5j38.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a resort-style retreat with the Pine Glen 19\u0027x23\u0027 Rectangle Pool Deck Plan. Designed for rectangular above-ground pools, this expansive deck offers plenty of room for outdoor dining, sunbathing, and family gatherings, while providing safe and stylish pool access. With built-in railings and a 6-step staircase, the Pine Glen plan ensures both functionality and safety for swimmers of all ages. Designed for rectangle above-ground pools (31\u0027x16\u0027)\nLarge 19\u0027x23\u0027 elevated...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/pine-glen-19x23-rectangle-pool-deck-plan-spacious-above-ground-pool-deck-with-lounge-and-dining-diy-pdf-plans/open-specs.json"
+}

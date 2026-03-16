@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-POOL-15X25-28B0B6",
+    "slug":  "marina-bay-sands-30-round-pool-deck-plan-15x25-elevated-deck-with-stair-entry-diy-pdf-blueprint",
+    "name":  "Marina Bay Sands - 30\u0027 Round Pool Deck Plan | 15x25 Elevated Deck with Stair Entry | DIY PDF Blueprint",
+    "category":  "pool decks",
+    "dimensions_ft":  "15x25",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Perfect Fit for 30\u0027 round above-ground pools",
+                          "Crafted specifically to surround and complement standard 30\u0027 pool footprints.",
+                          "15x25 Relaxation-Ready Deck Platform",
+                          "Room for loungers, a bistro set, storage boxes \u0026 towel stations.",
+                          "Safe + Stylish Stair Entrance",
+                          "Easy and secure pool access with railing protection.",
+                          "DIY-Friendly Construction",
+                          "Clear instructions, measurement diagrams, and intuitive framing sequences."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "15x25 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "15x25",
+                 "15x25 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Marina%20Bay%20Sands%20-%2030\u0027%20Round%20Pool%20Deck%20Plan%20%7C%2015x25%20Elevated%20Deck%20with%20Stair%20Entry",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/49501e/7696071253/il_fullxfull.7696071253_a283.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a destination with Marina Bay Sands, a 15x25 pool deck plan designed exclusively for 30-foot round above-ground pools. With a broad lounging platform, wrap-style access, and a safe, wide staircase, this deck turns your pool into a true outdoor living hub - morning to midnight. Whether you\u0027re sunning between swims, supervising kids at play, or hosting summer get-togethers, Marina Bay Sands delivers the perfect balance of beauty, comfort, and practical design.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/marina-bay-sands-30-round-pool-deck-plan-15x25-elevated-deck-with-stair-entry-diy-pdf-blueprint/open-specs.json"
+}

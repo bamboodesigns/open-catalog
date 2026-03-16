@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-POOL-NA-4949A9",
+    "slug":  "paradise-cove-semi-circle-pool-deck-plan-a-resort-style-5-wide-above-ground-pool-deck",
+    "name":  "Paradise Cove Semi-Circle Pool Deck Plan - A Resort-Style 5\u0027 Wide Above-Ground Pool Deck",
+    "category":  "pool decks",
+    "dimensions_ft":  null,
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Semi-Circle Pool Deck Design",
+                          "Elegant curved layout enhances visual appeal while maximizing usable deck space around your pool.",
+                          "5\u0027 Wide Decking for Comfort \u0026 Safety",
+                          "Spacious 5-foot deck width provides plenty of room for chairs, loungers, planters, and foot traffic.",
+                          "Designed for Round Above-Ground Pools",
+                          "Compatible with most standard round above-ground pools (pool not included).",
+                          "DIY-Friendly Construction Plans",
+                          "Clear, easy-to-follow PDF plans make this project achievable for confident DIYers and builders."
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  46,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "above ground deck",
+                 "pool deck plan",
+                 "diy pool deck",
+                 "backyard deck",
+                 "pool deck pdf",
+                 "pool deck dwg",
+                 "round pool deck",
+                 "family pool deck",
+                 "poolside deck",
+                 "elevated deck",
+                 "summer backyard",
+                 "patio deck plan",
+                 "5\u0027 pool deck",
+                 "pool decks",
+                 "pool deck",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "diy plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Paradise%20Cove%20Semi-Circle%20Pool%20Deck%20Plan%20-%20A%20Resort-Style%205\u0027%20Wide%20Above-Ground%20Pool%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/3f44e6/7680048430/il_fullxfull.7680048430_oezj.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Paradise Cove Pool Deck Plan transforms your above-ground pool into a relaxed, resort-inspired backyard retreat. Designed with a 5-foot-wide semi-circle deck, this layout creates an inviting lounging and entertaining space while maintaining safe, convenient access to the pool. With its curved geometry, integrated railings, and generous deck surface, Paradise Cove delivers both visual elegance and everyday functionality. Perfect for homeowners seeking a Florida-inspired poolside escape, th...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/paradise-cove-semi-circle-pool-deck-plan-a-resort-style-5-wide-above-ground-pool-deck/open-specs.json"
+}

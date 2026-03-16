@@ -1,0 +1,66 @@
+{
+    "plan_id":  "BD-POOL-10X18-462A85",
+    "slug":  "marble-falls-circle-pool-deck-plan-10x18-elevated-deck-with-6-step-staircase-diy-pdf-plans",
+    "name":  "Marble Falls Circle Pool Deck Plan - 10x18 Elevated Deck with 6-Step Staircase | DIY PDF Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "10x18",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 18\u0027",
+                          "Pool Fit: Round above-ground pool opening (pool not included)",
+                          "Access Points: One 6-step staircase",
+                          "Style: Southern-inspired, blending safety with outdoor living and entertainment"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "10x18 pool deck",
+                 "pool decks",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "10x18",
+                 "10x18 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Marble%20Falls%20Circle%20Pool%20Deck%20Plan%20-%2010x18%20Elevated%20Deck%20with%206-Step%20Staircase",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/76f2bc/7692188188/il_fullxfull.7692188188_tka4.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "The Marble Falls Circle Pool Deck Plan transforms your 21ft above-ground pool into a stylish backyard retreat. With a spacious 10x18 deck, built-in railings, and a safe 6-step staircase, this design doubles as both a pool entry and an elevated lounge or dining space. Perfect for families who want a deck that\u0027s as inviting as their pool. Designed for round above-ground pools (up to 21\u0027 diameter)\nLarge 10x18 elevated deck with space for dining + seating\nSafe 6-step staircase with railing detail...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/marble-falls-circle-pool-deck-plan-10x18-elevated-deck-with-6-step-staircase-diy-pdf-plans/open-specs.json"
+}

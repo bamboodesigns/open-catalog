@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-POOL-20X32-381840",
+    "slug":  "pinellas-20x32-circle-pool-deck-plan-diy-above-ground-pool-deck-with-pergola-outdoor-lounge-and-entertainment-space-pdf-building-plans",
+    "name":  "Pinellas 20x32 Circle Pool Deck Plan - DIY Above-Ground Pool Deck with Pergola | Outdoor Lounge \u0026 Entertainment Space | PDF Building Plans",
+    "category":  "pool decks",
+    "dimensions_ft":  "20x32",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "pool deck",
+                 "freestanding",
+                 "wrap-around",
+                 "round pool"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 20\u0027 x 32\u0027",
+                          "Pool Fit: 24\u0027 round above-ground pool (pool not included)",
+                          "Access Points: Two 6-step staircases",
+                          "Roof Style: Open-top pergola for partial shade",
+                          "Design Type: Freestanding circular pool deck with attached pergola",
+                          "Included: Complete printable PDF plans with step-by-step instructions",
+                          "Plan Includes:",
+                          "Detailed framing and post layout diagrams"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "pool deck plan",
+                 "pool cutout deck",
+                 "round pool deck",
+                 "modern deck plan",
+                 "diy pool deck",
+                 "outdoor living plan",
+                 "above ground deck",
+                 "backyard oasis deck",
+                 "outdoor living ideas",
+                 "above ground pool",
+                 "deck wood plan",
+                 "pool deck",
+                 "20x32 pool deck",
+                 "pool decks",
+                 "freestanding",
+                 "wrap-around",
+                 "round pool",
+                 "pdf plans",
+                 "dwg plans",
+                 "20x32"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Pinellas%2020x32%20Circle%20Pool%20Deck%20Plan%20-%20DIY%20Above-Ground%20Pool%20Deck%20with%20Pergola%20%7C%20Outdoor%20Lounge%20%26%20Entertainment%20Space%20%7C%20PDF%20Building%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/d24490/7682530534/il_fullxfull.7682530534_3unl.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Make your pool the heart of your backyard with the Pinellas 20x32 Circle Pool Deck Plan - a luxurious wrap-around deck design that combines comfort, style, and functionality. Featuring a full pergola, built-in safety railings, and dual stair access, this design transforms your above-ground pool into a resort-style outdoor destination for family fun and relaxation. Designed for 24\u0027 round above-ground pools\nExpansive 20x32 layout - ideal for lounging, dining, or sunbathing\nBuilt-in pergola - pr...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/pool decks/pinellas-20x32-circle-pool-deck-plan-diy-above-ground-pool-deck-with-pergola-outdoor-lounge-and-entertainment-space-pdf-building-plans/open-specs.json"
+}
