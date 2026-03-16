@@ -1,0 +1,60 @@
+{
+    "plan_id":  "BD-DECK-6X24-A2C8B8",
+    "slug":  "6x24-narrow-dock-platform-plans-diy-canoe-and-swim-dock-table-rock-lake-design",
+    "name":  "6x24 Narrow Dock Platform Plans | DIY Canoe \u0026 Swim Dock - Table Rock Lake Design",
+    "category":  "decks",
+    "dimensions_ft":  "6x24",
+    "area_sf":  144,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 6x24"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  52,
+    "currency":  "USD",
+    "files":  [
+                  "PDF"
+              ],
+    "tags":  [
+                 "dock plans pdf",
+                 "boat dock blueprint",
+                 "kayak dock plans",
+                 "diy waterfront dock",
+                 "lake house dock plan",
+                 "dock building plans",
+                 "florida dock plans",
+                 "pier dock design",
+                 "texas dock permit",
+                 "wood piling dock",
+                 "diy boat dock",
+                 "6x24 dock",
+                 "6x24 lake dock",
+                 "decks",
+                 "deck",
+                 "pdf plans",
+                 "6x24",
+                 "6x24 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=6x24%20Narrow%20Dock%20Platform%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/96ba1f/7081181340/il_fullxfull.7081181340_k1s2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "This 6x24 foot dock is perfect for paddlers, swimmers, or compact boat access. The extended length makes it ideal for deeper water or sloped lakefronts - with enough room to lounge, fish, or park. 24 ft length - generous room for loading/unloading\n6 ft width - perfect for single-sided tie-up or center access\nWood piling foundation - durable and code-aligned\nIdeal for Lakefront properties",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/6x24-narrow-dock-platform-plans-diy-canoe-and-swim-dock-table-rock-lake-design/open-specs.json"
+}

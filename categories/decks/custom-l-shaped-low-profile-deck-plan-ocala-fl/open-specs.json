@@ -1,0 +1,52 @@
+{
+    "plan_id":  "BD-DECK-NA-7C2D6A",
+    "slug":  "custom-l-shaped-low-profile-deck-plan-ocala-fl",
+    "name":  "Custom L-Shaped Low Profile Deck Plan (Ocala FL)",
+    "category":  "decks",
+    "dimensions_ft":  null,
+    "area_sf":  702,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Intermediate",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck framing layout",
+                          "Pier / footing layout diagram",
+                          "Beam and joist spacing plan",
+                          "Step framing concept"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  99,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "pdf plans",
+                 "dwg plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Custom%20L-Shaped%20Low%20Profile%20Deck%20Plan%20(Ocala%20FL)",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/25e40d/7857126633/il_fullxfull.7857126633_mie8.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create your own backyard platform with a Custom L-Shaped Low Profile Deck Plan, designed around your provided dimensions and layout. Inspired by our Tupelo deck system, this version adapts the framing and layout to your 702 sq ft L-shaped footprint with integrated step location. This custom plan will include a freestanding pier-supported deck design using 4x4 or 6x6 posts with sonotube footings and conventional wood framing.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/custom-l-shaped-low-profile-deck-plan-ocala-fl/open-specs.json"
+}

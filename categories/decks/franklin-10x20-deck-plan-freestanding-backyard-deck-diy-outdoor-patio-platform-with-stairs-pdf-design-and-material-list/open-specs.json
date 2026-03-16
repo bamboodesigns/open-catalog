@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-DECK-10X20-950EA0",
+    "slug":  "franklin-10x20-deck-plan-freestanding-backyard-deck-diy-outdoor-patio-platform-with-stairs-pdf-design-and-material-list",
+    "name":  "Franklin 10x20 Deck Plan - Freestanding Backyard Deck | DIY Outdoor Patio Platform with Stairs | PDF Design \u0026 Material List",
+    "category":  "decks",
+    "dimensions_ft":  "10x20",
+    "area_sf":  200,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 10\u0027 x 20\u0027",
+                          "Design Type: Freestanding outdoor deck",
+                          "Access: One wide staircase with railing",
+                          "Use: Outdoor dining, backyard lounge, or patio extension",
+                          "Included: Step-by-step printable PDF with framing plans, cut list, and materials guide",
+                          "Plan Includes:",
+                          "Full structural framing layout",
+                          "Stair and railing construction details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "10x16 deck plan",
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "160 sf deck plan",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "10x16 deck addition",
+                 "10x16 rear deck",
+                 "10x20 deck patio",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Franklin%2010x20%20Deck%20Plan%20-%20Freestanding%20Backyard%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/44e409/7319257079/il_fullxfull.7319257079_ooyo.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Elevate your backyard with the Franklin 10x20 Freestanding Deck Plan, a modern, open-concept platform perfect for dining, lounging, or outdoor entertaining. This versatile design provides a clean, elevated space that complements any home style - ideal for adding functionality and beauty to your outdoor living area. Spacious 10x20 layout - perfect for patio furniture, loungers, or outdoor dining sets\nFreestanding design - install anywhere without attaching to your home\nSafe and sturdy railing...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/franklin-10x20-deck-plan-freestanding-backyard-deck-diy-outdoor-patio-platform-with-stairs-pdf-design-and-material-list/open-specs.json"
+}

@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-DECK-14X32-AF6B93",
+    "slug":  "naples-14x32-wrap-around-deck-plan-diy-outdoor-deck-blueprint-backyard-patio-and-porch-design-pdf-dwg",
+    "name":  "Naples 14x32 Wrap Around Deck Plan | DIY Outdoor Deck Blueprint | Backyard Patio \u0026 Porch Design | PDF + DWG",
+    "category":  "decks",
+    "dimensions_ft":  "14x32",
+    "area_sf":  null,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "wrap-around",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 14\u0027 x 32\u0027",
+                          "Height: ~4 ft elevation for flush pool access",
+                          "Railing Height: 36-42\" (per IRC/IBC guidelines)",
+                          "Style: Spacious + modern open deck",
+                          "Capacity: Room for 4-6 loungers + seating"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  43,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "container pool",
+                 "deck design",
+                 "backyard deck",
+                 "pool deck",
+                 "deck plans",
+                 "diy pools",
+                 "modern backyard",
+                 "shipping container",
+                 "deck ideas",
+                 "poolside vibes",
+                 "diy deck",
+                 "14x32 deck",
+                 "container pool deck",
+                 "decks",
+                 "deck",
+                 "wrap-around",
+                 "porch",
+                 "pdf plans",
+                 "dwg plans",
+                 "14x32"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Naples%2014x32%20Wrap%20Around%20Deck%20Plan",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e86693/7744064633/il_fullxfull.7744064633_6a4a.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your outdoor space with this 14x32 Wrap-Around Deck Plan - a stunning design that adds function, style, and value to any home. With its flowing layout that wraps around two sides, this deck is perfect for entertaining, relaxing, or blending indoor and outdoor living. Our DIY deck plan is designed with homeowners and builders in mind - clear instructions, professional layout, and a timeless design you can build with confidence.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/naples-14x32-wrap-around-deck-plan-diy-outdoor-deck-blueprint-backyard-patio-and-porch-design-pdf-dwg/open-specs.json"
+}

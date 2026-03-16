@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-DECK-12X20-E5E1B8",
+    "slug":  "tupelo-12x20-deck-plan-freestanding-backyard-deck-diy-patio-platform-with-railings-and-steps-outdoor-living-pdf",
+    "name":  "Tupelo 12x20 Deck Plan - Freestanding Backyard Deck | DIY Patio Platform with Railings \u0026 Steps | Outdoor Living PDF",
+    "category":  "decks",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 12\u0027 x 20\u0027",
+                          "Design Type: Freestanding elevated deck",
+                          "Access: One 5-step staircase with handrails",
+                          "Use: Outdoor dining area, lounge space, or patio extension",
+                          "Included: Easy-to-follow PDF plan with full framing diagrams, cut list, and materials list",
+                          "Plan Includes:",
+                          "Framing and support layout diagrams",
+                          "Railing and staircase details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "10x16 deck plan",
+                 "diy mobile home deck",
+                 "porch with railing",
+                 "back entry deck",
+                 "modular home deck",
+                 "small cabin porch",
+                 "160 sf deck plan",
+                 "diy patio deck",
+                 "outdoor entry deck",
+                 "freestanding deck",
+                 "10x16 deck addition",
+                 "10x16 rear deck",
+                 "12x20 deck patio",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "rv storage",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Tupelo%2012x20%20Deck%20Plan%20-%20Freestanding%20Backyard%20Deck",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/6ae387/7271418186/il_fullxfull.7271418186_6dl9.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create the perfect backyard retreat with the Tupelo 12x20 Freestanding Deck Plan, a spacious and versatile platform designed for outdoor dining, lounging, or entertaining. With its clean lines, durable layout, and open-air design, this freestanding deck adds instant style and function to any home exterior. Spacious 12x20 layout - ideal for dining tables, seating sets, or grills\nFreestanding design - install anywhere without needing house attachment\nWide staircase and railing system for safe,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/tupelo-12x20-deck-plan-freestanding-backyard-deck-diy-patio-platform-with-railings-and-steps-outdoor-living-pdf/open-specs.json"
+}

@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-DECK-20X24-6F0622",
+    "slug":  "redwoods-entry-deck-20x24-freestanding-porch-plan-diy-mobile-modular-and-cabin-deck",
+    "name":  "Redwoods Entry Deck - 20x24 Freestanding Porch Plan | DIY Mobile, Modular \u0026 Cabin Deck",
+    "category":  "decks",
+    "dimensions_ft":  "20x24",
+    "area_sf":  480,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "freestanding",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Top View Layout",
+                          "Elevation Drawings",
+                          "Stair \u0026 Guardrail Details",
+                          "Foundation Footing Layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  33,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "mobile home deck",
+                 "porch deck pdf",
+                 "entry deck plan",
+                 "diy deck project",
+                 "tiny home porch",
+                 "freestanding deck",
+                 "deck with railing",
+                 "modular deck plan",
+                 "prefab porch plan",
+                 "patio deck pdf",
+                 "20x24 deck",
+                 "20x24 patio",
+                 "20x24 floating deck",
+                 "decks",
+                 "deck",
+                 "freestanding",
+                 "porch",
+                 "pdf plans",
+                 "dwg plans",
+                 "20x24"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Redwoods%20Entry%20Deck%20-%2020x24%20Freestanding%20Porch%20Plan",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e8398a/7152480416/il_fullxfull.7152480416_af3g.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Expand your outdoor lifestyle with the Redwoods Entry Deck - 20x24 Entry Deck Plan. Perfectly sized for modular homes, manufactured homes, and cabins, this freestanding deck creates a versatile entry porch or backyard entertainment hub. 20x24 Deck Size - Mid-to-large footprint for flexible layouts\nFreestanding Build - No tie-in to the home required\nIncludes Stairs \u0026 Guardrails - Safe, code-compliant access\nEngineered for DIYers + Contractors - Traditional framing with clear details\nPermit-Rea...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/redwoods-entry-deck-20x24-freestanding-porch-plan-diy-mobile-modular-and-cabin-deck/open-specs.json"
+}

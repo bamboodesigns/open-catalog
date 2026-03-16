@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-DECK-12X20-A46B63",
+    "slug":  "laurel-12x20-attached-deck-plan-covered-porch-design-diy-patio-deck-with-roof-and-railings-outdoor-living-pdf",
+    "name":  "Laurel 12x20 Attached Deck Plan - Covered Porch Design | DIY Patio Deck with Roof \u0026 Railings | Outdoor Living PDF",
+    "category":  "decks",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "deck",
+                 "attached",
+                 "monoslope roof",
+                 "porch"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Deck Size: 12\u0027 x 20\u0027",
+                          "Design Type: Attached covered deck / porch",
+                          "Access: One wide staircase with railings",
+                          "Roof Style: Sloped roof for water runoff",
+                          "Use: Outdoor dining, lounge, or entertainment space",
+                          "Included: Printable PDF plans with framing, post, and roof diagrams",
+                          "Plan Includes:",
+                          "Step-by-step building diagrams"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  59,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "porch pergola plan",
+                 "lean to pergola",
+                 "mobile home deck",
+                 "waco porch design",
+                 "diy deck with roof",
+                 "freestanding deck",
+                 "backyard porch pdf",
+                 "tiny home pergola",
+                 "outdoor entry deck",
+                 "diy deck pdf",
+                 "small patio plan",
+                 "front porch kit",
+                 "12x20 porch",
+                 "decks",
+                 "deck",
+                 "attached",
+                 "monoslope roof",
+                 "porch",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Laurel%2012x20%20Attached%20Deck%20Plan%20-%20Covered%20Porch%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/e49cdb/7271596852/il_fullxfull.7271596852_jkbn.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Enhance your home\u0027s outdoor charm with the Laurel 12x20 Attached Deck Plan, a covered porch design that blends comfort, style, and function. Perfectly suited for entertaining, relaxing, or dining, this deck adds a timeless architectural touch to any home while providing shelter from the elements. Spacious 12x20 layout - great for outdoor furniture, dining sets, or lounge seating\nAttached design - seamlessly connects to your home for a polished extension\nCovered roof - stay cool and dry in any...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/decks/laurel-12x20-attached-deck-plan-covered-porch-design-diy-patio-deck-with-roof-and-railings-outdoor-living-pdf/open-specs.json"
+}
