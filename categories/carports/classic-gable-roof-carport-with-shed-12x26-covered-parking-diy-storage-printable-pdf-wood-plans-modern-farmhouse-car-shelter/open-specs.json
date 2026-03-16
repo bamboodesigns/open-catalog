@@ -1,0 +1,65 @@
+{
+    "plan_id":  "BD-CARP-12X26-A9B080",
+    "slug":  "classic-gable-roof-carport-with-shed-12x26-covered-parking-diy-storage-printable-pdf-wood-plans-modern-farmhouse-car-shelter",
+    "name":  "Classic Gable Roof Carport with Shed 12x26 - Covered Parking + DIY Storage - Printable PDF Wood Plans - Modern Farmhouse Car Shelter",
+    "category":  "carports",
+    "dimensions_ft":  "12x26",
+    "area_sf":  312,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "gable roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 12x26",
+                          "Carport",
+                          "Gable roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "wood carport plan",
+                 "modern car shelter",
+                 "gable roof carport",
+                 "diy carport plans",
+                 "12x20 carport",
+                 "12x20 open carport",
+                 "12x20 cover",
+                 "new carport",
+                 "carport new",
+                 "gable carport",
+                 "carport with storage",
+                 "carport storage",
+                 "shed with parking",
+                 "carports",
+                 "carport",
+                 "gable roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x26",
+                 "12x26 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Classic%20Gable%20Roof%20Carport%20with%20Shed%2012x26%20-%20Covered%20Parking%20%2B%20DIY%20Storage%20-%20Printable%20PDF%20Wood%20Plans%20-%20Modern%20Farmhouse%20Car%20Shelter",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/0bab5a/7120098401/il_fullxfull.7120098401_o8ge.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "This clean and functional gable carport brings farmhouse style to your property while doubling as storage. The 12x6 shed seamlessly tucks into the design, making it perfect for tools, bikes, or lawn gear.\nPair it with your gravel or concrete driveway and customize your cladding. Built for form and function. What You Get:\nPrintable PDF Blueprints (US Letter + ARCH D Sizes) + DWG\nRoof framing \u0026 gable section details\nPost + footing layout (standard)\nCut list and basic material suggestions\nBonus...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/classic-gable-roof-carport-with-shed-12x26-covered-parking-diy-storage-printable-pdf-wood-plans-modern-farmhouse-car-shelter/open-specs.json"
+}

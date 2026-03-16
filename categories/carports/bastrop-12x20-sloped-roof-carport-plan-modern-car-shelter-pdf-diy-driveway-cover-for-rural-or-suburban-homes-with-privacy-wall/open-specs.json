@@ -1,0 +1,69 @@
+{
+    "plan_id":  "BD-CARP-12X20-24068A",
+    "slug":  "bastrop-12x20-sloped-roof-carport-plan-modern-car-shelter-pdf-diy-driveway-cover-for-rural-or-suburban-homes-with-privacy-wall",
+    "name":  "Bastrop 12x20 Sloped Roof Carport Plan - Modern Car Shelter PDF - DIY Driveway Cover for Rural or Suburban Homes with Privacy Wall",
+    "category":  "carports",
+    "dimensions_ft":  "12x20",
+    "area_sf":  240,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 12x20",
+                          "Carport",
+                          "Lean-to",
+                          "Freestanding",
+                          "Monoslope roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "open garage",
+                 "garage",
+                 "wood carport plan",
+                 "modern car shelter",
+                 "diy carport plans",
+                 "12x20 carport",
+                 "12x20 garage",
+                 "12x20 open carport",
+                 "12x20 cover",
+                 "slope roof carport",
+                 "new car roof",
+                 "new car cover",
+                 "car cover",
+                 "carports",
+                 "carport",
+                 "lean-to",
+                 "freestanding",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Bastrop%2012x20%20Sloped%20Roof%20Carport%20Plan%20-%20Modern%20Car%20Shelter%20PDF%20-%20DIY%20Driveway%20Cover%20for%20Rural%20or%20Suburban%20Homes%20with%20Privacy%20Wall",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/8ed819/7044691344/il_fullxfull.7044691344_c2ua.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "DIY Carport Plans - Modern Lean-To Car Shelter - Perfect for Backyards with with Privacy Slat Wall\nGive your vehicles the stylish protection they deserve with this modern 12x20 carport plan by Bamboo Designs. Featuring a sleek sloped roof and clean architectural lines, this freestanding structure adds functionality and curb appeal to any property. Whether you\u0027re shielding your cars from Arizona sun or prepping for city permits, this downloadable PDF includes easy-to-follow instructions, detai...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/bastrop-12x20-sloped-roof-carport-plan-modern-car-shelter-pdf-diy-driveway-cover-for-rural-or-suburban-homes-with-privacy-wall/open-specs.json"
+}

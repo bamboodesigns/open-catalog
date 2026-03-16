@@ -1,0 +1,64 @@
+{
+    "plan_id":  "BD-CARP-30X60-6AD9FC",
+    "slug":  "30x60-commercial-carport-plans-modern-flat-roof-pdf-covered-parking-structure-for-businesses-churches-schools-or-apartments-metal",
+    "name":  "30x60 Commercial Carport Plans - Modern Flat Roof PDF - Covered Parking Structure for Businesses, Churches, Schools, or Apartments - Metal",
+    "category":  "carports",
+    "dimensions_ft":  "30x60",
+    "area_sf":  1800,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "flat roof"
+             ],
+    "material_type":  [
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 30x60",
+                          "Carport",
+                          "Flat roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  171,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "open garage",
+                 "garage",
+                 "modern car shelter",
+                 "diy carport plans",
+                 "slope roof carport",
+                 "metal carport",
+                 "20x30 carport",
+                 "30x20 metal carport",
+                 "30x20 garage",
+                 "30x20 carport",
+                 "30x20 metal building",
+                 "carports",
+                 "carport",
+                 "flat roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "30x60",
+                 "30x60 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=30x60%20Commercial%20Carport%20Plans%20-%20Modern%20Flat%20Roof%20PDF%20-%20Covered%20Parking%20Structure%20for%20Businesses%2C%20Churches%2C%20Schools%2C%20or%20Apartments%20-%20Metal",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/b59d73/7049834380/il_fullxfull.7049834380_hc1i.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Shade Meets Functionality - Build Your Own 30x60 Covered Parking with Confidence\nThis downloadable architectural plan set features a 30 ft x 60 ft commercial-grade carport, designed for 8-10 vehicles. Perfect for businesses, apartment complexes, churches, schools, or public spaces looking to add a modern, durable covered parking area without the high cost of hiring an architect from scratch. What You Get (Digital Files):\nPrintable PDF plan set (ready to submit for engineering/stamping if need...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/30x60-commercial-carport-plans-modern-flat-roof-pdf-covered-parking-structure-for-businesses-churches-schools-or-apartments-metal/open-specs.json"
+}

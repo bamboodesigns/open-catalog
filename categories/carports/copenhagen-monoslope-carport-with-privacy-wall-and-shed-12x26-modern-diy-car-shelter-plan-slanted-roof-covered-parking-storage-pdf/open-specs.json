@@ -1,0 +1,67 @@
+{
+    "plan_id":  "BD-CARP-12X26-2C3ECF",
+    "slug":  "copenhagen-monoslope-carport-with-privacy-wall-and-shed-12x26-modern-diy-car-shelter-plan-slanted-roof-covered-parking-storage-pdf",
+    "name":  "Copenhagen Monoslope Carport with Privacy Wall \u0026 Shed 12x26 - Modern DIY Car Shelter Plan - Slanted Roof Covered Parking + Storage PDF",
+    "category":  "carports",
+    "dimensions_ft":  "12x26",
+    "area_sf":  312,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "carport",
+                 "lean-to",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "wood framing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  null,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Footprint: 12x26",
+                          "Carport",
+                          "Lean-to",
+                          "Monoslope roof"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "wood carport plan",
+                 "modern car shelter",
+                 "diy carport plans",
+                 "12x20 carport",
+                 "12x20 open carport",
+                 "12x20 cover",
+                 "new carport",
+                 "carport new",
+                 "carport with storage",
+                 "carport storage",
+                 "shed with parking",
+                 "slope roof carport",
+                 "diy carport",
+                 "carports",
+                 "carport",
+                 "lean-to",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "12x26"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Copenhagen%20Monoslope%20Carport%20with%20Privacy%20Wall%20%26%20Shed%2012x26%20-%20Modern%20DIY%20Car%20Shelter%20Plan%20-%20Slanted%20Roof%20Covered%20Parking%20%2B%20Storage%20PDF",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/d7dbd4/7120089475/il_fullxfull.7120089475_pqag.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Add sleek curb appeal and all-season coverage with this modern lean-to carport and enclosed shed. The bold profile and privacy wall create a sculptural look that\u0027s both stylish and secure. Built for simplicity + style\nWood frame design for any climate\nInstant digital download with full drawing set\nIncludes shed framing, carport layout, elevations, and roof plan\nPrivacy wall adds wind protection and visual separation. Popular in Austin, Boise, and Scottsdale installs.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/carports/copenhagen-monoslope-carport-with-privacy-wall-and-shed-12x26-modern-diy-car-shelter-plan-slanted-roof-covered-parking-storage-pdf/open-specs.json"
+}
