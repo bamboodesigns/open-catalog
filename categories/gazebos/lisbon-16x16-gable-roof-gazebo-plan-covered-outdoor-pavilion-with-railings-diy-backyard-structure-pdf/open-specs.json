@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-16X16-5778E8",
+    "slug":  "lisbon-16x16-gable-roof-gazebo-plan-covered-outdoor-pavilion-with-railings-diy-backyard-structure-pdf",
+    "name":  "Lisbon 16x16 Gable Roof Gazebo Plan - Covered Outdoor Pavilion with Railings | DIY Backyard Structure PDF",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x16",
+    "area_sf":  256,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "gable roof"
+             ],
+    "material_type":  [
+                          "southern pine",
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Structure Size: 16\u0027 x 16\u0027",
+                          "Roof Style: Gable design with overhangs",
+                          "Height: Standard walk-through clearance for outdoor furniture and grills",
+                          "Style: Coastal-modern with craftsman detailing",
+                          "Skill Level: Intermediate DIY-friendly",
+                          "Plan Includes:",
+                          "Detailed framing and post layout",
+                          "Roof construction and pitch diagrams"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "16x16 gazebo",
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "gazebos",
+                 "gable roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x16",
+                 "16x16 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lisbon%2016x16%20Gable%20Roof%20Gazebo%20Plan%20-%20Covered%20Outdoor%20Pavilion%20with%20Railings",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c67d96/7262038482/il_fullxfull.7262038482_clw9.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring timeless elegance and all-season comfort to your backyard with the Lisbon 16x16 Gazebo Plan. Designed with a modern gabled roof and open-air layout, this spacious pavilion is perfect for outdoor dining, grilling, or poolside lounging. The sturdy post-and-beam construction paired with decorative support brackets and railings adds both beauty and strength - a true centerpiece for your landscape. Spacious 16x16 design for dining, grilling, or outdoor entertaining\nGabled metal roof provides...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/lisbon-16x16-gable-roof-gazebo-plan-covered-outdoor-pavilion-with-railings-diy-backyard-structure-pdf/open-specs.json"
+}

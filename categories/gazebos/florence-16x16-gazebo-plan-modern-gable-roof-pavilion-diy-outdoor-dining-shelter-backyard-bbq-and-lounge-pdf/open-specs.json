@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-GAZE-16X16-1F3F0B",
+    "slug":  "florence-16x16-gazebo-plan-modern-gable-roof-pavilion-diy-outdoor-dining-shelter-backyard-bbq-and-lounge-pdf",
+    "name":  "Florence 16x16 Gazebo Plan - Modern Gable Roof Pavilion | DIY Outdoor Dining Shelter | Backyard BBQ \u0026 Lounge PDF",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x16",
+    "area_sf":  256,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "gable roof"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Gazebo Size: 16\u0027 x 16\u0027",
+                          "Roof Style: Gable (sloped peak for ventilation and style)",
+                          "Use: Perfect for outdoor dining, kitchen, or covered seating area",
+                          "Skill Level: Intermediate DIY builder",
+                          "Included: Detailed PDF with framing, roofing, and post layout instructions",
+                          "Plan Includes:",
+                          "Full structural framing diagrams",
+                          "Roof pitch, beam, and rafter details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x16 gazebo",
+                 "gazebos",
+                 "gable roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x16",
+                 "16x16 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Florence%2016x16%20Gazebo%20Plan%20-%20Modern%20Gable%20Roof%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/643b18/7267484376/il_fullxfull.7267484376_9w0m.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring luxury and function together with the Florence 16x16 Gazebo Plan, a beautifully designed gable-style pavilion perfect for outdoor entertaining, dining, and relaxation. With its spacious layout, exposed beam detailing, and elevated roofline, this structure offers the ideal blend of open-air comfort and architectural sophistication. Designed for backyard, patio, or poolside use\nSpacious 16x16 layout - ideal for outdoor dining tables, lounge seating, or kitchen setups\nGable roof design for...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/florence-16x16-gazebo-plan-modern-gable-roof-pavilion-diy-outdoor-dining-shelter-backyard-bbq-and-lounge-pdf/open-specs.json"
+}

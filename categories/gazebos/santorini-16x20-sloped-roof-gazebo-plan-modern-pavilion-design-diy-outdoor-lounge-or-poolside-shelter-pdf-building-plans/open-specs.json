@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-16X20-1A58C5",
+    "slug":  "santorini-16x20-sloped-roof-gazebo-plan-modern-pavilion-design-diy-outdoor-lounge-or-poolside-shelter-pdf-building-plans",
+    "name":  "Santorini 16x20 Sloped Roof Gazebo Plan - Modern Pavilion Design | DIY Outdoor Lounge or Poolside Shelter | PDF Building Plans",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x20",
+    "area_sf":  320,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "freestanding",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 16\u0027 x 20\u0027",
+                          "Roof Style: Sloped roof (modern single pitch)",
+                          "Design Type: Freestanding outdoor gazebo / pavilion",
+                          "Use: Outdoor lounge, dining space, or poolside entertainment area",
+                          "Included: Printable PDF plans with step-by-step framing diagrams and material list",
+                          "Plan Includes:",
+                          "Roof and framing construction details",
+                          "Step-by-step illustrated assembly guide"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x20 gazebo",
+                 "gazebos",
+                 "freestanding",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x20",
+                 "16x20 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Santorini%2016x20%20Sloped%20Roof%20Gazebo%20Plan%20-%20Modern%20Pavilion%20Design",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/a3319f/7321965347/il_fullxfull.7321965347_lj0l.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a stunning modern retreat in your backyard with the Santorini 16x20 Sloped Roof Gazebo Plan - a sleek, open-air pavilion that brings Mediterranean-inspired style and functionality to any outdoor space. Designed with clean lines, a contemporary roofline, and durable framing, the Santorini offers a spacious covered area for relaxing, dining, or entertaining in style. Spacious 16x20 layout - perfect for outdoor seating, dining, or lounge furniture\nModern sloped roof design - elegant and f...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/santorini-16x20-sloped-roof-gazebo-plan-modern-pavilion-design-diy-outdoor-lounge-or-poolside-shelter-pdf-building-plans/open-specs.json"
+}

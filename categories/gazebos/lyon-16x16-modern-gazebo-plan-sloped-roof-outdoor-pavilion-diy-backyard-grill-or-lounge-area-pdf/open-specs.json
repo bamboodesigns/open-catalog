@@ -1,0 +1,68 @@
+{
+    "plan_id":  "BD-GAZE-16X16-2A52FB",
+    "slug":  "lyon-16x16-modern-gazebo-plan-sloped-roof-outdoor-pavilion-diy-backyard-grill-or-lounge-area-pdf",
+    "name":  "Lyon 16x16 Modern Gazebo Plan - Sloped Roof Outdoor Pavilion | DIY Backyard Grill or Lounge Area (PDF)",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x16",
+    "area_sf":  256,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "monoslope roof",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 16\u0027 x 16\u0027 (256 sq. ft.)",
+                          "Roof Type: Single-slope modern roof",
+                          "Structure Type: Open-frame pavilion with perimeter railing",
+                          "Functionality: Grill station, outdoor dining, or shaded lounge area",
+                          "Foundation: Slab, deck platform, or pier post compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x16 gazebo",
+                 "gazebos",
+                 "monoslope roof",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x16",
+                 "16x16 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Lyon%2016x16%20Modern%20Gazebo%20Plan%20-%20Sloped%20Roof%20Outdoor%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/b8a43c/7406896090/il_fullxfull.7406896090_cbl2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your outdoor space with the Lyon 16x16 Modern Gazebo Plan - a stunning open-air pavilion designed for modern comfort and timeless craftsmanship. Its bold sloped roof, clean timber lines, and built-in railing system create a perfect balance of shelter, style, and functionality. Whether you\u0027re hosting a barbecue, relaxing by the pool, or creating a shaded retreat, Lyon elevates backyard living with a contemporary architectural edge and easy DIY construction.",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/lyon-16x16-modern-gazebo-plan-sloped-roof-outdoor-pavilion-diy-backyard-grill-or-lounge-area-pdf/open-specs.json"
+}

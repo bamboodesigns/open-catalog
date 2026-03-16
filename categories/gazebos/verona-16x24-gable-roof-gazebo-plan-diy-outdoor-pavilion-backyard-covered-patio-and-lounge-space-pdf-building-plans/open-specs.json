@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-16X24-89A147",
+    "slug":  "verona-16x24-gable-roof-gazebo-plan-diy-outdoor-pavilion-backyard-covered-patio-and-lounge-space-pdf-building-plans",
+    "name":  "Verona 16x24 Gable Roof Gazebo Plan - DIY Outdoor Pavilion | Backyard Covered Patio \u0026 Lounge Space | PDF Building Plans",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x24",
+    "area_sf":  384,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "freestanding",
+                 "gable roof"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Gazebo Size: 16\u0027 x 24\u0027",
+                          "Roof Style: Gable roof with overhang for shade and airflow",
+                          "Structure Type: Freestanding open pavilion",
+                          "Included: Complete printable PDF plans with build diagrams and materials list",
+                          "Plan Includes:",
+                          "Full framing and post layout diagrams",
+                          "Rafter, ridge beam, and roof construction details",
+                          "Connection and anchoring guides"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x24 gazebo",
+                 "gazebos",
+                 "freestanding",
+                 "gable roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x24",
+                 "16x24 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Verona%2016x24%20Gable%20Roof%20Gazebo%20Plan%20-%20DIY%20Outdoor%20Pavilion%20%7C%20Backyard%20Covered%20Patio%20%26%20Lounge%20Space%20%7C%20PDF%20Building%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/f3ac50/7289153900/il_fullxfull.7289153900_2od2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring timeless elegance and function to your backyard with the Verona 16x24 Gable Roof Gazebo Plan - a beautifully designed open-air pavilion perfect for poolside relaxation, outdoor dining, or year-round entertaining. With its classic gable roof, open post structure, and spacious footprint, Verona combines strength, beauty, and practicality in one striking design. Designed for large backyards, patios, or pool decks\nClassic gable roof for timeless style and superior ventilation\nSpacious 16x24...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/verona-16x24-gable-roof-gazebo-plan-diy-outdoor-pavilion-backyard-covered-patio-and-lounge-space-pdf-building-plans/open-specs.json"
+}

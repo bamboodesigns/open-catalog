@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-14X20-B5C137",
+    "slug":  "palma-14x20-gazebo-plan-modern-sloped-roof-pavilion-diy-outdoor-lounge-and-patio-shelter-backyard-covered-seating-pdf",
+    "name":  "Palma 14x20 Gazebo Plan - Modern Sloped Roof Pavilion | DIY Outdoor Lounge \u0026 Patio Shelter | Backyard Covered Seating PDF",
+    "category":  "gazebos",
+    "dimensions_ft":  "14x20",
+    "area_sf":  280,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "monoslope roof",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Gazebo Size: 14\u0027 x 20\u0027",
+                          "Roof Style: Flat/Sloped modern roof for sleek design and rain runoff",
+                          "Use: Outdoor living space, covered seating area, or entertainment patio",
+                          "Skill Level: Intermediate DIY builder",
+                          "Included: Printable PDF with framing details, roof plans, and hardware list",
+                          "Plan Includes:",
+                          "Structural framing diagrams and elevations",
+                          "Roof slope and support beam layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "14x20 gazebo",
+                 "gazebos",
+                 "monoslope roof",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans",
+                 "14x20",
+                 "14x20 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Palma%2014x20%20Gazebo%20Plan%20-%20Modern%20Sloped%20Roof%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/df12a0/7318772689/il_fullxfull.7318772689_jf3n.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring modern design and comfort to your backyard with the Palma 14x20 Gazebo Plan, a sleek flat-roof pavilion that blends contemporary style with timeless function. This spacious gazebo is perfect for lounging, entertaining, or poolside relaxation, offering shade, structure, and sophistication in one easy-to-build plan. Designed for patios, backyards, or poolside areas\nGenerous 14x20 layout - ideal for sectional seating, dining sets, or outdoor kitchens\nModern sloped roof for elegant drainage...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/palma-14x20-gazebo-plan-modern-sloped-roof-pavilion-diy-outdoor-lounge-and-patio-shelter-backyard-covered-seating-pdf/open-specs.json"
+}

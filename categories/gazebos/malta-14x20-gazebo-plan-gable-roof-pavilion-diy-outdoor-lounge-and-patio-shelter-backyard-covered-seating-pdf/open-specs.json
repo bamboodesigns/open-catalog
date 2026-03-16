@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-14X20-9F3EFC",
+    "slug":  "malta-14x20-gazebo-plan-gable-roof-pavilion-diy-outdoor-lounge-and-patio-shelter-backyard-covered-seating-pdf",
+    "name":  "Malta 14x20 Gazebo Plan - Gable Roof Pavilion | DIY Outdoor Lounge \u0026 Patio Shelter | Backyard Covered Seating PDF",
+    "category":  "gazebos",
+    "dimensions_ft":  "14x20",
+    "area_sf":  280,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "gable roof",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Gazebo Size: 14\u0027 x 20\u0027",
+                          "Roof Style: Gable roof with open-air truss design for both beauty and function",
+                          "Use: Ideal for outdoor living rooms, poolside pavilions, or garden seating",
+                          "Skill Level: Intermediate builder",
+                          "Included: Step-by-step PDF plans with material list and framing guide",
+                          "Plan Includes:",
+                          "Detailed framing and post layout",
+                          "Roof structure and rafter diagram"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "14x20 gazebo",
+                 "gazebos",
+                 "gable roof",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans",
+                 "14x20",
+                 "14x20 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Malta%2014x20%20Gazebo%20Plan%20-%20Gable%20Roof%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/09fe81/7318839485/il_fullxfull.7318839485_jshy.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create the perfect outdoor escape with the Malta 14x20 Gazebo Plan, a beautifully crafted gable-roof pavilion that combines rustic charm with modern versatility. This spacious design is perfect for lounging, entertaining, or creating a backyard retreat, offering shade and structure for every season. Designed for backyard, patio, or poolside use\nSpacious 14x20 layout - fits sectional seating, dining tables, or outdoor kitchens\nClassic gable roof for superior airflow and timeless design\nDecorat...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/malta-14x20-gazebo-plan-gable-roof-pavilion-diy-outdoor-lounge-and-patio-shelter-backyard-covered-seating-pdf/open-specs.json"
+}

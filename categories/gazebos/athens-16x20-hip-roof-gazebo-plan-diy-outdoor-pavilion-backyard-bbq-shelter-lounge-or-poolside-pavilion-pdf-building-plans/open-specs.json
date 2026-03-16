@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-16X20-2EBF6A",
+    "slug":  "athens-16x20-hip-roof-gazebo-plan-diy-outdoor-pavilion-backyard-bbq-shelter-lounge-or-poolside-pavilion-pdf-building-plans",
+    "name":  "Athens 16x20 Hip Roof Gazebo Plan - DIY Outdoor Pavilion | Backyard BBQ Shelter, Lounge, or Poolside Pavilion | PDF Building Plans",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x20",
+    "area_sf":  320,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "freestanding",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Gazebo Size: 16\u0027 x 20\u0027",
+                          "Roof Style: Hip roof (four-sided slope for wind \u0026 rain protection)",
+                          "Design Type: Freestanding outdoor pavilion",
+                          "Use: Outdoor kitchen, lounge, dining space, or poolside retreat",
+                          "Included: Printable PDF plans with diagrams, framing layouts, and material list",
+                          "Plan Includes:",
+                          "Step-by-step construction drawings",
+                          "Roof framing and beam layout"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x20 gazebo",
+                 "gazebos",
+                 "freestanding",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x20",
+                 "16x20 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Athens%2016x20%20Hip%20Roof%20Gazebo%20Plan%20-%20DIY%20Outdoor%20Pavilion%20%7C%20Backyard%20BBQ%20Shelter%2C%20Lounge%2C%20or%20Poolside%20Pavilion%20%7C%20PDF%20Building%20Plans",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/5d5b7e/7321949665/il_fullxfull.7321949665_qsgu.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Transform your backyard into a luxurious retreat with the Athens 16x20 Hip Roof Gazebo Plan - a timeless pavilion design perfect for outdoor dining, poolside relaxation, or an elegant backyard kitchen setup. Featuring a sturdy hip roof and open-frame structure, this gazebo blends functionality with refined style for year-round enjoyment. Spacious 16x20 layout - perfect for dining tables, outdoor kitchens, or lounge seating\nClassic hip roof design - provides balanced shade and timeless archite...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/athens-16x20-hip-roof-gazebo-plan-diy-outdoor-pavilion-backyard-bbq-shelter-lounge-or-poolside-pavilion-pdf-building-plans/open-specs.json"
+}

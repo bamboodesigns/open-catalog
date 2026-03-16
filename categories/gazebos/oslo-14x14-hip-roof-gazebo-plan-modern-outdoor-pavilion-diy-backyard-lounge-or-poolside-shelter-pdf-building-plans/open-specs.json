@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-GAZE-14X14-5064EF",
+    "slug":  "oslo-14x14-hip-roof-gazebo-plan-modern-outdoor-pavilion-diy-backyard-lounge-or-poolside-shelter-pdf-building-plans",
+    "name":  "Oslo 14x14 Hip Roof Gazebo Plan - Modern Outdoor Pavilion | DIY Backyard Lounge or Poolside Shelter | PDF Building Plans",
+    "category":  "gazebos",
+    "dimensions_ft":  "14x14",
+    "area_sf":  196,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "freestanding"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 14\u0027 x 14\u0027",
+                          "Roof Style: Hip roof (multi-slope, elegant profile)",
+                          "Design Type: Freestanding outdoor gazebo / pavilion",
+                          "Use: Lounge, dining shelter, hot tub cover, or backyard entertainment space",
+                          "Included: Detailed printable PDF plans with diagrams and materials list",
+                          "Plan Includes:",
+                          "Step-by-step illustrated building guide",
+                          "Roof framing and post layout diagrams"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  54,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "14x14 gazebo",
+                 "gazebos",
+                 "freestanding",
+                 "pdf plans",
+                 "dwg plans",
+                 "14x14",
+                 "14x14 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Oslo%2014x14%20Hip%20Roof%20Gazebo%20Plan%20-%20Modern%20Outdoor%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/35f92f/7322457971/il_fullxfull.7322457971_1jw6.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring timeless Scandinavian-inspired design to your backyard with the Oslo 14x14 Hip Roof Gazebo Plan - a stylish and functional outdoor structure that enhances any landscape. Its symmetrical hip roof, open rail design, and compact footprint make it perfect for poolside lounging, outdoor dining, or a cozy patio retreat. 14x14 compact layout - fits beautifully in small or medium backyards\nClassic hip roof design - provides superior shade, drainage, and architectural balance\nPerfect for patios,...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/oslo-14x14-hip-roof-gazebo-plan-modern-outdoor-pavilion-diy-backyard-lounge-or-poolside-shelter-pdf-building-plans/open-specs.json"
+}

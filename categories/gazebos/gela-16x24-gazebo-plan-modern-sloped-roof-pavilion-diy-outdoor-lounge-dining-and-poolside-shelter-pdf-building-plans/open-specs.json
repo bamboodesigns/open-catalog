@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-16X24-D297C5",
+    "slug":  "gela-16x24-gazebo-plan-modern-sloped-roof-pavilion-diy-outdoor-lounge-dining-and-poolside-shelter-pdf-building-plans",
+    "name":  "Gela 16x24 Gazebo Plan - Modern Sloped Roof Pavilion | DIY Outdoor Lounge, Dining \u0026 Poolside Shelter | PDF Building Plans",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x24",
+    "area_sf":  384,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "freestanding",
+                 "monoslope roof"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Gazebo Size: 16\u0027 x 24\u0027",
+                          "Roof Style: Single-slope roof for a clean, contemporary silhouette",
+                          "Structure Type: Freestanding pavilion",
+                          "Included: Full PDF plans with framing layouts, elevations, and material list",
+                          "Plan Includes:",
+                          "Detailed roof framing and slope design",
+                          "Beam and post diagrams",
+                          "Foundation and connection details"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x24 gazebo",
+                 "gazebos",
+                 "freestanding",
+                 "monoslope roof",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x24",
+                 "16x24 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Gela%2016x24%20Gazebo%20Plan%20-%20Modern%20Sloped%20Roof%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/c5d6ca/7289635590/il_fullxfull.7289635590_rsma.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring a touch of Mediterranean charm to your backyard with the Gela 16x24 Sloped Roof Gazebo Plan. Featuring a clean, contemporary single-slope roof and natural open design, this pavilion blends rustic warmth with modern elegance. The spacious 16x24 layout makes it perfect for outdoor lounging, dining, or entertaining by the pool. Modern sloped roof design - stylish and functional for rain and sun protection\nLarge 16x24 layout - perfect for dining tables, lounge furniture, or an outdoor bar s...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/gela-16x24-gazebo-plan-modern-sloped-roof-pavilion-diy-outdoor-lounge-dining-and-poolside-shelter-pdf-building-plans/open-specs.json"
+}

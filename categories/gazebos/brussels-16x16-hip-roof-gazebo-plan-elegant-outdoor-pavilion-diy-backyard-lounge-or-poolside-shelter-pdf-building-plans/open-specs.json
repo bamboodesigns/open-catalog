@@ -1,0 +1,70 @@
+{
+    "plan_id":  "BD-GAZE-16X16-797B9E",
+    "slug":  "brussels-16x16-hip-roof-gazebo-plan-elegant-outdoor-pavilion-diy-backyard-lounge-or-poolside-shelter-pdf-building-plans",
+    "name":  "Brussels 16x16 Hip Roof Gazebo Plan - Elegant Outdoor Pavilion | DIY Backyard Lounge or Poolside Shelter | PDF Building Plans",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x16",
+    "area_sf":  256,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "freestanding"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 16\u0027 x 16\u0027",
+                          "Roof Style: Hip roof (multi-slope, symmetrical design)",
+                          "Design Type: Freestanding outdoor gazebo / pavilion",
+                          "Use: Backyard lounge, poolside cabana, or outdoor dining area",
+                          "Included: Printable PDF plans with step-by-step instructions and material list",
+                          "Plan Includes:",
+                          "Roof framing \u0026 post layout diagrams",
+                          "Step-by-step illustrated build instructions"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x16 gazebo",
+                 "gazebos",
+                 "freestanding",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x16",
+                 "16x16 plan",
+                 "diy plans"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Brussels%2016x16%20Hip%20Roof%20Gazebo%20Plan%20-%20Elegant%20Outdoor%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/13d3b2/7274429912/il_fullxfull.7274429912_fsj2.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Turn your backyard into a sophisticated outdoor escape with the Brussels 16x16 Hip Roof Gazebo Plan - a beautifully designed pavilion that brings comfort, shade, and timeless appeal to your outdoor space. Its hip roof design provides 360 coverage from sun and rain, while the open layout is perfect for poolside relaxation, dining, or entertaining. Spacious 16x16 layout - ideal for patio seating, outdoor dining, or hot tub shade\nClassic hip roof design - offers all-around protection and refined...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/brussels-16x16-hip-roof-gazebo-plan-elegant-outdoor-pavilion-diy-backyard-lounge-or-poolside-shelter-pdf-building-plans/open-specs.json"
+}

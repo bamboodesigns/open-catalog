@@ -1,0 +1,71 @@
+{
+    "plan_id":  "BD-GAZE-14X20-0ABD7E",
+    "slug":  "serra-14x20-gable-roof-gazebo-plan-modern-backyard-pavilion-diy-outdoor-structure-pdf",
+    "name":  "Serra 14x20 Gable Roof Gazebo Plan - Modern Backyard Pavilion | DIY Outdoor Structure (PDF)",
+    "category":  "gazebos",
+    "dimensions_ft":  "14x20",
+    "area_sf":  280,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "gable roof",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "composite decking",
+                          "southern pine",
+                          "metal roofing"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Size: 14\u0027 x 20\u0027 (280 sq. ft.)",
+                          "Height: ~12 ft to ridge",
+                          "Roof Type: Gable roof with overhangs for shade and ventilation",
+                          "Structure: Open post-and-beam style with railing enclosure",
+                          "Use: Outdoor dining area, lounge, poolside gazebo, or garden pavilion",
+                          "Foundation: Concrete piers, patio base, or deck platform compatible"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "14x20 gazebo",
+                 "gazebos",
+                 "gable roof",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans",
+                 "14x20",
+                 "14x20 plan"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Serra%2014x20%20Gable%20Roof%20Gazebo%20Plan%20-%20Modern%20Backyard%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/dcb388/7391939823/il_fullxfull.7391939823_mqeh.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Bring elegance and shade to your outdoor space with the Serra 14x20 Gable Roof Gazebo Plan - a beautifully proportioned pavilion that transforms any backyard into a year-round retreat. With its classic gable roofline, open post-and-beam design, and decorative trim details, Serra offers the perfect balance of sophistication and structure. Whether you\u0027re hosting family gatherings, creating a poolside lounge, or designing an outdoor dining area, Serra delivers open-air comfort with architectural...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/serra-14x20-gable-roof-gazebo-plan-modern-backyard-pavilion-diy-outdoor-structure-pdf/open-specs.json"
+}

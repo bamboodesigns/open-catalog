@@ -1,0 +1,69 @@
+{
+    "plan_id":  "BD-GAZE-14X20-DFC38A",
+    "slug":  "valencia-14x20-hip-roof-gazebo-plan-elegant-outdoor-pavilion-with-railings-diy-covered-patio-pdf",
+    "name":  "Valencia 14x20 Hip Roof Gazebo Plan - Elegant Outdoor Pavilion with Railings | DIY Covered Patio PDF",
+    "category":  "gazebos",
+    "dimensions_ft":  "14x20",
+    "area_sf":  280,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Structure Size: 14\u0027 x 20\u0027",
+                          "Roof Style: Hip roof with slope for efficient water runoff",
+                          "Height: Comfortable head clearance and open visibility",
+                          "Style: Mediterranean-inspired with clean lines and decorative accents",
+                          "Skill Level: Intermediate DIY builder",
+                          "Plan Includes:",
+                          "Framing diagrams and detailed post layout",
+                          "Roof construction \u0026 pitch design"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "14x20 gazebo",
+                 "gazebos",
+                 "pdf plans",
+                 "dwg plans",
+                 "14x20",
+                 "14x20 plan",
+                 "diy plans",
+                 "backyard"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Valencia%2014x20%20Hip%20Roof%20Gazebo%20Plan%20-%20Elegant%20Outdoor%20Pavilion%20with%20Railings",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/78a57e/7262158774/il_fullxfull.7262158774_47yf.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Create a luxurious outdoor retreat with the Valencia 14x20 Gazebo Plan, a timeless pavilion design that blends beauty, comfort, and functionality. Featuring a graceful hip roof, decorative trim, and built-in railing details, this gazebo offers a perfect shaded space for outdoor dining, lounging, or poolside gatherings. Its durable, open-air design enhances airflow and natural light while providing stylish protection from the sun and rain. Spacious 14x20 layout - ideal for outdoor seating, gri...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/valencia-14x20-hip-roof-gazebo-plan-elegant-outdoor-pavilion-with-railings-diy-covered-patio-pdf/open-specs.json"
+}

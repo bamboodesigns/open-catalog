@@ -1,0 +1,72 @@
+{
+    "plan_id":  "BD-GAZE-16X24-9AA65B",
+    "slug":  "crete-16x24-gazebo-plan-modern-sloped-roof-pavilion-diy-backyard-lounge-and-poolside-shelter-pdf-building-plans",
+    "name":  "Crete 16x24 Gazebo Plan - Modern Sloped Roof Pavilion | DIY Backyard Lounge \u0026 Poolside Shelter | PDF Building Plans",
+    "category":  "gazebos",
+    "dimensions_ft":  "16x24",
+    "area_sf":  384,
+    "bedrooms":  null,
+    "bathrooms":  null,
+    "type":  [
+                 "gazebo",
+                 "freestanding",
+                 "monoslope roof",
+                 "outdoor kitchen"
+             ],
+    "material_type":  [
+                          "southern pine"
+                      ],
+    "skill_level":  "Advanced",
+    "snow_load_psf":  null,
+    "wind_rating_mph":  130,
+    "climate_zone":  [
+
+                     ],
+    "open_features":  [
+                          "Gazebo Size: 16\u0027 x 24\u0027",
+                          "Roof Style: Single-slope (slanted) roof for modern style and efficient water drainage",
+                          "Structure Type: Freestanding outdoor pavilion",
+                          "Included: Printable PDF building plans with framing details, dimensions, and material list",
+                          "Plan Includes:",
+                          "Full framing layout and roof design",
+                          "Post, beam, and rafter details",
+                          "Foundation and support diagrams"
+                      ],
+    "estimated_build_cost_usd":  null,
+    "price_usd":  65,
+    "currency":  "USD",
+    "files":  [
+                  "PDF",
+                  "DWG"
+              ],
+    "tags":  [
+                 "diy gazebo",
+                 "diy gazebo plans",
+                 "backyard gazebo",
+                 "outdoor gazebo",
+                 "gazebo design",
+                 "gazebo ideas",
+                 "outdoor gazebo plans",
+                 "backyard gazebo plan",
+                 "gazebo",
+                 "outside gazebo",
+                 "outside gazebo plans",
+                 "cool gazebo",
+                 "16x24 gazebo",
+                 "gazebos",
+                 "freestanding",
+                 "monoslope roof",
+                 "outdoor kitchen",
+                 "pdf plans",
+                 "dwg plans",
+                 "16x24"
+             ],
+    "product_url":  "https://www.etsy.com/shop/BambooDesignsPlans?search_query=Crete%2016x24%20Gazebo%20Plan%20-%20Modern%20Sloped%20Roof%20Pavilion",
+    "product_url_mode":  "derived_etsy_shop_search",
+    "image_url":  "https://i.etsystatic.com/59867749/r/il/aa6632/7289618648/il_fullxfull.7289618648_db0h.jpg",
+    "source":  "etsy_csv_export",
+    "description_summary":  "Add modern Mediterranean elegance to your backyard with the Crete 16x24 Sloped Roof Gazebo Plan. Featuring a sleek, single-pitch roof and open post design, this spacious pavilion delivers style and functionality for outdoor dining, lounging, or poolside relaxation. Its minimalist architectural lines make it the perfect choice for homeowners who love modern design and simple, breezy comfort. Modern sloped roof design - clean lines for a contemporary architectural look\nSpacious 16x24 layout - i...",
+    "license":  "CC BY 4.0",
+    "version_introduced":  "v1.0",
+    "path":  "categories/gazebos/crete-16x24-gazebo-plan-modern-sloped-roof-pavilion-diy-backyard-lounge-and-poolside-shelter-pdf-building-plans/open-specs.json"
+}
