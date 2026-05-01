@@ -6,7 +6,7 @@
 **Status:** `pending_team_confirmation`  
 **Risk level:** `high`  
 **Last reviewed:** `2026-05-01`  
-**Source:** Trello product card `6917254bd2088e86ec0118f0`, Etsy listing `https://www.etsy.com/listing/4406641802/kabe-12x16-porch-shed-plan-diy-gable`
+**Source:** Internal Bamboo team review, Etsy listing `https://www.etsy.com/listing/4406641802/kabe-12x16-porch-shed-plan-diy-gable`
 
 ## Question Pattern
 
