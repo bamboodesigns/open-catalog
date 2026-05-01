@@ -6,7 +6,7 @@
   "risk_level": "high",
   "last_reviewed": "2026-05-01",
   "sources": {
-    "trello_card_id": "6917254bd2088e86ec0118f0",
+    "review_origin": "internal_bamboo_team_review",
     "etsy_listing_url": "https://www.etsy.com/listing/4406641802/kabe-12x16-porch-shed-plan-diy-gable"
   },
   "question_patterns": [
