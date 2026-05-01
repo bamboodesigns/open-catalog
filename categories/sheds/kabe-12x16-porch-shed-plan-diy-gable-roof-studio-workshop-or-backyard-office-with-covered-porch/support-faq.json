@@ -1,0 +1,34 @@
+{
+  "product_slug": "kabe-12x16-porch-shed-plan-diy-gable-roof-studio-workshop-or-backyard-office-with-covered-porch",
+  "product_name": "Kabe 12x16 Porch Shed Plan - DIY Gable Roof Studio, Workshop, or Backyard Office with Covered Porch",
+  "sku": "BD-SHED-12X16-71A100",
+  "status": "pending_team_confirmation",
+  "risk_level": "high",
+  "last_reviewed": "2026-05-01",
+  "sources": {
+    "trello_card_id": "6917254bd2088e86ec0118f0",
+    "etsy_listing_url": "https://www.etsy.com/listing/4406641802/kabe-12x16-porch-shed-plan-diy-gable"
+  },
+  "question_patterns": [
+    "Is the listed 12x16 the total footprint or just the enclosed portion?",
+    "Can this full shed and porch be built on skids as a moveable or temporary structure?"
+  ],
+  "draft_answer": "Thanks for reaching out. I want to confirm two details on this specific plan before giving you a firm answer: whether the listed 12' x 16' is the full overall footprint or just the enclosed portion, and whether a skid-based setup would apply to the full structure including the porch. For permitting, we would not want to promise that a structure will be treated as temporary or moveable, since that depends on your local rules and how your building department interprets the design. What we can confirm is what the plan shows structurally, so you can compare it against your local requirements.",
+  "safe_to_say": [
+    "The plan is listed as 12x16 and includes an integrated covered front porch.",
+    "We can confirm what the plan shows structurally after review.",
+    "Local permitting and temporary-structure classification vary by jurisdiction.",
+    "Customers should compare the plan details with local permitting requirements before building."
+  ],
+  "do_not_say": [
+    "This qualifies as a temporary structure.",
+    "No permit is needed.",
+    "The porch does not count toward the footprint.",
+    "The full structure is approved for skids in every jurisdiction.",
+    "The local building department will accept a skid foundation."
+  ],
+  "clarification_needed": [
+    "Does the published 12x16 dimension represent total overall footprint or enclosed area plus porch?",
+    "Is there an approved skid-based foundation option for the full structure including the porch?"
+  ]
+}
